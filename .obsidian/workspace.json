@@ -11,15 +11,12 @@
             "id": "8cf27e5265f0546b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "codeview",
               "state": {
-                "file": "_posts/2022-12-30-our-funny-farm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "_config.yml"
               },
               "icon": "lucide-file",
-              "title": "2022-12-30-our-funny-farm"
+              "title": "_config"
             }
           }
         ]
@@ -109,24 +106,25 @@
   },
   "active": "8cf27e5265f0546b",
   "lastOpenFiles": [
+    "export.xml",
+    "Gemfile",
+    "~$export.xml",
+    "index.html",
+    "recent.html",
+    "substack.html",
+    "_posts/2022-12-30-our-funny-farm.md",
     "_posts/2020-09-01-how-to-break-up-with-adobe.md",
     "_posts/2009-02-24-random-thoughts-on-simplifying-productivity.md",
-    "index.html",
     "mexport.xml",
     "_config.yml",
     "assets/css/main.scss",
     "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg",
     "_prose.yml",
-    "recent.html",
-    "substack.html",
     "admin/config.yml",
-    "export.xml",
     "assets/images/3af3c784-9cf3-411c-b825-d5eef1e15201.png",
-    "~$export.xml",
     "_posts/2021-02-04-haley-alone.md",
     "_posts/2022-06-19-remembering-bruce-langille.md",
     "_posts/2022-12-26-wordpress-activitypub-mastadon.md",
-    "_posts/2022-12-30-our-funny-farm.md",
     "_posts/2013-12-06-jonas.md",
     "_posts/2013-12-01-meanwhile-at-the-hall-of-justice.md",
     "_posts/2013-11-29-haleys-homecoming.md",

@@ -1,6 +1,6 @@
 {
   "markdown_overcharge": false,
-  "extensions": "txt> yml> xml> html> css> scss>",
+  "extensions": "txt> yml> xml> html> css> scss> >>",
   "is_case_insensitive": false,
   "is_onload": false,
   "is_onload_unsafe": false,
