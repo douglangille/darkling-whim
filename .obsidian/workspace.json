@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dff658f329f7b2c4",
+        "id": "aa510eccffbb7924",
         "type": "tabs",
         "children": [
           {
-            "id": "740bae638e17b9db",
+            "id": "8cf27e5265f0546b",
             "type": "leaf",
             "state": {
-              "type": "codeview",
-              "state": {
-                "file": "_config.yml"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_config"
+              "title": "New tab"
             }
           }
         ]
@@ -177,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f9e98b4be08ffc1",
+  "active": "0f50c9945c768e84",
   "lastOpenFiles": [
     "assets/css/main.scss",
     "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg",
