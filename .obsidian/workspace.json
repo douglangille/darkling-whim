@@ -11,10 +11,12 @@
             "id": "8cf27e5265f0546b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "codeview",
+              "state": {
+                "file": "index.html"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -136,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_config.yml",
+                "file": "index.html",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _config"
+              "title": "Outline of index"
             }
           },
           {
@@ -175,18 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f50c9945c768e84",
+  "active": "8cf27e5265f0546b",
   "lastOpenFiles": [
+    "mexport.xml",
+    "_config.yml",
     "assets/css/main.scss",
     "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg",
     "_prose.yml",
     "recent.html",
     "substack.html",
-    "_config.yml",
     "index.html",
     "admin/config.yml",
     "export.xml",
-    "mexport.xml",
     "assets/images/3af3c784-9cf3-411c-b825-d5eef1e15201.png",
     "~$export.xml",
     "_posts/2020-09-01-how-to-break-up-with-adobe.md",
