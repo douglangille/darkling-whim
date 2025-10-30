@@ -1,4 +1,7 @@
 [
-  "obsidian-git",
-  "unitade"
+  "longform",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "obsidian-pandoc",
+  "obsidian-git"
 ]

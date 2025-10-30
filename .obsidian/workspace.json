@@ -1,22 +1,25 @@
 {
   "main": {
-    "id": "c57c26d79226a054",
+    "id": "5dc4a90a2be7d110",
     "type": "split",
     "children": [
       {
-        "id": "aa510eccffbb7924",
+        "id": "1117a9a21bc20820",
         "type": "tabs",
         "children": [
           {
-            "id": "8cf27e5265f0546b",
+            "id": "f6b56d4bd291a736",
             "type": "leaf",
             "state": {
-              "type": "codeview",
+              "type": "markdown",
               "state": {
-                "file": "_config.yml"
+                "file": "_posts/2009-03-01-coffee-week-tuesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_config"
+              "title": "2009-03-01-coffee-week-tuesday"
             }
           }
         ]
@@ -25,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c54486a3124e2881",
+    "id": "8bd336356749779c",
     "type": "split",
     "children": [
       {
-        "id": "b2b1d1b84ade0739",
+        "id": "2ec2288d677367e0",
         "type": "tabs",
         "children": [
           {
-            "id": "13231f6f72ec7490",
+            "id": "7c62fce9c1c7336c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +49,27 @@
             }
           },
           {
-            "id": "b754a9f0fe0febf4",
+            "id": "edb8c49b7a552d80",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          },
+          {
+            "id": "8783eaaaf7d64e55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f1b42502232f5e86",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,18 +89,95 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
-    "id": "c596a177cd93b12a",
+    "id": "5d6aa02809c973ac",
     "type": "split",
     "children": [
       {
-        "id": "4070a7a7c4c36af6",
+        "id": "195d3c437442be24",
         "type": "tabs",
         "children": [
           {
-            "id": "0f50c9945c768e84",
+            "id": "555861101b47d17e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10 Projects/The Maze of Sisters/Chapter 2 - Larry's Bargain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 2 - Larry's Bargain"
+            }
+          },
+          {
+            "id": "e3c9c2b74fe906ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10 Projects/The Maze of Sisters/Chapter 2 - Larry's Bargain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 2 - Larry's Bargain"
+            }
+          },
+          {
+            "id": "04a37fdb61e64e59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a1eed749ccb603d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10 Projects/The Maze of Sisters/Chapter 2 - Larry's Bargain.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 2 - Larry's Bargain"
+            }
+          },
+          {
+            "id": "79babef1c28235c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9afc90dc2b5ffee7",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -86,7 +186,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,43 +195,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cf27e5265f0546b",
+  "active": "04a37fdb61e64e59",
   "lastOpenFiles": [
-    "export.xml",
-    "Gemfile",
-    "~$export.xml",
-    "index.html",
-    "recent.html",
-    "substack.html",
-    "_posts/2022-12-30-our-funny-farm.md",
+    "_pages/404.md",
+    "_posts/2008-12-14-i-dont-get-twitter.md",
+    "_posts/2008-04-27-cats-rabbits-and-random-thoughts.md",
+    "douglangille.github.io/_posts/2020-04-17-how-not-to-be-a-jerk-online.md",
+    "douglangille.github.io/~$export.xml",
+    "douglangille.github.io/_posts/2020-09-01-how-to-break-up-with-adobe.md",
+    "_posts/2020-04-08-dougs-rules-of-work-at-home.md",
+    "_posts/2020-04-17-how-not-to-be-a-jerk-online.md",
     "_posts/2020-09-01-how-to-break-up-with-adobe.md",
-    "_posts/2009-02-24-random-thoughts-on-simplifying-productivity.md",
-    "mexport.xml",
-    "_config.yml",
-    "assets/css/main.scss",
-    "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg",
-    "_prose.yml",
-    "admin/config.yml",
-    "assets/images/3af3c784-9cf3-411c-b825-d5eef1e15201.png",
+    "_posts/2021-01-23-disrupting-disruption.md",
+    "_posts/2021-01-23-lies.md",
+    "_posts/2021-01-26-who-gardens-the-gardeners.md",
     "_posts/2021-02-04-haley-alone.md",
     "_posts/2022-06-19-remembering-bruce-langille.md",
     "_posts/2022-12-26-wordpress-activitypub-mastadon.md",
-    "_posts/2013-12-06-jonas.md",
-    "_posts/2013-12-01-meanwhile-at-the-hall-of-justice.md",
-    "_posts/2013-11-29-haleys-homecoming.md",
-    "_posts/2009-05-25-missed-opportunity.md",
-    "_posts/2009-03-05-coffee-week-saturday.md",
-    "_posts/2009-03-03-coffee-week-thursday.md",
-    "_posts/2008-04-27-cats-rabbits-and-random-thoughts.md"
+    "_posts/2022-12-30-our-funny-farm.md",
+    "_posts/2009-02-07-teaching-human-ethics-and-simply-being-thankful.md",
+    "_pages/about.md",
+    "_pages/links.md",
+    "Public/_posts/2020-09-01-how-to-break-up-with-adobe.md",
+    "Public/_posts/2020-04-17-how-not-to-be-a-jerk-online.md",
+    "Public/_posts/2021-01-23-lies.md",
+    "Public/_posts/2021-01-23-disrupting-disruption.md",
+    "Public/_posts/2014-03-11-helter-swelter.md",
+    "Public/_posts/2009-01-05-weightwatchers-measurement-and-motivation.md",
+    "Public/_posts/2009-02-07-teaching-human-ethics-and-simply-being-thankful.md",
+    "Public/_posts/2008-12-14-i-dont-get-twitter.md",
+    "douglangille.github.io/substack.html",
+    "douglangille.github.io/recent.html",
+    "douglangille.github.io/mexport.xml",
+    "douglangille.github.io/index.html",
+    "douglangille.github.io/favicon.ico",
+    "douglangille.github.io/export.xml",
+    "douglangille.github.io/browse.html",
+    "douglangille.github.io/assets/images/zappino-1030047.jpg",
+    "douglangille.github.io/assets/images/wordstokill.jpg",
+    "douglangille.github.io/assets/images/wilsonkverge.jpg",
+    "douglangille.github.io/assets/images/white500x300.jpg",
+    "douglangille.github.io/assets/images/white400x25.jpg",
+    "douglangille.github.io/assets/images/water-drop-173751.jpg",
+    "douglangille.github.io/assets/images/water-815271_1280.jpg",
+    "douglangille.github.io/assets/images/war_of_the_worlds_by_jaime_jones.jpg",
+    "douglangille.github.io/assets/images/vlcsnap-114094691.png",
+    "douglangille.github.io/assets/images/villain-clipart-occupations_villain_coloring.jpg",
+    "douglangille.github.io/assets/images/W2UW_43491.pdf",
+    "douglangille.github.io/assets/images/Doug-s-Rules-of-Work_46426.pdf",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

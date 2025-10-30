@@ -243,7 +243,7 @@
     },
     "trailing-spaces": {
       "enabled": false,
-      "two-space-line-break": false
+      "twp-space-line-break": false
     },
     "add-blockquote-indentation-on-paste": {
       "enabled": false
