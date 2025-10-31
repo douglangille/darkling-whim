@@ -26,3 +26,6 @@ Icon?
 Thumbs.db
 ._*
 *.icloud
+
+.smart-env/
+.smtcmp_json_db/
