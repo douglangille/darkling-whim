@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df04ccbb773de0ca",
+        "id": "e93641ce7ba4ae2c",
         "type": "tabs",
         "children": [
           {
-            "id": "a9f1ece4ffc0d90d",
+            "id": "2fb55206f5c008cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,15 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9f1ece4ffc0d90d",
+  "active": "2fb55206f5c008cc",
   "lastOpenFiles": [
+    "README.md",
     "_posts/2008-04-27-cats-rabbits-and-random-thoughts.md",
     "_posts/2009-05-11-a-few-shots-of-seattle.md",
     "_posts/2009-03-05-coffee-week-saturday.md",
     "_posts/2009-05-28-concert-at-the-halifax-forum.md",
     "_posts/2009-08-17-alone-in-a-car.md",
     "_posts/2008-12-14-i-dont-get-twitter.md",
-    "README.md",
     "_posts/2009-02-07-teaching-human-ethics-and-simply-being-thankful.md",
     "_posts/2009-03-01-coffee-week-tuesday.md",
     "_pages/404.md",
