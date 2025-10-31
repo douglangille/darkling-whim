@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62511a1153808f53",
+        "id": "4a0b8944107218d5",
         "type": "tabs",
         "children": [
           {
-            "id": "dfcf5b8800611a71",
+            "id": "fcb32a9a8380433d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -196,8 +200,9 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "9afc90dc2b5ffee7",
+  "active": "fcb32a9a8380433d",
   "lastOpenFiles": [
+    "index.html",
     "_includes/paginator.html",
     "_includes/related.html",
     "_data/navigation.yml",
@@ -205,7 +210,6 @@
     "export.xml",
     "browse.html",
     "_prose.yml",
-    "index.html",
     "Gemfile",
     "_config.yml",
     "mexport.xml",
