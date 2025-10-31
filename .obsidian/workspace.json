@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e93641ce7ba4ae2c",
+        "id": "62511a1153808f53",
         "type": "tabs",
         "children": [
           {
-            "id": "2fb55206f5c008cc",
+            "id": "dfcf5b8800611a71",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,11 +192,23 @@
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "2fb55206f5c008cc",
+  "active": "9afc90dc2b5ffee7",
   "lastOpenFiles": [
+    "_includes/paginator.html",
+    "_includes/related.html",
+    "_data/navigation.yml",
+    "_layouts/single.html",
+    "export.xml",
+    "browse.html",
+    "_prose.yml",
+    "index.html",
+    "Gemfile",
+    "_config.yml",
+    "mexport.xml",
     "README.md",
     "_posts/2008-04-27-cats-rabbits-and-random-thoughts.md",
     "_posts/2009-05-11-a-few-shots-of-seattle.md",
@@ -208,7 +220,6 @@
     "_posts/2009-03-01-coffee-week-tuesday.md",
     "_pages/404.md",
     "douglangille.github.io/_posts/2020-04-17-how-not-to-be-a-jerk-online.md",
-    "douglangille.github.io/~$export.xml",
     "douglangille.github.io/_posts/2020-09-01-how-to-break-up-with-adobe.md",
     "_posts/2020-04-08-dougs-rules-of-work-at-home.md",
     "_posts/2020-04-17-how-not-to-be-a-jerk-online.md",
@@ -223,14 +234,6 @@
     "_pages/about.md",
     "_pages/links.md",
     "Public/_posts/2020-09-01-how-to-break-up-with-adobe.md",
-    "Public/_posts/2020-04-17-how-not-to-be-a-jerk-online.md",
-    "douglangille.github.io/substack.html",
-    "douglangille.github.io/recent.html",
-    "douglangille.github.io/mexport.xml",
-    "douglangille.github.io/index.html",
-    "douglangille.github.io/favicon.ico",
-    "douglangille.github.io/export.xml",
-    "douglangille.github.io/browse.html",
     "douglangille.github.io/assets/images/zappino-1030047.jpg",
     "douglangille.github.io/assets/images/wordstokill.jpg",
     "douglangille.github.io/assets/images/wilsonkverge.jpg",
@@ -241,8 +244,6 @@
     "douglangille.github.io/assets/images/war_of_the_worlds_by_jaime_jones.jpg",
     "douglangille.github.io/assets/images/vlcsnap-114094691.png",
     "douglangille.github.io/assets/images/villain-clipart-occupations_villain_coloring.jpg",
-    "douglangille.github.io/assets/images/W2UW_43491.pdf",
-    "douglangille.github.io/assets/images/Doug-s-Rules-of-Work_46426.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
