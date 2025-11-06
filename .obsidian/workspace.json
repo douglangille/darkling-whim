@@ -167,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2efd7602bf5f0e90",
+  "active": "46dedec0534ec407",
   "lastOpenFiles": [
+    "2025-11-02.md",
     "_config.yml",
     "_config 2.yml",
     "_prose 2.yml",
@@ -179,9 +180,7 @@
     "_includes 2",
     "Gemfile 2",
     "browse 2.html",
-    "export 2.xml",
     "README 2.md",
-    "2025-11-02.md",
     "README.md"
   ]
 }
