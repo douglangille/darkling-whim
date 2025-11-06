@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "455e3dfc707af7cf",
+        "id": "aa99714864e1be8a",
         "type": "tabs",
         "children": [
           {
-            "id": "f9622ec548f7334e",
+            "id": "a80f525edd88fe3e",
             "type": "leaf",
             "state": {
-              "type": "codeview",
-              "state": {
-                "file": "_config.yml"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_config"
+              "title": "New tab"
             }
           }
         ]
@@ -167,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46dedec0534ec407",
+  "active": "a80f525edd88fe3e",
   "lastOpenFiles": [
-    "2025-11-02.md",
     "_config.yml",
+    "2025-11-02.md",
     "_config 2.yml",
     "_prose 2.yml",
     "substack 2.html",
