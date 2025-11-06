@@ -11,10 +11,12 @@
             "id": "f9622ec548f7334e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "codeview",
+              "state": {
+                "file": "_config.yml"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_config"
             }
           }
         ]
@@ -165,20 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46dedec0534ec407",
+  "active": "2efd7602bf5f0e90",
   "lastOpenFiles": [
-    "substack.html",
-    "recent.html",
-    "index.html",
-    "browse.html",
-    "_prose.yml",
     "_config.yml",
-    "_includes/paginator.html",
-    "Untitled.base",
+    "_config 2.yml",
+    "_prose 2.yml",
+    "substack 2.html",
+    "recent 2.html",
+    "_pages 2",
+    "_posts 2",
+    "_includes 2",
+    "Gemfile 2",
+    "browse 2.html",
+    "export 2.xml",
+    "README 2.md",
     "2025-11-02.md",
-    "export.xml",
-    "Gemfile",
-    "README.md",
-    "mexport.xml"
+    "README.md"
   ]
 }
