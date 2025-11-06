@@ -1,8 +1,6 @@
 [
-  "longform",
-  "obsidian-minimal-settings",
-  "obsidian-style-settings",
-  "obsidian-pandoc",
   "obsidian-git",
-  "unitade"
+  "unitade",
+  "longform",
+  "line-ending-copyfix"
 ]
