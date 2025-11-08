@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "aa99714864e1be8a",
+        "id": "c5e390026916c9b3",
         "type": "tabs",
         "children": [
           {
-            "id": "a80f525edd88fe3e",
+            "id": "8eb487da5a7e2104",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "codeview",
+              "state": {
+                "file": "admin/config.yml"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "config"
             }
           }
         ]
@@ -66,8 +68,8 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
-              "icon": "lucide-search",
-              "title": "Search"
+              "icon": "lucide-ghost",
+              "title": "search"
             }
           }
         ]
@@ -104,8 +106,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "icon": "lucide-ghost",
+              "title": "outline"
             }
           },
           {
@@ -118,8 +120,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           },
           {
@@ -136,8 +138,8 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "icon": "lucide-ghost",
+              "title": "backlink"
             }
           },
           {
@@ -149,8 +151,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
             }
           }
         ]
@@ -161,24 +163,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "command-palette:Open command palette": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a80f525edd88fe3e",
+  "active": "8eb487da5a7e2104",
   "lastOpenFiles": [
+    "_layouts/single.html",
+    "_pages/links.md",
+    "_pages/about.md",
+    "_pages/404.md",
+    "Notes/00 Inbox/TEST WORKFLOW/_bible.md.md",
+    "admin/index.html",
+    "assets/css/main.scss",
+    "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg",
+    "mexport.xml",
+    "export.xml",
+    "_prose.yml",
     "_config.yml",
+    "README.md",
+    "Gemfile",
     "2025-11-02.md",
     "_config 2.yml",
     "_prose 2.yml",
     "substack 2.html",
-    "recent 2.html",
-    "_pages 2",
-    "_posts 2",
-    "_includes 2",
-    "Gemfile 2",
-    "browse 2.html",
-    "README 2.md",
-    "README.md"
+    "README 2.md"
   ]
 }
