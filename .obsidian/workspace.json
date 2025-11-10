@@ -11,10 +11,12 @@
             "id": "6c18749877b6c811",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "codeview",
+              "state": {
+                "file": "_data/navigation.yml"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "navigation"
             }
           }
         ]
