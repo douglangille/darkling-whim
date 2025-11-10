@@ -11,15 +11,12 @@
             "id": "6c18749877b6c811",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "codeview",
               "state": {
-                "file": "_pages/links.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "substack.html"
               },
               "icon": "lucide-file",
-              "title": "links"
+              "title": "substack"
             }
           }
         ]
@@ -230,6 +227,7 @@
   },
   "active": "6c18749877b6c811",
   "lastOpenFiles": [
+    "_pages/links.md",
     "substack.html",
     "_data/navigation.yml",
     "README.md",
@@ -240,7 +238,6 @@
     "assets/css/main.scss",
     "_includes/head/custom.html",
     "_layouts/single.html",
-    "_pages/links.md",
     "_pages/about.md",
     "_pages/404.md",
     "admin/index.html",
@@ -249,7 +246,6 @@
     "export.xml",
     "_prose.yml",
     "_config.yml",
-    "Gemfile",
     "2025-11-02.md",
     "README 2.md"
   ]
