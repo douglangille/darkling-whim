@@ -6,9 +6,6 @@ _site/
 .bundle/
 vendor/
 
-# --- Keep non-site content out ---
-Notes/
-
 # --- Jekyll build outputs ---
 _site/
 .jekyll-cache/
