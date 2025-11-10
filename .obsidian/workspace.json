@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e390026916c9b3",
+        "id": "9729224e80a81443",
         "type": "tabs",
         "children": [
           {
-            "id": "8eb487da5a7e2104",
+            "id": "6c18749877b6c811",
             "type": "leaf",
             "state": {
-              "type": "codeview",
-              "state": {
-                "file": "admin/config.yml"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "config"
+              "title": "New tab"
             }
           }
         ]
@@ -68,8 +66,18 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
-              "icon": "lucide-ghost",
-              "title": "search"
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3ab490138381139",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -102,12 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-ghost",
-              "title": "outline"
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -120,8 +129,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -130,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +148,8 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "lucide-ghost",
-              "title": "backlink"
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -148,11 +158,55 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "lucide-ghost",
-              "title": "outgoing-link"
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "d97bc656059f2365",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "e36866713b6af0be",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bc148de59f830cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
             }
           }
         ]
@@ -163,29 +217,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-git:Open Git source control": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8eb487da5a7e2104",
+  "active": "6c18749877b6c811",
   "lastOpenFiles": [
+    "README.md",
+    "Notes/00 Inbox/TESTING/Scene 1 - Compile.md",
+    "Notes/00 Inbox/TESTING/Character - Elara Vance.md",
+    "Notes/00 Inbox/TEST WORKFLOW/_bible.md.md",
+    "Untitled.md",
+    "assets/css/main.scss",
+    "_includes/head/custom.html",
     "_layouts/single.html",
     "_pages/links.md",
     "_pages/about.md",
     "_pages/404.md",
-    "Notes/00 Inbox/TEST WORKFLOW/_bible.md.md",
     "admin/index.html",
-    "assets/css/main.scss",
     "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg",
     "mexport.xml",
     "export.xml",
     "_prose.yml",
     "_config.yml",
-    "README.md",
     "Gemfile",
     "2025-11-02.md",
     "_config 2.yml",
-    "_prose 2.yml",
-    "substack 2.html",
     "README 2.md"
   ]
 }
