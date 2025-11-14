@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9729224e80a81443",
+        "id": "9f347e33ee19a4db",
         "type": "tabs",
         "children": [
           {
-            "id": "6c18749877b6c811",
+            "id": "935926a520105591",
             "type": "leaf",
             "state": {
-              "type": "codeview",
-              "state": {
-                "file": "substack.html"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "substack"
+              "title": "New tab"
             }
           }
         ]
@@ -54,33 +52,6 @@
               "icon": "longform",
               "title": "Longform"
             }
-          },
-          {
-            "id": "87092a04d6067e52",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "e3ab490138381139",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
@@ -105,111 +76,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "7795337fab69e723",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Untitled.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Untitled"
-            }
-          },
-          {
-            "id": "04e0b89fcc6788b9",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "d3b4364972980888",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Untitled.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
-            }
-          },
-          {
-            "id": "361e51f1ba981cd8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Untitled.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
-            }
-          },
-          {
-            "id": "d97bc656059f2365",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Untitled.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Untitled"
-            }
-          },
-          {
-            "id": "e36866713b6af0be",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "bc148de59f830cf2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Untitled.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
-            }
           }
         ]
       }
@@ -225,10 +91,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c18749877b6c811",
+  "active": "2efd7602bf5f0e90",
   "lastOpenFiles": [
-    "_pages/links.md",
     "substack.html",
+    "Notes/Thinking Log.md",
+    "_pages/links.md",
     "_data/navigation.yml",
     "README.md",
     "Notes/00 Inbox/TESTING/Scene 1 - Compile.md",

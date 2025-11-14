@@ -26,3 +26,9 @@ Thumbs.db
 
 .smart-env/
 .smtcmp_json_db/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
