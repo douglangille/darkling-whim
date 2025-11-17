@@ -1,6 +1,7 @@
 [
   "obsidian-git",
   "longform",
+  "templater-obsidian",
   "unitade",
-  "smart-context"
+  "quickadd"
 ]

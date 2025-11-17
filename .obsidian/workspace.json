@@ -4,11 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "9f347e33ee19a4db",
+        "id": "0eea9e8c2b629b49",
         "type": "tabs",
         "children": [
           {
-            "id": "935926a520105591",
+            "id": "fa015536148da80a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/00 Inbox/TESTING/Scene 1 - Compile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Scene 1 - Compile"
+            }
+          },
+          {
+            "id": "fe048525fa00495d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +32,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,6 +92,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6cc352f1a9263ad6",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Notes/My Test Novel/manuscript.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "footnotes"
+            }
+          },
+          {
+            "id": "4c271ee331829d6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2015-01-25-respawn.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "outline"
+            }
           }
         ]
       }
@@ -85,35 +128,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": true,
       "obsidian-git:Open Git source control": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "2efd7602bf5f0e90",
+  "active": "fe048525fa00495d",
   "lastOpenFiles": [
-    "substack.html",
-    "Notes/Thinking Log.md",
-    "_pages/links.md",
-    "_data/navigation.yml",
-    "README.md",
+    "Untitled 11.md",
     "Notes/00 Inbox/TESTING/Scene 1 - Compile.md",
-    "Notes/00 Inbox/TESTING/Character - Elara Vance.md",
-    "Notes/00 Inbox/TEST WORKFLOW/_bible.md.md",
-    "Untitled.md",
-    "assets/css/main.scss",
-    "_includes/head/custom.html",
-    "_layouts/single.html",
-    "_pages/about.md",
-    "_pages/404.md",
-    "admin/index.html",
-    "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg",
-    "mexport.xml",
-    "export.xml",
+    "Scripts/flatten.js",
+    "Scripts/flatten_to_clip.js",
+    "Scripts/flatten_to_clip_fm.js",
+    "Notes/My Test Novel/manuscript.md",
+    "Writing Projects/The Maze of Sisters/The Maze of Sisters/Index.md",
+    "Writing Projects/The Maze of Sisters/The Maze of Sisters",
+    "Writing Projects/The Maze of Sisters",
+    "Writing Projects",
+    "Notes/My Test Novel/scene 42.md",
+    "Notes/My Test Novel/scene 1.md",
+    "Notes/My Test Novel/Index.md",
+    "Notes/10 Projects/The Maze of Sisters/Drafts/Chapter 10.md",
+    "Notes/10 Projects/The Maze of Sisters/Drafts/Part 1 — Awakening in the Maze.md",
+    "Notes/10 Projects/The Maze of Sisters/Drafts/Chapter 4.md",
+    "Notes/10 Projects/The Maze of Sisters/kjhg/Index.md",
+    "Notes/10 Projects/The Maze of Sisters/kjhg",
+    "Notes/10 Projects/The Maze of Sisters/Drafts/Act II.md",
+    "Notes/10 Projects/The Maze of Sisters/Scene Briefs.md",
+    "Notes/10 Projects/The Maze of Sisters/Drafts",
+    "_posts/2016-01-14-the-way-home.md",
     "_prose.yml",
-    "_config.yml",
-    "2025-11-02.md",
-    "README 2.md"
+    "_posts/2014-06-24-riding-the-train.md",
+    "Notes/00 Inbox/TESTING/Setting - The Rusted Lantern Tavern.md",
+    "Notes/00 Inbox/TEST WORKFLOW/_bible.md.md",
+    "Templates/Flatten to Clip.md",
+    "Notes/00 Inbox/TESTING/Style Guide.md",
+    "Notes/00 Inbox/TESTING/Scene 1 - Beats.md",
+    "Notes/00 Inbox/TESTING/Character - Elara Vance.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "README.md",
+    "Scripts",
+    "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg"
   ]
 }
