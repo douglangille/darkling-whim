@@ -13,10 +13,10 @@
             "state": {
               "type": "codeview",
               "state": {
-                "file": "_config.yml"
+                "file": "_data/navigation.yml"
               },
               "icon": "lucide-file",
-              "title": "_config"
+              "title": "navigation"
             }
           }
         ]
@@ -210,10 +210,10 @@
   },
   "active": "dd3a63469752ce67",
   "lastOpenFiles": [
+    "_config.yml",
     "_data/navigation.yml",
     "index.html",
     "substack.html",
-    "_config.yml",
     "assets/images/IMG_0040.jpeg.sb-15c3803e-TcOPIY",
     "assets/images/IMG_0040.jpeg",
     "_posts/2016-11-09-all-im-going-to-say-about-the-election.md",
