@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "823ecaae72c690b1",
+        "id": "209b9b94e430e122",
         "type": "tabs",
         "children": [
           {
-            "id": "df5938b6797d4436",
+            "id": "a05331d64b39cb8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -211,10 +211,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46dedec0534ec407",
+  "active": "a05331d64b39cb8e",
   "lastOpenFiles": [
-    "_posts/2013-11-29-haleys-homecoming.md",
+    "_posts/2013-10-01-rocktober-show-me-your-horns.md",
     "_posts/2013-12-01-meanwhile-at-the-hall-of-justice.md",
+    "_posts/2013-11-29-haleys-homecoming.md",
     "_posts/2013-07-31-on-taking-criticism.md",
     "_prose.yml",
     "_config.yml",
@@ -248,7 +249,6 @@
     "!nbox/characters/dartmouth-ferry-operator-2eVRnB9V0dYaNGjawGQ9VDeQcEq/entry.md",
     "!nbox/characters/the-anchor-2eVRcVAH0SNZ1Su9yH15LFnlUmS/entry.md",
     "!nbox/characters/angus-macdonald-2eVRp6aaeagDTmVxxoQGFNmNy6I/entry.md",
-    "!nbox/characters/duty-sergeant-2eVRnDHkjs2CAoNsMoeYGV98YRP/entry.md",
     "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg"
   ]
 }
