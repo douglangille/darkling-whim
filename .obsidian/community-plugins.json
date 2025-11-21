@@ -3,5 +3,8 @@
   "longform",
   "templater-obsidian",
   "unitade",
-  "quickadd"
+  "quickadd",
+  "obsidian-reading-time",
+  "sentence-rhythm",
+  "readability-score"
 ]

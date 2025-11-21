@@ -7,10 +7,10 @@ categories:
 tags:
   - WriteTip
 ---
-<img src="https://douglangille.github.io/assets/images/ee34b80e2ff01c3e81584d04ee44408be273e7d71eb8184290f8_640_writer.jpg">A writer's heart is an untamed beast.  
+<img src="/assets/images/ee34b80e2ff01c3e81584d04ee44408be273e7d71eb8184290f8_640_writer.jpg">A writer's heart is an untamed beast.  
 Tho from his quill flows a reader's feast,  
 Not all words are diamonds written.  
-Sometimes the author's ego's bitten.â€Ž
+Sometimes the author's ego's bitten.
 
 The critic, the cynic, the bottom-feeder!  
 Lest we forget the lazy-reader!  
