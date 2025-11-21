@@ -13,10 +13,10 @@
             "state": {
               "type": "codeview",
               "state": {
-                "file": "_config.yml"
+                "file": "index.html"
               },
               "icon": "lucide-file",
-              "title": "_config"
+              "title": "index"
             }
           }
         ]
@@ -208,15 +208,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46dedec0534ec407",
+  "active": "a38e2ec60cd29331",
   "lastOpenFiles": [
-    "assets/images/IMG_0040.jpeg.sb-15c3803e-TcOPIY",
+    "substack.html",
     "index.html",
+    "_config.yml",
+    "assets/images/IMG_0040.jpeg.sb-15c3803e-TcOPIY",
     "assets/images/IMG_0040.jpeg",
     "_data/navigation.yml",
     "_posts/2016-11-09-all-im-going-to-say-about-the-election.md",
     "_layouts/single.html",
-    "_config.yml",
     "_layouts/archive-taxonomy.html",
     "_posts/2013-03-21-dannys-redemption.md",
     "_posts/2013-12-01-meanwhile-at-the-hall-of-justice.md",
@@ -232,7 +233,6 @@
     "!nbox/2025-07-12 12-34-43 ther-last-days-of-the-marcy-bell - full/novel.md",
     "!nbox/eddie-zero-STANDARD-PRINT-READY.pdf",
     "!nbox/eddie-zero-STANDARD.pdf",
-    "!nbox/codex.html",
     "!nbox/chief-morrison-2eVRaNWaqsxoHkclPC9kp7GfZJt/entry.md",
     "!nbox/characters/kathy-2eVRaPR9RmrxlSamtB9D84dvUgh/entry.md",
     "!nbox/characters/mayor-2eVRaNa4Ohn1cHAFsRgP5c8CS54/entry.md",
