@@ -2,6 +2,8 @@
 title: All I'm Going to Say About the Election
 header:
   teaser: /assets/images/donald-trump-1541036_1920.jpg
+  overlay_image: /assets/images/donald-trump-1541036_1920.jpg
+  overlay_filter: 0.4
 excerpt: >-
   Populism can be a dangerous thing.
 categories:
