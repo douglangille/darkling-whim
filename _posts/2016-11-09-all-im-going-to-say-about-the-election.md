@@ -2,16 +2,14 @@
 title: All I'm Going to Say About the Election
 header:
   teaser: /assets/images/donald-trump-1541036_1920.jpg
-  overlay_image: /assets/images/donald-trump-1541036_1920.jpg
-  overlay_filter: 0.4
 excerpt: >-
-  Populism can be a dangerous thing-- where an informed opinion weighs as much
-  as an uninformed one, where truth becomes subjective, and where the only
-  voices heard are rife with vitriol and fear.
+  Populism can be a dangerous thing.
 categories:
   - Musings
 published: true
 ---
+<img src="/assets/images/donald-trump-1541036_1920.jpg"/>
+
 Populism can be a dangerous thing-- where an informed opinion weighs as much as an uninformed one, where truth becomes subjective, and where the only voices heard are rife with vitriol and fear.
 
 The rejection of Clinton came from the same place as our own rejection of Harper in favor of Trudeau. Old-school politicking reeks of money and self-serving privilege. Yet, despite Trudeau's 'sunny ways' and charismatic positivism, when rubber hits the road, the new boss isn't terribly unlike the old boss. I think the American people saw that in Hillary Clinton-- more of the same. She'd bring progress for certain, but it'd be modest and politically safe. Nothing would really change.
