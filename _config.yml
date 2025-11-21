@@ -192,7 +192,6 @@ defaults:
       related           : true
       show_date         : true
       overlay_filter    : .5
-      classes           : wide
       excerpt           : ""
   - scope:
       path              : "_pages"
@@ -204,7 +203,6 @@ defaults:
       comments          : true
       share             : false
       overlay_filter    : .5
-      classes           : wide
   - scope:
       path              : ""
       type              : category
