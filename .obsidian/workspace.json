@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2016-11-09-all-im-going-to-say-about-the-election.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -213,8 +213,9 @@
   },
   "active": "a38e2ec60cd29331",
   "lastOpenFiles": [
-    "_config.yml",
     "_layouts/single.html",
+    "_posts/2016-11-09-all-im-going-to-say-about-the-election.md",
+    "_config.yml",
     "_layouts/archive-taxonomy.html",
     "_posts/2013-03-21-dannys-redemption.md",
     "_posts/2013-12-01-meanwhile-at-the-hall-of-justice.md",
@@ -235,7 +236,6 @@
     "!nbox/chief-morrison-2eVRaNWaqsxoHkclPC9kp7GfZJt/entry.md",
     "!nbox/characters/kathy-2eVRaPR9RmrxlSamtB9D84dvUgh/metadata.json",
     "!nbox/characters/kathy-2eVRaPR9RmrxlSamtB9D84dvUgh/entry.md",
-    "!nbox/characters/kathy-2eVRaPR9RmrxlSamtB9D84dvUgh",
     "!nbox/characters/mayor-2eVRaNa4Ohn1cHAFsRgP5c8CS54/entry.md",
     "!nbox/characters/lara-2eVRaPWWG0Axi0r9YBPptZGMEA3/entry.md",
     "!nbox/characters/millie-2eVRhiKxYDEyfDgSDle5zkxQ8Tk/entry.md",
@@ -248,7 +248,6 @@
     "!nbox/characters/crucible-2eVRrrFjpF3Cs2Labjgjowbc139/entry.md",
     "!nbox/characters/larry-2eVRgkEsVWo7rTB6E5GolYk4m2d/entry.md",
     "!nbox/characters/detective-dunsmore-2eVRnD1HCIQoDTZyxLqQmegWlT7/entry.md",
-    "!nbox/characters/dartmouth-ferry-operator-2eVRnB9V0dYaNGjawGQ9VDeQcEq/entry.md",
     "assets/images/0f7eafd6f519319a_1280_bird-wire.jpg"
   ]
 }
