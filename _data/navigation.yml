@@ -3,11 +3,12 @@ main:
 #    url: /about/
 #  - title: "Browse"
 #    url: /browse/
-  - title: "Digital Doug"
-    url: /substack/
+
   - title: "Musings"
     url: /musings/
   - title: "Writings"
     url: /writings/
 #  - title: "Write Tips"
 #    url: /writetips/
+  - title: "Digital Doug"
+    url: https://douglangille.substack.com
