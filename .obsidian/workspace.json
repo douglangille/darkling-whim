@@ -11,15 +11,12 @@
             "id": "a38e2ec60cd29331",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "codeview",
               "state": {
-                "file": "_posts/2016-11-09-all-im-going-to-say-about-the-election.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "_config.yml"
               },
               "icon": "lucide-file",
-              "title": "2016-11-09-all-im-going-to-say-about-the-election"
+              "title": "_config"
             }
           }
         ]
@@ -213,8 +210,11 @@
   },
   "active": "a38e2ec60cd29331",
   "lastOpenFiles": [
-    "_layouts/single.html",
+    "index.html",
+    "assets/images/IMG_0040.jpeg",
+    "_data/navigation.yml",
     "_posts/2016-11-09-all-im-going-to-say-about-the-election.md",
+    "_layouts/single.html",
     "_config.yml",
     "_layouts/archive-taxonomy.html",
     "_posts/2013-03-21-dannys-redemption.md",
@@ -232,9 +232,7 @@
     "!nbox/eddie-zero-STANDARD-PRINT-READY.pdf",
     "!nbox/eddie-zero-STANDARD.pdf",
     "!nbox/codex.html",
-    "!nbox/chief-morrison-2eVRaNWaqsxoHkclPC9kp7GfZJt/metadata.json",
     "!nbox/chief-morrison-2eVRaNWaqsxoHkclPC9kp7GfZJt/entry.md",
-    "!nbox/characters/kathy-2eVRaPR9RmrxlSamtB9D84dvUgh/metadata.json",
     "!nbox/characters/kathy-2eVRaPR9RmrxlSamtB9D84dvUgh/entry.md",
     "!nbox/characters/mayor-2eVRaNa4Ohn1cHAFsRgP5c8CS54/entry.md",
     "!nbox/characters/lara-2eVRaPWWG0Axi0r9YBPptZGMEA3/entry.md",

@@ -115,7 +115,7 @@ analytics:
 
 author:
   name                  : "Doug Langille"
-  avatar                : "/assets/images/bio-photo.jpg"
+  avatar                : /assets/images/IMG_0040.jpeg # "/assets/images/bio-photo.jpg"
   bio                   : "hack writer & shameless technophile"
   location              : "Nova Scotia"
   email                 : me@douglangille.ca
