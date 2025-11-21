@@ -6,7 +6,7 @@ categories:
   - Musings
 ---
 <img src="/assets/images/8119953873_5ffc23b7a7_hall-of-justice.jpg">
-So, it's been two months since my [last post](/2013-10-01-rocktober-show-me-your-horns.md). Christmas is just around the corner and soon we'll be saying 'Chuck U Farley' to 2013.
+So, it's been two months since my [last post](/rocktober-show-me-your-horns.md). Christmas is just around the corner and soon we'll be saying 'Chuck U Farley' to 2013.
 
 <a href="http://themidnightabyss.tumblr.com/">*Midnight Abyss*</a> is out and well-received. Thanks to all who picked up a copy and a big shout out to those who took the time to review. We're pushing through until Christmas to see where we end up. All in all, the book has exceeded expectations. I'm not going to get rich, but I learned a lot in the process and that was my primary objective.
 
