@@ -1,1 +1,0 @@
-<%* await tp.user.flatten_to_clip(tp) %>
