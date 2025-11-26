@@ -1,0 +1,14 @@
+main:
+#  - title: "About"
+#    url: /about/
+#  - title: "Browse"
+#    url: /browse/
+  - title: "Digital Doug"
+    url: https://douglangille.substack.com
+  - title: "Fiction"
+    url: /writings/
+  - title: "Off-topic"
+    url: /musings/
+
+#  - title: "Write Tips"
+#    url: /writetips/
