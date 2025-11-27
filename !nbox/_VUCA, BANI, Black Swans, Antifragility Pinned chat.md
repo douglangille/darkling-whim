@@ -1,4 +1,4 @@
-You asked:
+You asked: 
 ----------
 
 explain the concepts of VUCA and BANI and put them in the lens of Antifragility and Black Swan concepts. Smash them together into a single narrative. Keep it brief and concise.
