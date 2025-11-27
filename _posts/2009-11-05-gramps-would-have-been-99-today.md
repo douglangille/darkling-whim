@@ -7,7 +7,7 @@ categories:
 ---
 ![](/assets/images/zappino-1030047.jpg)
 
-## The Song of the Wage-Slave</h2>
+## The Song of the Wage-Slave
 
 When the long, long day is over, and the Big Boss gives me my pay,  
  I hope that it won't be hell-fire, as some of the parsons say.  
@@ -48,4 +48,4 @@ When the long, long day is over, and the Big Boss gives me my pay,
  Master, I've done Thy bidding, and the light is low in the west,  
  And the long, long shift is over...Master, I've earned it --- Rest.
 
-Robert W. Service (via <a href="http://en.wikisource.org/wiki/The_Song_of_the_Wage-Slave">Wikisource</a>)
+Robert W. Service (via [Wikisource](http://en.wikisource.org/wiki/The_Song_of_the_Wage-Slave))
