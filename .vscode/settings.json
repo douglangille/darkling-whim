@@ -2,4 +2,20 @@
     "[markdown]": {
         "editor.cursorSurroundingLines": 0
     }
+
+  // Enable pasting files (images, media) into Markdown and have VS Code copy them into workspace
+  "markdown.editor.filePaste.copyIntoWorkspace": "mediaFiles",
+
+  // Optional: enable drop-to-markdown behavior too (drag + drop images/files)
+  "markdown.editor.drop.copyIntoWorkspace": "mediaFiles",
+
+  // Define where pasted files should go (relative to workspace root or use absolute path)
+  "markdown.copyFiles.destination": {
+    // Match any markdown file in any folder — send images to assets/images/
+    "**/*.md": "assets/images/"
+  },
+
+  // Optional: behavior if duplicate filenames: generate unique names (default) or overwrite
+  "markdown.copyFiles.overwriteBehavior": "rename" 
+
 }
