@@ -18,4 +18,18 @@
   // Optional: behavior if duplicate filenames: generate unique names (default) or overwrite
   "markdown.copyFiles.overwriteBehavior": "rename" 
 
+  "[markdown]": {
+    "editor.fontFamily": "\"IA Writer Duo S\", monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 26,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 72,
+    "editor.rulers": [72],
+    "editor.lineNumbers": "off",
+    "editor.quickSuggestions": false
+  },
+
+  // optional: Zen-mode / centered writing mode defaults
+  "zenMode.centerLayout": true
 }
