@@ -1,18 +1,3 @@
 {
-
-  "markdown.editor.filePaste.copyIntoWorkspace": "mediaFiles",
-  "markdown.editor.drop.copyIntoWorkspace": "mediaFiles",
-
-  "markdown.copyFiles.destination": {
-    "**/*.md": "assets/images/"
-  },
-  "markdown.copyFiles.overwriteBehavior": "rename",
-  "gitdoc.enabled": true,
-  "editor.fontSize": 20,
-  "editor.rulers": {},
-  "editor.renderLineHighlight": "line",
-  "workbench.colorCustomizations": {
-    "editor.lineHighlightBorder": "#fff"
-  },
-
+    "gitdoc.enabled": true
 }
