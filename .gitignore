@@ -16,19 +16,9 @@ _site/
 .bundle/
 vendor/
 
-# --- Obsidian + OS cruft ---
-.obsidian/
+# --- OS cruft ---
 .DS_Store
 Icon?
 Thumbs.db
 ._*
 *.icloud
-
-.smart-env/
-.smtcmp_json_db/
-
-
-
-
-# Ignore Smart Environment folder
-.smart-env
