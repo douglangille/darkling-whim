@@ -1,4 +1,4 @@
-# The Last Days of the Marcy Bell
+# Ther Last Days of the Marcy Bell
 by Doug Langille
 
 ## Act 1
