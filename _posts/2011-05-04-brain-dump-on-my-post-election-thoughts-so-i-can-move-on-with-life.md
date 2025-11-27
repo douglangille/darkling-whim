@@ -48,7 +48,7 @@ Jack and his merry band of newbies will hopefully be effective in balancing the 
 
 If there was any issue that we can take away from this election is that we desperately need electoral reform. Turnout continues to be low. 12 million people voted and only 5 million votes counted in this First Past the Post system we have. That means that 7 million votes didn't count for anything --- no wonder so many stayed away from the ballot box.
 
-Whether it's Proportional Representation, Alternative Voting, or some other scheme, it's got to be better than what we have now. I'm very curious as to the results of the <a href="http://en.wikipedia.org/wiki/2011_UK_referendum">UK Referendum</a> on the topic.
+Whether it's Proportional Representation, Alternative Voting, or some other scheme, it's got to be better than what we have now. I'm very curious as to the results of the <a href="http://en.wikipedia.org/wiki/2011_UK_referendum">UK Referendum</a> [UK Referendum](http://en.wikipedia.org/wiki/2011_UK_referendum") on the topic.
 
 Please enjoy this cat video:
 
