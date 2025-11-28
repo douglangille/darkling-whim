@@ -1,7 +1,7 @@
 {
     "gitdoc.enabled": true,
     "markdown.copyFiles.destination": {
-    "**/*": "assets/images/${fileName}" 
+    "**/*": "/assets/images/${fileName}" 
     },
     "markdown.copyFiles.name": "${datetime}-pasted-image"
 }
