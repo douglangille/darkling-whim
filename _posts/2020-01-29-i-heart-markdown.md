@@ -94,7 +94,7 @@ Maybe we better talk out here; the observation lounge has turned into a swamp. C
 * But the probability of making a six is no greater than that of rolling a seven.
 * I am your worst nightmare!
 
-***
+****
 
 1. You're going to be an interesting companion, Mr. Data.
 2. This should be interesting.
