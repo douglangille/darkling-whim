@@ -40,4 +40,4 @@ And that is how my mind works.
 
 The next time someone asks "what are you thinking?", I just might tell them.
 
-<small>Photo by <a href="http://www.flickr.com/photos/25118064@N08/6070789725" target="_blank">TheBosque</a> </small>
+Photo by [TheBosque](http://www.flickr.com/photos/25118064@N08/6070789725)
