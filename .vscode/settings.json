@@ -4,7 +4,6 @@
     "**/*": "/assets/images/${fileName}" 
     },
     "markdown.copyFiles.name": "${datetime}-pasted-image",
-    "editor.fontSize": 12,
     "[markdown]": {
         "editor.cursorSurroundingLines": 0,
         "editor.tabSize": 4,
