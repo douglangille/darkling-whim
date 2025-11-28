@@ -5,6 +5,8 @@ header:
 categories:
   - WriteTips
 ---
+![](/assets/images/letters-390186_640.jpg)
+
 I don’t have a favourite genre.
 
 Not to read. Not to write.
