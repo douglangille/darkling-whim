@@ -11,7 +11,7 @@ Not to read. Not to write.
 
 Well, that’s not entirely true. Because if ‘dark’ was a genre, then I guess that’d be what you’d call it. That is, if you need a label and all the crap that goes with it.
 
-It’s a weird bit of artifice, this whole genre business. Smoke and mirrors at best, but a business nonetheless. Genres exist largely to serve categorization as an marketing aid for a given target demographic.
+It's a weird bit of artifice, this whole genre business. Smoke and mirrors at best, but a business nonetheless. Genres exist largely to serve categorization as a marketing aid for a given target demographic—because apparently readers can't be trusted to find their own books without color-coded shelf markers.
 
 Supposedly, men like fantasy and westerns, women like paranormal romance and the eponymous chick-lit. It’s blurry around the edges, of course, but there is some intended ‘gender to the genre’ mapping going on.
 
