@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "65b43705bbc29106",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6f480b7e46daf69",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9e454e78ea318c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e0f71a0cc7a6f1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a7fefa102a03f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "761d8b76aea425e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1dff5e527df880ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "4caeb0b3c5f83716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555fac748d8592cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2014-02-28-reading-at-the-speed-of-light.md",
+    "2014-01-31-not-so-definitive-guide-to-romance-novels.md",
+    "2013-12-31-genres-in-a-nutshell.md",
+    "2014-04-17-how-i-rebooted-my-love-of-writing.md",
+    "2015-04-30-sea-shanties-nautical-verse-and-maritime-ballads.md",
+    "2015-01-13-a-return-to-longhand.md",
+    "2014-07-14-plot-premise-and-story.md",
+    "2014-04-21-writing-rituals.md",
+    "2014-09-30-lovecrafts-legacy.md",
+    "2014-02-28-the-men-that-dont-fit-in.md"
+  ]
+}
