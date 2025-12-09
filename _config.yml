@@ -231,9 +231,9 @@ defaults:
       layout            : single
       author_profile    : true
       read_time         : true
-      comments          : true
+      comments          : false
       share             : false
-      related           : true
-      show_date         : true
+      related           : false
+      show_date         : false
       overlay_filter    : .5
       excerpt           : ""
