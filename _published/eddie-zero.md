@@ -1,3 +1,6 @@
+---
+title: "Eddie Zero"
+---
 # Eddie Zero
 
 I didn't kill him. He was already dead.
