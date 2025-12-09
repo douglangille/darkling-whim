@@ -225,10 +225,15 @@ defaults:
       classes           : wide
       entries_layout    : grid
   - scope:
-      path: ""
-      type: portfolio
+      path              : ""
+      type              : portfolio
     values:
-      layout: single
-      author_profile: true
-      share: false
-
+      layout            : single
+      author_profile    : true
+      read_time         : true
+      comments          : true
+      share             : false
+      related           : true
+      show_date         : true
+      overlay_filter    : .5
+      excerpt           : ""
