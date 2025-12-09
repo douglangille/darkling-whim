@@ -1,11 +1,10 @@
 ---
 title: "The Accidental Notetaker"
 excerpt: "Future Me appreciates the upgrade."
+header:
+    teaser: https://substackcdn.com/image/fetch/$s_!uxL8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.heic
+    overlay_image: https://substackcdn.com/image/fetch/$s_!uxL8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.heic
 ---
-[![](https://substackcdn.com/image/fetch/$s_!uxL8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.heic)
-
-](https://substackcdn.com/image/fetch/$s_!uxL8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9b6b882-3852-4b3f-ad80-5e42716c597a_1024x768.heic)
-
 Taking notes is easy. Making sense of them later? That's the part that always broke me. I'm lying. Taking notes hurts my soul. I kinda hate it and telling myself to *embrace the suck* is not helpful.
 
 I've tried everything: elaborate systems, minimalist systems, digital, analog, hybrid. Most collapsed under their own weight. The ones that didn't still left me with a pile of fragments I never had the energy to reassemble.
