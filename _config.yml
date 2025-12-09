@@ -179,6 +179,11 @@ related_tags: 1
 related_template: archive-single.html
 related_layout: grid
 
+collections:
+  published:
+    output              : true
+    permalink           : /:collection/:title/
+
 defaults:
   - scope:
       path              : ""
@@ -227,8 +232,3 @@ defaults:
       author_profile: true
       share: false
 
-
-collections:
-  published:
-    output              : true
-    permalink           : /:collection/:title/
