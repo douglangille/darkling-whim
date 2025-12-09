@@ -1,5 +1,5 @@
 ---
-title: Published
+title: "Published"
 layout: collection
 permalink: /published/
 collection: published
