@@ -219,4 +219,16 @@ defaults:
       author_profile    : true     
       classes           : wide
       entries_layout    : grid
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
+
+collections:
+  published:
+    output              : true
+    permalink           : /:collection/:title/
