@@ -1,8 +1,6 @@
 ---
 title: "Eddie Zero"
 ---
-# Eddie Zero
-
 I didn't kill him. He was already dead.
 
 The room was pitch black when I awoke. I fell asleep leaning against the back of the door. My shoulders tingled as my circulation returned. It didn't help much. With my arms restrained like they were, it was nearly impossible to take a full breath. My head swam as my eyes adjusted to the dark. The sparks and flashes of dust motes disoriented me, awash in a sea of teaming life where darkness reigned.

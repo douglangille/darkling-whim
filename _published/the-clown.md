@@ -1,7 +1,6 @@
-the-clown
-
-# The Clown
-
+---
+title: "The Clown"
+---
 What lies beneath the painted mask?  
 A heart of black, a soul of glass?  
 Sharpened teeth and rotted tongue,  
