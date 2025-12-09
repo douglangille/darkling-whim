@@ -226,7 +226,7 @@ defaults:
       entries_layout    : grid
   - scope:
       path              : ""
-      type              : portfolio
+      type              : published
     values:
       layout            : single
       author_profile    : true
