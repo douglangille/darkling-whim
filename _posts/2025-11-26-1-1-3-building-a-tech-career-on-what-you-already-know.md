@@ -3,7 +3,7 @@ title: "1 + 1 = 3: Building a Tech Career on What You Already Know"
 excerpt: "For anyone who keeps thinking “maybe it’s time to pivot.”"
 header:
     teaser: https://substackcdn.com/image/fetch/$s_!tQN-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.heic
-    image_overlay: https://substackcdn.com/image/fetch/$s_!tQN-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.heic
+    overlay_image: https://substackcdn.com/image/fetch/$s_!tQN-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05c3c370-28e4-4f37-a7b8-9a522f9cd0dc_1536x1024.heic
 ---
 Your first career wasn't a mistake. It might be the thing that makes the next one work.
 
