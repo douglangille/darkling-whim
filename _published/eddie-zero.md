@@ -1,5 +1,8 @@
 ---
 title: "Eddie Zero"
+header:
+    teaser: /assets/images/eddie-zero.png
+    overlay_image: /assets/images/eddie-zero.png
 ---
 I didn't kill him. He was already dead.
 
