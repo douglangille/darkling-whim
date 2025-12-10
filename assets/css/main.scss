@@ -20,3 +20,10 @@ $global-font-family : $serif;
 // code { white-space: pre-wrap; }
 // .align-right, .align-left { max-width: 25rem; }
 .archive__item-teaser img, .half img { object-fit: cover; aspect-ratio: 3/2; }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212; /* Dark background */
+        color: #ffffff; /* Light text */
+    }
+}

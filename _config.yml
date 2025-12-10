@@ -226,7 +226,7 @@ defaults:
       entries_layout    : grid
   - scope:
       path              : ""
-      type              : published
+      type              : Published
     values:
       layout            : single
       author_profile    : true
