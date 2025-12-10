@@ -180,8 +180,9 @@ related_template: archive-single.html
 related_layout: grid
 
 collections:
-  Published:
+  published:
     output              : true
+    label               : "Published"
     permalink           : /:collection/:title/
 
 defaults:
@@ -226,7 +227,7 @@ defaults:
       entries_layout    : grid
   - scope:
       path              : ""
-      type              : Published
+      type              : published
     values:
       layout            : single
       author_profile    : true
