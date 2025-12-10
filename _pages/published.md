@@ -2,7 +2,7 @@
 title: "Published"
 layout: collection
 permalink: /published/
-collection: published
+collection: Published
 entries_layout: grid
 classes: wide
 ---

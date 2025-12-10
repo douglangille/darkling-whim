@@ -1,5 +1,8 @@
 ---
 title: "The Clown"
+header:
+    teaser: /assets/images/the-clown.png
+    overlay_image: /assets/images/the-clown.png
 ---
 What lies beneath the painted mask?  
 A heart of black, a soul of glass?  

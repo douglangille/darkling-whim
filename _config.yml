@@ -180,7 +180,7 @@ related_template: archive-single.html
 related_layout: grid
 
 collections:
-  published:
+  Published:
     output              : true
     permalink           : /:collection/:title/
 

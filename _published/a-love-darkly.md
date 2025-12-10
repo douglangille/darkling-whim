@@ -1,5 +1,8 @@
 ---
 title: "A Love, Darkly"
+header: 
+    teaser: /assets/images/a-love-darkly.png
+    overlay_image: /assets/images/a-love-darkly.png
 ---
 Alice gave me a furtive glance as she handed me a glass of lemonade. She was nervous. I could sense a slight tremble in her voice as she offered a drink to Darcy. As usual, he was oblivious.
 
