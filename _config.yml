@@ -182,7 +182,7 @@ related_layout: grid
 
 collections:
   published:
-    output              : true
+    output              : false
     label               : "Published"
     permalink           : /:collection/:title/
 
