@@ -168,10 +168,10 @@ autopages:
     layouts             : 
       - 'archive-taxonomy.html'
     permalink           : '/:tag'
-  collections:
-    layouts             : 
-      - 'archive-taxonomy.html'
-    permalink           : '/:coll'
+#  collections:
+#    layouts             : 
+#      - 'archive-taxonomy.html'
+#    permalink           : '/:coll'
 
 related_by: tags or categories 
 related_limit: 4            
@@ -182,7 +182,7 @@ related_layout: grid
 
 collections:
   published:
-    output              : false
+    output              : true
     label               : "Published"
     permalink           : /:collection/:title/
 
