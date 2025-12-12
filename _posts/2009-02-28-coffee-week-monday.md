@@ -3,7 +3,7 @@ title: 'Coffee Week &#8212; Monday'
 header:
  teaser: /assets/images/20090302-084641.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/20090302-084641.jpg">Today was a Tim's morning.
 

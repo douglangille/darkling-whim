@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/teeth-471546_1280.jpg
   overlay_image: /assets/images/teeth-471546_1280.jpg
 categories:
-  - Writings
+  - Fiction
 published: true
 ---
 So, who the fiddler's flying fig decided Mars needed alligators?

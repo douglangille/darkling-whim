@@ -3,7 +3,7 @@ title: The Last Voyage of the Nancy
 header:
  teaser: /assets/images/3057385436_c407aa8e3e_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

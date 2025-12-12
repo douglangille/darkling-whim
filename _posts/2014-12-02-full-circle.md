@@ -3,7 +3,7 @@ title: Full Circle
 header:
  teaser: /assets/images/bus-stop-72171.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

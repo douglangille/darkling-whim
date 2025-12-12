@@ -3,7 +3,7 @@ title: Crazy milestone achieved.
 header:
  teaser: /assets/images/tumblr_inline_mfb3v9OFxs1rabiuj.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/tumblr_inline_mfb3v9OFxs1rabiuj.jpg">It's official.
 

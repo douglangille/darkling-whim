@@ -3,7 +3,7 @@ title: Cats, Rabbits and Random Thoughts
 header:
  teaser: /assets/images/6070789725_4abccfc4a2_b_rabbits-kittens.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 
 ![](/assets/images/6070789725_4abccfc4a2_b_rabbits-kittens.jpg)

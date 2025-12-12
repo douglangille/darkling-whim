@@ -3,7 +3,7 @@ title: Mary Had a Disgruntled Lamb
 header:
  teaser: /assets/images/Disgruntled-Lamb.jpg
 categories:
-  - Writings
+  - Fiction
 ---
 <img src="https://douglangille.github.io/assets/images/Disgruntled-Lamb.jpg">Mary had a disgruntled little lamb,  
  Whose fleece was greasy and matted  

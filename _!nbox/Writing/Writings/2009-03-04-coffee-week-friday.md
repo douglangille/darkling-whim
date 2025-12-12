@@ -3,7 +3,7 @@ title: 'Coffee Week &#8212; Friday'
 header:
  teaser: /assets/images/20090306-170443.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20090306-170443.jpg">Pretty late in the day and far under quota for coffee consumption --- lowered my standards to convenience store brew.
 

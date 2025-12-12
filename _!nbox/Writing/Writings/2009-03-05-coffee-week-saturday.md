@@ -3,7 +3,7 @@ title: 'Coffee Week &#8212; Saturday'
 header:
  teaser: /assets/images/20090307-134024.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20090307-134024.jpg">Happy Caturday!
 

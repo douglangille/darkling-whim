@@ -3,7 +3,7 @@ title: '30 Days of May *scratch* June&#8230;'
 header:
  teaser: /assets/images/e036b20c2ffc1c3e81584d04ee44408be273e7d11db7184591f7_640_flour.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/e036b20c2ffc1c3e81584d04ee44408be273e7d11db7184591f7_640_flour.jpg">I'm a little late with this entry --- it's been a crazy month and a tumultuous week or so.
 

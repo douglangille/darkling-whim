@@ -3,7 +3,7 @@ title: Hey! You! Get Off of My Cloud! (Or Why SharePoint and Not X?)
 header:
  teaser: /assets/images/cloud-computing-626252_1280.png
 categories:
-  - Musings
+  - Perspectives
 ---
 
 ![](/assets/images/cloud-computing-626252_1280.png)

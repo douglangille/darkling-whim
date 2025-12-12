@@ -4,7 +4,7 @@ excerpt: >-
   I took the cool can and placed it on my chest, letting the condensation drip
   between my breasts.
 categories:
-  - Writings
+  - Fiction
 header:
   teaser: /assets/images/legs-434918_1280.jpg
 published: true

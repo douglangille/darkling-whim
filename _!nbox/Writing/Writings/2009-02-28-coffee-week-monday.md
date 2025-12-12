@@ -3,7 +3,7 @@ title: 'Coffee Week &#8212; Monday'
 header:
  teaser: /assets/images/20090302-084641.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20090302-084641.jpg">Today was a Tim's morning.
 

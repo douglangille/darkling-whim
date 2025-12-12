@@ -3,7 +3,7 @@ title: Stormy Night
 header:
  teaser: /assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

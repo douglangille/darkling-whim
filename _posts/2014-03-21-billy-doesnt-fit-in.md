@@ -3,7 +3,7 @@ title: 'Billy Doesn&#39;t Fit In'
 header:
  teaser: /assets/images/4406503559_12acb8f4f3_alien-kid.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

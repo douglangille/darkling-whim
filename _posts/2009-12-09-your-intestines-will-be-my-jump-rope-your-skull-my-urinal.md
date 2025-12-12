@@ -3,7 +3,7 @@ title: 'Your intestines will be my jump rope&#8230;. Your skull&#8211;my urinal'
 header:
  teaser: /assets/images/4916784656_878789d497_b_phone.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/4916784656_878789d497_b_phone.jpg">Taken from: <a href="http://theoatmeal.com/comics/customer_service">Why I'd rather be punched in the testicles than call customer service --- The Oatmeal</a>
 

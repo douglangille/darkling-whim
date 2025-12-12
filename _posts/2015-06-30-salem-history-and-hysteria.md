@@ -3,7 +3,7 @@ title: 'Salem: History and Hysteria'
 header:
  teaser: /assets/images/20150620_175930485_iOS.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/20150620_175930485_iOS.jpg" alt="" />
 

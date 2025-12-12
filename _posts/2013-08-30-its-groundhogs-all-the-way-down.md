@@ -3,7 +3,7 @@ title: 'It&#39;s Groundhogs All The Way Down'
 header:
  teaser: /assets/images/9600010052_80650b2bb5_groundhog.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/9600010052_80650b2bb5_groundhog.jpg">September has rolled around again. Our youngest has been delivered to university to continue his journey into Awesomehood. My bride and I are alone without children for the first time. Ever.
 

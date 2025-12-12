@@ -3,7 +3,7 @@ title: 'May Reflections &#8212; Part Three'
 header:
  teaser: /assets/images/IMG_20140514_121230.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/IMG_20140514_121230.jpg">So here we are at the end of another month--- a busy one at that. I turned 42 and supposedly have the answer. I'm here to tell you that the question still eludes me.
 

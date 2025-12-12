@@ -3,7 +3,7 @@ title: Hey! You! Get Off of My Cloud! (Or Why SharePoint and Not X?)
 header:
  teaser: /assets/images/cloud-computing-626252_1280.png
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/cloud-computing-626252_1280.png">As has become obvious over the last couple of years, higher education has to move past the firewall and traditional computing services such as the "alphabet soup" that comes with campus file/print servers and a sprawling enterprise fleet of desktops.
 

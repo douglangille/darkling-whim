@@ -2,13 +2,15 @@
 title: Haley on the Road
 header:
  teaser: /assets/images/road-166543.jpg
+ overlay_image: /assets/images/road-166543.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead
+  - Haley
 ---
-<img src="https://douglangille.github.io/assets/images/road-166543.jpg">We had to pull over on the side of the road when the jeep started to overheat. I got out and stretched. Even though it was early November, it was unseasonably warm. I placed my hands on the small of my back and arched as far back as I could. I heard a popping sound and winced.
+We had to pull over on the side of the road when the jeep started to overheat. I got out and stretched. Even though it was early November, it was unseasonably warm. I placed my hands on the small of my back and arched as far back as I could. I heard a popping sound and winced.
 
 Harvested cropland was on either side as far as the eye could see. The sun blazed high overhead making the air shimmer at the crest of the slight hill. The railway crossing sign looked old and untended.
 

@@ -3,7 +3,7 @@ title: Shack Wacky May
 header:
  teaser: /assets/images/ec35b20e2bf41c3e81584d04ee44408be273e7d11db4124593f7_640_candy.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/ec35b20e2bf41c3e81584d04ee44408be273e7d11db4124593f7_640_candy.jpg">So, it's a Saturday morning and I have the house to myself. It's June 1st. That means it must be time for my monthly reflective post. It's been a busy month with our youngest finishing high school and getting ready for university in the fall. He's a bright kid with a fantastic future. It'll be weird with just the two of us rattling around the house come September. Well, maybe.
 

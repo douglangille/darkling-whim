@@ -3,7 +3,7 @@ title: 'Coffee Week &#8212; Tuesday'
 header:
  teaser: /assets/images/20090303-063251.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20090303-063251.jpg">While attending university in Antigonish, I stayed with my grandparents. My grandmother had founded a little restaurant across the street called the Cottage Store that served the local students. But, when I was there, the store was run by my uncle as my grandmother was older and bound to a wheelchair because of bad hips and ulcerated legs. So I stayed with her, cooked meals and kept her company while enjoying college life.
 

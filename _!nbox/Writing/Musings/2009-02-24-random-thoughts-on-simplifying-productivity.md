@@ -3,7 +3,7 @@ title: Random Thoughts on Simplifying Productivity
 header:
  teaser: /assets/images/10248755515_17ac421dea_b_productivity.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/10248755515_17ac421dea_b_productivity.jpg">I get a kick out of the anti-productivity backlash out there. There's a lot of good dialog on the subject but it seeds doubt and uncertainty. I'm not sure if all this navel gazing is getting anything done.
 

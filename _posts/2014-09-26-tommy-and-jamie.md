@@ -3,7 +3,7 @@ title: Tommy and Jamie
 header:
  teaser: /assets/images/4229023687_dde8b6962e_b_mittens.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

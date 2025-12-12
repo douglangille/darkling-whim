@@ -3,7 +3,7 @@ title: Riding the Train
 header:
  teaser: /assets/images/subway_car_by_paupah.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

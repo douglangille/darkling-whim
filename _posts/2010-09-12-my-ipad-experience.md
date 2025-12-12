@@ -3,7 +3,7 @@ title: My iPad Experience
 header:
  teaser: /assets/images/e835b10b29f7033ecd0b470de7444e90fe76e6d01cb5104291f1c7_640_ipad.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/e835b10b29f7033ecd0b470de7444e90fe76e6d01cb5104291f1c7_640_ipad.jpg">Everyone and their cat, it seems, has done an iPad review. I got my hands on a few of these through work as my teams needed to get a handle on what was already becoming a demanding requirement --- both at the systems layer and in end-user support.
 

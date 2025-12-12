@@ -3,7 +3,7 @@ title: In the Eye of the Sandstorm
 header:
  teaser: /assets/images/Desert_Storm_by_Araken_Starway.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

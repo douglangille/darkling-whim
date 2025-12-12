@@ -3,7 +3,7 @@ title: Marching On
 header:
  teaser: /assets/images/IMG_00000056.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/IMG_00000056.jpg">So, what has been going on since I <a href="http://blog.douglangille.ca/post/72322194528/talk-is-cheap-but-rum-costs-money">posted here back in January</a>? Good question. Let's see:
 

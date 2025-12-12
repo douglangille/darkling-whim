@@ -3,7 +3,7 @@ title: Alpha Dreams
 header:
  teaser: /assets/images/Pug_portrait.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

@@ -3,7 +3,7 @@ title: Karma Ran Over My Dogma
 header:
  teaser: /assets/images/ea35b70e20f71c3e81584d04ee44408be273e7d119b212499df5_640_ambulance.png
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

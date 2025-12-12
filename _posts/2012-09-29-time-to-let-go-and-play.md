@@ -3,7 +3,7 @@ title: Time to Let Go and Play
 header:
  teaser: /assets/images/e830b3082ef41c3e81584d04ee44408be273e7d11db7184892f2_640_play.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/e830b3082ef41c3e81584d04ee44408be273e7d11db7184892f2_640_play.jpg">So, first the update. Currently, I weigh 239.2 pounds and a wear a size 38 pants. That's down 67 pounds and 10 pant sizes since <a href="http://blog.douglangille.ca/2012/04/my-30-day-challenge.html" target="_blank">April</a>. 92 pounds gone over all. Minus 7 in September is slightly under my monthly average of -10 but is expected and certainly acceptable.
 

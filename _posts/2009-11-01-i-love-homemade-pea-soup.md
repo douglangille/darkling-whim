@@ -3,7 +3,7 @@ title: I love homemade pea soup!
 header:
  teaser: /assets/images/20091103-174603.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/20091103-174603.jpg">Rhonda makes a mean split green pea soup. It's very tasty and always reminds me of a couple of jokes. The first one makes me giggle:
 

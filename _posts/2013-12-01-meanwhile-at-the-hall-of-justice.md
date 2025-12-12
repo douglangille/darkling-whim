@@ -3,7 +3,7 @@ title: Meanwhile, at the Hall of Justice
 header:
  teaser: /assets/images/8119953873_5ffc23b7a7_hall-of-justice.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="/assets/images/8119953873_5ffc23b7a7_hall-of-justice.jpg"> 
 

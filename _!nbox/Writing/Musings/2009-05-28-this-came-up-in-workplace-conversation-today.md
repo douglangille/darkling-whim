@@ -3,7 +3,7 @@ title: 'This Came Up in Workplace Conversation Today&#8230;'
 header:
  teaser: /assets/images/14543473745_0ef2091b46_b_hannibal-lecter.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/14543473745_0ef2091b46_b_hannibal-lecter.jpg">**Hannibal Lecter:** First principles, Clarice. Simplicity. Read Marcus Aurelius. Of each particular thing ask: what is it in itself? What is its nature? What does he do, this man you seek?
 

@@ -3,7 +3,7 @@ title: Sea Shanties, Nautical Verse and Maritime Ballads
 header:
  teaser: /assets/images/Halyards.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/Halyards.jpg">I live in Nova Scotia and have most of my life. It's a smallish province, nearly surrounded by the Atlantic. At any given point, wherever we are in the province, the ocean is an hour or so away. Even inland, the salty air can tickle our noses if the wind is just right.
 

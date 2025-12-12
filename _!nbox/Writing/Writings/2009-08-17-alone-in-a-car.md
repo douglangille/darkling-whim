@@ -3,7 +3,7 @@ title: Alone in a Car
 header:
  teaser: /assets/images/autoradio-278132_1280.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/autoradio-278132_1280.jpg">Barreling down the highway at dusk with the windows down, enjoying the cooling air and screaming to some rock classics on the radio.
 

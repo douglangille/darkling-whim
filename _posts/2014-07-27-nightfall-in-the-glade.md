@@ -2,13 +2,18 @@
 title: Nightfall in the Glade
 header:
  teaser: /assets/images/Forest_Glade.jpg
+ overlay_image: /assets/images/Forest_Glade.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead
 ---
-<img src="https://douglangille.github.io/assets/images/Forest_Glade.jpg">Legato and Mezzo flew as if their wings were aflame, knocking baskets of gathered berries to the forest floor far below. The twins corkscrewed their way up and around the ancient tree to the canopy of the Glade. They landed on the Great Chamber's platform at a sprint. Chancellor Fortissima of the Faie waited for her couriers to catch their breath.
+
+This story is a continuation of [Artemis' Nightrise](/artemis-nightrise).
+{: .notice}
+
+Legato and Mezzo flew as if their wings were aflame, knocking baskets of gathered berries to the forest floor far below. The twins corkscrewed their way up and around the ancient tree to the canopy of the Glade. They landed on the Great Chamber's platform at a sprint. Chancellor Fortissima of the Faie waited for her couriers to catch their breath.
 
 "But Milady, we have to share these foul tidings," insisted Mezzo.
 
@@ -71,5 +76,3 @@ Fortissima stood fuming and silent, her wings swirling in deep greens and blues.
 Evie smiled and dropped her hand. "No matter. My father will be pleased."
 
 "Tell Artemis I'll be awaiting his visit."
-
-***NOTE: this story is a continuation of <a href="/artemis-nightrise">Artemis' Nightrise</a>.***

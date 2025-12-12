@@ -3,7 +3,7 @@ title: The Perfect Trick
 header:
  teaser: /assets/images/12-magic-tricks-rescan1.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

@@ -3,7 +3,7 @@ title: 'Peggy&#8217;s Cove'
 header:
  teaser: /assets/images/20090907-161345.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20090907-161345.jpg" alt="" />
 

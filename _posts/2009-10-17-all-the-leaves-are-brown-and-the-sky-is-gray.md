@@ -3,7 +3,7 @@ title: All the Leaves are Brown and the Sky is Gray
 header:
  teaser: /assets/images/20091018-144513.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/20091018-144513.jpg" alt="" />
 

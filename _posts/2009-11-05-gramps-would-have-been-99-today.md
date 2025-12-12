@@ -3,7 +3,7 @@ title: 'Gramps would have been 99 today...'
 header:
  teaser: /assets/images/zappino-1030047.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 ![](/assets/images/zappino-1030047.jpg)
 

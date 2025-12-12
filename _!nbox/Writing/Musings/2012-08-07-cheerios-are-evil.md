@@ -3,7 +3,7 @@ title: Cheerios Are Evil
 header:
  teaser: /assets/images/5065176678_9c7055dcd8_cheerios.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/5065176678_9c7055dcd8_cheerios.jpg">So my grandson was visiting with us on the weekend. He's a great kid. Having him around is an inspiration to get healthy.
 

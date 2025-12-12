@@ -3,7 +3,7 @@ title: The Craftsman
 header:
  teaser: /assets/images/Collecting-Knives.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

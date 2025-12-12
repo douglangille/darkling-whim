@@ -3,7 +3,7 @@ title: The Apprentice
 header:
  teaser: /assets/images/8362770480_565fda5a56_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

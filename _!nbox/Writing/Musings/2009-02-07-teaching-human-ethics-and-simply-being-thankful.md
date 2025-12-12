@@ -3,7 +3,7 @@ title: Teaching Human Ethics and Simply Being Thankful
 header:
  teaser: /assets/images/5180726549_d4769971f3_b_ethics.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/5180726549_d4769971f3_b_ethics.jpg">I was talking with a co-worker this morning --- that kind of cubicle chatter that usually starts any given day. He was sharing a story about the appropriateness of demonstrating thankfulness and its (possible) religious implications.
 

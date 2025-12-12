@@ -3,7 +3,7 @@ title: One Of The Reasons I Love My Wife
 header:
  teaser: /assets/images/20090625-182805.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/20090625-182805.jpg">One of the reasons I love my wife is in daring to fly without any safety belts.
 

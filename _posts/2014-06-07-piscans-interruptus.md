@@ -3,7 +3,7 @@ title: Piscans Interruptus
 header:
  teaser: /assets/images/Fishing-spinning-reel.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

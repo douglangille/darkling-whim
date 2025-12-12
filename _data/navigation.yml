@@ -5,10 +5,12 @@ main:
 #    url: /browse/
   - title: "Digital Doug"
     url: https://douglangille.substack.com
-  - title: "Fiction"
-    url: /writings/
-  - title: "Off-topic"
-    url: /musings/
+  - title: "Published Works"
+    url: /published/  
+  - title: "Stories & Poems"
+    url: /fiction/
+  - title: "Perspectives"
+    url: /perspectives/
 
 #  - title: "Write Tips"
 #    url: /writetips/

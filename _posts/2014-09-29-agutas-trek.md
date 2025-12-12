@@ -3,7 +3,7 @@ title: 'Aguta&#39;s Trek'
 header:
  teaser: /assets/images/2303495178_2be7a54eda_arctic-tundra.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

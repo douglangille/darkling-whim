@@ -3,7 +3,7 @@ title: '30 Day Challenge &#8212; April&#39;s Done, May&#39;s Begun'
 header:
  teaser: /assets/images/ec3cb50e2cf71c3e81584d04ee44408be273e7d11db7184493f6_640_exercise.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/ec3cb50e2cf71c3e81584d04ee44408be273e7d11db7184493f6_640_exercise.jpg">Last month, I committed to a <a href="http://blog.douglangille.ca/2012/04/my-30-day-challenge.html" target="_blank">30 day challenge to remove flour and added-sugar</a> from my diet. It evolved to be a lot closer to the <a href="http://www.marksdailyapple.com/primal-blueprint-101" target="_blank">Primal Blueprint</a> (definitely not Atkins and not really a strict Paleo).
 

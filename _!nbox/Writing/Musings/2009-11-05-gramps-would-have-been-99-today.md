@@ -3,7 +3,7 @@ title: 'Gramps would have been 99 today&#8230;'
 header:
  teaser: /assets/images/zappino-1030047.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/zappino-1030047.jpg"><h2 id="the-song-of-the-wage-slave">The Song of the Wage-Slave</h2>
 

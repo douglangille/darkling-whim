@@ -3,7 +3,7 @@ title: 'Coffee Week &#8212; Thursday'
 header:
  teaser: /assets/images/20090305-085911.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20090305-085911.jpg">I'm in planning meetings all day that will probably feature the stereotypical coffee urn of curious vintage.
 

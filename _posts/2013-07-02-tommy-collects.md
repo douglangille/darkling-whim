@@ -3,7 +3,7 @@ title: Tommy Collects
 header:
  teaser: /assets/images/4298179061_d2402b6ded_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

@@ -3,7 +3,7 @@ title: Judgement Dogs
 header:
  teaser: /assets/images/door-689874_1280.jpg
 categories:
-  - Writings
+  - Fiction
 ---
 <img src="https://douglangille.github.io/assets/images/door-689874_1280.jpg">"Pansy, did you see what that meathead did?"
 

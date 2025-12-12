@@ -3,7 +3,7 @@ title: 20 West Street, Antigonish, NS
 header:
  teaser: /assets/images/gag.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/gag.jpg">For about 50 years, this was my grandparents' house. Gramma, and then my uncle, ran a restaurant called the Cottage Store adjacent to the house. Nicknamed the "Gag", it was an institution for college students for decades.
 

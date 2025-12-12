@@ -3,7 +3,7 @@ title: 'This Video Is Even More Funny With Rim&#39;s Major Outage'
 header:
  teaser: /assets/images/e835b50a2ff6093ecd0b470de7444e90fe76e6d01cb510449df2c9_640_blackberry.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/e835b50a2ff6093ecd0b470de7444e90fe76e6d01cb510449df2c9_640_blackberry.jpg"><span class="embed-youtube" style="text-align:center; display: block;"></span>
 

@@ -3,7 +3,7 @@ title: Father Time Versus the Time Demons
 header:
  teaser: /assets/images/20141022_003057000_iOS.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

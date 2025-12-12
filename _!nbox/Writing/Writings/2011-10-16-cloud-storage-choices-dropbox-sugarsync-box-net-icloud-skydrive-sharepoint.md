@@ -3,7 +3,7 @@ title: Cloud Storage Choices (DropBox, SugarSync, Box.net, iCloud, SkyDrive, Sha
 header:
  teaser: /assets/images/ea32b10e28e91c72d252440dee4a5b97e772e7d118b7124691_640_cloud.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/ea32b10e28e91c72d252440dee4a5b97e772e7d118b7124691_640_cloud.jpg">I have 5gb on Dropbox, but it requires that I install a client to access it which is fine for iPad, BlackBerry (and PlayBook) and a computer with which one has administrative control. That's fine as it's popular and integrates with damn near everything. However, it's a bad citizen on a corporate LAN (with LANsync enabled by default). In a thin client environment, it's a PITA because there is no WebDAV access.
 

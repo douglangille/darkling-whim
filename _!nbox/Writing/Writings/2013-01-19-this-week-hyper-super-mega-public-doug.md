@@ -3,7 +3,7 @@ title: 'This Week: Hyper-Super-Mega-Public Doug'
 header:
  teaser: /assets/images/e835b50e28fd053ecd0b470de7444e90fe76e6d01db5144590f8c7_640_spotlight.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/e835b50e28fd053ecd0b470de7444e90fe76e6d01db5144590f8c7_640_spotlight.jpg">A few people have asked me lately to detail exactly what I eat if I've been eschewing all grains for months. My god! Think about the toaster! Won't someone please think about the toaster!
 

@@ -3,7 +3,7 @@ title: A Close Call
 header:
  teaser: /assets/images/4597461278_a5c993ccc1_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

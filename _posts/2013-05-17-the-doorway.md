@@ -3,7 +3,7 @@ title: The Doorway
 header:
  teaser: /assets/images/19413383176_76321090c1_b_doorway.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

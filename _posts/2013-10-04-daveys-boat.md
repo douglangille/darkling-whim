@@ -3,7 +3,7 @@ title: 'Davey&#39;s Boat'
 header:
  teaser: /assets/images/7c12253e0cafcd77_640_rain-street.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

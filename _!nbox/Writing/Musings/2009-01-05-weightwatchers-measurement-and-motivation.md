@@ -3,7 +3,7 @@ title: WeightWatchers, Measurement, and Motivation
 header:
  teaser: /assets/images/ed35b20a20f11c3e81584d04ee44408be273e7d11db7184997f6_640_scale.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/ed35b20a20f11c3e81584d04ee44408be273e7d11db7184997f6_640_scale.jpg" alt="" />
 

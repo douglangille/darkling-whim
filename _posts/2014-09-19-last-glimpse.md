@@ -3,7 +3,7 @@ title: Last Glimpse
 header:
  teaser: /assets/images/armagedon-6.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Poetry
 ---

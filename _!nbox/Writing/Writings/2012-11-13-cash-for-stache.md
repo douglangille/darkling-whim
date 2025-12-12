@@ -3,7 +3,7 @@ title: Cash For Stache
 header:
  teaser: /assets/images/15454559789_57382091a0_groucho.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/15454559789_57382091a0_groucho.jpg">Cash for 'stache?
 

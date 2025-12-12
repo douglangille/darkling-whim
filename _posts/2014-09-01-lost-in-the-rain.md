@@ -3,7 +3,7 @@ title: Lost in the Rain
 header:
  teaser: /assets/images/Storm_Drain.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Poetry
 ---

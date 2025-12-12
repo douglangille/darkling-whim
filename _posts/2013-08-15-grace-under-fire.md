@@ -3,7 +3,7 @@ title: Grace Under Fire
 header:
  teaser: /assets/images/e835b3062bf0013ecd0b470de7444e90fe76e6d01bb711429cf2c1_640_lab.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

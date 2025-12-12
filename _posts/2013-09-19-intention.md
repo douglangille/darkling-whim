@@ -3,7 +3,7 @@ title: Intention
 header:
  teaser: /assets/images/3445269852_bca2f85d3c_b-1.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

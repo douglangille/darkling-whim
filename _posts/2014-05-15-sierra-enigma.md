@@ -3,7 +3,7 @@ title: Sierra Enigma
 header:
  teaser: /assets/images/PartialHeterochromia.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

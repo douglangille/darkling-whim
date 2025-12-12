@@ -3,7 +3,7 @@ title: Patching Annie
 header:
  teaser: /assets/images/6164022668_e6a611ccfe_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

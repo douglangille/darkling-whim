@@ -3,7 +3,7 @@ title: 'Woden&#39;s Daughter'
 header:
  teaser: /assets/images/precipice_by_machelko.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

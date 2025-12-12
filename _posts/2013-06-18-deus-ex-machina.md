@@ -3,7 +3,7 @@ title: Deus Ex Machina
 header:
  teaser: /assets/images/1b5b1dfcb4aa9054_1280_detective1.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

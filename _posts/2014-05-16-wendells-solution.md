@@ -3,7 +3,7 @@ title: 'Wendell&#39;s Solution'
 header:
  teaser: /assets/images/249752730_c02409b9ca_o.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

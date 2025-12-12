@@ -3,7 +3,7 @@ title: Down the Rabbit-hole at Easter
 header:
  teaser: /assets/images/e835b00b21f7003ecd0b470de7444e90fe76e6d01cb5164996f6c7_640_rabbit-hole.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/e835b00b21f7003ecd0b470de7444e90fe76e6d01cb5164996f6c7_640_rabbit-hole.jpg">I firmly believe in <a href="http://blog.douglangille.ca/post/6810259/18-practical-tips-for-living-the-golden-rule">the golden rule</a>, which is a common thread with all religions --- it's unfortunate the <a href="http://blog.douglangille.ca/post/33322137/do-unto-others-before-they-do-unto-you">opposing biological imperative</a> still reigns.
 

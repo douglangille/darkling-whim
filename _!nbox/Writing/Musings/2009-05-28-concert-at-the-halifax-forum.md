@@ -3,7 +3,7 @@ title: Concert at the Halifax Forum
 header:
  teaser: /assets/images/20090530-235505.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20090530-235505.jpg" alt="" />
 

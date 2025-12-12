@@ -3,7 +3,7 @@ title: Scare Tactics
 header:
  teaser: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

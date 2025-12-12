@@ -3,7 +3,7 @@ title: 'Herb&#39;s Bad Week'
 header:
  teaser: /assets/images/5767025075_409bb987e0_b_noose.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

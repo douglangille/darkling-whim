@@ -3,7 +3,7 @@ title: Second Chances
 header:
  teaser: /assets/images/bar_by_zeitweilig.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

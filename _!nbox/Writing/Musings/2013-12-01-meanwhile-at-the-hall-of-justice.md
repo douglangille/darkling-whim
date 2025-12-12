@@ -3,7 +3,7 @@ title: Meanwhile, at the Hall of Justice
 header:
  teaser: /assets/images/8119953873_5ffc23b7a7_hall-of-justice.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/8119953873_5ffc23b7a7_hall-of-justice.jpg">So, it's been two months since my <a href="http://blog.douglangille.ca/post/62994737637/rocktober-show-me-your-horns">last post</a>. Christmas is just around the corner and soon we'll be saying 'Chuck U. Farley' to 2013.
 

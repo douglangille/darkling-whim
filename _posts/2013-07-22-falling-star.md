@@ -3,7 +3,7 @@ title: Falling Star
 header:
  teaser: /assets/images/4949129334_4de1a73374_b_falling-star.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

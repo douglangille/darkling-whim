@@ -3,7 +3,7 @@ title: Maternity
 header:
  teaser: /assets/images/e835b30c20f0023ecd0b470de7444e90fe76e6d01cb519419cf9c0_640_geometry.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/e835b30c20f0023ecd0b470de7444e90fe76e6d01cb519419cf9c0_640_geometry.jpg">There once was a Square, such a square little Square,  
  And he loved a trim Triangle;  

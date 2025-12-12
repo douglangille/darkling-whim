@@ -3,7 +3,7 @@ title: Confession
 header:
  teaser: /assets/images/8683286803_197ea2417f_sea-siren.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Poetry
 ---

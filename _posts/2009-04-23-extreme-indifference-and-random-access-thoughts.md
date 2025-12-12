@@ -3,7 +3,7 @@ title: Extreme Indifference and Random Access Thoughts
 header:
  teaser: /assets/images/ea3db30920f21c3e81584d04ee44408be273e7d01db6194895f7_640_carrots.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 
 ![](/assets/images/ea3db30920f21c3e81584d04ee44408be273e7d01db6194895f7_640_carrots.jpg)

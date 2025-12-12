@@ -3,7 +3,7 @@ title: What CO2? No CO2 here!
 header:
  teaser: /assets/images/9VN9Q.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/9VN9Q.jpg">One week later and I still can't let this one go.
 

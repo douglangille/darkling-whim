@@ -3,7 +3,7 @@ title: Into the Void
 header:
  teaser: /assets/images/6336363394_213bd59a9b_b.jpg
 categories:
-  - Writings
+  - Fiction
 ---
 <img src="https://douglangille.github.io/assets/images/6336363394_213bd59a9b_b.jpg">***Date: September 27, 1491 SCE  
  (Second Current Era)***

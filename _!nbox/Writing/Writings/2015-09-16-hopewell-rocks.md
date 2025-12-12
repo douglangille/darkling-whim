@@ -4,7 +4,7 @@ header:
   overlay_image: /assets/images/20150906_150623804_iOS-e1447562065254.jpg
   teaser: /assets/images/20150906_150623804_iOS-e1447562065254.jpg
 categories:
-  - Musings
+  - Off-topic
 tags:
   - Love
 excerpt: >-

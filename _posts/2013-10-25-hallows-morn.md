@@ -3,7 +3,7 @@ title: 'Hallow&#39;s Morn'
 header:
  teaser: /assets/images/15763329850_bb142a25a4_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

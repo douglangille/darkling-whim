@@ -6,7 +6,7 @@ header:
  overlay_filter: 0.4
 excerpt: ""
 categories:
-  - Writings
+  - Fiction
 tags:
   - Poetry
 ---

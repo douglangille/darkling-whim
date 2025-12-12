@@ -3,7 +3,7 @@ title: 'Coffee Week &#8212; Sunday'
 header:
  teaser: /assets/images/20090301-080347.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/20090301-080347.jpg">I balance lazy, affordable and tasty when I make coffee.
 

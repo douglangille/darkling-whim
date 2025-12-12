@@ -7,7 +7,7 @@ header:
   overlay_filter: .25
 excerpt: "Lucy trembled..."  
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

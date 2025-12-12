@@ -3,7 +3,7 @@ title: Christmas Then and Now
 header:
  teaser: /assets/images/ec33b50c2df51c3e81584d04ee44408be273e7d119b2144197f5_640_christmas.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 
 ![](/assets/images/ec33b50c2df51c3e81584d04ee44408be273e7d119b2144197f5_640_christmas.jpg)

@@ -1,7 +1,7 @@
 ---
 title: Strange Love
 categories:
-  - Writings
+  - Fiction
 tags:
   - Poetry
 ---

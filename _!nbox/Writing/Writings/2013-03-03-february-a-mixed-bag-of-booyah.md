@@ -3,7 +3,7 @@ title: 'February &#8212; A Mixed Bag of Booyah'
 header:
  teaser: /assets/images/eb3cb60d2af71c3e81584d04ee44408be273e7d11db4124796f5_640_paper-bag.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/eb3cb60d2af71c3e81584d04ee44408be273e7d11db4124796f5_640_paper-bag.jpg">I'm a little late getting this update out. It's been a busy time.
 

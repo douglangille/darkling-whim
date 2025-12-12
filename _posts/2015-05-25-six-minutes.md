@@ -3,7 +3,7 @@ title: Six Minutes
 header:
  teaser: /assets/images/earth-244238_1280.jpg
 categories:
-  - Writings
+  - Fiction
 ---
 <img src="https://douglangille.github.io/assets/images/earth-244238_1280.jpg" />
 

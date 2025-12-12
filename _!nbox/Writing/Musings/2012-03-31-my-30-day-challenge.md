@@ -3,7 +3,7 @@ title: My 30 Day Challenge
 header:
  teaser: /assets/images/e137b90929f51c3e81584d04ee44408be273e7d11db7184396f6_640_calenar.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/e137b90929f51c3e81584d04ee44408be273e7d11db7184396f6_640_calenar.jpg">April is a nice square looking month this year --- starts on a Sunday and all that. April Fools Day makes as great a New Year as anything for resolutions.
 

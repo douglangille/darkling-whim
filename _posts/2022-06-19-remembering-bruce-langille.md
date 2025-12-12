@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/race-ge6b21f045_1920.jpg
   overlay_image: /assets/images/race-ge6b21f045_1920.jpg
   overlay_filter: 0.4
-categories: 'Musings'
+categories: 'Perspectives'
 excerpt: "Put me in coach, I'm ready to play."
 ---
 Today is Father's Day. Dad passed on Mother's Day. Here is the text of the tribute I gave for him at his funeral: 

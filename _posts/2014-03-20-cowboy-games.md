@@ -3,7 +3,7 @@ title: Cowboy Games
 header:
  teaser: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

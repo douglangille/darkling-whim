@@ -3,7 +3,7 @@ title: Human Oddity
 header:
  teaser: /assets/images/3515903269_4ef595b1e7_alien-human.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

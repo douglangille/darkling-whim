@@ -3,7 +3,7 @@ title: Emerald Fire
 header:
  teaser: /assets/images/4877453831_9016c0ac98_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

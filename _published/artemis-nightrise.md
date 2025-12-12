@@ -1,14 +1,15 @@
 ---
 title: Artemis Nightrise
+date: 2013-06-23
 header:
  teaser: /assets/images/flickr-6620255181-original.jpg
-categories:
-  - Writings
-tags:
-  - Fiction
-  - QuickRead
+ overlay_image: /assets/images/flickr-6620255181-original.jpg 
 ---
-<img src="https://douglangille.github.io/assets/images/flickr-6620255181-original.jpg">Evie had a problem. She was overwhelmed. The coven hadn't assembled like this in more than two-hundred years. She was unsure how many of the Night-seekers were even left. The ship's beacon had gone off on her watch. She verified the scans twice, then three times, to convince herself that their long journey was about to end. Finally, a whole new world. She was so thirsty. One thing at a time.
+
+Originally published in the science fiction anthology [Dark Futures Annual 1](https://www.amazon.ca/Dark-Futures-Annual-Roy-Booth-ebook/dp/B00MKA1G4W). Unpublished sequels are [Nightfall in the Glade](/nightfall-in-the-glade) and [The Dark Pool of Lamia](/the-dark-pool-of-lamia). A completed work is in development.
+{: .notice}
+
+Evie had a problem. She was overwhelmed. The coven hadn't assembled like this in more than two-hundred years. She was unsure how many of the Night-seekers were even left. The ship's beacon had gone off on her watch. She verified the scans twice, then three times, to convince herself that their long journey was about to end. Finally, a whole new world. She was so thirsty. One thing at a time.
 
 She made her way to the galley to inspect the hemoglobin stores. Waking her family from their long slumber would be taxing on the reserves. The computer's inventory had the stock listed at only three months' worth of suspended animation rations. A cranky, walking and talking multitude would exhaust these in mere days.
 
@@ -69,5 +70,3 @@ King Artemis then addressed his rapt subjects in a voice low and playful. "There
 His words were electric. His family of hunters buzzed with fire and fight. The air felt tight, like a dam ready to burst. Artemis gave them their reward.
 
 "What is this surprise in store for us?" Another pause. "Intelligent prey. Humanoid, like us. Rich and luxurious blood. An entire civilization awaits our conquest. Thirty billion alien souls upon which to feast. It is a banquet, my children. We will drink and feed until we thirst no more. We will swell our ranks. We will become mighty again. We will consume this world. It is our way. Welcome to my table. The hunt begins tonight!"
-
-***NOTE: This story placed in a short fiction contest and was published at <a href="http://www.darkfuturesfiction.net/artemisnightrise/">Dark Futures</a>, was <a href="http://www.darkfuturesfiction.net/artemis-nightrise/">republished</a> and appears in <a href="https://www.indiegogo.com/projects/dark-futures-annual-1">Dark Futures Annual 1</a>. Yay! Go me!***

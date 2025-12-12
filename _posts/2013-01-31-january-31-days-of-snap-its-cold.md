@@ -3,7 +3,7 @@ title: 'January &#8212; 31 Days Of Snap Its Cold'
 header:
  teaser: /assets/images/e834b70f2af2003ecd0b470de7444e90fe76e6d01db5144292f8c3_640_cold.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/e834b70f2af2003ecd0b470de7444e90fe76e6d01db5144292f8c3_640_cold.jpg">As of this morning:
 

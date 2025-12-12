@@ -3,7 +3,7 @@ title: Saturday Hyper Super Mega Public Doug
 header:
  teaser: /assets/images/tumblr_mh9makYGXf1rlipfwo1_1280.png
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/tumblr_mh9makYGXf1rlipfwo1_1280.png">I enjoyed a day off and accomplished very little.
 

@@ -3,7 +3,7 @@ title: Thoughtful Magic
 header:
  teaser: /assets/images/1deb57f5e4789aa4_1280_mask.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

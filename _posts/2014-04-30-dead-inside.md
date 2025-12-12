@@ -3,7 +3,7 @@ title: Dead Inside
 header:
  teaser: /assets/images/2539093647_fb775f496b_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

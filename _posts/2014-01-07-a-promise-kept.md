@@ -3,7 +3,7 @@ title: A Promise Kept
 header:
  teaser: /assets/images/4297653599_5d435cf261_b_peggy-cove.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

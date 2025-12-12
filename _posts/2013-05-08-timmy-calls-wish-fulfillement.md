@@ -3,7 +3,7 @@ title: Timmy Calls Wish Fulfillement
 header:
  teaser: /assets/images/7091212300ecb41f_1280_telephone.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

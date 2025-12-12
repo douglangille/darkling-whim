@@ -3,7 +3,7 @@ title: The Bonded
 header:
  teaser: /assets/images/sky-404060.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

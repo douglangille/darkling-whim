@@ -3,7 +3,7 @@ title: A Very Brief Update
 header:
  teaser: /assets/images/64245730.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/64245730.jpg">Here it is, late August 2014, and it's a busy time as always. I work at a community college. Faculty came back this week and students return the next. When I look up next, it'll be October.
 

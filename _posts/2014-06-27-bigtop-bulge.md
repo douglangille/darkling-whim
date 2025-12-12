@@ -3,7 +3,7 @@ title: Bigtop Bulge
 header:
  teaser: /assets/images/8019720146_bd87339614_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

@@ -3,7 +3,7 @@ title: Western Standoff
 header:
  teaser: /assets/images/2227797968_278063879c_six-shooter.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

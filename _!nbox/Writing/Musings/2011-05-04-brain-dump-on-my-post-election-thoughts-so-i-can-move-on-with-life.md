@@ -3,7 +3,7 @@ title: Brain Dump on my Post-Election Thoughts (so I can move on with life)
 header:
  teaser: /assets/images/tumblr_inline_mfb5obBL361rabiuj.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/tumblr_inline_mfb5obBL361rabiuj.jpg">I've voted NDP in every election for which I've been eligible save one. The first time I exercised by democratic right, I voted for Kim Campbell's Tories --- that worked out well.
 

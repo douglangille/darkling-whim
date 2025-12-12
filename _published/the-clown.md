@@ -1,9 +1,13 @@
 ---
 title: "The Clown"
+date: 2013-10-13
 header:
     teaser: /assets/images/the-clown.png
     overlay_image: /assets/images/the-clown.png
 ---
+Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231).
+{: .notice}
+
 What lies beneath the painted mask?  
 A heart of black, a soul of glass?  
 Sharpened teeth and rotted tongue,  

@@ -3,7 +3,7 @@ title: Alone on Tazin Lake
 header:
  teaser: /assets/images/IMG-20121020-00007.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

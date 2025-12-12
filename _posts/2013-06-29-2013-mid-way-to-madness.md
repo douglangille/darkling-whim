@@ -3,7 +3,7 @@ title: 2013 Mid-way to Madness
 header:
  teaser: /assets/images/e835b00f2efd073ecd0b470de7444e90fe76e6d01db5144291f2c9_640_maple-leaf.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/e835b00f2efd073ecd0b470de7444e90fe76e6d01db5144291f2c9_640_maple-leaf.jpg">Happy Canada Day! May bacon and coffee keep and protect you in these troubled times.
 

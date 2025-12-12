@@ -3,7 +3,7 @@ title: 'I Don&#39;t Get Twitter'
 header:
  teaser: /assets/images/8346162027_ccd0ee6b30_b_twitter.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/8346162027_ccd0ee6b30_b_twitter.jpg">I tried to understand it. I really did. For almost a month, I tooled around with it trying to find a reason to use it. Apparently, a cat has more cause to tweet than I do (<a href="http://twitter.com/sockington">http://twitter.com/sockington</a>).
 

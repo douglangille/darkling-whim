@@ -3,7 +3,7 @@ title: 'She Laughed Until She Cried&#8230;'
 header:
  teaser: /assets/images/20090519-214449.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20090519-214449.jpg">So, I had an hour between coming home from work and taking Adam to guitar lessons. I decided to haul up some the old tile in the kitchen as part of the discount reno plan we're cruising thru prior to the nuptials of Carye and Alex.
 

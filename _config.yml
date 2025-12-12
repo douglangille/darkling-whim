@@ -1,9 +1,9 @@
 title                   : On a Darkling Whim
 title_separator         : "-"
 subtitle                : >-
-  Dark stories, tales of whimsy and random brain droppings.
+  Untethered tales, scattered thoughts.
 description             : >-
-  Dark stories, tales of whimsy and random brain droppings.
+  Doug Langille’s hub for fiction, stories, and musings &mdash; a place where imagination wanders and ideas run untethered.
 url                     : https://douglangille.ca
 baseurl                 : /
 github                  : [metadata]
@@ -16,10 +16,9 @@ teaser                  : /assets/images/white500x300.jpg
 logo                    : 
 masthead_title          :
 
-remote_theme            : mmistakes/minimal-mistakes
-#theme                   : minimal-mistakes-jekyll
+#remote_theme            : mmistakes/minimal-mistakes
+theme                   : minimal-mistakes-jekyll
 minimal_mistakes_skin   : default
-minimal_mistakes_skin2  : dark
 
 words_per_minute        : 200
 
@@ -130,6 +129,9 @@ author:
     - label             : "Substack"
       icon              : "fa-regular fa-fw fa-newspaper"
       url               : "https://douglangille.substack.com"
+    - label             : "Amazon"
+      icon              : "fab fa-fw fa-amazon"
+      url               : "https://www.amazon.com/author/douglangille"
 
 footer:
   links:
@@ -142,7 +144,7 @@ footer:
 
 pagination:
   enabled               : true
-  per_page              : 8
+  per_page              : 24
   permalink             : '/page:num/'
   title                 : ''
   sort_field            : 'date'
@@ -184,7 +186,7 @@ collections:
   published:
     output              : true
     label               : "Published"
-    permalink           : /:collection/:title/
+    permalink           : /:title/
 
 defaults:
   - scope:

@@ -3,7 +3,7 @@ title: Moby on the Beach
 header:
  teaser: /assets/images/1196478322_fec1df88ce_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

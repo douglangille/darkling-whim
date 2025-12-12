@@ -3,7 +3,7 @@ title: Hold the Phone
 header:
  teaser: /assets/images/4940893730_ce74d18852_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

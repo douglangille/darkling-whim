@@ -3,7 +3,7 @@ title: Scrambled
 header:
  teaser: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

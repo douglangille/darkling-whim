@@ -3,7 +3,7 @@ title: A Few Shots of Seattle
 header:
  teaser: /assets/images/20090511-204809.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20090511-204809.jpg" alt="" />
 

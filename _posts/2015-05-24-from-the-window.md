@@ -5,7 +5,7 @@ header:
  overlay_filter: .25
  teaser: /assets/images/IMG_0342.jpg
 categories:
-  - Writings
+  - Fiction
 ---
 Elvis has left the building.
 

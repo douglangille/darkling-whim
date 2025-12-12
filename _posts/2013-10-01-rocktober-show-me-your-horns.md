@@ -3,7 +3,7 @@ title: Rocktober! Show me your horns!
 header:
  teaser: /assets/images/9532690497_b77fab60e8_metal-horns.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/9532690497_b77fab60e8_metal-horns.jpg">I'm home sick today, cold sweats, eyes stinging, bones aching and head pounding. To be honest I feel like a reanimated corpse who'd rather be just left alone to rot. There's a bug going around at work. I really hope it isn't a zombie variety. O_O
 

@@ -3,7 +3,7 @@ title: Let the Chips Fall
 header:
  teaser: /assets/images/3648773666_35714d3792_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

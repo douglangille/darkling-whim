@@ -3,7 +3,7 @@ title: The Standoff
 header:
  teaser: /assets/images/5923105171_90007ff833_cat-mouse.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

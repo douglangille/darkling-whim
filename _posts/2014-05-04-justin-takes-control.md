@@ -3,7 +3,7 @@ title: Justin Takes Control
 header:
  teaser: /assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

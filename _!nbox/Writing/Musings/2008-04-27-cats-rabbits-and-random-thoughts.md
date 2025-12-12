@@ -3,7 +3,7 @@ title: Cats, Rabbits and Random Thoughts
 header:
  teaser: /assets/images/6070789725_4abccfc4a2_b_rabbits-kittens.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/6070789725_4abccfc4a2_b_rabbits-kittens.jpg">So, I was in a meeting yesterday. We were embroiled in heated discourse over project planning and scenario discovery around a frankenbuilt technology solution that really needed the business-side addressed first. Again.
 

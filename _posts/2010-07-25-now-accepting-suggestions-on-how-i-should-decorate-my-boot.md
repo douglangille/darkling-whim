@@ -3,7 +3,7 @@ title: Now Accepting Suggestions On How I Should Decorate My Boot
 header:
  teaser: /assets/images/tumblr_mfb74tMmP61rlipfwo1.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/tumblr_mfb74tMmP61rlipfwo1.jpg">So, I slipped on the metal threshold of my front door while taking the garbage out. Wearing Crocs. In the rain.
 

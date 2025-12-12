@@ -3,7 +3,7 @@ title: Brain Dump on my Post-Election Thoughts (so I can move on with life)
 header:
  teaser: /assets/images/tumblr_inline_mfb5obBL361rabiuj.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 
 ![](/assets/images/tumblr_inline_mfb5obBL361rabiuj.jpg)

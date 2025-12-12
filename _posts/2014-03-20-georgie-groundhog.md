@@ -3,7 +3,7 @@ title: Georgie Groundhog
 header:
  teaser: /assets/images/7420708952_0c90eb0fea_b.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

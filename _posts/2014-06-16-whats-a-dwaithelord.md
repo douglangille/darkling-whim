@@ -3,7 +3,7 @@ title: 'What&#39;s a Dwaithelord?'
 header:
  teaser: /assets/images/5416798747_0095e81ffe_evil-fairy.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

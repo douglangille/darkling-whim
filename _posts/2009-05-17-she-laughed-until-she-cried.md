@@ -3,7 +3,7 @@ title: 'She Laughed Until She Cried&#8230;'
 header:
  teaser: /assets/images/20090519-214449.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 
 ![](/assets/images/20090519-214449.jpg)

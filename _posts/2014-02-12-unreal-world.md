@@ -3,7 +3,7 @@ title: Unreal World
 header:
  teaser: /assets/images/holding_hands_by_xperianceART.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

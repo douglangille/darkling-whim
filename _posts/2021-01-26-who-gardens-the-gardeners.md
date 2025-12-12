@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/pexels-photo-38136.jpeg
   overlay_image: /assets/images/pexels-photo-38136.jpeg
   overlay_filter: 0.4
-categories: Writings
+categories: Fiction
 excerpt: "It started as a joke, really. Betsy dared me."
 published: true
 ---

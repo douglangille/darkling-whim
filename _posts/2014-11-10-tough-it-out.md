@@ -3,7 +3,7 @@ title: Tough It Out
 header:
   teaser: /assets/images/3789200908_9dbf327800_scrape.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

@@ -3,7 +3,7 @@ title: The Last Days of the Marcy Bell
 header:
  teaser: /assets/images/3375982065_d2b7a3b27b_o.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

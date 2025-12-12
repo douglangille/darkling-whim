@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/img_0179.jpg
   overlay_image: /assets/images/img_0179.jpg
   overlay_filter: 0.4
-categories: 'Musings'
+categories: 'Perspectives'
 excerpt: "Yes, folks should be pissed off about it."
 
 ---

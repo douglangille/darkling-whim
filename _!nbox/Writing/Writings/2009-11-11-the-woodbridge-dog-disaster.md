@@ -3,7 +3,7 @@ title: The Woodbridge Dog Disaster
 header:
  teaser: /assets/images/dog-732346_1280.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/dog-732346_1280.jpg">There was an old woman in Woodbridge there was  
 So proper and tidy and all of them things  

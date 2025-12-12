@@ -3,7 +3,7 @@ title: Bat Geriatrics
 header:
  teaser: /assets/images/batman-532919_1280.jpg
 categories:
-  - Writings
+  - Fiction
 ---
 <img src="https://douglangille.github.io/assets/images/batman-532919_1280.jpg">"Alfred! Get me my cowl."
 

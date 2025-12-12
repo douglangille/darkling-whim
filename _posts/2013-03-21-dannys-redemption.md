@@ -3,7 +3,7 @@ title: 'Danny&#39;s Redemption'
 header:
  teaser: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

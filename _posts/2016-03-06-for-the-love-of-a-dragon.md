@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/dragon-1014565_1280.jpg
   overlay_image: /assets/images/dragon-1014565_1280.jpg
 categories:
-  - Writings
+  - Fiction
 published: true
 excerpt: "She's a smoke show."
 ---

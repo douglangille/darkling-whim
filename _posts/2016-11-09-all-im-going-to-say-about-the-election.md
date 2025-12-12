@@ -7,7 +7,7 @@ header:
 excerpt: >-
   Populism can be a dangerous thing.
 categories:
-  - Musings
+  - Perspectives
 published: true
 ---
 Populism can be a dangerous thing-- where an informed opinion weighs as much as an uninformed one, where truth becomes subjective, and where the only voices heard are rife with vitriol and fear.

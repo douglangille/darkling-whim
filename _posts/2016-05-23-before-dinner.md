@@ -5,7 +5,7 @@ header:
  overlay_image: /assets/images/ee34b20728e91c72d252440dee4a5b97e771e6d518b2134394_1280_dinner.jpg
  caption: "Photo credit: PublicDomainPictures"
 categories:
- - Writings
+ - Fiction
 tags:
  - Fiction
  - QuickRead

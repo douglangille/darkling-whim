@@ -3,7 +3,7 @@ title: Tired of the rain?
 header:
  teaser: /assets/images/water-815271_1280.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 
 ![](/assets/images/water-815271_1280.jpg)

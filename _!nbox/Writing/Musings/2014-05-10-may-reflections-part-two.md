@@ -3,7 +3,7 @@ title: 'May Reflections &#8212; Part Two'
 header:
  teaser: /assets/images/IMG_20140511_133123.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/IMG_20140511_133123.jpg">*In <a href="/may-reflections-8211-part-one/">Part One of my May Reflection series</a>, I played philosopher around positivity, intention and the Golden Rule. Really, paying yourself by 'paying-it-forward'. Yada-yada. Today, I want to share two very different experiences. I'll stitch the ideas together in Part Three.*
 

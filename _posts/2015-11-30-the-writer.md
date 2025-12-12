@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/8226570181_e9e2fde4fd_writer.jpg
   teaser: /assets/images/8226570181_e9e2fde4fd_writer.jpg
 categories:
-  - Writings
+  - Fiction
 tags:
   - Writing
 excerpt: >-

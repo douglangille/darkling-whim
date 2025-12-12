@@ -3,7 +3,7 @@ title: 'Salem: History and Hysteria'
 header:
  teaser: /assets/images/20150620_175930485_iOS.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/20150620_175930485_iOS.jpg" alt="" />
 

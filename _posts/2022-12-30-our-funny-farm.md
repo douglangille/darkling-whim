@@ -1,7 +1,7 @@
 ---
 title: Our Funny Farm
 categories:
-  - Musings
+  - Perspectives
 excerpt: 'Whoops, we started a farm.'
 gallery1:
   - url: /assets/images/20221230_122554988_iOS.jpg

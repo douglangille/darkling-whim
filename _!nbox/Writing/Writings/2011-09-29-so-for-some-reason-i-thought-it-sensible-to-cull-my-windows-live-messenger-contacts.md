@@ -3,7 +3,7 @@ title: So, for some reason, I thought it sensible to cull my Windows Live Messen
 header:
  teaser: /assets/images/e835b30f29f0053ecd0b470de7444e90fe76e6d01cb5104794f9c6_640_contacts.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/e835b30f29f0053ecd0b470de7444e90fe76e6d01cb5104794f9c6_640_contacts.jpg">I got mired up in the Windows Live platform import/export goofiness and generally ended up annoying all my peeps. Sorry.
 

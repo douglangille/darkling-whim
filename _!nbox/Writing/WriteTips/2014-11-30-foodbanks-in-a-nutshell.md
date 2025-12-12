@@ -3,7 +3,7 @@ title: Foodbanks in a Nutshell
 header:
  teaser: /assets/images/donation-517123_12801.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/donation-517123_12801.jpg">Hunger and food insecurity in the western world is not a new problem.
 

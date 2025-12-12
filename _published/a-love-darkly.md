@@ -1,9 +1,13 @@
 ---
 title: "A Love, Darkly"
+date: 2013-10-13
 header: 
     teaser: /assets/images/a-love-darkly.png
     overlay_image: /assets/images/a-love-darkly.png
 ---
+Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231).
+{: .notice}
+
 Alice gave me a furtive glance as she handed me a glass of lemonade. She was nervous. I could sense a slight tremble in her voice as she offered a drink to Darcy. As usual, he was oblivious.
 
 "A drink, Honey? How's the wall coming along?" she asked.

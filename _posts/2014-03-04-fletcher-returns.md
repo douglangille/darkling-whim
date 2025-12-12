@@ -1,7 +1,7 @@
 ---
 title: Fletcher Returns
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
   - QuickRead

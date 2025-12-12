@@ -3,7 +3,7 @@ title: 'Peggy&#8217;s Cove'
 header:
  teaser: /assets/images/20090907-161345.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/20090907-161345.jpg" alt="" />
 

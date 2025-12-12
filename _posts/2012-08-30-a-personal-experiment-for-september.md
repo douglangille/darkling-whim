@@ -3,7 +3,7 @@ title: A Personal Experiment for September
 header:
  teaser: /assets/images/ed35b20a20f11c3e81584d04ee44408be273e7d01db6174093f7_640_scale.jpg
 categories:
-  - Musings
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/ed35b20a20f11c3e81584d04ee44408be273e7d01db6174093f7_640_scale.jpg">Another month down, another 10 pounds shed. At 246, I'm a full 60 lbs down since <a href="http://blog.douglangille.ca/2012/04/my-30-day-challenge.html">April when I opted to eschew grains and refined sugars</a> and a whopping 85 lbs loss in total. That's 25% off. Deep discount, I'm on sale!
 

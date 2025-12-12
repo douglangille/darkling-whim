@@ -3,7 +3,7 @@ title: Friday Hyper Super Mega Public Doug
 header:
  teaser: /assets/images/tumblr_mh7p627DkN1rlipfwo1_1280.png
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/tumblr_mh7p627DkN1rlipfwo1_1280.png">Breakfast and supper were both skillet meals. Hot food on a cold day FTW!
 

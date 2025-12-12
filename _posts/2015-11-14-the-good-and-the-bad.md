@@ -2,7 +2,7 @@
 title: The Good and the Bad
 excerpt: I relish the fine minutia of perfection.
 categories:
-  - Writings
+  - Fiction
 tags:
   - Fiction
 header:

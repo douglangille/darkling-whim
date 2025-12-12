@@ -3,7 +3,7 @@ title: 'May Reflections &#8212; Part One'
 header:
  teaser: /assets/images/IMG_20140501_072235.jpg
 categories:
-  - Musings
+  - Off-topic
 ---
 <img src="/assets/images/IMG_20140501_072235.jpg">I attended the annual <a href="http://www.pdsummit.ca/">PD Summit</a> in downtown Halifax this week with a slew of IT, business and marketing peeps. It's always great to connect and reconnect with folks not normally in my <a href="http://www.cracked.com/article_14990_what-monkeysphere.html">monkeysphere</a>. There were three of us from NSCC and made for a rowdy table. Sometimes, an external context makes for interesting conversation. Between sessions, we solved all the world's ills.
 

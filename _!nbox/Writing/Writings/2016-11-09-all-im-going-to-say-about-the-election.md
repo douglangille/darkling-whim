@@ -9,7 +9,7 @@ excerpt: >-
   as an uninformed one, where truth becomes subjective, and where the only
   voices heard are rife with vitriol and fear.
 categories:
-  - Musings
+  - Off-topic
 published: true
 ---
 Populism can be a dangerous thing-- where an informed opinion weighs as much as an uninformed one, where truth becomes subjective, and where the only voices heard are rife with vitriol and fear.
