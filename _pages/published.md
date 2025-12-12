@@ -6,4 +6,6 @@ collection: published
 entries_layout: grid
 classes: wide
 ---
-This is a collection of short works that have been published.
+Some of my fiction has been published on [Amazon](https://www.amazon.com/author/douglangille) and [Kobo](https://www.kobo.com/ca/en/ebook/midnight-abyss). Lots of great stories by several great authors. Check 'em out.
+
+You can read my contributions here as well.
