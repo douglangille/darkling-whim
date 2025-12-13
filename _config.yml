@@ -18,7 +18,7 @@ masthead_title          :
 
 #remote_theme            : mmistakes/minimal-mistakes
 theme                   : minimal-mistakes-jekyll
-minimal_mistakes_skin   : default
+minimal_mistakes_skin   : air
 
 words_per_minute        : 200
 
@@ -117,30 +117,28 @@ author:
   name                  : "Doug Langille"
   avatar                : /assets/images/IMG_0040.jpeg # "/assets/images/bio-photo.jpg"
   bio                   : "hack writer & shameless technophile"
-  location              : "Nova Scotia"
-  email                 : me@douglangille.ca
   links:
+    - label             : "Nova Scotia"
+      icon              : "fa-regular fa-location-dot"
+      url               : "https://en.wikipedia.org/wiki/Nova_Scotia"
     - label             : "LinkedIn"
-      icon              : "fab fa-fw fa-linkedin"
-      url               : "https://www.linkedin.com/in/douglangille"
-#    - label             : "Mastodon"
-#      icon              : "fab fa-fw fa-mastodon"
-#      url               : "https://douglangille.ca/@douglangille"
-    - label             : "Substack"
-      icon              : "fa-regular fa-fw fa-newspaper"
-      url               : "https://douglangille.substack.com"
+      icon              : "fa-brands fa-square-linkedin"
+      url               : "https://www.linkedin.com/in/douglangille/"
     - label             : "Amazon"
-      icon              : "fab fa-fw fa-amazon"
+      icon              : "fa-brands fa-amazon"
       url               : "https://www.amazon.com/author/douglangille"
+    - label             : "Substack"
+      icon              : "fa-regular fa-newspaper"
+      url               : "https://douglangille.substack.com"
+    - label             : "Email"
+      icon              : "fa-regular fa-envelope"
+      url               : "mailto:me@douglangille.ca"
 
 footer:
   links:
     - label             : "LinkedIn"
-      icon              : "fab fa-fw fa-linkedin"
+      icon              : "fa-brands fa-square-linkedin"
       url               : "https://www.linkedin.com/in/douglangille/"
-#    - label             : "Mastodon"
-#      icon              : "fab fa-fw fa-mastodon"
-#      url               : "https://douglangille.ca/@douglangille"
 
 pagination:
   enabled               : true
