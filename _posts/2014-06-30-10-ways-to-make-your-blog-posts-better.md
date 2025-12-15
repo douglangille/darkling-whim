@@ -3,7 +3,7 @@ title: 10 Ways to Make Your Blog Posts Better
 header:
  teaser: /assets/images/fdb426a449a1eb21_1280_blog-blogging-leave.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

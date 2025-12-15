@@ -3,7 +3,7 @@ title: 'Book to Big Screen: Divergent'
 header:
  teaser: /assets/images/tumblr_inline_n39pzheZq31srt9b2.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

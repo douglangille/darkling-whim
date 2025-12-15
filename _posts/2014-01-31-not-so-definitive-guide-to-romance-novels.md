@@ -3,7 +3,7 @@ title: (Not So) Definitive Guide to Romance Novels
 header:
  teaser: /assets/images/tumblr_inline_n063y7BEVe1srt9b2.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

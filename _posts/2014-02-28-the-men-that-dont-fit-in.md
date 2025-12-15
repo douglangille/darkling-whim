@@ -3,7 +3,7 @@ title: 'The Men That Don&#39;t Fit In'
 header:
  teaser: /assets/images/tumblr_inline_n1kskavW0g1srt9b2.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

@@ -3,7 +3,7 @@ title: For Love of the Short Story
 header:
  teaser: /assets/images/tumblr_inline_n3u1ewsHr91srt9b2.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

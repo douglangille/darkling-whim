@@ -3,7 +3,7 @@ title: The Plain Text Rebellion
 header:
  teaser: /assets/images/cb9ac1c059da795c_640_typewriter.png
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

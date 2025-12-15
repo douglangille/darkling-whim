@@ -136,6 +136,9 @@ author:
 
 footer:
   links:
+    - label             : "Digital Doug on Substack"
+      icon              : "fa-regular fa-newspaper"
+      url               : "https://douglangille.substack.com"
     - label             : "LinkedIn"
       icon              : "fa-brands fa-square-linkedin"
       url               : "https://www.linkedin.com/in/douglangille/"

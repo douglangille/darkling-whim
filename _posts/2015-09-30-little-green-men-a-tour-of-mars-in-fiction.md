@@ -3,7 +3,7 @@ title: 'Little Green Men: A Tour of Mars in Fiction'
 header:
  teaser: /assets/images/war_of_the_worlds_by_jaime_jones.jpg
 categories:
-  - WriteTips
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/war_of_the_worlds_by_jaime_jones.jpg" alt="" />
 

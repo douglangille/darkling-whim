@@ -7,6 +7,7 @@ header:
 categories: Fiction
 excerpt: "It started as a joke, really. Betsy dared me."
 published: true
+commitment: low
 ---
 > Hello, said Tree. I’m in you and you’re in me.  
 > Hello, said Tree. Soon we’ll be a family.

@@ -3,7 +3,7 @@ title: Writing Software and Tools
 header:
  teaser: /assets/images/IMG_20140408_195258.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

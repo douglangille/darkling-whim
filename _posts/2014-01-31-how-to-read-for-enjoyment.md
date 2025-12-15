@@ -3,7 +3,7 @@ title: How to Read for Enjoyment
 header:
  teaser: /assets/images/tumblr_inline_n08wr00O4J1srt9b2.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

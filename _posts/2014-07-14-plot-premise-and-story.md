@@ -3,7 +3,7 @@ title: Plot, Premise and Story
 header:
  teaser: /assets/images/7318739b107b8fcc_1280_navigation-compass.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

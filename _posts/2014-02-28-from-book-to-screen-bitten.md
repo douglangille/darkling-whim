@@ -3,7 +3,7 @@ title: 'From Book to Screen: Bitten'
 header:
  teaser: /assets/images/tumblr_inline_n1gvn5XgT41srt9b2.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

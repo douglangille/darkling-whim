@@ -3,7 +3,7 @@ title: How Not to Be a Jerk Online
 header:
  teaser: /assets/images/0f7eafd6f519319a_1280_bird-wire.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

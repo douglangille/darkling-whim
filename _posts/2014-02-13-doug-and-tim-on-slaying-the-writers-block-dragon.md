@@ -3,7 +3,7 @@ title: Doug and Tim on Slaying the Writers Block Dragon
 header:
  teaser: /assets/images/Writers_Block_by_Silvercharmed.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

@@ -3,7 +3,7 @@ title: Reading at the Speed of Light
 header:
  teaser: /assets/images/tumblr_inline_n1grve3ymH1srt9b2.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

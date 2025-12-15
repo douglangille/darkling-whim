@@ -3,7 +3,7 @@ title: A Quick Tour of Social Media for Writers
 header:
  teaser: /assets/images/social-media-explained-for-indie-writers.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

@@ -3,7 +3,7 @@ title: How Important is Plot Anyway?
 header:
  teaser: /assets/images/Freytags_pyramid.svg_.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

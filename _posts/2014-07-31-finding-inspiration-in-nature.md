@@ -3,7 +3,7 @@ title: Finding Inspiration in Nature
 header:
  teaser: /assets/images/tumblr_inline_n9mwd5FDVB1srt9b2.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

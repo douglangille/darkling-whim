@@ -3,7 +3,7 @@ title: A Return to Longhand?
 header:
  teaser: /assets/images/ea6eba4230f63778_1280_letters-handwriting.jpg
 categories:
-  - WriteTips
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/ea6eba4230f63778_1280_letters-handwriting.jpg">I spend a lot of time reflecting on my process: what works, what doesn't. That kind of thing. Such naval-gazing is a wonderful alternative to actual writing. Ahem.
 

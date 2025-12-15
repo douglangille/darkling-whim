@@ -3,7 +3,7 @@ title: Essential Jack Whyte
 header:
  teaser: /assets/images/1929922013_3f6b5e33dc_king-arthur.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

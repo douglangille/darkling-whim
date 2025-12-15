@@ -3,7 +3,7 @@ title: "Does TV Rot the Writer&#39;s Brain?"
 header:
  teaser: /assets/images/television_by_zero_.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

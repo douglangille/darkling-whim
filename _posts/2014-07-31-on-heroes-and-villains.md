@@ -3,7 +3,7 @@ title: On Heroes and Villains
 header:
  teaser: /assets/images/922864_10151667671914602_1694026713_n_1.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

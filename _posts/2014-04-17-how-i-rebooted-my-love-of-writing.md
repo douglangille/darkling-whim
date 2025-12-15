@@ -3,7 +3,7 @@ title: How I Rebooted My Love of Writing
 header:
  teaser: /assets/images/Writing_by_after_the_party.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

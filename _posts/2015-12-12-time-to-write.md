@@ -3,7 +3,7 @@ title: Time to Write
 header:
  teaser: /assets/images/hourglass-620397_640.jpg
 categories:
-  - WriteTips
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/hourglass-620397_640.jpg">I can't find the time to write.
 

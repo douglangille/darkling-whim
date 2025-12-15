@@ -3,7 +3,7 @@ title: 5 Things I Learned During the 3 Day Novel Contest
 header:
  teaser: /assets/images/skittles1.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

@@ -3,7 +3,7 @@ title: Words to Kill
 header:
  teaser: /assets/images/wordstokill.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

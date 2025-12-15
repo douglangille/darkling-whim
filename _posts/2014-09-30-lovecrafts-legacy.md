@@ -3,7 +3,7 @@ title: 'Lovecraft&#8217;s Legacy'
 header:
  teaser: /assets/images/necronomicon_2_nook_cover_finished_by_dogzillalives-d5ogcnb.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

@@ -3,7 +3,7 @@ title: Writing Motivation
 header:
  teaser: /assets/images/262375086_e1b3d215a4_b_piano-cat.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

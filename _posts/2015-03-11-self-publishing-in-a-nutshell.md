@@ -3,7 +3,7 @@ title: Self-publishing in a Nutshell
 header:
  teaser: /assets/images/e635952350046b43_1280_tools-hammer.jpg
 categories:
-  - WriteTips
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/e635952350046b43_1280_tools-hammer.jpg" alt="" />
 

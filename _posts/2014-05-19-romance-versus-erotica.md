@@ -3,7 +3,7 @@ title: Romance Versus Erotica
 header:
  teaser: /assets/images/IMG_20140521_174907_hdr.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

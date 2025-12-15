@@ -3,7 +3,7 @@ title: Write It Down or Annie Wilkes Will Break Your Legs
 header:
  teaser: /assets/images/Misery_Kathy_Bates.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

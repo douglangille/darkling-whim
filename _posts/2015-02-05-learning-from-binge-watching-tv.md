@@ -3,7 +3,7 @@ title: Learning from Binge Watching TV
 header:
  teaser: /assets/images/grimm1.jpg
 categories:
-  - WriteTips
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/grimm1.jpg">So, I have to admit something.
 

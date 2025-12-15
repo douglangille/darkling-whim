@@ -7,7 +7,7 @@ header:
 categories: 'Fiction'
 tags:
  - Haley
-excerpt: "Nothing but a trail of broken bone amd rotten flesh."
+excerpt: "Nothing but a trail of broken bone and rotten flesh."
 
 ---
 

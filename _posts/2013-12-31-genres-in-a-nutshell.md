@@ -3,7 +3,7 @@ title: Genres in a Nutshell
 header:
  teaser: /assets/images/e835b60a29f2033ecd0b470de7444e90fe76e6d01db5124296f1c5_640_bookstore.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

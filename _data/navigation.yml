@@ -1,16 +1,9 @@
 main:
-#  - title: "About"
-#    url: /about/
-#  - title: "Browse"
-#    url: /browse/
-  - title: "Digital Doug"
-    url: https://douglangille.substack.com
   - title: "Published Works"
     url: /published/  
   - title: "Stories & Poems"
     url: /fiction/
   - title: "Perspectives"
     url: /perspectives/
-
-#  - title: "Write Tips"
-#    url: /writetips/
+  - title: "Now"
+    url: /now/

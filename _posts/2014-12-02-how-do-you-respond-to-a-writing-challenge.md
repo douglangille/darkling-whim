@@ -3,7 +3,7 @@ title: How Do You Respond to a Writing Challenge?
 header:
  teaser: /assets/images/800px-Stipula_fountain_pen.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

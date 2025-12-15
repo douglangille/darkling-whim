@@ -3,7 +3,7 @@ title: Fear of Failure or Rejection?
 header:
  teaser: /assets/images/d4a0bb19f48dc30f_1280_town-sign-shield.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

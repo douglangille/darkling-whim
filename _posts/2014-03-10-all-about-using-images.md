@@ -3,7 +3,7 @@ title: All About Using Images
 header:
  teaser: /assets/images/beef_steak_by_past1978-d4ptw25.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

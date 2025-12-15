@@ -3,7 +3,7 @@ title: Writing Rituals
 header:
  teaser: /assets/images/bath_time_rubber_ducky_by_CAPTAIN_VIOLENCE.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

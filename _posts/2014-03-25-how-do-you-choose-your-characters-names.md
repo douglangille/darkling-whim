@@ -3,7 +3,7 @@ title: How Do You Choose Your Characters Names?
 header:
  teaser: /assets/images/IMG_20140326_200542.jpg
 categories:
-  - WriteTips
+  - Perspectives
 tags:
   - WriteTip
 ---

@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/alice-in-wonderland-30130_960_720.png
   overlay_image: /assets/images/alice-in-wonderland-30130_960_720.png
   overlay_filter: 0.4
-categories: 'WriteTips'
+categories: 'Perspectives'
 ---
 Art is an interestingly human form of expression. Somewhere between the amygdala and the cortex, our brains can conjure the most amazing things.
 

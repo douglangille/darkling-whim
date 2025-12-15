@@ -3,7 +3,7 @@ title: How Do You Create Your Characters?
 header:
  teaser: /assets/images/ac-bbt.jpg
 categories:
-  - WriteTips
+  - Perspectives
 ---
 <img src="https://douglangille.github.io/assets/images/ac-bbt.jpg">Over the holidays, I was asked about the many characters in my stories and how I come up with them. I wasn't able to provide a very good answer because I tend not to create them on purpose. I 'back-engineer' my creations' backstories and traits after I'm well into writing them. They rarely pop into my head fully-formed, but reveal themselves as I write. Sometimes, I'm flabbergasted what I discover along the way.
 
