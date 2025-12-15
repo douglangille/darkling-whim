@@ -20,7 +20,9 @@ Technical & Workflow Experiments
 
 > I think stuff up and write it down.
 
-Scratching my nerd-itch, my time is focused on learning where **AI makes sense in the  creative process**. The core experiment is understanding how to leverage the technology for efficiency while ensuring the human element---the spark of original thought and empathy---remains firmly in the loop. It's all about supporting, not replacing, human creativity.
+Scratching my nerd-itch, my time is focused on learning where **AI makes sense in the creative process**. The core experiment is understanding how to leverage the technology for efficiency while ensuring the human element---the spark of original thought and empathy---remains firmly in the loop. It's all about supporting, not replacing, human creativity.
+
+I'm writing a lot about AI, emerging technology, and digital productivity on the [Digital Doug](https://substack.douglangille.ca) substack. Usually some new brain dropping there every Wednesday.
 
 What I'm Reading
 ----------------
