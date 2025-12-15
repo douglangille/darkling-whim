@@ -1,6 +1,4 @@
-main:
-  - title: "Published Works"
-    url: /published/  
+main: 
   - title: "Stories & Poems"
     url: /fiction/
   - title: "Perspectives"
