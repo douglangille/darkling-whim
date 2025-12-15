@@ -131,7 +131,7 @@ author:
 footer:
   links:
     - label             : "Published Works"
-      icon              : "fa-solid fa-books"
+      icon              : "fa-regular fa-bookmark"
       url               : "/published"
     - label             : "Digital Doug on Substack"
       icon              : "fa-regular fa-newspaper"
