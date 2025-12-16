@@ -3,10 +3,9 @@ title: The Apprentice
 header:
  teaser: /assets/images/8362770480_565fda5a56_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/8362770480_565fda5a56_b.jpg">She wakes up groggy, and I watch from behind her eyes as she senses my invasion. I drink from her panic, revelling in its energy, so vibrant and alive.
 

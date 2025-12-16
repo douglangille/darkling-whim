@@ -3,10 +3,9 @@ title: Scott Woos Amy
 header:
  teaser: /assets/images/ec33b10820f71c3e81584d04ee44408be273e7d61db212449cf2_640_moon.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/ec33b10820f71c3e81584d04ee44408be273e7d61db212449cf2_640_moon.jpg">"I would give you the moon, babe."
 

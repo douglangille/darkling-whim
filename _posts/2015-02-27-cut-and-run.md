@@ -3,7 +3,7 @@ title: Cut and Run
 header:
  teaser: /assets/images/sun-19814.jpg
 categories:
-  - Fiction
+  - Writings
 ---
 <img src="https://douglangille.github.io/assets/images/sun-19814.jpg">Amy hung sloppily off the arm of Scott. To everyone at the party, it appeared that she couldn't hold her liquor as well as she'd thought. Billie, of course, knew the truth.
 

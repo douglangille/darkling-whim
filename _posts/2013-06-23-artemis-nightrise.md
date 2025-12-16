@@ -1,6 +1,10 @@
 ---
 title: Artemis Nightrise
 date: 2013-06-23
+category:
+    - Writings
+tags:
+    - Published
 header:
  teaser: /assets/images/flickr-6620255181-original.jpg
  overlay_image: /assets/images/flickr-6620255181-original.jpg 

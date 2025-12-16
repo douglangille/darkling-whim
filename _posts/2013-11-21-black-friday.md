@@ -3,7 +3,7 @@ title: Black Friday
 header:
  teaser: /assets/images/15709773049_55712386fe_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Poetry
 ---

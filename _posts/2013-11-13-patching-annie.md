@@ -3,10 +3,9 @@ title: Patching Annie
 header:
  teaser: /assets/images/6164022668_e6a611ccfe_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/6164022668_e6a611ccfe_b.jpg">Walking by my daughter's room with an armload of laundry, I pause to listen at the door. It's always closed these days with Becky's preteen need for privacy and I see no reason to invade now.
 

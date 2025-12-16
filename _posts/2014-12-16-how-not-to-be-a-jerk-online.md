@@ -5,7 +5,6 @@ header:
 categories:
   - Perspectives
 tags:
-  - WriteTip
 ---
 <img src="https://douglangille.github.io/assets/images/0f7eafd6f519319a_1280_bird-wire.jpg">It goes without saying that being active on the Internet requires a thick skin. With social media tools like Facebook, we now all create content whether we recognize it or not. Our opinions are open for criticism.
 

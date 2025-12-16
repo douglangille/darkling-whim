@@ -5,9 +5,8 @@ excerpt: >-
   among all the other kingdoms. Or at least it did--- until a terrible darkness
   fell upon it.
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
 header:
   teaser: /assets/images/9403909030_1557ce54bd_crayon.jpg
 ---

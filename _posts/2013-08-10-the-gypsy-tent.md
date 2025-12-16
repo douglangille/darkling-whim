@@ -3,7 +3,7 @@ title: The Gypsy Tent
 header:
  teaser: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Poetry
 ---

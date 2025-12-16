@@ -3,10 +3,9 @@ title: Stormy Night
 header:
  teaser: /assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg">It was a dark and stormy night. Sure, it's clichÃ© but thats how I remember how it all started. How I was forced in to making this decision. How I ended up alone.
 

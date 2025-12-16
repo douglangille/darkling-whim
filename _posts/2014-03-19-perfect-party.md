@@ -3,7 +3,7 @@ title: Perfect Party
 header:
  teaser: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Poetry
 ---

@@ -3,10 +3,9 @@ title: The Bonded
 header:
  teaser: /assets/images/sky-404060.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/sky-404060.jpg">Not every Fayre could be trusted. I learned that lesson early on. But for every million of the flittering little freaks that infested the planet, there was one who didn't fill our minds with saccharine bullshit. No, these rare breeds cast aside their masks.
 

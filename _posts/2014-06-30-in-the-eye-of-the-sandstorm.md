@@ -3,10 +3,9 @@ title: In the Eye of the Sandstorm
 header:
  teaser: /assets/images/Desert_Storm_by_Araken_Starway.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/Desert_Storm_by_Araken_Starway.jpg">A gust of wind stirred up the dust of the deserted street. It stung the stranger's face as he led his burro into town. He brought his free arm across his face to protect his eyes and he gritted his teeth. The howling sandstorm drowned all other sound in its fury. Man and beast trod alone.
 

@@ -3,10 +3,9 @@ title: 'Davey&#39;s Boat'
 header:
  teaser: /assets/images/7c12253e0cafcd77_640_rain-street.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/7c12253e0cafcd77_640_rain-street.jpg">There was only one bus in town and I missed the last run, its taillights taunting me with the faint spray from the wet wheels. As I stood hunched over, ass against the wall and hands on my knees, I fought to win back my breath. For the umpteenth time, I vowed to quit smoking. A drop of rain mixed with salty sweat dripped off the tip of my nose. Cold and miserable, I stuffed my hands in the pockets of my jeans and steeled myself for the long walk home.
 

@@ -3,10 +3,9 @@ title: Father Time Versus the Time Demons
 header:
  teaser: /assets/images/20141022_003057000_iOS.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/20141022_003057000_iOS.jpg">"Wake up, you idiot."
 

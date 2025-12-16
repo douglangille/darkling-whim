@@ -3,10 +3,9 @@ title: Moon and Badge
 header:
  teaser: /assets/images/7136114679_82420e7ff5_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/7136114679_82420e7ff5_b.jpg">"What seems to be the problem, Officer?" I ask.
 

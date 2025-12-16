@@ -24,14 +24,12 @@ classes: wide
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{% if page.autopages %}{{page.autopages.display_name|capitalize}}{% endif %}</h1>
     {% endunless %}
+    {% assign posts = paginator.posts | default: page.posts %}
     <div class="entries-{{ page.entries_layout }}">
-    {% for post in paginator.posts %}
+    {% for post in posts %}
       {% include archive-single.html type=page.entries_layout %}
     {% endfor %}
     </div>
-
     {% include paginator.html %}
-
   </div>
-
 </div>

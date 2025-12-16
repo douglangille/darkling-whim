@@ -4,7 +4,7 @@ header:
  teaser: /assets/images/night-sky-685736.jpg
  overlay_image: /assets/images/night-sky-685736.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Haley
 ---

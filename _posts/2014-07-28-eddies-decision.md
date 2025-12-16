@@ -4,11 +4,10 @@ header:
  teaser: /assets/images/2659024416_ee3d2e1a87_b.jpg
  overlay_image: /assets/images/2659024416_ee3d2e1a87_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
   - Haley
+  
 ---
 *No one fucks with Eddie.* I grab the green duffel bag and stuff the small assortment of my belongings into it: a pair of jeans, a couple t-shirts and shit like that. *So much horse-fuckery. These assholes have no idea what they're up against.* I grab my pocket knife off the counter and stuff it in my pocket. I loop the bag across my shoulder and head for the barracks door. Something catches my eye. Haley's lucky shoelace. Crazy bitch gave it to me. I put the bag down and sit on the cot, running my fingers through my hair. *Shit. I can't leave her.*
 

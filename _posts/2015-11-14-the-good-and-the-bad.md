@@ -2,9 +2,8 @@
 title: The Good and the Bad
 excerpt: I relish the fine minutia of perfection.
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
 header:
   teaser: /assets/images/7609192892_575d60d41b_brass-knuckles.jpg
 ---

@@ -3,10 +3,9 @@ title: Scare Tactics
 header:
  teaser: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/8117718787_218466fc67_ghost-sheet.jpg">"Why don't you try poking out your eyes?"
 

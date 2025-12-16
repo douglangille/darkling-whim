@@ -4,7 +4,7 @@ header:
  teaser: /assets/images/16679994001_e322a3ab83_b.jpg
  overlay_image: /assets/images/16679994001_e322a3ab83_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Poetry
 ---

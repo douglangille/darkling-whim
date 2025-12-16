@@ -3,7 +3,7 @@ title: Late at Night
 header:
  teaser: /assets/images/Hospital_by_sheisviolence.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Poetry
 ---

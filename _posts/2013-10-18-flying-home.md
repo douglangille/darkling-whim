@@ -3,7 +3,7 @@ title: Flying Home
 header:
  teaser: /assets/images/14870589051_81e9103ce2_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Poetry
 ---

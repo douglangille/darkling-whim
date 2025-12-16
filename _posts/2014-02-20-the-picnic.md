@@ -3,7 +3,7 @@ title: The Picnic
 header:
  teaser: /assets/images/Hole_y_Tree_by_flurrynight.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Poetry
 ---

@@ -47,20 +47,20 @@ Common genres in fiction include:
   <li>Drama --- stories composed in verse or prose, usually for theatrical performance, where conflicts and emotion are expressed through dialogue and action</li>
   <li>Fable --- narration demonstrating a useful truth, especially in which animals speak as humans; legendary, supernatural tale</li>
   <li>Fairy tale --- story about fairies or other magical creatures, usually for children</li>
-  <li>Fantasy --- fiction with strange or other worldly settings or characters; fiction which invites suspension of reality</li>
+  <li>Fantasy --- Writings with strange or other worldly settings or characters; fiction which invites suspension of reality</li>
   <li>Fiction narrative --- literary works whose content is produced by the imagination and is not necessarily based on fact</li>
   <li>Fiction in verse --- full-length novels with plot, subplot(s), theme(s), major and minor characters, in which the narrative is presented in (usually blank) verse form</li>
   <li>Folklore --- the songs, stories, myths, and proverbs of a people or "folk" as handed down by word of mouth</li>
   <li>Historical fiction --- story with fictional characters and events in a historical setting</li>
-  <li>Horror --- fiction in which events evoke a feeling of dread and sometimes fear in both the characters and the reader</li>
+  <li>Horror --- Writings in which events evoke a feeling of dread and sometimes fear in both the characters and the reader</li>
   <li>Humor --- Usually a fiction full of fun, fancy, and excitement, meant to entertain and sometimes cause intended laughter; but can be contained in all genres</li>
   <li>Legend --- story, sometimes of a national or folk hero, that has a basis in fact but also includes imaginative material</li>
-  <li>Mystery --- fiction dealing with the solution of a crime or the unraveling of secrets</li>
+  <li>Mystery --- Writings dealing with the solution of a crime or the unraveling of secrets</li>
   <li>Mythology --- legend or traditional narrative, often based in part on historical events, that reveals human behavior and natural phenomena by its symbolism; often pertaining to the actions of the gods</li>
   <li>Poetry --- verse and rhythmic writing with imagery that creates emotional responses</li>
   <li>Realistic fiction --- story that is true to life</li>
   <li>Science fiction --- story based on impact of actual, imagined, or potential science, usually set in the future or on other planets</li>
-  <li>Short story --- fiction of such brevity that it supports no subplots</li>
+  <li>Short story --- Writings of such brevity that it supports no subplots</li>
   <li>Tall tale --- humorous story with blatant exaggerations, swaggering heroes who do the impossible with nonchalance</li>
 </ul>
 

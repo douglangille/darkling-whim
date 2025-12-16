@@ -3,10 +3,9 @@ title: Martin Makes His Stand
 header:
  teaser: /assets/images/3840887124_0908c40ecf_blueberry-rake.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/3840887124_0908c40ecf_blueberry-rake.jpg">Martin slipped his battered old pickup into neutral and turned the engine off. Ol' Trusty coasted behind the bluff and crunched on the gravel shoulder. He winced at the squeal of her brakes. He didn't think that miserable old bastard could hear bugger-all anyway, but he ducked lower in the cab just the same.
 

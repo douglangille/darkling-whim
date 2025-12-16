@@ -3,7 +3,7 @@ title: Good Boy, Jake
 header:
  teaser: /assets/images/32221740_530a3d192c_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Poetry
 ---

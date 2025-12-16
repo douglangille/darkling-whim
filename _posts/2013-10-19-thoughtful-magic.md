@@ -3,10 +3,9 @@ title: Thoughtful Magic
 header:
  teaser: /assets/images/1deb57f5e4789aa4_1280_mask.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/1deb57f5e4789aa4_1280_mask.jpg">The life of a super-villainess was burdensome to Amy and when her fembot henchman, Stacey, suggested a vacation in her winter-lair on the Caribbean, she jumped at the opportunity and hopped on her jet.
 

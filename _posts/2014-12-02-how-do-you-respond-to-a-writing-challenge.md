@@ -5,7 +5,6 @@ header:
 categories:
   - Perspectives
 tags:
-  - WriteTip
 ---
 <img src="https://douglangille.github.io/assets/images/800px-Stipula_fountain_pen.jpg">It's easy to burn yourself out creatively when meeting writing deadlines or undertaking insanity projects like NaNoWriMo. Sometimes, it's just mood and the chaos of life that locks your muse in a wooden crate wrapped in chains buried in your cellar. Don't look there. Please excuse the bodies.
 

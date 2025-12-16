@@ -3,10 +3,9 @@ title: 'Dana&#39;s Story'
 header:
  teaser: /assets/images/63224608_b2dd0efea4_b_campfire.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/63224608_b2dd0efea4_b_campfire.jpg">**PRIM**
 

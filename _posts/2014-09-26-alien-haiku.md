@@ -3,7 +3,7 @@ title: Alien Haiku
 header:
  teaser: /assets/images/9153767970_5a8cbf4f18_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Poetry
 ---

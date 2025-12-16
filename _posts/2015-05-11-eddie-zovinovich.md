@@ -4,7 +4,7 @@ header:
  teaser: /assets/images/chewing-gum-115162_1280.jpg
  overlay_image: /assets/images/chewing-gum-115162_1280.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
   - Haley
 ---

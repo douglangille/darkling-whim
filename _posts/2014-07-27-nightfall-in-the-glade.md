@@ -4,10 +4,8 @@ header:
  teaser: /assets/images/Forest_Glade.jpg
  overlay_image: /assets/images/Forest_Glade.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
 ---
 
 This story is a continuation of [Artemis' Nightrise](/artemis-nightrise).

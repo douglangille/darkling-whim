@@ -3,7 +3,7 @@ title: Barbecue No More
 header:
  teaser: /assets/images/14407329792_5240b7ed7a_b.jpg
 categories:
-  - Fiction
+  - Writings
 ---
 <img src="https://douglangille.github.io/assets/images/14407329792_5240b7ed7a_b.jpg">Steak was supposed to be on sale.
 

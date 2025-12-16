@@ -5,7 +5,6 @@ header:
 categories:
   - Perspectives
 tags:
-  - WriteTip
 ---
 <img src="https://douglangille.github.io/assets/images/necronomicon_2_nook_cover_finished_by_dogzillalives-d5ogcnb.jpg" alt="" />
 

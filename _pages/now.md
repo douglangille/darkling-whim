@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /now/
 title: "Now (Late 2025)"
 redirect_from:

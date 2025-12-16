@@ -3,10 +3,9 @@ title: A Hole in the Plan
 header:
  teaser: /assets/images/e035b40d2bf11c3e81584d04ee44408be273e7d71fb1124995f9_640_cabin.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/e035b40d2bf11c3e81584d04ee44408be273e7d71fb1124995f9_640_cabin.jpg">The blade of the shovel rang loudly as it hit rock again. Dale winced. Sound carried far in the night. There was too much noise for one evening already. He stopped and took a break. Digging was hard work. Mallory's ears perked up at some unseen movement in the bluff. The collie uttered a quiet woof of excitement.
 

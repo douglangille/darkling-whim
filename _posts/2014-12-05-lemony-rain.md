@@ -3,10 +3,9 @@ title: Lemony Rain
 header:
  teaser: /assets/images/lemon-364274.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 
 ![](/assets/images/lemon-364274.jpg)

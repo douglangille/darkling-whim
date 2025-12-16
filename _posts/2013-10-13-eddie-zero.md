@@ -2,7 +2,10 @@
 title: "Eddie Zero"
 date: 2013-10-13
 tags:
- - Haley
+    - Published
+    - Haley
+categories: 
+    - Writings
 header:
     teaser: /assets/images/eddie-zero.png
     overlay_image: /assets/images/eddie-zero.png

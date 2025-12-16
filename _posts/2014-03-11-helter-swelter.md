@@ -3,10 +3,9 @@ title: Helter Swelter
 header:
  teaser: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg" alt="" />
 

@@ -3,10 +3,9 @@ title: 'Wendell&#39;s Solution'
 header:
  teaser: /assets/images/249752730_c02409b9ca_o.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/249752730_c02409b9ca_o.jpg">'How the Hell did he get up there?' thought Tony as he looked up the rampart wall of the prison's exercise yard. Wendell held what could only be a shiv to the narrow throat of their beloved Warden Thomas H. Macey.
 

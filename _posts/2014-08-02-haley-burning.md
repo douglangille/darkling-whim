@@ -4,10 +4,8 @@ header:
  teaser: /assets/images/match-268526.jpg
  overlay_image: /assets/images/match-268526.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
   - Haley
 ---
 I knew I was playing with fire, but since when had that stopped me? I couldn't turn it off even if I wanted to.

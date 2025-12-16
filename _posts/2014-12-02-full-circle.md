@@ -3,10 +3,9 @@ title: Full Circle
 header:
  teaser: /assets/images/bus-stop-72171.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/bus-stop-72171.jpg">"A strange thing happened on the way to the bus stop," I said, taking a plate from the rack and wiping it. Well-worn, these wedding gift dishes stood the test of time.
 

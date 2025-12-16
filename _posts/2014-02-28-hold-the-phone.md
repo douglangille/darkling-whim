@@ -3,10 +3,9 @@ title: Hold the Phone
 header:
  teaser: /assets/images/4940893730_ce74d18852_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/4940893730_ce74d18852_b.jpg">"Is this Douglas Langille?"
 

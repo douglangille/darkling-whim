@@ -4,7 +4,7 @@ header:
  teaser: /assets/images/eb31b40d20f11c3e81584d04ee44408be273e7d71eb9134396f5_640_winter-driving.jpg
  overlay_image: /assets/images/eb31b40d20f11c3e81584d04ee44408be273e7d71eb9134396f5_640_winter-driving.jpg
 categories:
-  - Fiction
+  - Writings
 ---
 Gwen barely could focus on the oncoming traffic as she headed for home. *What a bitch of a day. All I want to do is rip off this bra and put on the give-up pjs.*
 

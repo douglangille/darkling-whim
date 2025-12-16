@@ -15,8 +15,4 @@ $global-font-family : $serif;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// .page img:first-of-type { float:right; max-width:400px; margin-left:1em; margin-bottom:1em; }
-
-// code { white-space: pre-wrap; }
-// .align-right, .align-left { max-width: 25rem; }
-.archive__item-teaser img, .half img { object-fit: cover; aspect-ratio: 3/2; }
+// .archive__item-teaser img, .half img { object-fit: cover; aspect-ratio: 3/2; }

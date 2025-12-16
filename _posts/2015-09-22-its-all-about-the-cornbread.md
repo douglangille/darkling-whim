@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/2205670531_8e595a7a0a_b.jpg
   caption: "[Photo credit: tristanf](http://www.flickr.com/photos/89056504@N00/2205670531)"
 categories:
-  - Fiction
+  - Writings
 ---
 Ya see, us here wolves got a bad rap. We ain't so bad. I tell ya, most of us would rather drop in to Joe's Diner than trounce through the Woods looking for some eats.
 

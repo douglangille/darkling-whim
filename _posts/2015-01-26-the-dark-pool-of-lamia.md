@@ -4,7 +4,7 @@ header:
  teaser: /assets/images/water-drop-173751.jpg
  overlay_image: /assets/images/water-drop-173751.jpg
 categories:
-  - Fiction
+  - Writings
 ---
 This story is a continuation of [Artemis' Nightrise](/artemis-nightrise) and [Nightfall in the Glade](/nightfall-in-the-glade)
 {: .notice}

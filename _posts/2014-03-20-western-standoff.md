@@ -3,10 +3,9 @@ title: Western Standoff
 header:
  teaser: /assets/images/2227797968_278063879c_six-shooter.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/2227797968_278063879c_six-shooter.jpg">Billy: Ya rascally varmit, git back here!  
  Davey: Who's gonna make me?  

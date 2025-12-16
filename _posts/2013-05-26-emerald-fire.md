@@ -3,10 +3,9 @@ title: Emerald Fire
 header:
  teaser: /assets/images/4877453831_9016c0ac98_b.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/4877453831_9016c0ac98_b.jpg">I had just parked my car and pressed the lock button when I noticed her. The old woman on the street pushed her shopping cart, stuffed to the brim with her life's belongings. Bags of collected cans hung off every corner. She was dirty and frail. She reminded me of my Aunt Cathy before she died. Auntie was a troubled soul who wouldn't let anyone help her.
 

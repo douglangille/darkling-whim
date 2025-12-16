@@ -3,10 +3,9 @@ title: The Craftsman
 header:
  teaser: /assets/images/Collecting-Knives.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/Collecting-Knives.jpg">"You see, Detective, I have a little problem with knives. I collect them, large and small. Not swords, mind you, or anything garish like that. Just a simple blade will do, thank you very much."
 

@@ -3,10 +3,9 @@ title: 'Aguta&#39;s Trek'
 header:
  teaser: /assets/images/2303495178_2be7a54eda_arctic-tundra.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/2303495178_2be7a54eda_arctic-tundra.jpg">Nanuk the Bear stood on his hind legs and sniffed the icy air. Dog. He looked across the snowy plain and saw the sled make its approach. The team of malamutes pulled hard, tongues lolling outside their frozen muzzles. His friend Aguta drove them relentlessly.
 

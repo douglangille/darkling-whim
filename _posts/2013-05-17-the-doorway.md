@@ -3,10 +3,9 @@ title: The Doorway
 header:
  teaser: /assets/images/19413383176_76321090c1_b_doorway.jpg
 categories:
-  - Fiction
+  - Writings
 tags:
-  - Fiction
-  - QuickRead
+  
 ---
 <img src="https://douglangille.github.io/assets/images/19413383176_76321090c1_b_doorway.jpg">I climbed the back staircase of my grandparent's old house. The layers upon layers of white paint adorned the railing and casings. They were only slightly dulled by a thin layer of dust that was everywhere. The oil range in the parlor room and the unpaved driveway made the fight against grime a losing battle.
 
