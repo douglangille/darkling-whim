@@ -10,6 +10,7 @@ pagination:
     category: Writings
 ---
 
+<!--
 {% assign alltags = site.categories['Writings'] | sort %} 
 {% assign grouptag =  alltags | map: 'tags' | join: ','  | split: ','  | group_by: tag | sort: 'name' %}
 <ul class="taxonomy__index">
@@ -21,6 +22,7 @@ pagination:
     </li>  
   {% endfor %}
 </ul>
+-->
 
 <div class="entries-{{ page.entries_layout }}">
 {% for post in paginator.posts %}
