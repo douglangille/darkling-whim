@@ -1,13 +1,22 @@
 ---
+
+
+
+
+
 title: Bump in the Night
 header:
  teaser: /assets/images/4125927607_0aa78d3a4f_b.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, horror, thriller]
+
+
+
+
+
 ---
-<img src="https://douglangille.github.io/assets/images/4125927607_0aa78d3a4f_b.jpg">Matted-hair and rotted teeth,  
+<img src="/assets/images/4125927607_0aa78d3a4f_b.jpg">Matted-hair and rotted teeth,  
  what evil danger lurks beneath?  
  Pointed talons and razor claw,  
  drags you into a gaping maw.  

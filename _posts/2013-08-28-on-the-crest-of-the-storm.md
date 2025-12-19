@@ -3,11 +3,11 @@ title: On the Crest of the Storm
 header:
  teaser: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, horror, thriller]
+
 ---
-<img src="https://douglangille.github.io/assets/images/a1bc99068ab8b46b_1280_lightning.jpg">thunderous dark skies  
+<img src="/assets/images/a1bc99068ab8b46b_1280_lightning.jpg">thunderous dark skies  
  running through the autumn grass  
  into the dark wood
 

@@ -1,12 +1,21 @@
 ---
+
+
+
+
+
 title: Haley Burning
 header:
  teaser: /assets/images/match-268526.jpg
  overlay_image: /assets/images/match-268526.jpg
 categories:
-  - Writings
-tags:
-  - Haley
+  - writings
+tags: [flash-fiction, horror, fantasy, haley]
+
+
+
+
+
 ---
 I knew I was playing with fire, but since when had that stopped me? I couldn't turn it off even if I wanted to.
 

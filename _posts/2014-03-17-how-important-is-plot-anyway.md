@@ -3,9 +3,9 @@ title: How Important is Plot Anyway?
 header:
  teaser: /assets/images/Freytags_pyramid.svg_.jpg
 categories:
-  - Perspectives
+  - perspectives
 tags:
-  - WriteTip
+  
 ---
 <img src="/assets/images/Freytags_pyramid.svg_.jpg">Let's start with a serviceable definition of plot:
 

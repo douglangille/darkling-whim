@@ -1,13 +1,17 @@
 ---
+
+
+
+
+
 title: Twenty-Three Years In
 header:
  teaser: /assets/images/458439328_3f09c74cfa_bed-night.jpg
  overlay_image: /assets/images/458439328_3f09c74cfa_bed-night.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
-  - Love
+  - writings
+tags: [poem, romance, thriller]
+
 ---
 It's late at night and we lie in bed  
  Lost in thought, alone in mind  

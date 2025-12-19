@@ -1,13 +1,22 @@
 ---
+
+
+
+
+
 title: Lost in the Rain
 header:
  teaser: /assets/images/Storm_Drain.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, literary]
+
+
+
+
+
 ---
-<img src="https://douglangille.github.io/assets/images/Storm_Drain.jpg">rain in late summer  
+<img src="/assets/images/Storm_Drain.jpg">rain in late summer  
  the boy walks along the street  
  following a boat
 

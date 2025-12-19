@@ -3,11 +3,11 @@ title: Finding Inspiration in Nature
 header:
  teaser: /assets/images/tumblr_inline_n9mwd5FDVB1srt9b2.jpg
 categories:
-  - Perspectives
+  - perspectives
 tags:
-  - WriteTip
+  
 ---
-<img src="https://douglangille.github.io/assets/images/tumblr_inline_n9mwd5FDVB1srt9b2.jpg">Creating art is a curious and beautiful synthesis of observation and imagination. Too often, we focus on what what happens within our brain-case. The common saw that one should 'write what you know' is clearly suspect. If I did that, I'd write some terribly boring stories. I think it should be phrased: 'write what you want to know'. Really, you should write what you love.
+<img src="/assets/images/tumblr_inline_n9mwd5FDVB1srt9b2.jpg">Creating art is a curious and beautiful synthesis of observation and imagination. Too often, we focus on what what happens within our brain-case. The common saw that one should 'write what you know' is clearly suspect. If I did that, I'd write some terribly boring stories. I think it should be phrased: 'write what you want to know'. Really, you should write what you love.
 
 The wanting to know and the discovery of your future imaginings begins in observation. Taking the time to observe Nature and the world around you, being thankful for its bounty, is a great way to ignite your spark.
 

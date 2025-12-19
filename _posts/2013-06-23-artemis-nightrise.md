@@ -1,13 +1,12 @@
 ---
 title: Artemis Nightrise
 date: 2013-06-23
-category:
-    - Writings
-tags:
-    - Published
+categories:
+  - writings
+tags: [vignette, horror, scifi]
 header:
- teaser: /assets/images/flickr-6620255181-original.jpg
- overlay_image: /assets/images/flickr-6620255181-original.jpg 
+  teaser: /assets/images/flickr-6620255181-original.jpg
+  overlay_image: /assets/images/flickr-6620255181-original.jpg 
 ---
 
 Originally published in the science fiction anthology [Dark Futures Annual 1](https://www.amazon.ca/Dark-Futures-Annual-Roy-Booth-ebook/dp/B00MKA1G4W). Unpublished sequels are [Nightfall in the Glade](/nightfall-in-the-glade) and [The Dark Pool of Lamia](/the-dark-pool-of-lamia). A completed work is in development.

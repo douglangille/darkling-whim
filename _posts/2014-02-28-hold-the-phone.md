@@ -1,13 +1,17 @@
 ---
+
 title: Hold the Phone
 header:
  teaser: /assets/images/4940893730_ce74d18852_b.jpg
 categories:
-  - Writings
+  - writings
 tags:
+  - flash-fiction
+  - thriller
   
+
 ---
-<img src="https://douglangille.github.io/assets/images/4940893730_ce74d18852_b.jpg">"Is this Douglas Langille?"
+<img src="/assets/images/4940893730_ce74d18852_b.jpg">"Is this Douglas Langille?"
 
 "Yes, it is. How did you know? I called you?"
 

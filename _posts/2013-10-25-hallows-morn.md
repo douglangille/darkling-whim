@@ -1,13 +1,15 @@
 ---
+
 title: 'Hallow&#39;s Morn'
 header:
  teaser: /assets/images/15763329850_bb142a25a4_b.jpg
 categories:
-  - Writings
-tags:
+  - writings
+tags: [vignette, humour]
   
+
 ---
-<img src="https://douglangille.github.io/assets/images/15763329850_bb142a25a4_b.jpg">Jackie pulled the collar of her housecoat tight around her neck and opened the door to let her cat inside after his morning romp. She clutched the coffee cup and shivered as her breath joined the steam, freezing against the frosty autumn morning.
+<img src="/assets/images/15763329850_bb142a25a4_b.jpg">Jackie pulled the collar of her housecoat tight around her neck and opened the door to let her cat inside after his morning romp. She clutched the coffee cup and shivered as her breath joined the steam, freezing against the frosty autumn morning.
 
 "Puddles!" she yelled. *Goddamned furry bastard.*
 

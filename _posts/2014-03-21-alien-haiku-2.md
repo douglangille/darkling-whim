@@ -1,13 +1,22 @@
 ---
+
+
+
+
+
 title: Alien Haiku
 header:
  teaser: /assets/images/4162377148_3c7621df54_b.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, scifi]
+
+
+
+
+
 ---
-<img src="https://douglangille.github.io/assets/images/4162377148_3c7621df54_b.jpg">spinning flying orb  
+<img src="/assets/images/4162377148_3c7621df54_b.jpg">spinning flying orb  
  your lasers burned my house down  
  take me up with you
 

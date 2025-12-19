@@ -1,13 +1,18 @@
 ---
+
+
+
+
+
 title: Alien Haiku
 header:
  teaser: /assets/images/9153767970_5a8cbf4f18_b.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, scifi]
+
 ---
-<img src="https://douglangille.github.io/assets/images/9153767970_5a8cbf4f18_b.jpg">Driving late at night  
+<img src="/assets/images/9153767970_5a8cbf4f18_b.jpg">Driving late at night  
  Bright green lights whirling above  
  Almond eyes greet me
 

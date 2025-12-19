@@ -1,13 +1,23 @@
 ---
+
+
+
+
+
 title: Moon and Badge
 header:
  teaser: /assets/images/7136114679_82420e7ff5_b.jpg
 categories:
-  - Writings
-tags:
+  - writings
+tags: [poem, literary, thriller]
   
+
+
+
+
+
 ---
-<img src="https://douglangille.github.io/assets/images/7136114679_82420e7ff5_b.jpg">"What seems to be the problem, Officer?" I ask.
+<img src="/assets/images/7136114679_82420e7ff5_b.jpg">"What seems to be the problem, Officer?" I ask.
 
 "License and registration, sir," he grumbles.
 

@@ -3,9 +3,9 @@ title: Self-publishing in a Nutshell
 header:
  teaser: /assets/images/e635952350046b43_1280_tools-hammer.jpg
 categories:
-  - Perspectives
+  - perspectives
 ---
-<img src="https://douglangille.github.io/assets/images/e635952350046b43_1280_tools-hammer.jpg" alt="" />
+<img src="/assets/images/e635952350046b43_1280_tools-hammer.jpg" alt="" />
 
 Okay, you've written a beautiful novel and wish to unleash your wordbaby on the world.
 

@@ -1,14 +1,22 @@
 ---
+
+
+
+
+
 title: "Eddie Zero"
 date: 2013-10-13
-tags:
-    - Published
-    - Haley
+tags: [short-story, horror, haley]
 categories: 
-    - Writings
+    - writings
 header:
     teaser: /assets/images/eddie-zero.png
     overlay_image: /assets/images/eddie-zero.png
+
+
+
+
+
 ---
 Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231). There are several [tales, vingettes and ideas](/haley) floating about while *Haley's War* is in development.
 {: .notice}
@@ -363,7 +371,7 @@ Like a doll brought abruptly to life, her whole body moved at once. Her hand tig
 
 "No," she said slowly, this time more forceful and decisive. The scared little girl vanished. I had no idea who this was in her place.
 
-A few things happened at once. The security glass of the barrel room cracked and splintered as the hairy freaks threw each other at the little window. The double-door we came through forever ago burst open and a gang of fucked up misfits burst on the scene. Former patients, doctors and jarheads mingled together in zombie-harmony.
+A few things happened at once. The security glass of the barrel room cracked and splintered as the hairy freaks threw each other at the little window. The double-door we came through burst open and a gang of fucked up misfits burst on the scene. Former patients, doctors and jarheads mingled together in zombie-harmony.
 
 With a hoard to the left of us and a troop of rabid chimps pouring out from the right, it was easy to miss the small miracle of Barney's resurrection. He stood up, staggered and shook his head as he gained his footing. A flap of skin at his temple wagged to and fro. Haley's aim fired true but not perfect.
 

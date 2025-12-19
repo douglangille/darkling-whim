@@ -1,11 +1,13 @@
 ---
+
 title: Spider Man
 header:
  teaser: /assets/images/cobweb-449911_1280.jpg
 categories:
-  - Writings
+  - writings
+tags: [flash-fiction, humour]
 ---
-<img src="https://douglangille.github.io/assets/images/cobweb-449911_1280.jpg">"Oh, thank you, Spiderman!" I said as I wrapped my arms around my masked rescuer as we swung from building to building, moving ever closer to the ground.
+<img src="/assets/images/cobweb-449911_1280.jpg">"Oh, thank you, Spiderman!" I said as I wrapped my arms around my masked rescuer as we swung from building to building, moving ever closer to the ground.
 
 The people below looked like ants. My hero said, "Uh, ma'am. I'm not Spiderman."
 

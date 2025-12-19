@@ -3,11 +3,10 @@ title: 'Maggie&#39;s Secret'
 header:
  teaser: /assets/images/4577104544_a4f06dc810_b.jpg
 categories:
-  - Writings
-tags:
-  
+  - writings
+tags: [vignette, romance]
 ---
-<img src="https://douglangille.github.io/assets/images/4577104544_a4f06dc810_b.jpg">"So, I know something you don't know."
+<img src="/assets/images/4577104544_a4f06dc810_b.jpg">"So, I know something you don't know."
 
 "Bet you don't."
 

@@ -1,12 +1,16 @@
 ---
+
+
+
+
+
 title: The Last Ride
 header:
  teaser: /assets/images/5807577702_2b25ec5d7a_bicycle-wheel.jpg
  overlay_image: /assets/images/5807577702_2b25ec5d7a_bicycle-wheel.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, literary]
 ---
 Racing down the mountain side  
  A winding highway in the rain  

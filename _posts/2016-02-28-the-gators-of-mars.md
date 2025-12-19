@@ -4,9 +4,10 @@ header:
   teaser: /assets/images/teeth-471546_1280.jpg
   overlay_image: /assets/images/teeth-471546_1280.jpg
 categories:
-  - Writings
-published: true
+  - writings
+tags: [flash-fiction, scifi, thriller]
 ---
+
 So, who the fiddler's flying fig decided Mars needed alligators?
 
 Turns out, it was more accident than nefarious intent, though I would lean towards idiocy.

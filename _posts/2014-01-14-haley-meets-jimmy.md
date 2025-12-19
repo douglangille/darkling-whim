@@ -4,9 +4,8 @@ header:
  teaser: /assets/images/cd2aae9125f56d89_640_bar-beer.jpg
  overlay_image: /assets/images/cd2aae9125f56d89_640_bar-beer.jpg
 categories:
-  - Writing
-tags:
-  - Haley
+  - writings
+tags: [flash-fiction, thriller, haley]
   
 ---
 I should have trusted my instincts. The girl, calling herself Haley, possessed a wild look about her. Despite the frame of a teenage girl, Haley put out the vibe that she was no kid.

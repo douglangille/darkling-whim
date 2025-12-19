@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/typewriter-1245894_1920.jpg
   overlay_image: /assets/images/typewriter-1245894_1920.jpg
   overlay_filter: 0.4
-categories: 'Perspectives'
+categories: 'perspectives'
 ---
 One piece of oft-spoken writing advice is to write every day.
 

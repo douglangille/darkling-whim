@@ -3,9 +3,7 @@ title: On Taking Criticism
 header:
  teaser: /assets/images/ee34b80e2ff01c3e81584d04ee44408be273e7d71eb8184290f8_640_writer.jpg
 categories:
-  - Perspectives
-tags:
-  - WriteTip
+  - perspectives
 ---
 <img src="/assets/images/ee34b80e2ff01c3e81584d04ee44408be273e7d71eb8184290f8_640_writer.jpg">A writer's heart is an untamed beast.  
 Tho from his quill flows a reader's feast,  

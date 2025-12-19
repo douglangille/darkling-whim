@@ -1,13 +1,18 @@
 ---
+
+
+
+
+
 title: Last Glimpse
 header:
  teaser: /assets/images/armagedon-6.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, scifi, romance]
+
 ---
-<img src="https://douglangille.github.io/assets/images/armagedon-6.jpg">I found the perfect spot, for us to share a final gaze  
+<img src="/assets/images/armagedon-6.jpg">I found the perfect spot, for us to share a final gaze  
  Of cosmic wonder, before the end of days
 
 The stars winked brightly, and the moon rose high  

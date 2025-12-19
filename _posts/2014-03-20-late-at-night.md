@@ -1,13 +1,22 @@
 ---
+
+
+
+
+
 title: Late at Night
 header:
  teaser: /assets/images/Hospital_by_sheisviolence.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, literary]
+
+
+
+
+
 ---
-<img src="https://douglangille.github.io/assets/images/Hospital_by_sheisviolence.jpg">I opened my eyes and could not see.  
+<img src="/assets/images/Hospital_by_sheisviolence.jpg">I opened my eyes and could not see.  
  Nothing but black in front of me.  
  I lay supine upon this bed,  
  Thinking I'd be better dead.

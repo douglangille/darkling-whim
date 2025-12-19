@@ -1,10 +1,12 @@
 ---
+
 title: Mitzy and the Butterfly
 header:
  teaser: /assets/images/8b973b71609dfded_640.jpg
  overlay_image: /assets/images/8b973b71609dfded_640.jog
 categories:
-  - Writings
+  - writings
+tags: [vignette, fantasy]
 ---
 And as quickly begun, it was finished. *White magic. My little sister. Gone.*
 

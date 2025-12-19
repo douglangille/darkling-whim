@@ -3,11 +3,11 @@ title: Doug and Tim on Slaying the Writers Block Dragon
 header:
  teaser: /assets/images/Writers_Block_by_Silvercharmed.jpg
 categories:
-  - Perspectives
+  - perspectives
 tags:
-  - WriteTip
+  
 ---
-<img src="https://douglangille.github.io/assets/images/Writers_Block_by_Silvercharmed.jpg">Your brave knight has journeyed over mountains, fought hordes of orcs and resisted the wiles of a sea-witch. He's arrived at last to the mouth of a darkened cave, sword drawn with sanguine rage boiling his blood, and....  
+<img src="/assets/images/Writers_Block_by_Silvercharmed.jpg">Your brave knight has journeyed over mountains, fought hordes of orcs and resisted the wiles of a sea-witch. He's arrived at last to the mouth of a darkened cave, sword drawn with sanguine rage boiling his blood, and....  
  ...and...  
  ..a..n...d.....
 

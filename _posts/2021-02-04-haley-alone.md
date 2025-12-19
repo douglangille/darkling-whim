@@ -5,11 +5,9 @@ header:
   overlay_image: /assets/images/img_0014.jpg
   overlay_filter: 0.4
 categories: 
-  - Writings
-tags:
-  - 'Haley'
+  - writings
+tags: [flash-fiction, horror, haley]
 excerpt: "Nothing but a trail of broken bone and rotten flesh."
-
 ---
 
 The knife hit bone and Haley pushed it through into the soft cranial tissue. Red flowed around her hand, then grey, and then finally, black. She pulled back with a wet resistance and a weird plop. She cleaned the blade on her well-worn jeans and returned it to its sheath, strapped to her thigh. A place for everything and a thing for every place.

@@ -1,12 +1,15 @@
 ---
+
 title: "It's All About the Cornbread"
 header:
   teaser: /assets/images/2205670531_8e595a7a0a_b.jpg
   overlay_image: /assets/images/2205670531_8e595a7a0a_b.jpg
   caption: "[Photo credit: tristanf](http://www.flickr.com/photos/89056504@N00/2205670531)"
 categories:
-  - Writings
+  - writings
+tags: [vignette, humour, thriller]
 ---
+
 Ya see, us here wolves got a bad rap. We ain't so bad. I tell ya, most of us would rather drop in to Joe's Diner than trounce through the Woods looking for some eats.
 
 Sure, we got these pointy chompers and a nose that won't quit-it ain't all roses, folks, if ya know what I mean-but none of that measures up much against a bowl of stew and cornbread. Fresh. With maple syrup. Man, I can't stop drooling just thinking about. How 'bouts we continue this little chat over some grub?

@@ -1,13 +1,14 @@
 ---
-title: 'Dana&#39;s Story'
+
+title: "Dana's Story"
 header:
  teaser: /assets/images/63224608_b2dd0efea4_b_campfire.jpg
 categories:
-  - Writings
-tags:
-  
+  - writings
+tags: [short-story, horror, scifi]
 ---
-<img src="https://douglangille.github.io/assets/images/63224608_b2dd0efea4_b_campfire.jpg">**PRIM**
+
+<img src="/assets/images/63224608_b2dd0efea4_b_campfire.jpg">**PRIM**
 
 "I have something to tell you", said Dana quietly, barely audible.
 
@@ -89,6 +90,11 @@ I turned and took a look at myself. My white tank top was awash in a slurry of g
 
 "Thank you," I said. I felt somewhat safe in the station-house, even though it was just the two of us. I was in shock, numb from what had just happened. Dana was still out there. My friends were dead. I started crying, sobbing really, as I sank in to the chair that Crawford had at the ready. Nice guy.
 
+"Prim, we have a search team on the way to your camp site now. They'll help your friends if they can." He went to touch my shoulder. I flinched and he withdrew. "There's a BOLO for Dana Myers. We'll find her and figure out what's going on. How long have you known her?"
+
+I hadn't noticed the Jeep pull up and a large man in military fatigues had entered. Two more soldiers remained in the vehicle. I knew Dana had been in a combined arms unit, Army not Navy. This man wore the same midnight blue beret that I'd seen in her pictures. We'd been going through her scrapbook as we lamented her sudden discharge over a bottle of wine. I never did get the full story. Dana wanted to tell us something earlier. Then things went bad.
+
+"How do you known Dana Myers?" the stranger repeated. No introductions, right to business. What the hell was going on here?
 "Prim, we have a search team on the way to your camp site now. They'll help your friends if they can." He went to touch my shoulder. I flinched and he withdrew. "There's a BOLO for Dana Myers. We'll find her and figure out what's going on. How long have you known her?"
 
 I hadn't noticed the Jeep pull up and a large man in military fatigues had entered. Two more soldiers remained in the vehicle. I knew Dana had been in a combined arms unit, Army not Navy. This man wore the same midnight blue beret that I'd seen in her pictures. We'd been going through her scrapbook as we lamented her sudden discharge over a bottle of wine. I never did get the full story. Dana wanted to tell us something earlier. Then things went bad.

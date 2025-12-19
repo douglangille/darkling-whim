@@ -3,11 +3,11 @@ title: Genres in a Nutshell
 header:
  teaser: /assets/images/e835b60a29f2033ecd0b470de7444e90fe76e6d01db5124296f1c5_640_bookstore.jpg
 categories:
-  - Perspectives
+  - perspectives
 tags:
-  - WriteTip
+  
 ---
-<img src="https://douglangille.github.io/assets/images/e835b60a29f2033ecd0b470de7444e90fe76e6d01db5124296f1c5_640_bookstore.jpg">Walk in to any bookstore or library and we are confronted by the 'Genre Beast'. There are many ways to categorize books and genre is but one. Bookstores are notorious for mashing everything together, it's the dark art known as 'marketing' that drives the bus.  It's maddening. So, in an attempt to clear things up, here's how it breaks down...
+<img src="/assets/images/e835b60a29f2033ecd0b470de7444e90fe76e6d01db5124296f1c5_640_bookstore.jpg">Walk in to any bookstore or library and we are confronted by the 'Genre Beast'. There are many ways to categorize books and genre is but one. Bookstores are notorious for mashing everything together, it's the dark art known as 'marketing' that drives the bus.  It's maddening. So, in an attempt to clear things up, here's how it breaks down...
 
 There's this thing called 'Technique':
 
@@ -47,20 +47,20 @@ Common genres in fiction include:
   <li>Drama --- stories composed in verse or prose, usually for theatrical performance, where conflicts and emotion are expressed through dialogue and action</li>
   <li>Fable --- narration demonstrating a useful truth, especially in which animals speak as humans; legendary, supernatural tale</li>
   <li>Fairy tale --- story about fairies or other magical creatures, usually for children</li>
-  <li>Fantasy --- Writings with strange or other worldly settings or characters; fiction which invites suspension of reality</li>
+  <li>Fantasy --- writings with strange or other worldly settings or characters; fiction which invites suspension of reality</li>
   <li>Fiction narrative --- literary works whose content is produced by the imagination and is not necessarily based on fact</li>
   <li>Fiction in verse --- full-length novels with plot, subplot(s), theme(s), major and minor characters, in which the narrative is presented in (usually blank) verse form</li>
   <li>Folklore --- the songs, stories, myths, and proverbs of a people or "folk" as handed down by word of mouth</li>
   <li>Historical fiction --- story with fictional characters and events in a historical setting</li>
-  <li>Horror --- Writings in which events evoke a feeling of dread and sometimes fear in both the characters and the reader</li>
+  <li>Horror --- writings in which events evoke a feeling of dread and sometimes fear in both the characters and the reader</li>
   <li>Humor --- Usually a fiction full of fun, fancy, and excitement, meant to entertain and sometimes cause intended laughter; but can be contained in all genres</li>
   <li>Legend --- story, sometimes of a national or folk hero, that has a basis in fact but also includes imaginative material</li>
-  <li>Mystery --- Writings dealing with the solution of a crime or the unraveling of secrets</li>
+  <li>Mystery --- writings dealing with the solution of a crime or the unraveling of secrets</li>
   <li>Mythology --- legend or traditional narrative, often based in part on historical events, that reveals human behavior and natural phenomena by its symbolism; often pertaining to the actions of the gods</li>
   <li>Poetry --- verse and rhythmic writing with imagery that creates emotional responses</li>
   <li>Realistic fiction --- story that is true to life</li>
   <li>Science fiction --- story based on impact of actual, imagined, or potential science, usually set in the future or on other planets</li>
-  <li>Short story --- Writings of such brevity that it supports no subplots</li>
+  <li>Short story --- writings of such brevity that it supports no subplots</li>
   <li>Tall tale --- humorous story with blatant exaggerations, swaggering heroes who do the impossible with nonchalance</li>
 </ul>
 

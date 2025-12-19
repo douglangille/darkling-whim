@@ -1,12 +1,15 @@
 ---
+
 title: Good Morning
 header:
  teaser: /assets/images/breakfast-439058_640.jpg
  overlay_image: /assets/images/breakfast-439058_640.jpg
  overlay_filter: .5
 categories:
-  - Writings
+  - writings
+tags: [flash-fiction, humour, romance]
 ---
+
 Let's get the moral of the story up front, shall we? Never try to hypnotize a gypsy. Never host a bachelor party the night before the nuptials. Oh, and never invite your ex. Got that? Good.
 
 I heard the commotion as I walked down the hallway and gripped the bag of groceries even tighter. Barking. Glass breaking. A man crying.
@@ -54,7 +57,3 @@ I looked at her thoughtfully. "Yes. Yes she is. I love her."
 Annie and I propped Carl in the corner chair. She wiped the table and I filled it with breakfasty-things.
 
 "Okay, Annie. Can you wake these jackasses up now? The wedding is in three hours."
-
-"Sure. Just remember what I said."
-
-And with that she sauntered out the door, speaking something in Romani I didn't understand.

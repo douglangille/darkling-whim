@@ -3,11 +3,11 @@ title: 10 Ways to Make Your Blog Posts Better
 header:
  teaser: /assets/images/fdb426a449a1eb21_1280_blog-blogging-leave.jpg
 categories:
-  - Perspectives
+  - perspectives
 tags:
-  - WriteTip
+  
 ---
-<img src="https://douglangille.github.io/assets/images/fdb426a449a1eb21_1280_blog-blogging-leave.jpg">Part of the whole writing gig is, well, writing. It's pretty much a given that authors build a platform to market and promote their word-babies to the masses. Building your network with social media is great, but many opt to also use a blog as their home on the Interwebs.
+<img src="/assets/images/fdb426a449a1eb21_1280_blog-blogging-leave.jpg">Part of the whole writing gig is, well, writing. It's pretty much a given that authors build a platform to market and promote their word-babies to the masses. Building your network with social media is great, but many opt to also use a blog as their home on the Interwebs.
 
 However, cultivating a blog that people will actually read isn't as easy as you think. Many blogs start strong with only a few posts and then die off because:
 

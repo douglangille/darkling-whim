@@ -4,10 +4,10 @@ header:
   teaser: /assets/images/crime-64067_640.jpg
 title: Another Z in the Fourth Wall
 categories:
-  - Haley
-tags:
-  - Horror
+  - writings
+tags: [flash-fiction, horror, haley]
 ---
+
 Eddie's fist connected with a satisfying crunch and Haley couldn't keep from smiling. The zombie's newly-detached lower jaw sailed through the air, flicking bits of rot as it spun, ricocheted off a bench and finally splattered flatly on the stylishly overpriced industrial carpet. She instinctively held her breath and closed her eyes, remembering that kid who swallowed some zombie meat and bam: Insta-Z.
 
 It really wasn't the best time to close one's eyes. Haley and Eddie were back-to-back in the waiting room of suburbia's most suburban medical clinic. The mission should have been easy: in-and-out, scoring some meds. Penicillin. Naproxen. Whatever.

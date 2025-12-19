@@ -1,12 +1,15 @@
 ---
+
 title: A Quiet Ride
 header:
  teaser: /assets/images/14831550395_83c957fbd8_tire-gravel.jpg
  overlay_image: /assets/images/14831550395_83c957fbd8_tire-gravel.jpg
  caption: "Photo credit: [dave_7](http://www.flickr.com/photos/21612624@N00/14831550395)"
 categories:
-  - Writings
+  - writings
+tags: [flash-fiction, thriller, romance]
 ---
+
 "I'd love to, babe, but my phone's just about out of juice!"
 
 Vince pressed the red button on the cell and held it up for her to see. Sweat seeped from his palm as he gripped, afraid to drop his last bit of hope.

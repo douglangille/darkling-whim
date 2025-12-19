@@ -1,13 +1,14 @@
 ---
+
 title: "A Love, Darkly"
 date: 2013-10-13
 header: 
     teaser: /assets/images/a-love-darkly.png
     overlay_image: /assets/images/a-love-darkly.png
 categories: 
-    - Writings
-tags:
-    - Published
+    - writings
+tags: [short-story, fantasy, horror]
+
 ---
 Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231).
 {: .notice}

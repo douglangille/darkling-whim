@@ -1,11 +1,14 @@
 ---
+
 title: Into the Void
 header:
  teaser: /assets/images/6336363394_213bd59a9b_b.jpg
 categories:
-  - Writings
+  - writings
+tags: [flash-fiction, fantasy, scifi]
 ---
-<img src="https://douglangille.github.io/assets/images/6336363394_213bd59a9b_b.jpg">***Date: September 27, 1491 SCE  
+
+<img src="/assets/images/6336363394_213bd59a9b_b.jpg">***Date: September 27, 1491 SCE  
  (Second Current Era)***
 
 "Sky Captain," said Willem. He'd been a stellar First Mate. *How long have we been a-flight? Four, no, five years?*

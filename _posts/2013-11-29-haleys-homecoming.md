@@ -1,13 +1,11 @@
 ---
-title: 'Haley&#39;s Homecoming'
+title: "Haley's Homecoming"
 header:
  teaser: /assets/images/7593788900_3eb3e6e0f7_small-town.jpg
  overlay_image: /assets/images/7593788900_3eb3e6e0f7_small-town.jpg
 categories:
-  - Writings
-tags:
-  - Haley
-  
+  - writings
+tags: [vignette, horror, haley]
 ---
 I hitched my knapsack up over one shoulder and got off the bus. The bright summer sun and dusty air assaulted my senses after the long ride. I'd gotten used to a regular cadence of sleeping during the day and only hopping off at truck stop diners during the middle of the night. People, long-haulers hyped on caffeine mainly, left me alone. They stared, of course; the thin teenage girl with the wild hair and dead eyes. I didn't belong there or anywhere.
 

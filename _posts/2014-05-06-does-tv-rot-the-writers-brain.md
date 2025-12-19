@@ -3,11 +3,11 @@ title: "Does TV Rot the Writer&#39;s Brain?"
 header:
  teaser: /assets/images/television_by_zero_.jpg
 categories:
-  - Perspectives
+  - perspectives
 tags:
-  - WriteTip
+  
 ---
-<img src="https://douglangille.github.io/assets/images/television_by_zero_.jpg">Hello, fellow quill-bearers! For your mind-bending pleasure, here is another open-ended dilly of a question:
+<img src="/assets/images/television_by_zero_.jpg">Hello, fellow quill-bearers! For your mind-bending pleasure, here is another open-ended dilly of a question:
 
 We're often told that to be great writers, we must read voraciously. Does the same hold true for television and film? Are there different writing lessons to be learned from watching sitcoms, dramas, and their ilk? What magical insights of word-craft mastery, if any, have you gleaned from the proverbial 'idiot box', 'idiot's lantern' and 'boob tube'?
 

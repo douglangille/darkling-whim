@@ -5,11 +5,11 @@ header:
   overlay_image: /assets/images/pexels-photo-38136.jpeg
   overlay_filter: 0.4
 categories: 
-  - Writings
+  - writings
+tags: [short-story, scifi, horror]
 excerpt: "It started as a joke, really. Betsy dared me."
-published: true
-commitment: low
 ---
+
 > Hello, said Tree. I’m in you and you’re in me.  
 > Hello, said Tree. Soon we’ll be a family.
 

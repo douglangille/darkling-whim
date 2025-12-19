@@ -1,13 +1,13 @@
 ---
+
 title: No Need to See
 header:
  overlay_image: /assets/images/5416221717_35b9fcf7be_b.jpg
  teaser: /assets/images/5416221717_35b9fcf7be_b.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
-  - Love
+  - writings
+tags: [poem, romance]
+
 ---
 warm oil on your back  
  my hands exploring your curves  

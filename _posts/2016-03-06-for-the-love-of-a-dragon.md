@@ -4,10 +4,12 @@ header:
   teaser: /assets/images/dragon-1014565_1280.jpg
   overlay_image: /assets/images/dragon-1014565_1280.jpg
 categories:
-  - Writings
+  - writings
 published: true
 excerpt: "She's a smoke show."
+tags: [short-story, fantasy, romance]
 ---
+
 "Should anyone here present know of any reason that this couple should not be joined in holy matrimony, speak now or forever hold your peace."  
 
 I glanced to the big door at the back of the church. Nothing. She wasn't going to ruin this for me after all. I looked back to the woman whose hands I held. I'd waited so long for this moment.

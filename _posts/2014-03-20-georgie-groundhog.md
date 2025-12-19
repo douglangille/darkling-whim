@@ -1,13 +1,14 @@
 ---
+
 title: Georgie Groundhog
 header:
  teaser: /assets/images/7420708952_0c90eb0fea_b.jpg
 categories:
-  - Writings
-tags:
-  
+  - writings
+tags: [flash-fiction, fantasy, romance]
+
 ---
-<img src="https://douglangille.github.io/assets/images/7420708952_0c90eb0fea_b.jpg">"Oh dear, oh dear! I'm late, so terribly late," muttered Georgie Groundhog to himself as he dressed for the storm outside.
+<img src="/assets/images/7420708952_0c90eb0fea_b.jpg">"Oh dear, oh dear! I'm late, so terribly late," muttered Georgie Groundhog to himself as he dressed for the storm outside.
 
 "I've slept too long. Spring will never come. It's Valentines and I haven't given the Tree Princess her card! Oh dear, oh dear!"
 

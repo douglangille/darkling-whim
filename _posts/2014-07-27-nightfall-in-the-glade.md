@@ -1,11 +1,13 @@
 ---
+
 title: Nightfall in the Glade
 header:
  teaser: /assets/images/Forest_Glade.jpg
  overlay_image: /assets/images/Forest_Glade.jpg
 categories:
-  - Writings
-tags:
+  - writings
+tags: [vignette, horror, scifi, fantasy]
+
 ---
 
 This story is a continuation of [Artemis' Nightrise](/artemis-nightrise).

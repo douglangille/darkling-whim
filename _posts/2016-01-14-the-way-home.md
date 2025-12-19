@@ -1,11 +1,14 @@
 ---
+
 title: The Way Home
 header:
  teaser: /assets/images/eb31b40d20f11c3e81584d04ee44408be273e7d71eb9134396f5_640_winter-driving.jpg
  overlay_image: /assets/images/eb31b40d20f11c3e81584d04ee44408be273e7d71eb9134396f5_640_winter-driving.jpg
 categories:
-  - Writings
+  - writings
+tags: [flash-fiction, fantasy, thriller]
 ---
+
 Gwen barely could focus on the oncoming traffic as she headed for home. *What a bitch of a day. All I want to do is rip off this bra and put on the give-up pjs.*
 
 A tractor trailor passed her on the inside lane of the on-ramp and blinded her in a mess of slush and salt. She laid on her horn as she braked. "Asshole," she yelled uselessly.

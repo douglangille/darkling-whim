@@ -1,11 +1,13 @@
 ---
+
 title: From the Window
 header:
  overlay_image: /assets/images/IMG_0342.jpg
  overlay_filter: .25
  teaser: /assets/images/IMG_0342.jpg
 categories:
-  - Writings
+  - writings
+tags: [vignette, literary, humour]
 ---
 Elvis has left the building.
 

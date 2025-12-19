@@ -1,11 +1,13 @@
 ---
+
 title: Of Blood and Text Messaging
 header:
  teaser: /assets/images/smartphone-593318.jpg
 categories:
-  - Writings
+  - writings
+tags: [flash-fiction, thriller]
 ---
-<img src="https://douglangille.github.io/assets/images/smartphone-593318.jpg">Detective Arnie Chalmers dropped his finished cigarette to the asphalt, ground it with his heel, and waited for his partner to catch up. "Ready, Steve?"
+<img src="/assets/images/smartphone-593318.jpg">Detective Arnie Chalmers dropped his finished cigarette to the asphalt, ground it with his heel, and waited for his partner to catch up. "Ready, Steve?"
 
 Stephen Morris picked up the butt, dropped it into his coffee cup, and stuffed it into his coat pocket. "What do we got?"
 

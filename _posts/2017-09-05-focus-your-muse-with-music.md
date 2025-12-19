@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/bokeh-2595838_1920.jpg
   overlay_image: /assets/images/bokeh-2595838_1920.jpg
   overlay_filter: 0.4
-categories: 'Perspectives'
+categories: 'perspectives'
 ---
 “Okay, it’s time to write now.”
 

@@ -3,10 +3,10 @@ title: Writing Motivation
 header:
  teaser: /assets/images/262375086_e1b3d215a4_b_piano-cat.jpg
 categories:
-  - Perspectives
+  - perspectives
 tags:
 ---
-<img src="https://douglangille.github.io/assets/images/262375086_e1b3d215a4_b_piano-cat.jpg">I don't want to write this post. I don't feel like it. Actually, I don't feel like writing a cotton-pickin' thing. Surely, there is something on TV? Nope. Damn. Well, there's always YouTube. Cats playing pianos. Totally cool.
+<img src="/assets/images/262375086_e1b3d215a4_b_piano-cat.jpg">I don't want to write this post. I don't feel like it. Actually, I don't feel like writing a cotton-pickin' thing. Surely, there is something on TV? Nope. Damn. Well, there's always YouTube. Cats playing pianos. Totally cool.
 
 Ahem. Where was I?
 

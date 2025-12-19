@@ -1,11 +1,17 @@
 ---
+
+
+
+
+
 title: Bat Geriatrics
 header:
  teaser: /assets/images/batman-532919_1280.jpg
 categories:
-  - Writings
+  - writings
+tags: [poem, humour]
 ---
-<img src="https://douglangille.github.io/assets/images/batman-532919_1280.jpg">"Alfred! Get me my cowl."
+<img src="/assets/images/batman-532919_1280.jpg">"Alfred! Get me my cowl."
 
 "But, Master Bruce. You donated that to the museum years ago."
 

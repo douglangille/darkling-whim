@@ -1,15 +1,17 @@
 ---
+
 title: The Writer
 header:
   overlay_filter: '0.5'
   overlay_image: /assets/images/8226570181_e9e2fde4fd_writer.jpg
   teaser: /assets/images/8226570181_e9e2fde4fd_writer.jpg
 categories:
-  - Writings
-tags:
+  - writings
+tags: [vignette, literary]
 excerpt: >-
   Doug leans back in his Lazyboy and stretches his arms over his head with laced
   fingers.
+
 ---
 Doug leans back in his Lazyboy and stretches his arms over his head with laced fingers. Gracie seizes the opportunity and slinks on to his lap, circles twice (counter-clockwise) before curing up in a ball with a satisfied sigh. 
 

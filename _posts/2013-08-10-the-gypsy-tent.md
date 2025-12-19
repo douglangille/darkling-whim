@@ -3,11 +3,11 @@ title: The Gypsy Tent
 header:
  teaser: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, horror]
+
 ---
-<img src="https://douglangille.github.io/assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg">I wandered through the county fair,  
+<img src="/assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg">I wandered through the county fair,  
  With plenty of coin and time to spare.  
  Carnies barking to and fro,  
  'Spin the wheel' and 'enjoy the show.'

@@ -1,11 +1,13 @@
 ---
+
 title: One Last Letter
 header:
  teaser: /assets/images/nj-321381.jpg
 categories:
-  - Writings
+  - writings
+tags: [vignette, literary, romance]
 ---
-<img src="https://douglangille.github.io/assets/images/nj-321381.jpg">Ricky checked his mailbox everyday at just before noon, rain or shine. He'd done this for as long as he could remember. Clip the leash on Duke, Number Four in a long line of Dukes, and let the dog lead him down the winding driveway. Ricky'd shuffle along, arm outstretched. Some days, his shoulder would hurt from the tugging and others it'd magically feel better, as if Duke held chiropractic talent in his thick skull.
+<img src="/assets/images/nj-321381.jpg">Ricky checked his mailbox everyday at just before noon, rain or shine. He'd done this for as long as he could remember. Clip the leash on Duke, Number Four in a long line of Dukes, and let the dog lead him down the winding driveway. Ricky'd shuffle along, arm outstretched. Some days, his shoulder would hurt from the tugging and others it'd magically feel better, as if Duke held chiropractic talent in his thick skull.
 
 Most mornings, the sensations of his wooded lot greeted him with fond memories of better times. The damp rot of exposed earth and pollen as the world came back to life. Spring. A faint whiff of manure and the hum of cicadas told of Summer. The slippery leaves of oak littering the gravel road and the cooling breeze promised fouler months ahead. Winters were tough. All that seeped through his mind was the howl of the wind, reminding him of those last days with her.
 
@@ -32,5 +34,4 @@ Ricky tucked the envelop inside his coat, closed the flap and turned down the fl
 The fire'd gone out so he banked the stove, poured a glass of hooch and sat at the chrome table in the kitchen. His slippered feet absently slid back and forth over the worn linoleum. Ricky opened the envelop and unfolded the letter. He did his best to hold his hand steady as he carefully felt the same raised lettering on the thick paper.
 
 Dearest Ricky,  
- Time to come home.  
- Love, Mallory.
+ Time to come home.

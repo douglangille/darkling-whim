@@ -1,11 +1,14 @@
 ---
+
 title: Mary Had a Disgruntled Lamb
 header:
  teaser: /assets/images/Disgruntled-Lamb.jpg
 categories:
-  - Writings
+  - writings
+tags: [poem, literary, humour]
 ---
-<img src="https://douglangille.github.io/assets/images/Disgruntled-Lamb.jpg">Mary had a disgruntled little lamb,  
+
+<img src="/assets/images/Disgruntled-Lamb.jpg">Mary had a disgruntled little lamb,  
  Whose fleece was greasy and matted  
  And everywhere that Mary went,  
  It rudely belched and farted.

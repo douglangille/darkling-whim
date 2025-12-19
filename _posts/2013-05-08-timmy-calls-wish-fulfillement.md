@@ -3,11 +3,11 @@ title: Timmy Calls Wish Fulfillement
 header:
  teaser: /assets/images/7091212300ecb41f_1280_telephone.jpg
 categories:
-  - Writings
-tags:
-  
+  - writings
+tags: [flash-fiction, horror, fantasy]
+
 ---
-<img src="https://douglangille.github.io/assets/images/7091212300ecb41f_1280_telephone.jpg">"Hello. Wish Fulfillment Department, a division of Hopes and Dreams Incorporated. Welcome to our Customer Care Centre. Please listen carefully to the following options so that we may best direct your call."
+<img src="/assets/images/7091212300ecb41f_1280_telephone.jpg">"Hello. Wish Fulfillment Department, a division of Hopes and Dreams Incorporated. Welcome to our Customer Care Centre. Please listen carefully to the following options so that we may best direct your call."
 
 "If you wish to make a wish, press 1, and you will be transferred to 'Genies and Leprechauns'. If you wish to cancel a wish, press 2, and you will be directed to 'Devil's Bargains'. If you wish to wish for more wishes, you may hang up now."
 

@@ -1,13 +1,24 @@
 ---
+
+
+
+
+
+
 title: Black Friday
 header:
  teaser: /assets/images/15709773049_55712386fe_b.jpg
 categories:
-  - Writings
-tags:
-  - Poetry
+  - writings
+tags: [poem, humour]
+
+
+
+
+
+
 ---
-<img src="https://douglangille.github.io/assets/images/15709773049_55712386fe_b.jpg">I tried, I tried, with all my might,  
+<img src="/assets/images/15709773049_55712386fe_b.jpg">I tried, I tried, with all my might,  
  To get the toy, I'd have to fight.  
  Through shopping hoards, it was in my sight.  
  I clambered over, jumped and took flight.

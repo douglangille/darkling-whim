@@ -3,7 +3,7 @@ title: Genre Bending
 header:
  teaser: /assets/images/letters-390186_640.jpg
 categories:
-  - Perspectives
+  - perspectives
 ---
 ![](/assets/images/letters-390186_640.jpg)
 

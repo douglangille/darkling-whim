@@ -2,7 +2,7 @@
 layout: archive-taxonomy
 title: Perspectives
 permalink: /perspectives/
-taxonomy: Perspectives
+taxonomy: perspectives
 entries_layout: grid
 classes: wide
 author_profile: false
@@ -10,7 +10,7 @@ autopages:
     display_name: Perspectives
 pagination:
     enabled: true
-    category: Perspectives
+    category: perspectives
 ---
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}

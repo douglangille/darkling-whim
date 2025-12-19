@@ -4,8 +4,8 @@ header:
  teaser: /assets/images/9464995143_626fb980cd_b.jpg
  overlay_image: /assets/images/9464995143_626fb980cd_b.jpg
 categories:
-  - Haley
-tags:
+  - writings
+tags: [vignette, thriller, haley]
 ---
 "But what if I hold it like this?" asked Eunice.
 

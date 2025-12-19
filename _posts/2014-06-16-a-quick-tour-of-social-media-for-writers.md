@@ -3,11 +3,11 @@ title: A Quick Tour of Social Media for Writers
 header:
  teaser: /assets/images/social-media-explained-for-indie-writers.jpg
 categories:
-  - Perspectives
+  - perspectives
 tags:
-  - WriteTip
+  
 ---
-<img src="https://douglangille.github.io/assets/images/social-media-explained-for-indie-writers.jpg">Part of the writing game is marketing (talking about your work) and publicity (getting others to talk about your work). And that generally means using social media tools such as Facebook, Twitter, Google+ and their ilk. Establishing an 'author platform' are bons mots du jour.
+<img src="/assets/images/social-media-explained-for-indie-writers.jpg">Part of the writing game is marketing (talking about your work) and publicity (getting others to talk about your work). And that generally means using social media tools such as Facebook, Twitter, Google+ and their ilk. Establishing an 'author platform' are bons mots du jour.
 
 So which network do you use? Do you have to be on all of them?
 

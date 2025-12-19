@@ -7,11 +7,10 @@ permalink: /writings/
 entries_layout: grid
 pagination:
     enabled: true
-    category: Writings
+    category: writings
 ---
 
-<!--
-{% assign alltags = site.categories['Writings'] | sort %} 
+{% assign alltags = site.categories['writings'] | sort %} 
 {% assign grouptag =  alltags | map: 'tags' | join: ','  | split: ','  | group_by: tag | sort: 'name' %}
 <ul class="taxonomy__index">
   {% for tag in grouptag %}
@@ -22,7 +21,7 @@ pagination:
     </li>  
   {% endfor %}
 </ul>
--->
+<p class="notice">Prefer to read a series from the beginning? <a href="/haleys-war/">Haley's War</a> is an unfinished chaotic fever dream, but it's a helluva ride.</p>
 
 <div class="entries-{{ page.entries_layout }}">
 {% for post in paginator.posts %}
