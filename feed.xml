@@ -4,8 +4,7 @@ permalink: /feed.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <link>{{ site.url | xml_escape }}{{ site.baseurl }}</link>
@@ -38,12 +37,10 @@ permalink: /feed.xml
       <description>
         <![CDATA[
           {{ post.excerpt | markdownify }}
-          <p><a href="{{ site.url }}{{ post.url }}">Read more →</a></p>
         ]]>
       </description>
 
     </item>
     {% endfor %}
-
   </channel>
 </rss>
