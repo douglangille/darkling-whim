@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /rss.xml
+permalink: /feed.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
@@ -38,20 +38,10 @@ permalink: /rss.xml
       <description>
         <![CDATA[
           {{ post.excerpt | markdownify }}
-          {% if img %}
-            <p><img src="{{ img }}" alt="{{ post.title | xml_escape }}" /></p>
-          {% endif %}
+          <p><a href="{{ site.url }}{{ post.url }}">Read more →</a></p>
         ]]>
       </description>
 
-      <content:encoded>
-        <![CDATA[
-          {% if img %}
-            <p><img src="{{ img }}" alt="{{ post.title | xml_escape }}" /></p>
-          {% endif %}
-          {{ post.content }}
-        ]]>
-      </content:encoded>
     </item>
     {% endfor %}
 
