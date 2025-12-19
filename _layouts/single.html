@@ -51,7 +51,11 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-
+      
+      <div style="clear:both;">
+        <p class="notice--primary text-center"><a href="https://preview.mailerlite.io/forms/1982964/174225471087576747/share">Don't miss the next turn into the dark. Subscribe for new stories.</a></p>
+      </div>
+      
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
