@@ -4,6 +4,7 @@ title: Perspectives
 permalink: /perspectives/
 taxonomy: perspectives
 entries_layout: grid
+search: false
 classes: wide
 author_profile: false
 autopages:

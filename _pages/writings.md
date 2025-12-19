@@ -5,6 +5,7 @@ author_profile: true
 classes: wide
 permalink: /writings/
 entries_layout: grid
+search: false
 pagination:
     enabled: true
     category: writings

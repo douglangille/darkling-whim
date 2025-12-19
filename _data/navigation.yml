@@ -5,3 +5,6 @@ main:
     url: /perspectives/
   - title: "Now"
     url: /now/
+  - title: ""
+    url: /search/
+    search: true

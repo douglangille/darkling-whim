@@ -1,6 +1,7 @@
 ---
 permalink: /links/
 title: "Links"
+search: false
 ---
 <h2 id="better-living">Better Living</h2>
 <ul>

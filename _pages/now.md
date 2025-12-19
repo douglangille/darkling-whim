@@ -2,6 +2,7 @@
 layout: single
 permalink: /now/
 title: "Now (Late 2025)"
+search: false
 redirect_from:
   - /what-is-a-doug/
   - /home/

@@ -5,6 +5,7 @@ permalink: /haleys-war/
 entries_layout: grid
 classes: wide
 author_profile: true
+search: false
 ---
 
 {% assign posts = site.tags['haley'] | sort: 'date'  %}
