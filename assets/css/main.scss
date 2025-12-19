@@ -15,18 +15,14 @@ $global-font-family : $serif;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* teaser images in archive grid */
 .archive__item-teaser img, .half img { object-fit: cover; aspect-ratio: 3/2; }
-.page__content p:first-of-type img:first-of-type 
-{
-  margin-bottom: 1em;
-  display: block;
-}
+/* first image of page content */
+.page__content p:first-of-type img:first-of-type { margin-bottom: 1em; display: block; }
 
-/* --- High-Density Search Grid: Final Archive Match --- */
-
+/* Search Results Grid - lunr */
 .results {
   display: grid;
-  /* Fixed width columns ensures empty space stays on the right */
   grid-template-columns: repeat(auto-fill, 260px);
   justify-content: start; 
   column-gap: 1em; 
@@ -35,8 +31,7 @@ $global-font-family : $serif;
   margin: 0 auto;
   padding: 1.5rem 0;
 }
-
-/* 1. Results Count (Spans all columns) */
+/* number of results */
 .results > :first-child {
   grid-column: 1 / -1;
   margin-bottom: 1rem;
@@ -45,15 +40,13 @@ $global-font-family : $serif;
   border-bottom: 1px solid #f2f2f2;
   padding-bottom: 0.5rem;
 }
-
-/* 2. Grid Item Container */
+/* results grid */
 .results > *:not(:first-child) {
   display: flex !important;
   flex-direction: column !important;
   height: 100%;
 }
-
-/* 3. Image: 3/2 Aspect Ratio */
+/* teaser images */
 .results img {
   width: 100% !important;
   aspect-ratio: 3 / 2 !important;
@@ -61,13 +54,11 @@ $global-font-family : $serif;
   margin-bottom: 0.75rem !important;
   border-radius: 4px;
 }
-
-/* 4. Title: Bottom-Justified Baseline */
+/* long titles */
 .results h2, 
 .results a {
   display: flex !important;
   align-items: flex-end !important; 
-  /* Height allows for 2 lines of text without overlapping the image */
   height: 3.2rem; 
   margin: 0 0 0.5rem 0 !important;
   font-size: 1.15rem;
@@ -75,8 +66,7 @@ $global-font-family : $serif;
   line-height: 1.2;
   text-decoration: none;
 }
-
-/* 5. Excerpt: Clean Truncation */
+/* excerpts */
 .results p, 
 .results .excerpt {
   margin: 0;
