@@ -1,0 +1,45 @@
+---
+layout: null
+permalink: /feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title | xml_escape }}</title>
+  <link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self"/>
+  <link href="{{ site.url }}{{ site.baseurl }}/"/>
+  <updated>{{ site.time | date: "%FT%TZ" }}</updated>
+  <id>{{ site.url }}{{ site.baseurl }}/</id>
+
+  {% assign recent_posts = site.posts | sort: "date" | reverse | slice: 0, 12 %}
+  {% for post in recent_posts %}
+  <entry>
+    <title>{{ post.title | xml_escape }}</title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <id>{{ site.url }}{{ post.url }}</id>
+    <updated>{{ post.date | date: "%FT%TZ" }}</updated>
+
+    {% capture img_url %}
+      {% if post.header.og_image %}
+        {{ post.header.og_image | absolute_url }}
+      {% elsif post.header.teaser %}
+        {{ post.header.teaser | absolute_url }}
+      {% elsif post.image %}
+        {{ post.image | absolute_url }}
+      {% endif %}
+    {% endcapture %}
+
+    {% if img_url %}
+    <content type="html">
+      <![CDATA[
+        <p><img src="{{ img_url }}" alt="{{ post.title | xml_escape }}"/></p>
+        {{ post.excerpt | markdownify }}
+      ]]>
+    </content>
+    {% else %}
+    <summary>{{ post.excerpt | xml_escape }}</summary>
+    {% endif %}
+
+    <published>{{ post.date | date: "%FT%TZ" }}</published>
+  </entry>
+  {% endfor %}
+</feed>

@@ -317,6 +317,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-paginate-v2
   jekyll-redirect-from
+  jekyll-seo-tag
   jekyll-sitemap
   jemoji
   minimal-mistakes-jekyll

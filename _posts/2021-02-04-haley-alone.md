@@ -1,5 +1,6 @@
 ---
 title: 'Haley Alone'
+image: /assets/images/img_0014.jpg
 header: 
   teaser: /assets/images/img_0014.jpg
   overlay_image: /assets/images/img_0014.jpg
