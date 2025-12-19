@@ -16,7 +16,75 @@ $global-font-family : $serif;
 @import "minimal-mistakes"; // main partials
 
 .archive__item-teaser img, .half img { object-fit: cover; aspect-ratio: 3/2; }
-.page__content p:first-of-type img:first-of-type {
+.page__content p:first-of-type img:first-of-type 
+{
   margin-bottom: 1em;
   display: block;
+}
+
+/* --- High-Density Search Grid: Final Archive Match --- */
+
+.results {
+  display: grid;
+  /* Fixed width columns ensures empty space stays on the right */
+  grid-template-columns: repeat(auto-fill, 260px);
+  justify-content: start; 
+  column-gap: 1em; 
+  row-gap: 1.25rem; 
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem 0;
+}
+
+/* 1. Results Count (Spans all columns) */
+.results > :first-child {
+  grid-column: 1 / -1;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  font-size: 0.95rem;
+  border-bottom: 1px solid #f2f2f2;
+  padding-bottom: 0.5rem;
+}
+
+/* 2. Grid Item Container */
+.results > *:not(:first-child) {
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100%;
+}
+
+/* 3. Image: 3/2 Aspect Ratio */
+.results img {
+  width: 100% !important;
+  aspect-ratio: 3 / 2 !important;
+  object-fit: cover;
+  margin-bottom: 0.75rem !important;
+  border-radius: 4px;
+}
+
+/* 4. Title: Bottom-Justified Baseline */
+.results h2, 
+.results a {
+  display: flex !important;
+  align-items: flex-end !important; 
+  /* Height allows for 2 lines of text without overlapping the image */
+  height: 3.2rem; 
+  margin: 0 0 0.5rem 0 !important;
+  font-size: 1.15rem;
+  font-weight: bold;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+/* 5. Excerpt: Clean Truncation */
+.results p, 
+.results .excerpt {
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: #444;
 }
