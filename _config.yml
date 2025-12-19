@@ -132,18 +132,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label             : "Published Works"
-      icon              : "fa-regular fa-bookmark"
-      url               : "/published"
     - label             : "Digital Doug on Substack"
       icon              : "fa-regular fa-newspaper"
       url               : "https://douglangille.substack.com"
     - label             : "LinkedIn"
       icon              : "fa-brands fa-square-linkedin"
       url               : "https://www.linkedin.com/in/douglangille/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/douglangille"
   since: "2013"
 
 
