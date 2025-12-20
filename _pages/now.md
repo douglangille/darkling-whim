@@ -13,9 +13,13 @@ This page tracks my current creative and technology focus. It's a snapshot of wh
 Current Creative Focus
 ----------------------
 
-I'm currently engaged in a deep-dive writing sprint on my novel, **Haley's War**. It's a zombie-apocalypse story with an emphasis on the psychological resilience required to rebuild a shattered world. It's demanding, but rewarding work.
+For 2026, I am committed to publishing a piece of short fiction every week. Sometimes this will be new work; other times, it will be a revisit of an older piece with a red pen and fresh eyes.
 
-My short fiction---the pieces I publish on this site---remain my creative "workout." They are done entirely by hand, with **no AI involvement**. This deliberate restriction is essential for my craft; it gives me the reps I need in story structure, voice, and pacing, keeping the human creative muscles sharp.
+My short fiction, the pieces I publish on this site, remains my creative "workout." These stories are drafted entirely by hand, with **no AI involvement**. This deliberate restriction is essential to my craft; it gives me the reps I need in story structure, voice, and pacing, keeping my creative muscles sharp.
+
+I do use AI for spelling and grammar line-edits, as well as for critiques to help hone my skills.
+
+I may or may not listen to its opinions.
 
 Technical & Workflow Experiments
 --------------------------------
@@ -31,9 +35,9 @@ What I'm Reading
 
 I'm deep into three very different, but equally inspiring, archives right now:
 
--   **Jack Whyte's** ***Dream of Eagles*** **series:** I'm revisiting the entire historical fiction cycle that reimagines Arthurian legend. It's fantastic study material for scope and character development.
+-   **Jack Whyte's** ***Dream of Eagles*** **series**: I'm revisiting the entire historical fiction cycle that reimagines Arthurian legend. It's fantastic study material for scope and character development.
 
--   **Collected Works of Robert Service:** I'm spending a lot of time with my grandfather's copy of Service's poetry, specifically the rhythm and narrative power of his Yukon verse.
+-   **Collected Works of Robert Service**: I'm spending a lot of time with my grandfather's copy of Service's poetry, specifically the rhythm and narrative power of his Yukon verse.
 
 -  **Clive Barker's** ***Imajica***: Preparing for a revisit of this epic work, studying its scope and intricate world-building.
 
