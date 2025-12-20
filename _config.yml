@@ -141,8 +141,8 @@ defaults:
       layout             : "single"
       author_profile     : true
       read_time          : true
-      share              : true
+      share              : false
       related            : true
-      comments           : true
+      comments           : false
       show_date          : true
       overlay_filter     : 0.5
