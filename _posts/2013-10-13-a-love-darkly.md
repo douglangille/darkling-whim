@@ -10,8 +10,6 @@ categories:
 tags: [short-story, fantasy, horror]
 
 ---
-Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231).
-{: .notice}
 
 Alice gave me a furtive glance as she handed me a glass of lemonade. She was nervous. I could sense a slight tremble in her voice as she offered a drink to Darcy. As usual, he was oblivious.
 
@@ -164,3 +162,7 @@ They gave us water and waited. We waited in silence. Alice started to come aroun
 Jane broke the moment, ending the impasse. "Darcy, let's go." He nodded and took one last long look at me, then Alice. He kissed her. Then my one-time best friend followed my lover's sister through the front door and out of our lives.
 
 I was uncertain how much strength and love Alice and I shared to pick up the pieces. I knew we were damned, perhaps from the very beginning.
+
+Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231).
+{: .notice}
+

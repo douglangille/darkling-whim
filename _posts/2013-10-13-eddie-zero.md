@@ -1,9 +1,4 @@
 ---
-
-
-
-
-
 title: "Eddie Zero"
 date: 2013-10-13
 tags: [short-story, horror, haley]
@@ -12,14 +7,7 @@ categories:
 header:
     teaser: /assets/images/eddie-zero.png
     overlay_image: /assets/images/eddie-zero.png
-
-
-
-
-
 ---
-Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231). There are several [tales, vingettes and ideas](/haley) floating about while *Haley's War* is in development.
-{: .notice}
 
 I didn't kill him. He was already dead.
 
@@ -418,3 +406,6 @@ I held his stare a few seconds longer and handed him the lighter.
 Barney's last words before he ducked back inside were a simple truth. "Besides, you need each other."
 
 As Haley and I sat huddled in the back of the rising helicopter, we felt the warm wind of Barney's firestorm. We'd be okay.
+
+Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231). There are several [tales, vingettes and ideas](/haley) floating about while *Haley's War* is in development.
+{: .notice}
