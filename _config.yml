@@ -145,4 +145,5 @@ defaults:
       related            : true
       comments           : false
       show_date          : true
+      excerpt            : ""
       overlay_filter     : 0.5
