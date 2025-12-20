@@ -6,7 +6,7 @@ subtitle                 : "Untethered tales, scattered thoughts."
 name                     : "Doug Langille"
 description              : "Doug Langille’s hub for fiction, stories, and musings—a place where imagination wanders and ideas run untethered."
 url                      : "https://douglangille.ca"
-baseurl                  : "" 
+baseurl                  : "/" 
 repository               : "douglangille/website"
 locale                   : "en-CA"
 timezone                 : "America/Halifax"
@@ -93,6 +93,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+
+category_archive:
+  type: jekyll-archives
+  path: /
+tag_archive:
+  type: jekyll-archives
+  path: /
 
 pagination:
   enabled                : true
