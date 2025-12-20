@@ -1,31 +1,31 @@
 # -----------------------------------------------------------------------------
 # Site Identity & Metadata
 # -----------------------------------------------------------------------------
-title                    : "On a Darkling Whim"
-subtitle                 : "Untethered tales, scattered thoughts."
-name                     : "Doug Langille"
-description              : "Doug Langille’s hub for fiction, stories, and musings—a place where imagination wanders and ideas run untethered."
-url                      : "https://douglangille.ca"
-baseurl                  : "/" 
-repository               : "douglangille/website"
-locale                   : "en-CA"
-timezone                 : "America/Halifax"
+title                     : "On a Darkling Whim"
+subtitle                  : "Untethered tales, scattered thoughts."
+name                      : "Doug Langille"
+description               : "Doug Langille’s hub for fiction, stories, and musings—a place where imagination wanders and ideas run untethered."
+url                       : "https://douglangille.ca"
+baseurl                   : "/" 
+repository                : "douglangille/website"
+locale                    : "en-CA"
+timezone                  : "America/Halifax"
 
 # -----------------------------------------------------------------------------
 # Theme & Visuals
 # -----------------------------------------------------------------------------
-theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default"
+theme                     : "minimal-mistakes-jekyll"
+minimal_mistakes_skin     : "default"
 # Site Logo: Disabled. Site identity is handled via Google Fonts in CSS.
-logo                     : 
-teaser                   : "/assets/images/white500x300.jpg"
-og_image                 : "https://douglangille.ca/assets/images/DarklingWhim-e1569155401864.png"
-title_separator          : "-"
-words_per_minute         : 200
-breadcrumbs              : false
-search                   : true
-search_full_content      : false
-search_provider          : lunr
+logo                      : 
+teaser                    : "/assets/images/white500x300.jpg"
+og_image                  : "https://douglangille.ca/assets/images/DarklingWhim-e1569155401864.png"
+title_separator           : "-"
+words_per_minute          : 200
+breadcrumbs               : false
+search                    : true
+search_full_content       : false
+search_provider           : lunr
 
 # -----------------------------------------------------------------------------
 # Author & Social
@@ -58,12 +58,12 @@ footer:
 # -----------------------------------------------------------------------------
 # Build & Formatting
 # -----------------------------------------------------------------------------
-markdown                 : kramdown
-highlighter              : rouge
-permalink                : /:title/
-excerpt_separator        : "\n\n"
-incremental              : false
-encoding                 : "utf-8"
+markdown                  : kramdown
+highlighter               : rouge
+permalink                 : /:title/
+excerpt_separator         : "\n\n"
+incremental               : false
+encoding                  : "utf-8"
 
 include:
   - .htaccess
@@ -95,55 +95,53 @@ plugins:
   - jekyll-include-cache
 
 category_archive:
-  type: jekyll-archives
-  path: /
+  type                    : jekyll-archives
+  path                    : /
 tag_archive:
-  type: jekyll-archives
-  path: /
-
+  type                    : jekyll-archives
+  path                    : /
 pagination:
-  enabled                : true
-  collection             : 'posts'
-  per_page               : 12
-  permalink              : '/page/:num/'
-  sort_field             : 'date'
-  sort_reverse           : true
+  enabled                 : true
+  collection              : 'posts'
+  per_page                : 12
+  permalink               : '/page/:num/'
+  sort_field              : 'date'
+  sort_reverse            : true
 
 autopages:
-  enabled                : true
+  enabled                 : true
   categories:
-    enabled              : false
+    enabled               : false
   collections:
-    enabled              : false
+    enabled               : false
   tags:
-    enabled              : true
-    layouts: 
-      - 'archive-taxonomy.html'
-    permalink            : '/:tag/'
+    enabled               : true
+    layouts               : 'archive-taxonomy.html'
+    permalink             : '/:tag/'
 
 # -----------------------------------------------------------------------------
 # Related Posts (Theme Logic)
 # -----------------------------------------------------------------------------
-related_by: tags or categories 
-related_limit: 4            
-related_categories: 1       
-related_tags: 1    
-related_template: archive-single.html
-related_layout: grid
+related_by                : tags or categories 
+related_limit             : 4            
+related_categories        : 1       
+related_tags              : 1    
+related_template          : archive-single.html
+related_layout            : grid
 
 # -----------------------------------------------------------------------------
 # Defaults (Front Matter)
 # -----------------------------------------------------------------------------
 defaults:
   - scope:
-      path: "" 
+      path                : "" 
     values:
-      layout             : "single"
-      author_profile     : true
-      read_time          : true
-      share              : false
-      related            : true
-      comments           : false
-      show_date          : true
-      excerpt            : ""
-      overlay_filter     : 0.5
+      layout              : "single"
+      author_profile      : true
+      read_time           : true
+      share               : false
+      related             : true
+      comments            : false
+      show_date           : true
+      excerpt             : ""
+      overlay_filter      : 0.5
