@@ -107,6 +107,9 @@ pagination:
   permalink               : '/page/:num/'
   sort_field              : 'date'
   sort_reverse            : true
+  trail:
+      before              : 2
+      after               : 2  
 
 autopages:
   enabled                 : true
@@ -116,7 +119,8 @@ autopages:
     enabled               : false
   tags:
     enabled               : true
-    layouts               : 'archive-taxonomy.html'
+    layouts               : 
+      - 'archive-taxonomy.html'
     permalink             : '/:tag/'
 
 # -----------------------------------------------------------------------------
