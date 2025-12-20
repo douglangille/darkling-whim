@@ -31,29 +31,29 @@ search_provider          : lunr
 # Author & Social
 # -----------------------------------------------------------------------------
 author:
-  name                   : "Doug Langille"
-  avatar                 : "/assets/images/IMG_0040.jpeg"
-  bio                    : "hack writer & shameless technophile"
+  name                    : "Doug Langille"
+  avatar                  : "/assets/images/IMG_0040.jpeg"
+  bio                     : "hack writer & shameless technophile"
   links:
-    - label: "Nova Scotia"
-      icon: "fa-regular fa-location-dot"
-      url: "https://en.wikipedia.org/wiki/Nova_Scotia"
-    - label: "Amazon"
-      icon: "fa-brands fa-amazon"
-      url: "https://www.amazon.com/author/douglangille"
-    - label: "Email"
-      icon: "fa-regular fa-envelope"
-      url: "mailto:me@douglangille.ca"
+    - label               : "Nova Scotia"
+      icon                : "fa-regular fa-location-dot"
+      url                 : "https://en.wikipedia.org/wiki/Nova_Scotia"
+    - label               : "Amazon"
+      icon                : "fa-brands fa-amazon"
+      url                 : "https://www.amazon.com/author/douglangille"
+    - label               : "Email"
+      icon                : "fa-regular fa-envelope"
+      url                 : "mailto:me@douglangille.ca"
 
 footer:
-  since                  : "2013"
+  since                   : "2013"
   links:
-    - label: "Digital Doug on Substack"
-      icon: "fa-regular fa-newspaper"
-      url: "https://douglangille.substack.com"
-    - label: "LinkedIn"
-      icon: "fa-brands fa-square-linkedin"
-      url: "https://www.linkedin.com/in/douglangille/"
+    - label               : "Digital Doug"
+      icon                : "fa-regular fa-newspaper"
+      url                 : "https://douglangille.substack.com"
+    - label               : "LinkedIn"
+      icon                : "fa-brands fa-square-linkedin"
+      url                 : "https://www.linkedin.com/in/douglangille/"
 
 # -----------------------------------------------------------------------------
 # Build & Formatting
