@@ -8,8 +8,6 @@ categories:
   - writings
 tags: [vignette, fantasy, romance]
 ---
-This story is a continuation of [Artemis' Nightrise](/artemis-nightrise) and [Nightfall in the Glade](/nightfall-in-the-glade)
-{: .notice}
 
 Lamia wrapped the mottled scarf around her light frame, enjoying the silky sensation as the soft cool hide hugged her contours. She didn't have need of mirrors to know the truth of her beauty, only to close her eyes and run her palms down her middle to feel the smooth scales. Drawing her hands up to under her bare breasts, the rough utility of the garment hid many secrets. The Queen opened her eyes and caught the flecks of starlight shimmering and reflecting her regency.
 
@@ -50,3 +48,6 @@ Fortissima walked to the pool and examined its depth, not quite brave enough to 
 "Thank you, Your Grace."
 
 Fortissima took wing and exited the Hall, leaving Lamia to gaze at her reflection in the dark pool as if for the first time.
+
+This story is a continuation of [Artemis' Nightrise](/artemis-nightrise) and [Nightfall in the Glade](/nightfall-in-the-glade)
+{: .notice}
