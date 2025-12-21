@@ -3,7 +3,8 @@
   to = "https://douglangille.ca/:splat"
   status = 301
   force = true  
-  
+
+ [[redirects]] 
   from = "https://www.douglangille.netlify.app/*"
   to = "https://www.douglangille.ca/:splat"
   status = 301
