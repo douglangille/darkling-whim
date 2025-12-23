@@ -1,6 +1,40 @@
 # Revision Engine Bootstrap
 
-**Purpose**: Copy and paste this into any new Perplexity chat to initialize a story revision session.
+**Purpose**: Instructions for initializing any story revision session in Perplexity.
+
+---
+
+## 🚀 QUICK START (3 Steps)
+
+**In ANY new Perplexity chat:**
+
+### Step 1: Connect to GitHub
+```
+Connect to my Workbench repo on GitHub.
+```
+
+### Step 2: Load This Bootstrap
+```
+Load and follow instructions from _drafts/REVISION-ENGINE-BOOTSTRAP.md
+```
+
+### Step 3: Start Your Session
+
+**For a NEW story:**
+```
+# New Story Revision Project: [Story Title]
+Original story: _posts/[filename].md
+Initialize new revision project.
+```
+
+**For CONTINUING work:**
+```
+# Story Revision Session: [Story Title]
+Load artifacts from _drafts/[story-name]-revision/
+Report status and await instructions.
+```
+
+**That's it!** The AI will handle the rest.
 
 ---
 
@@ -69,60 +103,6 @@ Standard files:
 - `revision-plan.md` - Detailed revision decisions
 - `revision-notes.md` - Session log and save points
 - `working-[filename].md` - Active revision draft
-
----
-
-## STARTING A NEW STORY REVISION
-
-### For a brand new revision project:
-
-```
-# New Story Revision Project: [Story Title]
-
-Original story location: _posts/[YYYY-MM-DD-story-name.md]
-
-Initialize new revision project:
-1. Create project structure in _drafts/[story-name]-revision/
-2. Generate comprehensive story dossier
-3. Generate literary critique
-4. Archive original story copy
-5. Create project README
-6. Report completion and await next instructions
-```
-
-**What happens**:
-- AI will load the original story from `_posts/`
-- Create the folder structure in `_drafts/`
-- Generate dossier.md (comprehensive analysis)
-- Generate critique.md (literary evaluation)
-- Copy original to archive
-- Create README with project status
-- Save everything to GitHub
-- Report completion
-
-**After initialization**, you can start a planning session in a new chat.
-
----
-
-## CONTINUING AN EXISTING PROJECT
-
-### For ongoing work on an existing project:
-
-```
-# Story Revision Session: [Story Title]
-
-Load all artifacts from: _drafts/[story-name]-revision/
-
-Report current status and await instructions.
-```
-
-**What happens**:
-- AI loads all existing files from the project folder
-- Reports current phase (Analysis/Planning/Execution/Finalization)
-- Lists what artifacts exist
-- Shows last save point from revision-notes.md
-- Tells you what needs to happen next
-- Awaits your instructions
 
 ---
 
@@ -245,39 +225,43 @@ Do not proceed without author direction.
 
 ## EXAMPLE USAGE
 
-### Starting Fresh with a New Story:
+### Example 1: Starting Eddie Zero (New Project)
 
-**You paste bootstrap, then add:**
+**New chat, type:**
 ```
+Connect to my Workbench repo on GitHub.
+
+Load and follow _drafts/REVISION-ENGINE-BOOTSTRAP.md
+
 # New Story Revision Project: Eddie Zero
-
-Original story location: _posts/2013-10-13-eddie-zero.md
-
+Original story: _posts/2013-10-13-eddie-zero.md
 Initialize new revision project.
 ```
 
-**AI responds:**
-- Creates `_drafts/eddie-zero-revision/`
-- Generates all analysis artifacts
-- Reports completion
-- You start planning session in new chat
+### Example 2: Continue Mitzy (Existing Project)
 
-### Continuing Work on Mitzy:
-
-**You paste bootstrap, then add:**
+**New chat, type:**
 ```
+Connect to my Workbench repo on GitHub.
+
+Load and follow _drafts/REVISION-ENGINE-BOOTSTRAP.md
+
 # Story Revision Session: Mitzy and the Butterfly
-
-Load all artifacts from: _drafts/mitzy-revision/
-
-Report current status. We're ready for Phase 2 (Planning).
+Load artifacts from _drafts/mitzy-revision/
+Report status. Ready for Phase 2 (Planning).
 ```
 
-**AI responds:**
-- Loads dossier, critique, original
-- Reports Phase 1 complete
-- Confirms ready for planning
-- Awaits your direction on revision priorities
+### Example 3: Resume from Save Point
+
+**New chat, type:**
+```
+Connect to my Workbench repo on GitHub.
+
+Load and follow _drafts/REVISION-ENGINE-BOOTSTRAP.md
+
+# Story Revision Session: Mitzy and the Butterfly
+Load artifacts and resume from last save point.
+```
 
 ---
 
@@ -323,7 +307,7 @@ The darkness remains. Just more focused.
 
 ## SAVE POINT FORMAT
 
-In `revision-notes.md`, always include a save point at end of session:
+In `revision-notes.md`, always include save point at end of session:
 
 ```markdown
 ## Save Point: [Date/Time]
@@ -340,75 +324,41 @@ In `revision-notes.md`, always include a save point at end of session:
 
 ---
 
-## SESSION TYPES
+## TROUBLESHOOTING
 
-### Initialization Session (NEW STORY)
-**Duration**: 1 session  
-**Goal**: Set up project and complete analysis  
-**Output**: Full project structure with dossier and critique
+**"Can't access repo"**  
+→ Start chat with: `Connect to my Workbench repo on GitHub.`
 
-### Analysis Session (if separate from init)
-**Duration**: 1-2 sessions  
-**Goal**: Generate dossier and critique  
-**Output**: Foundational documents
+**"Can't find artifacts"**  
+→ Check project folder name: `_drafts/[story-name]-revision/`
 
-### Planning Session  
-**Duration**: 1 session  
-**Goal**: Develop and approve revision plan  
-**Output**: Detailed, approved revision strategy
+**"Lost context mid-session"**  
+→ New chat, reload bootstrap, check revision-notes.md for save point
 
-### Execution Session
-**Duration**: Multiple short sessions  
-**Goal**: Implement specific changes  
-**Output**: Revised sections + documentation  
-**Key**: Work in small chunks, save frequently
-
-### Polish Session
-**Duration**: 1 session  
-**Goal**: Final refinements  
-**Output**: Publication-ready story
+**"Need to change plan mid-execution"**  
+→ Update revision-plan.md, document reason in revision-notes.md
 
 ---
 
 ## QUICK REFERENCE
 
-### Finding Stories to Revise
-All published stories are in: `_posts/`  
-Filename format: `YYYY-MM-DD-story-title.md`
+### Start ANY Session
+1. `Connect to my Workbench repo on GitHub.`
+2. `Load and follow _drafts/REVISION-ENGINE-BOOTSTRAP.md`
+3. Add session command (new or continue)
 
-### Active Revision Projects
-All in: `_drafts/[story-name]-revision/`
+### Find Stories
+Published stories: `_posts/YYYY-MM-DD-story-title.md`
 
-### Bootstrap Location
-This file: `_drafts/REVISION-ENGINE-BOOTSTRAP.md`
+### Find Active Projects
+Revisions: `_drafts/[story-name]-revision/`
 
----
-
-## READY TO BEGIN
-
-Choose your session type and paste the appropriate command after this bootstrap:
-
-**For a NEW story:**
-```
-# New Story Revision Project: [Story Title]
-
-Original story location: _posts/[filename].md
-
-Initialize new revision project.
-```
-
-**For CONTINUING work:**
-```
-# Story Revision Session: [Story Title]
-
-Load all artifacts from: _drafts/[story-name]-revision/
-
-Report current status and await instructions.
-```
+### This File
+`_drafts/REVISION-ENGINE-BOOTSTRAP.md`
 
 ---
 
-**Bootstrap Version**: 1.1  
+**Bootstrap Version**: 1.2  
 **Last Updated**: December 22, 2025  
 **Author**: Douglas Langille  
 **Repository**: github.com/douglangille/Workbench
