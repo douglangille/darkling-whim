@@ -70,25 +70,82 @@ Standard files:
 - `revision-notes.md` - Session log and save points
 - `working-[filename].md` - Active revision draft
 
+---
+
+## STARTING A NEW STORY REVISION
+
+### For a brand new revision project:
+
+```
+# New Story Revision Project: [Story Title]
+
+Original story location: _posts/[YYYY-MM-DD-story-name.md]
+
+Initialize new revision project:
+1. Create project structure in _drafts/[story-name]-revision/
+2. Generate comprehensive story dossier
+3. Generate literary critique
+4. Archive original story copy
+5. Create project README
+6. Report completion and await next instructions
+```
+
+**What happens**:
+- AI will load the original story from `_posts/`
+- Create the folder structure in `_drafts/`
+- Generate dossier.md (comprehensive analysis)
+- Generate critique.md (literary evaluation)
+- Copy original to archive
+- Create README with project status
+- Save everything to GitHub
+- Report completion
+
+**After initialization**, you can start a planning session in a new chat.
+
+---
+
+## CONTINUING AN EXISTING PROJECT
+
+### For ongoing work on an existing project:
+
+```
+# Story Revision Session: [Story Title]
+
+Load all artifacts from: _drafts/[story-name]-revision/
+
+Report current status and await instructions.
+```
+
+**What happens**:
+- AI loads all existing files from the project folder
+- Reports current phase (Analysis/Planning/Execution/Finalization)
+- Lists what artifacts exist
+- Shows last save point from revision-notes.md
+- Tells you what needs to happen next
+- Awaits your instructions
+
+---
+
 ## SESSION INITIALIZATION
 
 ### Step 1: Load Story Context
 Retrieve from GitHub (douglangille/Workbench):
-- [ ] Original story: `_posts/[filename]`
-- [ ] Project README: `_drafts/[story]-revision/README.md`
-- [ ] Story dossier: `_drafts/[story]-revision/dossier.md`
-- [ ] Literary critique: `_drafts/[story]-revision/critique.md`
+- [ ] Original story: `_posts/[filename]` OR project folder
+- [ ] Project README: `_drafts/[story]-revision/README.md` (if exists)
+- [ ] Story dossier: `_drafts/[story]-revision/dossier.md` (if exists)
+- [ ] Literary critique: `_drafts/[story]-revision/critique.md` (if exists)
 - [ ] Revision plan: `_drafts/[story]-revision/revision-plan.md` (if exists)
 - [ ] Revision notes: `_drafts/[story]-revision/revision-notes.md` (if exists)
 - [ ] Working draft: `_drafts/[story]-revision/working-[filename].md` (if exists)
 
 ### Step 2: Summarize Status
 Report:
-1. **Current Phase**: Analysis | Planning | Execution | Finalization
-2. **What exists**: List loaded artifacts
-3. **Last save point**: From revision-notes.md (if exists)
-4. **What's next**: Based on workflow status
-5. **Awaiting**: Author instructions
+1. **Project Status**: New initialization | Existing project
+2. **Current Phase**: Analysis | Planning | Execution | Finalization
+3. **What exists**: List loaded artifacts
+4. **Last save point**: From revision-notes.md (if exists)
+5. **What's next**: Based on workflow status
+6. **Awaiting**: Author instructions
 
 ### Step 3: Await Instructions
 Do not proceed without author direction.
@@ -104,14 +161,16 @@ Do not proceed without author direction.
 1. Generate comprehensive story dossier
 2. Generate literary critique
 3. Archive original story copy
-4. Save all to GitHub
+4. Create project README
+5. Save all to GitHub
 
 **Deliverables**:
-- `dossier.md`
-- `critique.md`
-- `original-[filename].md`
+- `README.md` (project overview)
+- `dossier.md` (comprehensive analysis)
+- `critique.md` (literary evaluation)
+- `original-[filename].md` (frozen copy)
 
-**Status Check**: ✅ Complete when all three files exist
+**Status Check**: ✅ Complete when all files exist
 
 ---
 
@@ -184,6 +243,44 @@ Do not proceed without author direction.
 
 ---
 
+## EXAMPLE USAGE
+
+### Starting Fresh with a New Story:
+
+**You paste bootstrap, then add:**
+```
+# New Story Revision Project: Eddie Zero
+
+Original story location: _posts/2013-10-13-eddie-zero.md
+
+Initialize new revision project.
+```
+
+**AI responds:**
+- Creates `_drafts/eddie-zero-revision/`
+- Generates all analysis artifacts
+- Reports completion
+- You start planning session in new chat
+
+### Continuing Work on Mitzy:
+
+**You paste bootstrap, then add:**
+```
+# Story Revision Session: Mitzy and the Butterfly
+
+Load all artifacts from: _drafts/mitzy-revision/
+
+Report current status. We're ready for Phase 2 (Planning).
+```
+
+**AI responds:**
+- Loads dossier, critique, original
+- Reports Phase 1 complete
+- Confirms ready for planning
+- Awaits your direction on revision priorities
+
+---
+
 ## AUTHOR'S NOTE TEMPLATE
 
 For revised stories (Douglas Adams style):
@@ -205,6 +302,7 @@ The darkness remains. Just more focused.
 ## COMMIT MESSAGE STANDARDS
 
 **Analysis phase**:
+- "Initialize [Story Name] revision project"
 - "Create story dossier for [Story Name]"
 - "Add literary critique for [Story Name]"
 - "Archive original [Story Name] for revision"
@@ -244,7 +342,12 @@ In `revision-notes.md`, always include a save point at end of session:
 
 ## SESSION TYPES
 
-### Analysis Session
+### Initialization Session (NEW STORY)
+**Duration**: 1 session  
+**Goal**: Set up project and complete analysis  
+**Output**: Full project structure with dossier and critique
+
+### Analysis Session (if separate from init)
 **Duration**: 1-2 sessions  
 **Goal**: Generate dossier and critique  
 **Output**: Foundational documents
@@ -267,12 +370,36 @@ In `revision-notes.md`, always include a save point at end of session:
 
 ---
 
+## QUICK REFERENCE
+
+### Finding Stories to Revise
+All published stories are in: `_posts/`  
+Filename format: `YYYY-MM-DD-story-title.md`
+
+### Active Revision Projects
+All in: `_drafts/[story-name]-revision/`
+
+### Bootstrap Location
+This file: `_drafts/REVISION-ENGINE-BOOTSTRAP.md`
+
+---
+
 ## READY TO BEGIN
 
-Once you've pasted this bootstrap, initialize the session with:
+Choose your session type and paste the appropriate command after this bootstrap:
 
+**For a NEW story:**
 ```
-# Story Revision Session: [Story Name]
+# New Story Revision Project: [Story Title]
+
+Original story location: _posts/[filename].md
+
+Initialize new revision project.
+```
+
+**For CONTINUING work:**
+```
+# Story Revision Session: [Story Title]
 
 Load all artifacts from: _drafts/[story-name]-revision/
 
@@ -281,7 +408,7 @@ Report current status and await instructions.
 
 ---
 
-**Bootstrap Version**: 1.0  
-**Created**: December 22, 2025  
+**Bootstrap Version**: 1.1  
+**Last Updated**: December 22, 2025  
 **Author**: Douglas Langille  
 **Repository**: github.com/douglangille/Workbench
