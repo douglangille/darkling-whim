@@ -1,176 +1,352 @@
-<!--
-STORY ENGINE: ASSESSMENT BOOTSTRAP
+# ASSESSMENT Bootstrap
 
-PURPOSE:
-Analyze existing published work to determine the optimal path forward.
-Decide whether to revise, expand, reboot, or leave as-is.
+**Purpose**: Analyze existing published work to determine the optimal path forward (revision, expansion, or other).
 
-USE WHEN:
-- Revisiting published stories
-- Deciding between polish vs. expansion
-- Evaluating scope and potential
+---
 
-SESSION STARTUP:
-  Connect to Workbench.
-  Load story-engine/bootstraps/ASSESSMENT-BOOTSTRAP.md
-  
-  # Assess: [Story Title]
-  Original: _posts/[filename].md
-  Analyze and recommend path forward.
+## When to Use This Bootstrap
 
-OUTPUT:
-- Comprehensive story assessment
-- Scope analysis (current vs. natural)
-- Expansion potential evaluation
-- Path recommendations
-- Decision framework for author
--->
+- You have a published story (flash, vignette, short story)
+- You want to improve it but aren't sure whether to polish or expand
+- You need to understand the story's potential scope
+- You want professional assessment before committing to a workflow
 
-# Assessment Bootstrap
+---
 
-## Role
+## Assessment Process
 
-You are analyzing an existing published story to determine its optimal path forward.
+### Phase 1: Deep Analysis
 
-## Process
+1. **Load and Read Original Story**
+   - From: `_posts/[YYYY-MM-DD-story-title].md`
+   - Note current word count and scope
+   - Identify publication context
 
-### Phase 1: Load and Analyze
+2. **Generate Comprehensive Dossier**
+   - Story metadata and synopsis
+   - Scene/beat breakdown
+   - Character analysis (present and implied)
+   - World-building (shown and suggested)
+   - Themes, motifs, symbols
+   - Plot structure and pacing
+   - Voice, style, POV characteristics
+   - Technical strengths and weaknesses
 
-1. **Load the story** from `_posts/[filename].md`
-2. **Read completely** - understand as published
-3. **Generate comprehensive analysis**:
-   - Story metadata (title, date, word count, genre)
-   - Synopsis (2-3 sentences)
-   - Core elements (premise, characters, conflict, resolution)
-   - Thematic content
-   - Technical execution (prose, pacing, structure)
-   - Strengths (what works well)
-   - Weaknesses or limitations (what could improve)
+3. **Identify Compression Points**
+   - What elements exist but are compressed?
+   - What threads were cut for space?
+   - What backstory is implied but not shown?
+   - What world-building is hinted at?
+   - What character depth is suggested?
 
-### Phase 2: Scope Assessment
+### Phase 2: Scope Analysis
 
-**Analyze scope on multiple dimensions:**
+4. **Assess Current Scope**
+   - Flash fiction (under 1,000 words)
+   - Vignette (descriptive snapshot)
+   - Short-short (1,000-2,000 words)
+   - Short story (2,000-7,500 words)
+   - Novelette (7,500-17,500 words)
+   - Novella (17,500-40,000 words)
 
-#### Current Scope
-- Actual form: flash/vignette/short/novella/novel
-- Word count
-- Scene count
-- Character depth level
-- World-building detail
-- Plot complexity
-- What the story accomplishes as-is
+5. **Determine Natural Scope**
+   - What does the material want to be?
+   - What scope serves the story best?
+   - Consider:
+     - Complexity of premise
+     - Character development needs
+     - World-building requirements
+     - Plot threads present
+     - Thematic depth
 
-#### Natural Scope
-- What the material "wants" to be
-- Where does it feel compressed or constrained?
-- What elements are hinted at but unexplored?
-- What questions does it raise but not answer?
-- What scope would let the story breathe?
-
-#### Expansion Potential: [HIGH / MEDIUM / LOW / NONE]
-
-**For each potential target scope, analyze:**
-
-**If expanded to Short Story (3,000-7,500 words):**
-- Additional scenes needed: [list]
-- Character development opportunities: [list]
-- World-building to explore: [list]
-- Subplot potential: [list]
-- What would be gained: [analysis]
-- What risks losing original charm: [concerns]
-
-**If expanded to Novella (15,000-40,000 words):**
-- [Similar analysis]
-
-**If expanded to Novel (50,000+ words):**
-- [Similar analysis]
+6. **Analyze Expansion Potential**
+   - **HIGH**: Rich compressed material, clear expansion paths
+   - **MEDIUM**: Some expansion possible, requires creative development
+   - **LOW**: Story feels complete at current scope
+   - **NONE**: Perfect as-is, expansion would dilute
 
 ### Phase 3: Path Recommendations
 
-Present clear options:
+7. **Evaluate Options**
 
-#### Option 1: Leave As-Is
-**Recommend if:** Story is complete and satisfying at current scope
-**Rationale:** [Why it works as-is]
+   **Option A: Polish/Revision (Current Scope)**
+   - Story is complete at current length
+   - Needs refinement, not expansion
+   - Technical improvements only
+   - Next: REVISION-BOOTSTRAP
 
-#### Option 2: Polish/Revise (Current Scope)
-**Recommend if:** Story is right scope but needs refinement
-**Work involved:** [Describe changes needed]
-**Estimated effort:** [Low/Medium/High]
-**Next step:** Load REVISION-BOOTSTRAP.md
+   **Option B: Expansion (Larger Scope)**
+   - Material wants/needs more room
+   - Clear paths for development
+   - Expansion would strengthen story
+   - Next: EXPANSION-BOOTSTRAP
 
-#### Option 3: Expand to [Target Scope]
-**Recommend if:** Material has more to explore
-**Work involved:** [Describe what needs building]
-**Target word count:** [estimate]
-**Estimated effort:** [Medium/High]
-**Next step:** Load EXPANSION-BOOTSTRAP.md
+   **Option C: Reboot (Same or Different Scope)**
+   - Core idea strong, execution weak
+   - Better to rebuild than revise
+   - Next: DRAFTING-BOOTSTRAP (using original as reference)
 
-#### Option 4: Reboot/Reimagine
-**Recommend if:** Core idea strong but execution needs fresh start
-**Work involved:** [Describe approach]
-**Next step:** Load DRAFTING-BOOTSTRAP.md
+   **Option D: Series/Universe Potential**
+   - World/characters support multiple stories
+   - Consider expanding universe, not just story
+   - Next: UNIVERSE-BOOTSTRAP
 
-#### Option 5: Series/Universe Potential
-**Recommend if:** World/characters could support multiple stories
-**Work involved:** [Describe universe building]
-**Next step:** Load UNIVERSE-BOOTSTRAP.md or SERIAL-BOOTSTRAP.md
+   **Option E: Leave As-Is**
+   - Story is complete and effective
+   - Changes would not improve it
+   - Archive assessment, celebrate success
 
-### Phase 4: Generate Assessment Document
+8. **Make Recommendation**
+   - Primary recommendation with reasoning
+   - Alternative options if applicable
+   - Estimated work involved for each path
+   - Expected outcomes
 
-Create comprehensive assessment report:
+---
 
-**File:** `_drafts/[story-name]-assessment/assessment-report.md`
+## Assessment Report Template
 
-**Contents:**
-- Story analysis
-- Scope assessment
-- Expansion analysis (all potential target scopes)
-- Path recommendations with clear rationale
-- Decision framework for author
+Create in: `_drafts/[story-name]-assessment/assessment.md`
 
-**Also create:**
-- `_drafts/[story-name]-assessment/original-[filename].md` (archive copy)
-- `_drafts/[story-name]-assessment/README.md` (project overview)
+```markdown
+# Story Assessment: [Title]
 
-**Commit to GitHub**
+**Date**: [Date]  
+**Original Publication**: [Where/When]  
+**Current Scope**: [Scope type]  
+**Current Word Count**: [X words]
 
-### Phase 5: Present Decision Point
+---
 
-**Report to author:**
-1. Summary of analysis
-2. Current vs. natural scope
-3. Expansion potential rating
-4. Clear recommendation with rationale
-5. Alternative paths to consider
+## Story Summary
 
-**Ask author to choose:**
-- Which path do you want to take?
-- What's your priority: polish existing or explore expansion?
-- Are you excited by any of the expansion possibilities?
+[2-3 sentence synopsis]
 
-**Based on choice, provide next session startup command**
+---
 
-## Commit Standards
+## Current State Analysis
 
-- "Initialize assessment for [Story Name]"
-- "Complete story analysis for [Story Name]"
-- "Add scope assessment and recommendations for [Story Name]"
+### What's Working (Preserve These)
 
-## File Structure
+- [Strength 1]
+- [Strength 2]
+- [Strength 3]
+
+### What's Compressed (Could Expand)
+
+- [Compressed element 1]
+- [Compressed element 2]
+- [Compressed element 3]
+
+### What's Missing (If Expanded)
+
+- [Missing element 1]
+- [Missing element 2]
+- [Missing element 3]
+
+---
+
+## Scope Analysis
+
+### Current Scope
+**[Flash Fiction / Short Story / etc]** - [X words]
+
+Functions as: [complete story / character sketch / world glimpse / etc]
+
+### Natural Scope
+**[Short Story / Novella / etc]** - [target word count]
+
+The material suggests: [what it wants to be and why]
+
+### Expansion Potential: [HIGH / MEDIUM / LOW / NONE]
+
+**Reasoning**: [Why this assessment?]
+
+---
+
+## Expansion Analysis
+
+### If Expanded to Short Story (3,000-5,000 words)
+
+**Additional Scenes Needed**:
+1. [Scene description]
+2. [Scene description]
+3. [Scene description]
+
+**Character Development Opportunities**:
+- [Character 1]: [What to develop]
+- [Character 2]: [What to develop]
+
+**World-Building to Explore**:
+- [Element 1]
+- [Element 2]
+
+**Subplot Potential**:
+- [Possible subplot 1]
+- [Possible subplot 2]
+
+**Estimated Work**: [X new scenes, Y revision passes, Z weeks]
+
+### If Expanded to Novella (20,000-30,000 words)
+
+[Similar analysis for novella scope]
+
+### If Expanded to Novel (60,000+ words)
+
+[Similar analysis for novel scope]
+
+---
+
+## Path Recommendations
+
+### ⭐ RECOMMENDED: Option [A/B/C]
+
+**Path**: [Polish/Expand/Reboot/etc]
+
+**Why**: [Clear reasoning for this recommendation]
+
+**Work Involved**:
+- [Task 1]
+- [Task 2]
+- [Task 3]
+
+**Expected Outcome**: [What you'll have when done]
+
+**Next Bootstrap**: [Which workflow to use]
+
+**Estimated Timeline**: [X sessions / Y weeks]
+
+### Alternative: Option [X]
+
+**Path**: [Alternative path]
+
+**Why Consider This**: [When this might be better]
+
+**Next Bootstrap**: [Which workflow]
+
+---
+
+## Decision Point
+
+**Author, please choose**:
+1. Accept primary recommendation and proceed with [BOOTSTRAP]
+2. Choose alternative option: [which one?]
+3. Request additional analysis on: [what?]
+4. Table this story for now
+
+---
+
+## Appendix: Full Story Dossier
+
+[Comprehensive analysis - all the detail]
+
+### Characters
+[Full character analysis]
+
+### World-Building
+[Full world analysis]
+
+### Structure
+[Full structural analysis]
+
+### Themes
+[Full thematic analysis]
+
+### Technical Notes
+[Voice, style, POV, prose]
 
 ```
-_drafts/[story-name]-assessment/
-├── README.md
-├── assessment-report.md
-└── original-[filename].md
+
+---
+
+## Deliverables
+
+After assessment session, you should have:
+
+1. **assessment.md** - Complete assessment report
+2. **original-[filename].md** - Archived copy of original story
+3. **Author decision** - Which path to take
+
+These files save to: `_drafts/[story-name]-assessment/`
+
+---
+
+## Example Session Initialization
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load and follow story-engine/bootstraps/ASSESSMENT-BOOTSTRAP.md
+
+# Assess: Mitzy and the Butterfly
+
+Original story: _posts/2015-08-21-mitzy-and-the-butterfly.md
+
+Generate comprehensive assessment with scope analysis and path recommendations.
 ```
 
-## Next Steps
+---
 
-After author decision:
-- **Revision** → New session with REVISION-BOOTSTRAP.md
-- **Expansion** → New session with EXPANSION-BOOTSTRAP.md
-- **Reboot** → New session with DRAFTING-BOOTSTRAP.md
-- **Universe** → New session with UNIVERSE-BOOTSTRAP.md
-- **Leave as-is** → Archive assessment for reference
+## After Assessment
+
+Once author chooses a path:
+
+### If REVISION chosen:
+```
+Connect to Workbench.
+Load story-engine/bootstraps/REVISION-BOOTSTRAP.md
+# Revising: [Title]
+Load assessment from _drafts/[story-name]-assessment/
+Begin revision project.
+```
+
+### If EXPANSION chosen:
+```
+Connect to Workbench.
+Load story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
+# Expand: [Title]
+Target scope: [Short Story / Novella / etc]
+Load assessment from _drafts/[story-name]-assessment/
+Begin expansion planning.
+```
+
+### If REBOOT chosen:
+```
+Connect to Workbench.
+Load story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
+# Reboot: [Title]
+Original for reference: _posts/[filename].md
+Assessment: _drafts/[story-name]-assessment/assessment.md
+Begin fresh draft using core concept.
+```
+
+---
+
+## Key Questions to Answer
+
+1. **Completeness**: Does this story feel complete at its current scope?
+2. **Compression**: Are important elements compressed or cut?
+3. **Potential**: Would expansion make this story better or just longer?
+4. **Voice**: Can the voice sustain a longer work?
+5. **Substance**: Is there enough material to expand without padding?
+6. **Interest**: Would readers want more of this world/character?
+7. **Author Intent**: What did the author want when they wrote this?
+8. **Objective Value**: What serves the story best?
+
+---
+
+## Assessment Principles
+
+- **Be honest**: Don't recommend expansion just because we can
+- **Be specific**: Identify exactly what would expand and how
+- **Be realistic**: Estimate actual work involved
+- **Honor the original**: Preserve what makes the story work
+- **Think strategically**: Consider author's goals and catalog
+- **Question assumptions**: Maybe it's perfect as-is
+
+---
+
+**Bootstrap Version**: 1.0  
+**Created**: December 23, 2025  
+**Author**: Douglas Langille  
+**Repository**: github.com/douglangille/Workbench

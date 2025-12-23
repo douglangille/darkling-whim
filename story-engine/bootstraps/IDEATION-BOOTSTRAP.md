@@ -1,307 +1,428 @@
-<!--
-STORY ENGINE: IDEATION BOOTSTRAP
+# IDEATION Bootstrap
 
-PURPOSE:
-Develop story concepts from initial sparks to workable outlines.
-Turn "what if" into structured story ready to draft.
+**Purpose**: Develop story concept from seed idea, prompt, or inspiration into structured story premise ready for drafting.
 
-USE WHEN:
-- Have premise but need full concept
-- Have character but need story
-- Have setting but need plot
-- Want to validate concept before drafting
+---
 
-SESSION STARTUP:
-  Connect to Workbench.
-  Load story-engine/bootstraps/IDEATION-BOOTSTRAP.md
-  
-  # Ideate: [Working Title or Premise]
-  Initial spark: [Your idea/premise/character/setting]
-  Initialize concept development.
+## When to Use This Bootstrap
 
-OUTPUT:
-- Story concept document
-- Character profiles
-- World-building foundation
-- Story outline
-- Target scope determination
--->
+- Have a seed idea but not sure if it's a story
+- Prompted by concept ("what if...?")
+- Sparked by image, news item, or experience
+- Need to validate if idea has legs
+- Want to explore before committing to draft
 
-# Ideation Bootstrap
+---
 
-## Role
+## Ideation Workflow
 
-You are helping develop a story concept from initial spark to workable outline.
+### Phase 1: PREMISE DEVELOPMENT
+**Goal**: Turn seed into story premise
+
+**Tasks**:
+1. Capture the seed:
+   - What sparked this?
+   - What's interesting about it?
+   - Why do you want to write this?
+2. Ask core questions:
+   - **Who**: Whose story is this?
+   - **What**: What happens?
+   - **Where**: What's the setting?
+   - **When**: What's the timeframe?
+   - **Why**: What's at stake?
+   - **How**: What makes this unique?
+3. Develop premise statement:
+   - Format: "[Protagonist] must [goal] or else [stakes] in a world where [unique element]"
+   - One sentence that captures the story
+4. Test premise:
+   - Does it suggest conflict?
+   - Is there character potential?
+   - Does it interest you?
+   - Could you sustain it for target length?
+5. Save premise document
+
+**Deliverables**:
+- `premise.md` (seed idea → premise statement)
+
+**Status Check**: ✅ Complete when premise is clear
+
+---
+
+### Phase 2: CHARACTER DEVELOPMENT
+**Goal**: Create protagonist (and key characters)
+
+**Tasks**:
+1. Protagonist basics:
+   - **Name**: [Who are they?]
+   - **Role**: [What do they do?]
+   - **Defining trait**: [What makes them distinct?]
+2. Want vs. Need:
+   - **External Want**: [What do they think they want?]
+   - **Internal Need**: [What do they actually need to grow?]
+   - **Flaw**: [What holds them back?]
+3. Why this protagonist for this story:
+   - Why are they uniquely positioned for this conflict?
+   - What about them makes the story interesting?
+4. Supporting characters:
+   - **Ally**: [Who helps?]
+   - **Antagonist**: [Who opposes?]
+   - **Others**: [Who else matters?]
+5. Character voice:
+   - How does this protagonist see the world?
+   - What's their voice like?
+6. Save character notes
+
+**Deliverables**:
+- `characters.md` (character sketches)
+
+**Status Check**: ✅ Complete when protagonist is vivid
+
+---
+
+### Phase 3: CONFLICT DEVELOPMENT
+**Goal**: Define central conflict and stakes
+
+**Tasks**:
+1. External conflict:
+   - What's the plot-level problem?
+   - Who/what opposes protagonist?
+   - What obstacles exist?
+2. Internal conflict:
+   - What's the character-level struggle?
+   - What must protagonist overcome in themselves?
+   - How does external conflict trigger internal?
+3. Stakes:
+   - **If protagonist succeeds**: [What's gained?]
+   - **If protagonist fails**: [What's lost?]
+   - Why should readers care?
+4. Conflict escalation:
+   - How does tension build?
+   - What makes things worse?
+   - What's the point of no return?
+5. Save conflict document
+
+**Deliverables**:
+- `conflict.md` (external/internal conflict and stakes)
+
+**Status Check**: ✅ Complete when conflict is compelling
+
+---
+
+### Phase 4: STRUCTURE EXPLORATION
+**Goal**: Find story's natural shape
+
+**Tasks**:
+1. Identify story type:
+   - Character arc story?
+   - Plot-driven?
+   - Concept exploration?
+   - Mood piece?
+2. Sketch beginning:
+   - Where does story start?
+   - What's the hook?
+   - What's the inciting incident?
+3. Sketch middle:
+   - How does conflict escalate?
+   - What's the midpoint?
+   - What's the crisis?
+4. Sketch ending:
+   - How does conflict resolve?
+   - What changes?
+   - What's the emotional note?
+5. Determine scope:
+   - Flash fiction (under 1,000)
+   - Short story (2,000-7,500)
+   - Novelette (7,500-17,500)
+   - Novella (17,500-40,000)
+   - Novel (50,000+)
+6. Save structure notes
+
+**Deliverables**:
+- `structure.md` (story shape and scope)
+
+**Status Check**: ✅ Complete when arc is clear
+
+---
+
+### Phase 5: VALIDATION
+**Goal**: Decide if this story is ready to draft
+
+**Tasks**:
+1. Review all concept documents:
+   - Premise compelling?
+   - Characters vivid?
+   - Conflict strong?
+   - Structure clear?
+2. Test questions:
+   - **Passion**: Do you want to write this?
+   - **Clarity**: Do you know what happens?
+   - **Confidence**: Can you sustain this for target length?
+   - **Uniqueness**: Is this story worth telling?
+3. Identify gaps:
+   - What's still unclear?
+   - What needs more development?
+   - What concerns remain?
+4. Make decision:
+   - ✅ **Ready to draft**: Proceed to DRAFTING-BOOTSTRAP
+   - 🔄 **Needs more work**: Specify what
+   - ❌ **Not viable**: Document why and table it
+5. Save concept package
+
+**Deliverables**:
+- `concept-package.md` (complete validated concept)
+- Decision on next steps
+
+**Status Check**: ✅ Complete when decision is made
+
+---
 
 ## Working Principles
 
-- **Ask questions**: Draw out the story through inquiry
-- **Build systematically**: Premise → Character → Conflict → Structure
-- **Test viability**: Does this idea have legs?
-- **Find the scope**: What length suits this story?
-- **Author vision first**: Your job is to help clarify, not dictate
+- **No judgment**: All ideas welcome
+- **Explore freely**: Let ideas evolve
+- **Question everything**: Test assumptions
+- **Be specific**: Vague ideas stay vague
+- **Trust instinct**: You know if it excites you
+- **Be honest**: Some ideas aren't stories
+- **Document evolution**: Capture how idea develops
+
+---
 
 ## File Structure
 
+Project folder: `_drafts/[story-name]-concept/`
+
 ```
-_drafts/[concept-name]-ideation/
-├── README.md (project overview)
-├── initial-spark.md (original idea preserved)
-├── concept-development.md (working notes)
-├── story-concept.md (complete concept)
-├── characters.md (character profiles)
-├── world.md (setting/world-building)
-└── outline.md (story structure)
+[story-name]-concept/
+├── README.md
+├── premise.md
+├── characters.md
+├── conflict.md
+├── structure.md
+└── concept-package.md
 ```
-
-## Workflow Phases
-
-### Phase 1: CAPTURE THE SPARK
-
-**Goal:** Understand the initial idea
-
-**Tasks:**
-1. Capture author's initial idea:
-   - What's the spark? (premise/character/setting/moment/"what if")
-   - What excites you about this?
-   - What do you already see/know?
-   - What's unclear or undeveloped?
-2. Identify what exists:
-   - Premise elements
-   - Character ideas
-   - Setting concepts
-   - Tone/voice ideas
-   - Thematic interests
-3. Archive the spark in `initial-spark.md`
-
-**Deliverables:**
-- `README.md`
-- `initial-spark.md`
 
 ---
 
-### Phase 2: CONCEPT DEVELOPMENT
+## Example Sessions
 
-**Goal:** Build complete story foundation
+### Starting from "What If" Question
 
-**Method:** Collaborative questioning and exploration
+```
+Connect to my Workbench repo on GitHub.
 
-#### A. Premise Refinement
+Load and follow story-engine/bootstraps/IDEATION-BOOTSTRAP.md
 
-**Questions to explore:**
-- What's the core situation?
-- What makes this story worth telling?
-- What's the central dramatic question?
-- What's at stake?
-- What makes this unique?
+# New Concept: What if memories could be bought and sold?
 
-**Output:** Clear premise statement
+Explore this premise and develop into story concept.
+```
 
-#### B. Character Development
+### Starting from Image/Inspiration
 
-**For protagonist:**
-- Who are they?
-- What do they want?
-- What stands in their way?
-- What's their flaw/limitation?
-- How might they change?
-- What makes them interesting?
+```
+Connect to my Workbench repo on GitHub.
 
-**For other key characters:**
-- Role in story
-- Relationship to protagonist
-- Their own wants/needs
-- Conflict potential
+Load and follow story-engine/bootstraps/IDEATION-BOOTSTRAP.md
 
-**Output:** Character profiles in `characters.md`
+# New Concept: The Lighthouse Keeper
 
-#### C. World-Building (as needed)
+Seed: Image of abandoned lighthouse, felt eerie and sad
+Develop into story concept.
+```
 
-**Questions:**
-- Where/when does this take place?
-- What are the rules (if speculative)?
-- What's the atmosphere?
-- What details matter to the story?
-- What can remain background?
+### Starting from Character
 
-**Output:** World foundation in `world.md`
+```
+Connect to my Workbench repo on GitHub.
 
-#### D. Conflict Development
+Load and follow story-engine/bootstraps/IDEATION-BOOTSTRAP.md
 
-**Questions:**
-- What's the inciting incident?
-- What escalates?
-- What's the central conflict?
-- What's the crisis/climax?
-- What's at stake if protagonist fails?
-- What complications arise?
+# New Concept: The Archivist
 
-**Output:** Conflict structure
+Seed: Character who catalogs the last words of dying people
+Develop into story concept.
+```
 
-#### E. Theme Exploration
+### Continuing Concept Development
 
-**Questions:**
-- What's this story really about?
-- What question does it ask?
-- What insight might it offer?
-- What do you want readers to feel?
+```
+Connect to my Workbench repo on GitHub.
 
-**Output:** Thematic foundation
+Load and follow story-engine/bootstraps/IDEATION-BOOTSTRAP.md
 
-**Deliverables:**
-- `concept-development.md` (working notes)
-- `story-concept.md` (synthesized concept)
-- `characters.md`
-- `world.md`
+# Developing Concept: Memory Merchant
+
+Load artifacts: _drafts/memory-merchant-concept/
+Report status and continue development.
+```
 
 ---
 
-### Phase 3: SCOPE DETERMINATION
+## Concept Package Template
 
-**Goal:** Identify natural story length
-
-**Analysis:**
-- How many major scenes/beats?
-- How much character development?
-- How complex is the plot?
-- How much world-building?
-- What feels right?
-
-**Recommend scope:**
-- **Flash (500-1,000)**: Single moment/revelation
-- **Short Story (3,000-7,500)**: Single arc, limited cast
-- **Novella (15,000-40,000)**: Deeper development, subplots
-- **Novel (50,000+)**: Multiple arcs, complex plotting
-
-**Author decides on target scope**
-
----
-
-### Phase 4: OUTLINE CREATION
-
-**Goal:** Create story structure appropriate to scope
-
-**For the chosen scope, develop:**
-
-#### Story Arc:
-- **Opening**: Hook and setup
-- **Development**: Escalation and complication  
-- **Climax**: Crisis and turning point
-- **Resolution**: Consequence and closure
-
-#### Scene/Beat Breakdown:
-- Sequence of major scenes/moments
-- Purpose of each
-- Key story beats
-- Pacing rhythm
-
-#### Structure Notes:
-- POV approach
-- Timeline/chronology
-- Key story beats
-- Important transitions
-
-**Deliverables:**
-- `outline.md` (complete story structure)
-
----
-
-### Phase 5: CONCEPT VALIDATION
-
-**Goal:** Ensure concept is ready to draft
-
-**Check:**
-- ✅ Clear premise?
-- ✅ Compelling protagonist with goal?
-- ✅ Defined conflict?
-- ✅ Story arc complete?
-- ✅ Scope appropriate?
-- ✅ World-building sufficient?
-- ✅ Theme clear?
-- ✅ Author excited to write it?
-
-**If yes:** Concept ready for DRAFTING-BOOTSTRAP
-
-**If gaps:** Return to development phase
-
-**Deliverables:**
-- Complete concept package
-- Readiness assessment
-
----
-
-## Next Steps
-
-After concept validated:
-
-```
-Connect to Workbench.
-Load story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
-
-# Draft: [Story Title]
-Concept: _drafts/[concept-name]-ideation/
-Target scope: [determined scope]
-Begin drafting.
-```
-
-## Session Initialization
-
-### For New Concept:
-
-```
-# Ideate: [Working Title]
-Spark: [Your initial idea - can be premise, character, setting, or "what if"]
-Initialize concept development.
-```
-
-### For Continuing Work:
-
-```
-# Ideate: [Working Title]
-Load _drafts/[concept-name]-ideation/ and report status.
-Continue concept development.
-```
-
-## Commit Standards
-
-- "Initialize concept development: [Working Title]"
-- "Develop characters for [Working Title]"
-- "Add world-building for [Working Title]"
-- "Complete story concept for [Working Title]"
-- "Finalize outline for [Working Title] ([scope])"
-
-## Concept Document Template
+In `concept-package.md`:
 
 ```markdown
 # Story Concept: [Title]
 
+**Status**: [Ready to Draft / Needs Work / Not Viable]
+**Date**: [Date]
+**Target Scope**: [Flash/Short/Novelette/etc]
+**Target Length**: [X,000 words]
+
+---
+
 ## Premise
-[One-sentence logline]
-[Expanded premise paragraph]
+
+**Seed**: [What sparked this?]
+
+**Premise Statement**: 
+[One-sentence story]
+
+**Logline**: 
+[Protagonist] must [goal] or else [stakes] in a world where [unique element].
+
+---
 
 ## Characters
-### Protagonist
-[Name, key traits, goal, obstacle, arc]
 
-### Supporting Cast
-[Key characters with roles]
+### Protagonist: [Name]
+- **Role**: [What they do]
+- **Trait**: [Defining characteristic]
+- **Want**: [External goal]
+- **Need**: [Internal growth]
+- **Flaw**: [What holds them back]
+- **Voice**: [How they speak/think]
 
-## Setting
-[Where, when, atmosphere, key details]
+### Antagonist: [Name]
+- **Role**: [What they do]
+- **Opposition**: [How they conflict with protagonist]
+
+### Supporting:
+- [Name]: [Role]
+
+---
 
 ## Conflict
-[Central conflict, stakes, complications]
 
-## Theme
-[What it's really about]
+### External
+[Plot-level problem]
+
+### Internal  
+[Character-level struggle]
+
+### Stakes
+- **Success**: [What's gained]
+- **Failure**: [What's lost]
+
+---
 
 ## Structure
-[Act/scene breakdown appropriate to scope]
 
-## Target Scope
-[Flash / Short Story / Novella / Novel]
-[Estimated word count]
+### Beginning
+[Hook and inciting incident]
 
-## Status
-✅ Ready to draft
+### Middle
+[Escalation and crisis]
+
+### End
+[Resolution and change]
+
+---
+
+## Unique Elements
+
+- [What makes this story special]
+- [What makes it yours]
+
+---
+
+## Theme
+
+[What is this story really about?]
+
+---
+
+## Validation
+
+✅ / ❌ **Passion**: Do you want to write this?  
+✅ / ❌ **Clarity**: Do you know what happens?  
+✅ / ❌ **Confidence**: Can you sustain this?  
+✅ / ❌ **Uniqueness**: Is this worth telling?
+
+---
+
+## Decision
+
+[Ready to draft / Needs more work on X / Not viable because Y]
+
+**Next Step**: 
+[DRAFTING-BOOTSTRAP / More development / Table for now]
+
+---
+
+## Notes
+
+[Anything else important about this concept]
 ```
+
+---
+
+## Prompts for Stuck Points
+
+### If premise feels weak:
+- What's the worst thing that could happen to this character?
+- What if you added "but..." to the premise?
+- Who is the last person who should face this situation?
+
+### If character feels flat:
+- What are they afraid of?
+- What do they lie about?
+- What would they never do (until this story)?
+
+### If conflict feels weak:
+- What if you made it personal?
+- What if you raised the stakes?
+- What if there's a ticking clock?
+
+### If structure feels unclear:
+- What's the before/after for protagonist?
+- What's the one thing that must happen?
+- What's the emotional journey?
+
+---
+
+## Commit Message Standards
+
+- "Initialize concept development: [Story Name]"
+- "Develop premise for [Story Name]"
+- "Add character notes for [Story Name]"
+- "Define conflict for [Story Name]"
+- "Complete concept package for [Story Name]"
+
+---
+
+## From Concept to Draft
+
+When concept is validated and ready:
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load and follow story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
+
+# New Story: [Title]
+
+Concept: _drafts/[story-name]-concept/concept-package.md
+Target scope: [Flash/Short/etc]
+
+Begin outlining and drafting.
+```
+
+---
+
+**Bootstrap Version**: 1.0  
+**Created**: December 23, 2025  
+**Author**: Douglas Langille  
+**Repository**: github.com/douglangille/Workbench

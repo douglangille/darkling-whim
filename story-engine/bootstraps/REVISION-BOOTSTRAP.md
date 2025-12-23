@@ -1,127 +1,73 @@
-<!--
-STORY ENGINE: REVISION BOOTSTRAP
+# REVISION Bootstrap
 
-PURPOSE:
-Polish and refine existing work within its current scope.
-Technical improvements, clarity, minor restructuring.
+**Purpose**: Polish and refine existing work at its current scope. For expanding scope, use EXPANSION-BOOTSTRAP instead.
 
-USE WHEN:
-- Story is complete at current scope
-- Needs refinement not expansion
-- Assessment recommends revision path
+---
 
-SESSION STARTUP:
-  Connect to Workbench.
-  Load story-engine/bootstraps/REVISION-BOOTSTRAP.md
-  
-  # Revise: [Story Title]
-  Load _drafts/[story-name]-revision/ and report status.
-  
-  (Or for new revision project:)
-  # New Revision: [Story Title]
-  Original: _posts/[filename].md
-  Initialize revision project.
+## When to Use This Bootstrap
 
-OUTPUT:
-- Dossier (comprehensive analysis)
-- Critique (literary evaluation)
-- Revision plan (author-approved)
-- Revised story with documentation
--->
+- Story is complete at current scope (flash, short, etc.)
+- Needs refinement, not expansion
+- ASSESSMENT-BOOTSTRAP recommended revision path
+- Technical improvements and polish needed
 
-# Revision Bootstrap
-
-## Role
-
-You are refining an existing story within its current scope. Preserve voice, strengthen execution.
-
-## Working Principles
-
-- **Surgical precision**: Every change has clear rationale
-- **Voice preservation**: Maintain author's distinctive style
-- **Scope discipline**: Don't expand unless explicitly requested
-- **Author approval**: No changes without explicit authorization
-- **Documentation**: Log every decision
-
-## File Structure
-
-```
-_drafts/[story-name]-revision/
-├── README.md (project overview)
-├── original-[filename].md (frozen copy)
-├── dossier.md (comprehensive analysis)
-├── critique.md (literary evaluation)
-├── revision-plan.md (author-approved plan)
-├── revision-notes.md (session log, save points)
-└── working-[filename].md (revised draft)
-```
+---
 
 ## Workflow Phases
 
-### Phase 1: ANALYSIS
+### Phase 1: ANALYSIS ✅
+**Goal**: Understand the story completely
 
-**Goal:** Understand the story completely
+**Prerequisites**: Usually done via ASSESSMENT-BOOTSTRAP. If starting here directly:
 
-**Tasks:**
-1. Load original story from `_posts/` or project folder
-2. Generate comprehensive story dossier:
-   - Metadata, synopsis, scene breakdown
-   - Characters (goals, motivations, arcs, voice)
-   - World-building (setting, rules, atmosphere)
-   - Themes, motifs, symbols
-   - Plot structure and pacing
-   - Style, voice, POV, prose characteristics
-3. Generate literary critique:
-   - What's working (preserve these)
-   - What needs work (specific issues)
-   - Revision opportunities
-   - Questions for author decision
-4. Archive original story copy
-5. Create project README
-6. **Save all to GitHub**
+**Tasks**:
+1. Generate comprehensive story dossier
+2. Generate literary critique
+3. Archive original story copy
+4. Create project README
+5. Save all to GitHub
 
-**Deliverables:**
-- `README.md`
-- `dossier.md`
-- `critique.md`
-- `original-[filename].md`
+**Deliverables**:
+- `README.md` (project overview)
+- `dossier.md` (comprehensive analysis)
+- `critique.md` (literary evaluation)
+- `original-[filename].md` (frozen copy)
 
-**Status Check:** ✅ Complete when all files exist
+**Status Check**: ✅ Complete when all files exist
 
 ---
 
 ### Phase 2: PLANNING
+**Goal**: Develop approved revision strategy
 
-**Goal:** Develop approved revision strategy
-
-**Tasks:**
+**Tasks**:
 1. Review dossier and critique with author
 2. Discuss revision priorities
 3. Develop detailed revision plan:
    - Section-by-section breakdown
    - Specific changes (with line/paragraph references)
    - Rationale for each change
-   - Word count impact estimates
-4. **GET AUTHOR APPROVAL** ← Critical
+   - Word count impact estimates (should stay near current length)
+4. **GET AUTHOR APPROVAL**
 5. Save plan to GitHub
 
-**Deliverables:**
+**Deliverables**:
 - `revision-plan.md` (author-approved)
 
-**Status Check:** ✅ Complete when plan is approved and saved
+**Status Check**: ✅ Complete when plan is approved and saved
 
 ---
 
 ### Phase 3: EXECUTION
+**Goal**: Implement approved changes
 
-**Goal:** Implement approved changes
-
-**Tasks:**
+**Tasks**:
 1. Create working draft from original
 2. Work through revision plan section by section:
    - Implement approved changes
    - Preserve authorial voice
    - Maintain story integrity
+   - Stay at current scope
 3. Document decisions in revision-notes.md:
    - What was changed
    - Why it was changed
@@ -129,19 +75,18 @@ _drafts/[story-name]-revision/
 4. Commit frequently to GitHub
 5. Create save points after each section
 
-**Deliverables:**
+**Deliverables**:
 - `working-[filename].md` (revised draft)
 - `revision-notes.md` (decision log)
 
-**Status Check:** ✅ Complete when all planned changes implemented
+**Status Check**: ✅ Complete when all planned changes implemented
 
 ---
 
 ### Phase 4: FINALIZATION
+**Goal**: Prepare revised story for publication
 
-**Goal:** Prepare revised story for publication
-
-**Tasks:**
+**Tasks**:
 1. Final polish pass
 2. Compose author's note:
    - Original publication context
@@ -154,47 +99,71 @@ _drafts/[story-name]-revision/
 4. Replace original in `_posts/` with revised version
 5. Archive revision artifacts in `_drafts/`
 
-**Deliverables:**
+**Deliverables**:
 - Updated story in `_posts/` with author's note
 - Complete revision archive in `_drafts/`
 
-**Status Check:** ✅ Complete when story is published and archived
+**Status Check**: ✅ Complete when story is published and archived
 
 ---
 
-## Session Initialization
+## Working Principles
 
-### For New Revision Project:
+- **Preserve scope**: Don't expand, refine
+- **Preserve voice**: Maintain distinctive style
+- **Surgical precision**: Targeted improvements
+- **Author approval**: Required for plan
+- **Document decisions**: Log everything
+- **Commit frequently**: Save progress
 
-**What you provide:**
+---
+
+## File Structure
+
+Project folder: `_drafts/[story-name]-revision/`
+
 ```
-# New Revision: [Story Title]
-Original: _posts/[filename].md
+[story-name]-revision/
+├── README.md
+├── original-[filename].md
+├── dossier.md
+├── critique.md
+├── revision-plan.md
+├── revision-notes.md
+└── working-[filename].md
+```
+
+---
+
+## Example Session
+
+### Starting from Assessment
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load and follow story-engine/bootstraps/REVISION-BOOTSTRAP.md
+
+# Revising: Mitzy and the Butterfly
+
+Load assessment: _drafts/mitzy-assessment/assessment.md
 Initialize revision project.
 ```
 
-**AI will:**
-1. Create `_drafts/[story-name]-revision/` folder
-2. Generate dossier and critique
-3. Archive original
-4. Create README
-5. Report completion
-6. Await planning instructions
+### Continuing Existing Revision
 
-### For Continuing Work:
-
-**What you provide:**
 ```
-# Revise: [Story Title]
-Load _drafts/[story-name]-revision/ and report status.
+Connect to my Workbench repo on GitHub.
+
+Load and follow story-engine/bootstraps/REVISION-BOOTSTRAP.md
+
+# Revising: Mitzy and the Butterfly
+
+Load artifacts: _drafts/mitzy-revision/
+Report status and resume from last save point.
 ```
 
-**AI will:**
-1. Load all artifacts
-2. Report current phase
-3. Show last save point (if exists)
-4. Tell you what's next
-5. Await instructions
+---
 
 ## Author's Note Template
 
@@ -210,23 +179,28 @@ The darkness remains. Just more focused.
 {: .notice--info}
 ```
 
-## Commit Standards
+---
 
-**Analysis:**
+## Commit Message Standards
+
+**Analysis phase**:
 - "Initialize [Story Name] revision project"
 - "Create story dossier for [Story Name]"
 - "Add literary critique for [Story Name]"
 
-**Planning:**
+**Planning phase**:
 - "Add revision plan for [Story Name]"
 - "Update revision plan with author feedback"
 
-**Execution:**
+**Execution phase**:
 - "Revise [Story Name]: [specific section/change]"
 - "Update revision notes: [session summary]"
 
-**Finalization:**
+**Finalization phase**:
 - "Finalize [Story Name] revision with author's note"
+- "Archive [Story Name] revision artifacts"
+
+---
 
 ## Save Point Format
 
@@ -240,7 +214,14 @@ In `revision-notes.md`:
 **Next Steps**: [What needs to happen next]
 **Open Questions**: [Any unresolved items]
 **Session Duration**: [Approximate time]
-**Commits Made**: [List of GitHub commits]
+**Commits Made**: [List of commits]
 
 **To Resume**: [Specific instruction for next session]
 ```
+
+---
+
+**Bootstrap Version**: 2.0  
+**Updated**: December 23, 2025  
+**Author**: Douglas Langille  
+**Repository**: github.com/douglangille/Workbench

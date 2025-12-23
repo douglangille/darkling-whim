@@ -1,278 +1,387 @@
-<!--
-STORY ENGINE: EXPANSION BOOTSTRAP
+# EXPANSION Bootstrap
 
-PURPOSE:
-Grow existing flash/short stories into larger works.
-Preserve original core while adding depth and scope.
+**Purpose**: Grow existing flash/short work into larger scope while preserving core essence.
 
-USE WHEN:
-- Assessment shows high expansion potential
-- Story has "more to say"
-- Want to deepen characters, world, or plot
+---
 
-SESSION STARTUP:
-  Connect to Workbench.
-  Load story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
-  
-  # Expand: [Story Title]
-  Original: _posts/[filename].md
-  Assessment: _drafts/[story-name]-assessment/assessment-report.md
-  Target scope: [Short Story / Novella / Novel]
-  Target word count: [estimate]
-  Initialize expansion project.
+## When to Use This Bootstrap
 
-OUTPUT:
-- Expansion plan (structure, new scenes, integration)
-- Expanded story preserving original voice
-- Complete documentation of additions
--->
+- ASSESSMENT-BOOTSTRAP recommended expansion
+- Existing story has high expansion potential
+- Material wants/needs more room to breathe
+- Clear development paths identified
+- Author wants to deepen the story
 
-# Expansion Bootstrap
+---
 
-## Role
-
-You are expanding an existing story to a larger scope while preserving its core essence and voice.
-
-## Working Principles
-
-- **Core preservation**: Original "seed" material is sacred
-- **Voice consistency**: Maintain authorial style throughout
-- **Organic growth**: Expansions feel natural, not bolted-on
-- **Structural integrity**: Pacing appropriate to new scope
-- **Integration**: New and old blend seamlessly
-
-## File Structure
-
-```
-_drafts/[story-name]-expansion/
-├── README.md (project overview)
-├── original-[filename].md (frozen copy)
-├── assessment-report.md (copy from assessment)
-├── expansion-plan.md (structure and approach)
-├── expansion-notes.md (session log, decisions)
-├── scene-outlines/ (detailed scene plans)
-├── working-draft.md (expanded story)
-└── integration-map.md (original → expanded mapping)
-```
-
-## Workflow Phases
+## Expansion Workflow
 
 ### Phase 1: FOUNDATION REVIEW
+**Goal**: Understand what to preserve and what to expand
 
-**Goal:** Understand what to preserve and what to expand
-
-**Tasks:**
-1. Load original story
+**Tasks**:
+1. Load original story from `_posts/`
 2. Load assessment report (if exists)
-3. Confirm target scope and word count
+3. Confirm target scope:
+   - Flash → Short story (3K-5K words)
+   - Short → Novelette (7.5K-17.5K words)
+   - Novelette → Novella (17.5K-40K words)
+   - Novella → Novel (50K+ words)
 4. Identify preservation priorities:
-   - Core scenes/moments that must stay
-   - Voice characteristics to maintain
-   - Thematic elements to strengthen
-   - Character essences to preserve
-5. Identify expansion opportunities:
-   - Compressed moments to open up
-   - Implied backstory to explore
-   - Relationships to deepen
-   - World-building to enrich
-   - Consequences to examine
+   - Core scenes/moments that work perfectly
+   - Voice and style to maintain
+   - Key character beats
+   - Essential atmosphere
+5. Identify expansion targets:
+   - Compressed elements to unpack
+   - Implied backstory to reveal
+   - Hinted world-building to explore
+   - Character depth to develop
+   - Emotional beats to extend
+6. Create project structure
+7. Save foundation document to GitHub
 
-**Deliverables:**
-- Project README with scope and goals
-- Archive of original story
-- Foundation analysis document
+**Deliverables**:
+- `README.md` (project overview)
+- `foundation.md` (what to preserve, what to expand)
+- `original-[filename].md` (archived original)
 
-**Status Check:** ✅ Ready when preservation/expansion priorities clear
+**Status Check**: ✅ Complete when foundation documented
 
 ---
 
 ### Phase 2: STRUCTURE PLANNING
+**Goal**: Design the expanded story architecture
 
-**Goal:** Design expanded story architecture
-
-**Tasks:**
+**Tasks**:
 1. Map original story structure:
    - Current scenes/beats
-   - Current word allocation
+   - Current word count per section
    - Current pacing
-2. Design target structure:
-   - Act/section breakdown (appropriate to scope)
-   - Scene sequence (original + new)
-   - Word count targets per section
-   - Pacing strategy for new length
-3. Plan new content:
-   - **New scenes needed**: [list with purpose]
-   - **Character development arcs**: [for each character]
-   - **Subplot integration**: [if appropriate to scope]
-   - **World-building expansion**: [what to add]
-   - **Thematic deepening**: [how to enrich]
-4. Create integration map:
-   - Show where original content appears in expanded version
-   - Show where new content inserts
-   - Ensure seamless flow
-5. **GET AUTHOR APPROVAL** ← Critical before writing
+2. Design expanded structure:
+   - New scenes needed (before/during/after original)
+   - Integration points with original
+   - Pacing adjustments for new length
+   - Chapter/section breaks (if applicable)
+3. Plan character development:
+   - Backstory to reveal (when/how)
+   - Relationship development arcs
+   - Internal conflict expansion
+   - Goals/motivations clarification
+4. Plan world-building expansion:
+   - Setting details to add
+   - Rules to establish
+   - Atmosphere to deepen
+   - Context to provide
+5. Plan subplot integration (if any):
+   - What subplots serve the story?
+   - How do they interweave?
+   - Resolution timing
+6. Estimate final word count
+7. **GET AUTHOR APPROVAL**
+8. Save expansion plan to GitHub
 
-**Deliverables:**
-- `expansion-plan.md` (complete structural blueprint)
-- `integration-map.md` (original → expanded mapping)
-- Scene outlines for all new scenes
+**Deliverables**:
+- `expansion-plan.md` (detailed structure, author-approved)
 
-**Status Check:** ✅ Complete when plan is approved
+**Status Check**: ✅ Complete when plan is approved and saved
 
 ---
 
 ### Phase 3: INCREMENTAL BUILDING
+**Goal**: Expand scene by scene, preserving voice
 
-**Goal:** Write the expanded story section by section
+**Tasks**:
+1. Create working draft starting from original
+2. Work through expansion plan systematically:
+   - Expand/add scenes in order
+   - Maintain voice consistency
+   - Preserve core essence
+   - Build naturally, not padding
+3. For each expansion:
+   - Draft new material
+   - Integrate with original
+   - Check voice/tone match
+   - Verify pacing
+   - Ensure transitions work
+4. Document decisions in expansion-notes.md:
+   - What was added and why
+   - How it serves the story
+   - Any deviations from plan
+   - Problems solved
+   - New opportunities discovered
+5. Commit frequently to GitHub
+6. Create save points after each major section
 
-**Approach:** Work in acts/sections, committing frequently
+**Working Method**:
+- Expand one scene/section at a time
+- Get author feedback on major additions
+- Adjust plan if needed (document why)
+- Don't rush - let story breathe
 
-**For each section:**
-1. Review plan for this section
-2. Include preserved original material (adapted as needed)
-3. Write new scenes/content
-4. Ensure voice consistency
-5. Check pacing within section
-6. Document decisions in expansion-notes.md
-7. Commit to GitHub
-8. Create save point
-
-**Guidelines:**
-- Preserve original prose where possible (may need transitions)
-- Match voice in all new material
-- Maintain tonal consistency
-- Check pacing - longer works need different rhythm
-- Build character arcs gradually
-- Layer in world-building naturally
-
-**Deliverables:**
-- `working-draft.md` (growing incrementally)
+**Deliverables**:
+- `working-[filename].md` (expanded draft)
 - `expansion-notes.md` (decision log)
-- Regular GitHub commits
 
-**Status Check:** ✅ Complete when all sections written
+**Status Check**: ✅ Complete when all planned expansions implemented
 
 ---
 
 ### Phase 4: INTEGRATION & POLISH
+**Goal**: Unify expanded elements into cohesive whole
 
-**Goal:** Ensure seamless blend and appropriate pacing
+**Tasks**:
+1. Read through complete expanded draft
+2. Check for:
+   - Voice consistency throughout
+   - Pacing across new length
+   - Transition smoothness
+   - Character arc coherence
+   - Thematic unity
+   - Tonal consistency
+3. Polish pass:
+   - Refine new material
+   - Smooth integration points
+   - Adjust pacing as needed
+   - Strengthen connections
+4. Compose author's note:
+   - Original publication context
+   - Why expansion was chosen
+   - What changed and what stayed
+   - Douglas Adams style
+5. Update metadata:
+   - Mark as expanded edition
+   - Add `revised:` and `expanded:` dates
+   - Keep original `date:` field
+   - Update scope tags
+6. Decide publication strategy:
+   - Replace original?
+   - Publish as new story?
+   - Offer both versions?
+7. Archive expansion artifacts
 
-**Tasks:**
-1. Read complete draft
-2. Check integration points:
-   - Original → new transitions smooth?
-   - Voice consistent throughout?
-   - Pacing appropriate to length?
-3. Verify character arcs:
-   - Development feels earned?
-   - Consistent with original essence?
-4. Check world-building:
-   - Details consistent?
-   - Enriches rather than contradicts?
-5. Verify thematic consistency:
-   - Themes deepened not diluted?
-6. Polish prose throughout
-7. **Author review and approval**
-
-**Deliverables:**
+**Deliverables**:
 - Polished expanded story
-- Final expansion notes
+- Complete expansion archive
 
-**Status Check:** ✅ Complete when author approves
-
----
-
-### Phase 5: FINALIZATION
-
-**Goal:** Prepare for publication
-
-**Tasks:**
-1. Final polish pass
-2. Compose author's note:
-   - Original publication history
-   - Expansion rationale and process
-   - What was preserved vs. added
-   - Douglas Adams style (self-aware, engaging)
-3. Update metadata:
-   - Mark as "expanded edition"
-   - Include `revised:` date
-   - Keep `original_date:` field
-4. Decide on publication:
-   - Replace original in `_posts/`? OR
-   - Publish as new story with reference to original?
-5. Archive expansion artifacts
-
-**Deliverables:**
-- Final expanded story in `_posts/`
-- Complete expansion documentation in `_drafts/`
+**Status Check**: ✅ Complete when story is publication-ready
 
 ---
 
-## Session Initialization
+## Working Principles
 
-### For New Expansion Project:
+- **Preserve essence**: Don't lose what made original work
+- **Expand naturally**: Growth should feel inevitable, not padded
+- **Maintain voice**: New material should sound like same author
+- **Serve the story**: Only add what makes story better
+- **Honor original**: Original readers should recognize the core
+- **Think structurally**: Expansion changes pacing and rhythm
+- **Get feedback**: Check in with author on major additions
+
+---
+
+## File Structure
+
+Project folder: `_drafts/[story-name]-expansion/`
 
 ```
-# Expand: [Story Title]
-Original: _posts/[filename].md
-Target scope: Short Story
-Target word count: ~4,000 words
-Initialize expansion project.
+[story-name]-expansion/
+├── README.md
+├── original-[filename].md
+├── foundation.md
+├── expansion-plan.md
+├── expansion-notes.md
+└── working-[filename].md
 ```
 
-### For Continuing Work:
+Optionally include:
+- `assessment.md` (from ASSESSMENT-BOOTSTRAP)
+- `character-notes.md` (if extensive character development)
+- `world-notes.md` (if significant world-building)
+
+---
+
+## Example Session
+
+### Starting from Assessment
 
 ```
-# Expand: [Story Title]
-Load _drafts/[story-name]-expansion/ and report status.
-Resume from last save point.
+Connect to my Workbench repo on GitHub.
+
+Load and follow story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
+
+# Expand: Mitzy and the Butterfly
+
+Original: _posts/2015-08-21-mitzy-and-the-butterfly.md
+Assessment: _drafts/mitzy-assessment/assessment.md
+Target scope: Short story (4,000 words)
+
+Begin foundation review and expansion planning.
 ```
 
-## Author's Note Template
+### Continuing Existing Expansion
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load and follow story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
+
+# Expand: Mitzy and the Butterfly
+
+Load artifacts: _drafts/mitzy-expansion/
+Report status and resume from last save point.
+```
+
+---
+
+## Expansion Analysis Template
+
+In `foundation.md`:
+
+```markdown
+# Expansion Foundation: [Title]
+
+## Original Story
+- Current scope: [Flash/Short/etc]
+- Current word count: [X words]
+- Target scope: [Short/Novelette/etc]
+- Target word count: [Y words]
+- Expansion factor: [Zx]
+
+## Preserve (Do Not Change)
+
+### Core Scenes
+1. [Scene that works perfectly as-is]
+2. [Another essential scene]
+
+### Voice & Style
+- [Key voice characteristics to maintain]
+- [Style elements that define the work]
+
+### Character Essence
+- [Character 1]: [Essential traits]
+- [Character 2]: [Essential traits]
+
+### Atmosphere
+- [Mood/tone that must persist]
+
+## Expand (Development Targets)
+
+### New Scenes Needed
+1. **[Scene Name]** - [Purpose, placement]
+2. **[Scene Name]** - [Purpose, placement]
+3. **[Scene Name]** - [Purpose, placement]
+
+### Character Development
+- **[Character 1]**: [What to develop, how]
+- **[Character 2]**: [What to develop, how]
+
+### World-Building
+- [Element to explore]
+- [Detail to establish]
+- [Context to provide]
+
+### Backstory to Reveal
+- [What happened before]
+- [When/how to reveal it]
+
+### Emotional Beats to Extend
+- [Beat 1]: [How to deepen]
+- [Beat 2]: [How to deepen]
+
+## Integration Strategy
+
+[How new material will weave with original]
+```
+
+---
+
+## Author's Note Template (Expanded Edition)
 
 ```markdown
 ## Expanded Edition Note
 
-This story began as flash fiction published in [Original Publication/Date]. 
-This expanded edition (December 2025) [description of what was added and why].
+This story first appeared as flash fiction in [Publication/Date]. This expanded 
+edition (December 2025) grows the original [X] words into a [Y]-word [scope]. 
 
-The original seed remains at the heart - I've simply given it room to breathe 
-and explore what was always implied but never shown.
+The core story remains - [brief description of what's preserved] - but now 
+there's room to explore [what's been expanded].
 
-[Optional reflection on the expansion process]
+[Optional: what you learned about the story through expansion]
 
+Sometimes stories want more space to breathe.
 {: .notice--info}
 ```
 
-## Commit Standards
+---
 
-**Planning:**
-- "Initialize expansion project for [Story Name]"
-- "Add expansion plan for [Story Name] (target: [scope])"
-- "Complete integration map for [Story Name] expansion"
+## Common Expansion Patterns
 
-**Execution:**
-- "Expand [Story Name]: [section name]"
-- "Add new scene: [scene description]"
-- "Integrate original material into [section]"
+### Flash → Short Story (500 → 4,000 words)
+- Add 2-3 new scenes
+- Deepen 1-2 characters
+- Expand world-building
+- Extend emotional beats
 
-**Finalization:**
-- "Complete [Story Name] expansion ([original WC] → [new WC] words)"
-- "Finalize [Story Name] expanded edition with author's note"
+### Short → Novelette (5,000 → 12,000 words)
+- Add subplot
+- Develop secondary characters
+- Expand setting significantly
+- Add complexity to conflict
+
+### Novelette → Novella (15,000 → 30,000 words)
+- Multiple subplots
+- Full character arcs for supporting cast
+- Rich world-building
+- Multi-layered themes
+
+---
+
+## Commit Message Standards
+
+**Foundation phase**:
+- "Initialize [Story Name] expansion project"
+- "Document expansion foundation for [Story Name]"
+
+**Planning phase**:
+- "Add expansion plan for [Story Name]"
+- "Update expansion plan with author feedback"
+
+**Building phase**:
+- "Expand [Story Name]: add [specific scene/section]"
+- "Expand [Story Name]: deepen [character/element]"
+- "Update expansion notes: [progress summary]"
+
+**Integration phase**:
+- "Polish expanded [Story Name]: [specific work]"
+- "Finalize expanded [Story Name] with author's note"
+- "Archive [Story Name] expansion artifacts"
+
+---
 
 ## Save Point Format
+
+In `expansion-notes.md`:
 
 ```markdown
 ## Save Point: [Date/Time]
 
 **Phase**: [Current phase]
-**Progress**: [X of Y sections complete]
-**Current Word Count**: [X words] (Target: [Y words])
-**Last Completed**: [What section/scene]
-**Next Steps**: [What section comes next]
-**Open Questions**: [Any issues to resolve]
-**Commits Made**: [List]
+**Progress**: [X of Y new scenes complete]
+**Current Word Count**: [X words / Y target]
+**Last Completed**: [What was just finished]
+**Next Steps**: [What to expand next]
+**Open Questions**: [Any unresolved items]
+**Integration Notes**: [How new material is fitting]
+**Session Duration**: [Approximate time]
+**Commits Made**: [List of commits]
 
-**To Resume**: Continue with [specific section/scene]
+**To Resume**: [Specific instruction for next session]
 ```
+
+---
+
+**Bootstrap Version**: 1.0  
+**Created**: December 23, 2025  
+**Author**: Douglas Langille  
+**Repository**: github.com/douglangille/Workbench
