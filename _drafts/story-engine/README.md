@@ -30,6 +30,76 @@ The Story Engine is a modular system for managing creative writing projects of a
 
 ---
 
+## File Structure Convention
+
+### Project Folders
+
+All projects live in `_drafts/[project-name]/` regardless of workflow:
+
+```
+_drafts/
+├── story-engine/          # Bootstrap library
+├── mitzy/                 # Just the story name
+├── eddie-zero/            # No workflow suffix
+├── memory-thief/          # Novel project
+└── maze-chronicles/       # Serial project
+```
+
+**Inside each project folder**, the README.md tracks:
+- Current workflow (assessment, revision, expansion, etc.)
+- Bootstrap history (which workflows used when)
+- Current phase
+- Status
+
+### Why No Workflow Suffix?
+
+- Same story might use multiple workflows (assess → expand → revise)
+- Workflow is implementation detail, not identity
+- Cleaner folder structure
+- README.md inside tracks workflow history
+
+### Project README Template
+
+```markdown
+# [Project Name]
+
+**Type**: [Short story / Novel / Serial / Universe]
+**Status**: [Active / Complete / On Hold]
+**Current Phase**: [Analysis / Planning / Drafting / Revision / etc]
+
+---
+
+## Workflow History
+
+### Phase 1: Assessment (Dec 2025)
+**Bootstrap**: ASSESSMENT-BOOTSTRAP  
+**Outcome**: Recommended expansion to short story  
+**Artifacts**: assessment.md
+
+### Phase 2: Expansion (Dec 2025 - Jan 2026)
+**Bootstrap**: EXPANSION-BOOTSTRAP  
+**Status**: In progress  
+**Current**: Scene building (Act II)  
+**Artifacts**: foundation.md, expansion-plan.md, scenes/
+
+---
+
+## Project Files
+
+- `README.md` - This file
+- `original-[filename].md` - Archived original (if applicable)
+- `assessment.md` - Assessment report (if assessed)
+- `[other workflow-specific files]`
+
+---
+
+## Next Steps
+
+[What needs to happen next]
+```
+
+---
+
 ## Available Workflows
 
 ### ASSESSMENT-BOOTSTRAP.md
@@ -45,6 +115,7 @@ Load story-engine/bootstraps/ASSESSMENT-BOOTSTRAP.md
 
 # Assess: Mitzy and the Butterfly
 Original: _posts/2015-08-21-mitzy-and-the-butterfly.md
+Project folder: _drafts/mitzy/
 Analyze and recommend path forward.
 ```
 
@@ -62,7 +133,8 @@ Analyze and recommend path forward.
 Load story-engine/bootstraps/REVISION-BOOTSTRAP.md
 
 # Revising: Mitzy and the Butterfly
-Load _drafts/mitzy-revision/ and report status.
+Project folder: _drafts/mitzy/
+Load artifacts and report status.
 ```
 
 ---
@@ -79,6 +151,7 @@ Load _drafts/mitzy-revision/ and report status.
 Load story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
 
 # Expand: Mitzy and the Butterfly
+Project folder: _drafts/mitzy/
 Original: _posts/2015-08-21-mitzy-and-the-butterfly.md
 Target scope: Short story (4,000 words)
 Begin expansion planning.
@@ -98,6 +171,7 @@ Begin expansion planning.
 Load story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
 
 # New Story: The Collector
+Project folder: _drafts/the-collector/
 Attached: brain dump notes
 Target scope: Short story
 Develop complete draft.
@@ -117,6 +191,7 @@ Develop complete draft.
 Load story-engine/bootstraps/IDEATION-BOOTSTRAP.md
 
 # New Concept: "What if memories could be stolen?"
+Project folder: _drafts/memory-thief-concept/
 Develop into story premise.
 ```
 
@@ -131,7 +206,8 @@ Develop into story premise.
 ```
 Load story-engine/bootstraps/UNIVERSE-BOOTSTRAP.md
 
-# Universe: The Maze Stories
+# Universe: The Maze Worlds
+Project folder: _drafts/maze-worlds/
 Analyze existing stories and build continuity documentation.
 ```
 
@@ -147,6 +223,7 @@ Analyze existing stories and build continuity documentation.
 Load story-engine/bootstraps/SERIAL-BOOTSTRAP.md
 
 # Serial: Dark Tales Collection
+Project folder: _drafts/dark-tales/
 Manage episodic releases and continuity.
 ```
 
@@ -155,39 +232,19 @@ Manage episodic releases and continuity.
 ### NOVEL-BOOTSTRAP.md
 **When to use**: Long-form work management (50,000+ words)
 
-**Output**: Chapter-by-chapter management with act structure tracking
+**Method**: Snowflake Method with fractal scene-building
+
+**Output**: Complete novel from concept to publication
 
 **Example**:
 ```
 Load story-engine/bootstraps/NOVEL-BOOTSTRAP.md
 
-# Novel: [Working Title]
-Begin long-form project management.
-```
-
----
-
-## File Structure
-
-```
-_drafts/
-├── story-engine/
-│   ├── README.md (this file)
-│   └── bootstraps/
-│       ├── ASSESSMENT-BOOTSTRAP.md
-│       ├── REVISION-BOOTSTRAP.md
-│       ├── EXPANSION-BOOTSTRAP.md
-│       ├── DRAFTING-BOOTSTRAP.md
-│       ├── IDEATION-BOOTSTRAP.md
-│       ├── UNIVERSE-BOOTSTRAP.md
-│       ├── SERIAL-BOOTSTRAP.md
-│       └── NOVEL-BOOTSTRAP.md
-│
-├── [story-name]-revision/      # Revision projects
-├── [story-name]-expansion/     # Expansion projects
-├── [story-name]-draft/         # Active drafts
-├── [universe-name]/            # Universe documentation
-└── [series-name]/              # Serial/series work
+# Novel: The Memory Thief
+Project folder: _drafts/memory-thief/
+One-sentence premise: A memory thief must recover her own stolen past.
+Target: 80,000 words
+Begin Snowflake development.
 ```
 
 ---
@@ -236,10 +293,12 @@ YOUR CAPABILITIES:
 - Story analysis and critique
 - Scope assessment (flash → novel)
 - World-building and character development
-- Plot structure and pacing
-- Scene construction and dialogue
+- Plot structure and pacing (multiple frameworks)
+- Scene construction (Goal→Conflict→Disaster, Reaction→Dilemma→Decision)
 - Revision planning and execution
 - Expansion and development
+- Snowflake Method for novels
+- Fractal scene-building
 - Series/universe continuity management
 - Documentation and project tracking
 
@@ -247,7 +306,12 @@ WORKFLOW:
 Each session begins by loading the appropriate bootstrap for the work type
 from _drafts/story-engine/bootstraps/[WORKFLOW]-BOOTSTRAP.md
 
-Then load relevant project artifacts and report status before proceeding.
+Then load relevant project artifacts from _drafts/[project-name]/ and report 
+status before proceeding.
+
+PROJECT FOLDERS:
+All projects use simple folder names: _drafts/[project-name]/
+Workflow history tracked in project README.md, not folder name.
 ```
 
 ---
@@ -262,6 +326,7 @@ Connect to Workbench.
 Load story-engine/bootstraps/ASSESSMENT-BOOTSTRAP.md
 # Assess: [Title]
 Original: _posts/[filename].md
+Project folder: _drafts/[story-name]/
 ```
 
 **Session 2: Choose Path**
@@ -279,6 +344,7 @@ Work through chosen workflow phases
 Connect to Workbench.
 Load story-engine/bootstraps/IDEATION-BOOTSTRAP.md
 # New Concept: [Premise]
+Project folder: _drafts/[concept-name]/
 ```
 
 **Session 2: Drafting**
@@ -286,6 +352,7 @@ Load story-engine/bootstraps/IDEATION-BOOTSTRAP.md
 Connect to Workbench.
 Load story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
 # Draft: [Title]
+Project folder: _drafts/[story-name]/
 Load concept from ideation session
 ```
 
@@ -294,7 +361,25 @@ Once draft complete, potentially use REVISION-BOOTSTRAP for final polish
 
 ---
 
+### Migrating Existing Projects
+
+For projects created before this convention (like `mitzy-revision/`):
+
+**Option 1: Rename folder**
+```bash
+mv _drafts/mitzy-revision/ _drafts/mitzy/
+```
+Then update project README to track workflow history.
+
+**Option 2: Leave as-is**
+Existing projects can keep their names. New convention applies to new projects.
+
+---
+
 ## Version History
+
+**v1.1** - December 23, 2025  
+Updated folder naming convention - removed workflow suffix
 
 **v1.0** - December 23, 2025  
 Initial Story Engine structure with modular bootstrap system
