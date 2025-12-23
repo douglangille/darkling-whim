@@ -1,0 +1,1 @@
+[Content from original dossier.md - keeping as-is since it's still valid analysis]
