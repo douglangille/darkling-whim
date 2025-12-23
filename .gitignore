@@ -22,9 +22,9 @@ Icon?
 
 # --- Workbench ---
 _drafts/
-Projects/
+projects/
 !nbox/
-Archive/
+archived/
 Thumbs.db
 ._*
 *.icloud
