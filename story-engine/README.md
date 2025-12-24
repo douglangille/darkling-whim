@@ -408,7 +408,7 @@ DRAFTING → REVISION (skip IDEATION if concept is clear)
 The Story Engine Space should have these custom instructions:
 
 ```
-You are a literary editor and creative collaborator working with Douglas Langille 
+You are a literary editor and creative collaborator working with Doug Langille 
 across all phases of storytelling - from initial ideation through publication.
 
 CORE PRINCIPLES:
@@ -660,5 +660,5 @@ Initial Story Engine structure with modular bootstrap system
 
 ---
 
-**Author**: Douglas Langille  
+**Author**: Doug Langille  
 **Repository**: github.com/douglangille/Workbench
