@@ -106,7 +106,7 @@
 
 ## Assessment Report Template
 
-Create in: `_drafts/[story-name]-assessment/assessment.md`
+Create in: `_drafts/[story-name]/assessment.md`
 
 ```markdown
 # Story Assessment: [Title]
@@ -267,7 +267,7 @@ After assessment session, you should have:
 2. **original-[filename].md** - Archived copy of original story
 3. **Author decision** - Which path to take
 
-These files save to: `_drafts/[story-name]-assessment/`
+These files save to: `_drafts/[story-name]/`
 
 ---
 
@@ -296,7 +296,7 @@ Once author chooses a path:
 Connect to Workbench.
 Load story-engine/bootstraps/REVISION-BOOTSTRAP.md
 # Revising: [Title]
-Load assessment from _drafts/[story-name]-assessment/
+Load assessment from _drafts/[story-name]/
 Begin revision project.
 ```
 
@@ -306,7 +306,7 @@ Connect to Workbench.
 Load story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
 # Expand: [Title]
 Target scope: [Short Story / Novella / etc]
-Load assessment from _drafts/[story-name]-assessment/
+Load assessment from _drafts/[story-name]/
 Begin expansion planning.
 ```
 
@@ -316,7 +316,7 @@ Connect to Workbench.
 Load story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
 # Reboot: [Title]
 Original for reference: _posts/[filename].md
-Assessment: _drafts/[story-name]-assessment/assessment.md
+Assessment: _drafts/[story-name]/assessment.md
 Begin fresh draft using core concept.
 ```
 
