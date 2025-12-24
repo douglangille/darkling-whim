@@ -8,6 +8,8 @@
 
 The Story Engine is a modular system for managing creative writing projects of any scope. It uses workflow-specific bootstraps to guide different types of work while maintaining consistent editorial principles.
 
+---
+
 ## Quick Start
 
 ### In the Story Engine Space (Perplexity):
@@ -63,7 +65,7 @@ _drafts/
 ```markdown
 # [Project Name]
 
-**Type**: [Short story / Novel / Serial / Universe]
+**Type**: [Short story / Novel / Serial / Universe / Blog Post]
 **Status**: [Active / Complete / On Hold]
 **Current Phase**: [Analysis / Planning / Drafting / Revision / etc]
 
@@ -100,7 +102,7 @@ _drafts/
 
 ---
 
-## Available Workflows
+## Available Workflows (10 Total)
 
 ### ASSESSMENT-BOOTSTRAP.md
 **When to use**: Analyzing existing published work to determine the best path forward
@@ -124,9 +126,11 @@ Analyze and recommend path forward.
 ### REVISION-BOOTSTRAP.md
 **When to use**: Polishing/refining existing work at its current scope
 
-**Phases**: Analysis → Planning → Execution → Finalization
+**Phases**: Analysis → Planning → Execution → Integration → Finalization
 
 **Output**: Revised story with author's note, preserved at original scope
+
+**Size**: ~21,000 bytes (comprehensive workflow)
 
 **Example**:
 ```
@@ -142,7 +146,7 @@ Load artifacts and report status.
 ### EXPANSION-BOOTSTRAP.md
 **When to use**: Growing existing flash/short work into larger scope
 
-**Phases**: Foundation Review → Structure Planning → Incremental Building → Integration
+**Phases**: Foundation Review → Structure Planning → Incremental Building → Integration & Polish
 
 **Output**: Expanded story preserving original core with added depth
 
@@ -193,6 +197,55 @@ Load story-engine/bootstraps/IDEATION-BOOTSTRAP.md
 # New Concept: "What if memories could be stolen?"
 Project folder: _drafts/memory-thief-concept/
 Develop into story premise.
+```
+
+---
+
+### BETA-REVIEW-BOOTSTRAP.md
+**When to use**: Simulating beta reader feedback for outlines or drafts before major revision
+
+**Phases**: Setup & Intent → Audience Simulation → Feedback Synthesis → Revision Plan
+
+**Output**: Beta review report with prioritized feedback and revision plan
+
+**Size**: ~10,000 bytes (complete workflow)
+
+**Use for**: Blog post outlines, fiction drafts, essay structures
+
+**Example**:
+```
+Load story-engine/bootstraps/BETA-REVIEW-BOOTSTRAP.md
+
+# Beta Review: How to Build a Story Engine
+Artifact: _drafts/story-engine-post/outline.md
+Target audience: Fiction writers, productivity enthusiasts
+Review for: Structure, clarity, actionability
+Run beta review with 4 personas.
+```
+
+---
+
+### BLOG-POST-BOOTSTRAP.md
+**When to use**: Planning, drafting, revising, and publishing non-fiction blog posts
+
+**Phases**: Setup → Concept & Angle → Outline & Research → Beta Review (optional) → Drafting → Revision → Publication
+
+**Output**: Published blog post with complete project archive
+
+**Size**: ~13,000 bytes (comprehensive workflow)
+
+**Use for**: Substack essays, how-to posts, opinion pieces, case studies, personal reflections
+
+**Example**:
+```
+Load story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
+
+# New Post: How to Build a Personal Story Engine
+Target: Substack (weekly essay)
+Audience: Fiction writers, productivity enthusiasts
+Purpose: Teach systematic approach to story development
+Scope: 1,500 words
+Begin setup and concept development.
 ```
 
 ---
@@ -260,10 +313,16 @@ Begin Snowflake development.
 ### Assessment says "expand to larger scope"?
 → **EXPANSION-BOOTSTRAP**
 
+### Need feedback on outline or draft?
+→ **BETA-REVIEW-BOOTSTRAP**
+
 ### Starting from scratch?
 - Have a concept? → **IDEATION-BOOTSTRAP**
 - Have notes/partial draft? → **DRAFTING-BOOTSTRAP**
 - Building a world/series? → **UNIVERSE-BOOTSTRAP**
+
+### Working on non-fiction?
+→ **BLOG-POST-BOOTSTRAP** (blog posts, essays, tutorials)
 
 ### Working on long-form?
 - Single novel? → **NOVEL-BOOTSTRAP**
@@ -291,12 +350,14 @@ CORE PRINCIPLES:
 
 YOUR CAPABILITIES:
 - Story analysis and critique
+- Beta reader simulation with persona-based feedback
 - Scope assessment (flash → novel)
 - World-building and character development
 - Plot structure and pacing (multiple frameworks)
 - Scene construction (Goal→Conflict→Disaster, Reaction→Dilemma→Decision)
 - Revision planning and execution
 - Expansion and development
+- Blog post development and publication workflow
 - Snowflake Method for novels
 - Fractal scene-building
 - Series/universe continuity management
@@ -304,7 +365,19 @@ YOUR CAPABILITIES:
 
 WORKFLOW:
 Each session begins by loading the appropriate bootstrap for the work type
-from _drafts/story-engine/bootstraps/[WORKFLOW]-BOOTSTRAP.md
+from story-engine/bootstraps/[WORKFLOW]-BOOTSTRAP.md
+
+Available workflows (10 total):
+- ASSESSMENT: Analyze existing work to determine optimal path
+- REVISION: Polish and refine within current scope (5 phases)
+- EXPANSION: Grow stories to larger scope
+- DRAFTING: Build complete stories from fragments
+- IDEATION: Develop concepts into workable outlines
+- BETA-REVIEW: Simulate reader feedback for outlines/drafts
+- BLOG-POST: Complete blog post workflow from concept to publication
+- UNIVERSE: Build story bibles and world continuity
+- SERIAL: Manage multi-part stories and series
+- NOVEL: Coordinate long-form work with Snowflake Method
 
 Then load relevant project artifacts from _drafts/[project-name]/ and report 
 status before proceeding.
@@ -361,7 +434,63 @@ Once draft complete, potentially use REVISION-BOOTSTRAP for final polish
 
 ---
 
-### Migrating Existing Projects
+### Writing Weekly Blog Post
+
+**Session 1: Setup and Outline**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
+# New Post: [Working Title]
+Target: Substack
+Audience: [Description]
+Scope: 1,500 words
+Begin setup through outline.
+```
+
+**Session 2 (Optional): Beta Review Outline**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/BETA-REVIEW-BOOTSTRAP.md
+# Beta Review: [Title]
+Artifact: _drafts/[post-slug]/outline.md
+Run beta review before drafting.
+```
+
+**Session 3: Draft and Publish**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
+# Post: [Title]
+Load artifacts: _drafts/[post-slug]/
+Complete drafting, revision, and publication.
+```
+
+---
+
+### Testing Fiction Draft Before Revision
+
+**Session 1: Beta Review**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/BETA-REVIEW-BOOTSTRAP.md
+# Beta Review: [Title]
+Artifact: _drafts/[story-name]/assembled-draft.md
+Target audience: [Genre] readers
+Simulate reader panel and synthesize feedback.
+```
+
+**Session 2: Revision from Feedback**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/REVISION-BOOTSTRAP.md
+# Revising: [Title]
+Project folder: _drafts/[story-name]/
+Use beta-review.md to guide revision planning.
+```
+
+---
+
+## Migrating Existing Projects
 
 For projects created before this convention (like `mitzy-revision/`):
 
@@ -376,7 +505,31 @@ Existing projects can keep their names. New convention applies to new projects.
 
 ---
 
+## Bootstrap Sizes
+
+| Bootstrap | Size | Completeness |
+|-----------|------|-------------|
+| ASSESSMENT | 8,330 bytes | Complete |
+| REVISION | 20,995 bytes | Comprehensive (5 phases) |
+| EXPANSION | ~10,000 bytes | Complete |
+| DRAFTING | ~11,000 bytes | Complete |
+| IDEATION | ~9,700 bytes | Complete |
+| BETA-REVIEW | 10,084 bytes | Complete (4 phases) |
+| BLOG-POST | 12,985 bytes | Comprehensive (7 phases) |
+| UNIVERSE | 12,889 bytes | Complete |
+| SERIAL | 13,041 bytes | Complete |
+| NOVEL | 14,142 bytes | Comprehensive |
+
+---
+
 ## Version History
+
+**v1.2** - December 23, 2025  
+Completed all 10 bootstraps:
+- Expanded REVISION-BOOTSTRAP.md (5,319 → 20,995 bytes)
+- Completed BETA-REVIEW-BOOTSTRAP.md (3,361 → 10,084 bytes)
+- Completed BLOG-POST-BOOTSTRAP.md (2,470 → 12,985 bytes)
+- Updated folder naming across all bootstraps
 
 **v1.1** - December 23, 2025  
 Updated folder naming convention - removed workflow suffix
