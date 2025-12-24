@@ -198,7 +198,7 @@ In `[filename.md]`:
 **Bootstrap Version**: 1.0  
 **Created**: [Date]  
 **Last Updated**: [Date]  
-**Author**: Douglas Langille  
+**Author**: Doug Langille  
 **Repository**: github.com/douglangille/Workbench
 
 ---
