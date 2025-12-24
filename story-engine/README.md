@@ -130,7 +130,7 @@ Analyze and recommend path forward.
 
 **Output**: Revised story with author's note, preserved at original scope
 
-**Size**: ~21,000 bytes (comprehensive workflow)
+**Size**: 20,995 bytes (comprehensive workflow)
 
 **Example**:
 ```
@@ -208,7 +208,7 @@ Develop into story premise.
 
 **Output**: Beta review report with prioritized feedback and revision plan
 
-**Size**: ~10,000 bytes (complete workflow)
+**Size**: 10,084 bytes (complete workflow)
 
 **Use for**: Blog post outlines, fiction drafts, essay structures
 
@@ -232,7 +232,7 @@ Run beta review with 4 personas.
 
 **Output**: Published blog post with complete project archive
 
-**Size**: ~13,000 bytes (comprehensive workflow)
+**Size**: 12,985 bytes (comprehensive workflow)
 
 **Use for**: Substack essays, how-to posts, opinion pieces, case studies, personal reflections
 
@@ -327,6 +327,79 @@ Begin Snowflake development.
 ### Working on long-form?
 - Single novel? → **NOVEL-BOOTSTRAP**
 - Series/episodes? → **SERIAL-BOOTSTRAP**
+
+---
+
+## Bootstrap Relationships
+
+### Common Workflow Chains
+
+**Fiction Revision Path**:
+```
+ASSESSMENT → REVISION → (optional) BETA-REVIEW → Final REVISION
+```
+
+**Fiction Expansion Path**:
+```
+ASSESSMENT → EXPANSION → (optional) BETA-REVIEW → REVISION
+```
+
+**New Fiction from Scratch**:
+```
+IDEATION → DRAFTING → (optional) BETA-REVIEW → REVISION
+```
+
+**Blog Post Standard**:
+```
+BLOG-POST (includes optional BETA-REVIEW at Phase 4)
+```
+
+**Long-form Fiction**:
+```
+IDEATION → NOVEL (self-contained Snowflake workflow)
+```
+
+**Series Development**:
+```
+UNIVERSE → SERIAL → (multiple DRAFTING/REVISION cycles)
+```
+
+**Quick Fiction**:
+```
+DRAFTING → REVISION (skip IDEATION if concept is clear)
+```
+
+### Bootstrap Dependencies
+
+| Bootstrap | Can Lead To | Can Follow |
+|-----------|-------------|------------|
+| ASSESSMENT | REVISION, EXPANSION | (entry point) |
+| IDEATION | DRAFTING, NOVEL | (entry point) |
+| DRAFTING | REVISION, BETA-REVIEW | IDEATION |
+| EXPANSION | REVISION, BETA-REVIEW | ASSESSMENT |
+| BETA-REVIEW | REVISION | DRAFTING, EXPANSION, BLOG-POST |
+| REVISION | (publication) | ASSESSMENT, EXPANSION, DRAFTING, BETA-REVIEW |
+| BLOG-POST | (publication) | (self-contained) |
+| NOVEL | (publication) | IDEATION |
+| SERIAL | (publication) | UNIVERSE, DRAFTING |
+| UNIVERSE | SERIAL, DRAFTING | (entry point) |
+
+---
+
+## Bootstrap Sizes
+
+| Bootstrap | Size (bytes) | Completeness |
+|-----------|--------------|-------------|
+| ASSESSMENT | 8,274 | Complete |
+| BETA-REVIEW | 10,084 | Complete (4 phases) |
+| BLOG-POST | 12,985 | Comprehensive (7 phases) |
+| DRAFTING | 10,750 | Complete (5 phases) |
+| EXPANSION | 9,685 | Complete (4 phases) |
+| IDEATION | 9,432 | Complete (5 phases) |
+| NOVEL | 14,142 | Comprehensive |
+| REVISION | 20,995 | Comprehensive (5 phases) |
+| SERIAL | 13,041 | Complete |
+| UNIVERSE | 12,889 | Complete |
 
 ---
 
@@ -490,6 +563,63 @@ Use beta-review.md to guide revision planning.
 
 ---
 
+## FAQ / Troubleshooting
+
+### Q: Which bootstrap should I use for an existing story?
+**A**: Always start with ASSESSMENT-BOOTSTRAP for existing published work. It will analyze the story and recommend whether to use REVISION (polish at current scope) or EXPANSION (grow to larger scope).
+
+### Q: Can I switch bootstraps mid-project?
+**A**: Yes! Document the switch in your project README.md under "Workflow History". Common switches: DRAFTING → BETA-REVIEW → REVISION, or ASSESSMENT → EXPANSION → REVISION.
+
+### Q: What if I'm between two scopes (e.g., long flash vs. short story)?
+**A**: Use ASSESSMENT-BOOTSTRAP to analyze the work. It includes scope analysis that will help you decide. When in doubt, start with the smaller scope and expand if needed.
+
+### Q: Should I use BETA-REVIEW before or after drafting?
+**A**: Either works:
+- **Before drafting**: Review outline to test structure (faster, catches big issues early)
+- **After drafting**: Review complete draft for full reader experience (more realistic feedback)
+
+### Q: Can BLOG-POST be used for fiction?
+**A**: No. BLOG-POST is specifically for non-fiction (essays, tutorials, opinion pieces). For fiction, use the appropriate fiction bootstrap (IDEATION → DRAFTING → REVISION).
+
+### Q: How do I handle a project that uses multiple bootstraps?
+**A**: Track the workflow history in your project README.md. Example:
+```markdown
+## Workflow History
+
+### Phase 1: Assessment (Dec 2025)
+**Bootstrap**: ASSESSMENT-BOOTSTRAP
+**Outcome**: Recommended expansion
+
+### Phase 2: Expansion (Jan 2026)
+**Bootstrap**: EXPANSION-BOOTSTRAP
+**Status**: Complete
+
+### Phase 3: Beta Review (Jan 2026)
+**Bootstrap**: BETA-REVIEW-BOOTSTRAP
+**Status**: In progress
+```
+
+### Q: What if I don't have a published original for ASSESSMENT?
+**A**: ASSESSMENT requires existing published work. For new projects, use:
+- IDEATION (just an idea)
+- DRAFTING (partial draft or notes)
+- NOVEL (long-form from scratch)
+
+### Q: Can I create my own bootstrap?
+**A**: Yes! See the BOOTSTRAP-TEMPLATE.md for guidance on creating custom workflows. Follow the standard structure: Purpose → Phases → Deliverables → Status Checks.
+
+### Q: How do I know when to move to the next phase?
+**A**: Each phase ends with a "Status Check" section. Complete when that checklist is satisfied. Don't rush—quality over speed.
+
+### Q: What if the AI suggests changes I don't like?
+**A**: The core principle is "Author approval required". Always push back, ask for alternatives, or specify exactly what you want. You're the author; the AI is the collaborator.
+
+### Q: Should I commit after every phase?
+**A**: Yes, commit at phase completion at minimum. More frequent commits are fine for large phases. Use clear commit messages that reference the phase and deliverable.
+
+---
+
 ## Migrating Existing Projects
 
 For projects created before this convention (like `mitzy-revision/`):
@@ -505,24 +635,15 @@ Existing projects can keep their names. New convention applies to new projects.
 
 ---
 
-## Bootstrap Sizes
-
-| Bootstrap | Size | Completeness |
-|-----------|------|-------------|
-| ASSESSMENT | 8,330 bytes | Complete |
-| REVISION | 20,995 bytes | Comprehensive (5 phases) |
-| EXPANSION | ~10,000 bytes | Complete |
-| DRAFTING | ~11,000 bytes | Complete |
-| IDEATION | ~9,700 bytes | Complete |
-| BETA-REVIEW | 10,084 bytes | Complete (4 phases) |
-| BLOG-POST | 12,985 bytes | Comprehensive (7 phases) |
-| UNIVERSE | 12,889 bytes | Complete |
-| SERIAL | 13,041 bytes | Complete |
-| NOVEL | 14,142 bytes | Comprehensive |
-
----
-
 ## Version History
+
+**v1.3** - December 23, 2025  
+Added improvements:
+- Fixed bootstrap sizes table with actual file sizes
+- Added Bootstrap Relationships section with workflow chains
+- Added Bootstrap Dependencies table
+- Added FAQ/Troubleshooting section
+- Alphabetized bootstrap sizes table
 
 **v1.2** - December 23, 2025  
 Completed all 10 bootstraps:
