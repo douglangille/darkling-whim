@@ -182,10 +182,10 @@
 
 ## File Structure
 
-Project folder: `_drafts/[story-name]-expansion/`
+Project folder: `_drafts/[story-name]/`
 
 ```
-[story-name]-expansion/
+[story-name]/
 ├── README.md
 ├── original-[filename].md
 ├── foundation.md
@@ -213,7 +213,7 @@ Load and follow story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
 # Expand: Mitzy and the Butterfly
 
 Original: _posts/2015-08-21-mitzy-and-the-butterfly.md
-Assessment: _drafts/mitzy-assessment/assessment.md
+Assessment: _drafts/mitzy/assessment.md
 Target scope: Short story (4,000 words)
 
 Begin foundation review and expansion planning.
@@ -228,7 +228,7 @@ Load and follow story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
 
 # Expand: Mitzy and the Butterfly
 
-Load artifacts: _drafts/mitzy-expansion/
+Load artifacts: _drafts/mitzy/
 Report status and resume from last save point.
 ```
 
