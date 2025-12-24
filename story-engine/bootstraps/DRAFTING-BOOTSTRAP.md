@@ -211,10 +211,10 @@
 
 ## File Structure
 
-Project folder: `_drafts/[story-name]-draft/`
+Project folder: `_drafts/[story-name]/`
 
 ```
-[story-name]-draft/
+[story-name]/
 ├── README.md
 ├── foundation.md
 ├── source-material.md
@@ -254,7 +254,7 @@ Load and follow story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
 
 # New Story: What Remains
 
-Concept: _drafts/what-remains-concept/concept.md
+Concept: _drafts/what-remains/concept.md
 Target scope: Novelette (12,000 words)
 
 Begin outlining.
@@ -269,7 +269,7 @@ Load and follow story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
 
 # Drafting: The Collector
 
-Load artifacts: _drafts/the-collector-draft/
+Load artifacts: _drafts/the-collector/
 Report status and resume from last save point.
 ```
 
@@ -283,7 +283,7 @@ Load and follow story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
 # Reboot: Mitzy and the Butterfly
 
 Original for reference: _posts/2015-08-21-mitzy-and-the-butterfly.md
-Assessment: _drafts/mitzy-assessment/assessment.md
+Assessment: _drafts/mitzy/assessment.md
 Approach: Fresh draft preserving core concept
 Target scope: Short story (4,000 words)
 

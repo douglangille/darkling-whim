@@ -190,10 +190,10 @@
 
 ## File Structure
 
-Project folder: `_drafts/[story-name]-concept/`
+Project folder: `_drafts/[story-name]/`
 
 ```
-[story-name]-concept/
+[story-name]/
 ├── README.md
 ├── premise.md
 ├── characters.md
@@ -253,7 +253,7 @@ Load and follow story-engine/bootstraps/IDEATION-BOOTSTRAP.md
 
 # Developing Concept: Memory Merchant
 
-Load artifacts: _drafts/memory-merchant-concept/
+Load artifacts: _drafts/memory-merchant/
 Report status and continue development.
 ```
 
@@ -414,7 +414,7 @@ Load and follow story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
 
 # New Story: [Title]
 
-Concept: _drafts/[story-name]-concept/concept-package.md
+Concept: _drafts/[story-name]/concept-package.md
 Target scope: [Flash/Short/etc]
 
 Begin outlining and drafting.
