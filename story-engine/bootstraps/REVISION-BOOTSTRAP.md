@@ -62,7 +62,38 @@
      - Dialogue issues
      - Description balance
 
-3. **Create revision categories**:
+3. **Optional: Scene-Level Analysis**
+   
+   **Reference**: `story-engine/bootstraps/SCENE-WORKFLOW.md` for atomic scene structure
+   
+   For stories with multiple distinct scenes (typically 1,000+ words), consider analyzing at scene level:
+   
+   **For each scene**:
+   - Identify if Scene (Goal-Conflict-Disaster) or Sequel (Reaction-Dilemma-Decision)
+   - Check structure integrity:
+     - Scene: Is Goal clear? Conflict genuine? Disaster a real setback?
+     - Sequel: Is Reaction authentic? Dilemma presents real choice? Decision specific?
+   - Assess scene purpose:
+     - Advances plot?
+     - Develops character?
+     - Both?
+     - Neither? (problem)
+   - Note scene issues:
+     - Weak goal
+     - Insufficient conflict
+     - Easy disaster (not setback)
+     - Vague decision
+     - Doesn't connect to adjacent scenes
+   
+   **Scene-level analysis benefits**:
+   - Identifies specific weak scenes (not just "pacing issue")
+   - Reveals scene chain breaks (disaster doesn't lead to reaction, etc.)
+   - Pinpoints structural problems precisely
+   - Makes revision plan more surgical
+   
+   **Deliverable**: `scene-analysis.md` (optional, if using scene-level approach)
+
+4. **Create revision categories**:
    - **Structure**: Scene order, pacing, arc
    - **Character**: Motivation, consistency, development
    - **Plot**: Logic, causality, stakes
@@ -70,12 +101,12 @@
    - **Voice**: Tone, POV, style consistency
    - **Technical**: Grammar, punctuation, format
 
-4. **Archive original**:
+5. **Archive original**:
    - Save frozen copy to `original-[filename].md`
    - Never edit the original during revision
    - Preserve publication history
 
-5. **Create project README**:
+6. **Create project README**:
    - Document current state
    - Track revision goals
    - Note workflow history
@@ -84,6 +115,7 @@
 - `README.md` (project overview)
 - `dossier.md` (comprehensive analysis)
 - `critique.md` (literary evaluation)
+- `scene-analysis.md` (optional, if using scene-level approach)
 - `original-[filename].md` (frozen copy)
 
 **Status Check**: ✅ Complete when analysis is documented
@@ -98,6 +130,7 @@
 1. **Review analysis with author**:
    - Discuss dossier findings
    - Validate critique observations
+   - If scene-level analysis exists, review scene-by-scene notes
    - Identify priorities together
    - Clarify revision goals
 
@@ -125,6 +158,7 @@
    - Pacing adjustments
    - Arc strengthening
    - Transition improvements
+   - **If scene-level analysis exists**: Target specific scenes identified as weak
 
    **Character revisions**:
    - Motivation clarification
@@ -156,28 +190,58 @@
    - Format
    - Continuity
 
-5. **Create revision sequence**:
+5. **Optional: Scene-Level Revision Plan**
+   
+   **Reference**: `story-engine/bootstraps/SCENE-WORKFLOW.md`
+   
+   If scene-level analysis revealed specific scene problems, plan scene-level rewrites:
+   
+   **For each problematic scene**:
+   - Create or update scene brief:
+     - If Scene: Define clear Goal, genuine Conflict, real Disaster
+     - If Sequel: Define authentic Reaction, difficult Dilemma, specific Decision
+   - Choose authorship approach:
+     - [ ] Human Rewrite (author rewrites scene)
+     - [ ] AI Assisted (AI suggests rewrite, author edits)
+   - Specify scene-level changes:
+     - Strengthen goal
+     - Heighten conflict
+     - Sharpen disaster
+     - Clarify decision
+   - Note integration concerns:
+     - How does revised scene connect to unchanged scenes?
+     - What transitions need adjustment?
+   
+   **Scene-level revision benefits**:
+   - More precise than "fix pacing in middle"
+   - Can rewrite specific scenes while preserving others
+   - Maintains scene chain integrity
+   - Surgical rather than broad-stroke
+
+6. **Create revision sequence**:
    - Work through story chronologically OR
    - Address by revision type OR
-   - Tackle high-impact items first
+   - Tackle high-impact items first OR
+   - Rewrite problem scenes first, then integrate
    - Document chosen approach and why
 
-6. **Estimate scope**:
+7. **Estimate scope**:
    - Time per revision
    - Total sessions needed
    - Potential complications
    - Decision points
 
-7. **GET AUTHOR APPROVAL**:
+8. **GET AUTHOR APPROVAL**:
    - Review complete plan
    - Adjust priorities
    - Confirm approach
    - Set scope boundaries
 
-8. **Save plan to GitHub**
+9. **Save plan to GitHub**
 
 **Deliverables**:
 - `revision-plan.md` (detailed, author-approved)
+- `scene-briefs.md` (optional, if using scene-level rewrites)
 
 **Status Check**: ✅ Complete when plan is approved and saved
 
@@ -202,6 +266,42 @@
    - Check transitions after each change
    - Verify pacing after structural changes
 
+   **For scene-level rewrites** (if using scene-level approach):
+   
+   **Reference**: Scene Drafting Protocol from `SCENE-WORKFLOW.md`
+   
+   - Work scene by scene on identified problem scenes:
+     1. Review original scene and scene brief
+     2. Confirm Goal/Conflict/Disaster or Reaction/Dilemma/Decision structure
+     3. Execute rewrite per authorship choice:
+        
+        **If Human Rewrite**:
+        - Author rewrites scene from brief
+        - Hit structural beats (Goal/Conflict/Disaster or Reaction/Dilemma/Decision)
+        - Maintain voice consistency with unchanged scenes
+        - AI reviews: structure, voice match, integration
+        
+        **If AI Assisted**:
+        - AI drafts revised scene from brief
+        - AI maintains voice and structure
+        - Author edits for authenticity and voice match
+     
+     4. Scene-level review:
+        - [ ] Scene now fulfills brief?
+        - [ ] Structure clear and effective?
+        - [ ] Connects to adjacent (unchanged) scenes?
+        - [ ] Voice matches rest of story?
+        - [ ] Improves on original?
+     
+     5. Integrate revised scene:
+        - Replace original scene in working draft
+        - Check transitions with unchanged scenes
+        - Adjust connections if needed
+     
+     6. Update scene tracker (if using):
+        - Mark scene as revised
+        - Note actual changes made
+   
    **For character revisions**:
    - Track character knowledge/awareness
    - Ensure motivation clarity in each scene
@@ -244,6 +344,7 @@
    - **Stay at scope**: Don't expand, refine
    - **Mark deviations**: If you change approach, note why
    - **Check ripple effects**: Every change affects something else
+   - **If using scene-level rewrites**: Ensure revised scenes integrate seamlessly with unchanged scenes
 
 4. **Document decisions**:
    
@@ -273,13 +374,14 @@
 7. **Quality checks during execution**:
    - Re-read revised sections immediately
    - Check against critique: did fix work?
-   - Verify voice consistency
+   - Verify voice consistency (especially for scene-level rewrites)
    - Test transitions
    - Ensure changes don't create new problems
 
 **Deliverables**:
 - `working-[filename].md` (revised draft)
 - `revision-notes.md` (decision log with save points)
+- `scene-tracker.md` (optional, if using scene-level rewrites)
 - Frequent GitHub commits
 
 **Status Check**: ✅ Complete when all planned changes implemented
@@ -304,15 +406,17 @@
    - **Voice**: Consistent from start to finish?
    - **Tone**: Unified emotional flavor?
    - **Logic**: Everything make sense?
+   - **If scene-level rewrites used**: Do revised scenes integrate seamlessly with unchanged scenes?
 
 3. **Verify revision goals met**:
    - Review original critique
    - Check: did you fix the problems?
    - Check: did fixes create new problems?
    - Check: is story stronger now?
+   - **If scene-level analysis used**: Re-check problem scenes—are they fixed?
 
 4. **Integration fixes**:
-   - Smooth any rough transitions
+   - Smooth any rough transitions (especially between revised and unchanged scenes)
    - Fix new inconsistencies
    - Adjust pacing if needed
    - Strengthen weak connections
@@ -405,6 +509,7 @@
    - All analysis and planning docs
    - Revision notes and decisions
    - Save points preserved
+   - Scene briefs if used
 
 **Deliverables**:
 - Published revised story in `_posts/`
@@ -425,6 +530,9 @@ Project folder: `_drafts/[story-name]/`
 ├── original-[filename].md
 ├── dossier.md
 ├── critique.md
+├── scene-analysis.md (optional)
+├── scene-briefs.md (optional, if scene-level rewrites)
+├── scene-tracker.md (optional, if scene-level rewrites)
 ├── revision-plan.md
 ├── revision-notes.md
 ├── working-[filename].md
@@ -453,6 +561,39 @@ Assessment exists: _drafts/mitzy/assessment.md
 Original: _posts/2015-08-21-mitzy-and-the-butterfly.md
 
 Initialize revision project using assessment as analysis foundation.
+```
+
+### Starting Revision with Scene-Level Analysis
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load story-engine/bootstraps/REVISION-BOOTSTRAP.md
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
+
+# Revising: The Collector
+
+Original: _posts/2024-10-15-the-collector.md
+No prior assessment.
+
+Begin Phase 1 with scene-level analysis.
+Break story into atomic scenes and analyze each.
+```
+
+### Scene-Level Rewrite Session
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load story-engine/bootstraps/REVISION-BOOTSTRAP.md
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
+
+# Revising: The Collector - Rewrite Scene 3
+
+Project: _drafts/the-collector/
+Load scene-briefs.md and revision-plan.md
+Rewrite Scene 3 (weak goal identified in analysis).
+Use Human Rewrite approach.
 ```
 
 ### Starting Revision Directly (No Assessment)
@@ -496,7 +637,8 @@ In `revision-plan.md`:
 **Current Word Count**: [X words]  
 **Target Word Count**: [Y words] (stay near current)  
 **Plan Created**: [Date]  
-**Author Approved**: [Date]
+**Author Approved**: [Date]  
+**Scene-Level Approach**: Yes / No
 
 ---
 
@@ -516,9 +658,29 @@ In `revision-plan.md`:
 
 ## Revision Sequence
 
-Working approach: [Chronological / By type / High-impact first]
+Working approach: [Chronological / By type / High-impact first / Scene rewrites first]
 
 Estimated sessions: [X]
+
+---
+
+## SCENE-LEVEL REWRITES (if using)
+
+### Scene 3: [Scene Name]
+**Type**: Scene (Goal-Conflict-Disaster)  
+**Current Problem**: [Weak goal, insufficient conflict, etc.]  
+**Solution**: [Rewrite with clearer goal, stronger conflict, etc.]  
+**Authorship**: Human Rewrite / AI Assisted  
+**Priority**: MUST  
+**Impact**: [Word count, integration concerns]
+
+### Scene 7: [Scene Name]
+**Type**: Sequel (Reaction-Dilemma-Decision)  
+**Current Problem**: [Vague decision, missing dilemma, etc.]  
+**Solution**: [Rewrite with difficult dilemma, specific decision]  
+**Authorship**: Human Rewrite / AI Assisted  
+**Priority**: SHOULD  
+**Impact**: [Word count, integration concerns]
 
 ---
 
@@ -613,6 +775,7 @@ Estimated sessions: [X]
 
 ## Summary
 
+**Total Scene Rewrites**: [X scenes] (if using scene-level approach)  
 **Total Must Fix**: [X items]  
 **Total Should Fix**: [Y items]  
 **Total Could Fix**: [Z items]  
@@ -676,6 +839,7 @@ In `revision-notes.md`:
 **Status**: [X% complete]  
 **Last Completed**: [Section/scene]  
 **Current Word Count**: [X words]  
+**Scenes Revised**: [X of Y] (if using scene-level approach)  
 **Next Steps**: [Specific instructions]  
 **Open Questions**: [Unresolved items]  
 **Commits Made**: [List]
@@ -727,6 +891,8 @@ This revised edition (December 2025) represents substantial work:
 - [Major change 2]
 - [Major change 3]
 
+[Optional: specific scene-level changes if noteworthy]
+
 What didn't change: [Core elements preserved]. Those felt right from 
 the beginning.
 
@@ -742,13 +908,14 @@ Sometimes stories need time to become what they wanted to be.
 
 - **Preserve scope**: Refine, don't expand
 - **Preserve voice**: Maintain distinctive style  
-- **Surgical precision**: Targeted improvements
+- **Surgical precision**: Targeted improvements (scene-level when appropriate)
 - **Author approval**: Required for plan
 - **Document everything**: Log all decisions
 - **Commit frequently**: Save progress regularly
 - **Protect strengths**: Don't fix what works
 - **Test changes**: Verify improvements improve
 - **Stay focused**: Follow the plan
+- **Scene integrity**: If rewriting scenes, maintain chain connections
 - **Trust the process**: Systematic beats intuitive
 
 ---
@@ -762,6 +929,7 @@ Sometimes stories need time to become what they wanted to be.
 - Fighting the story's natural shape
 - Revising same section repeatedly
 - Scope creeping toward rewrite
+- Scene rewrites break scene chain
 
 **When to switch to different bootstrap**:
 - Story wants to be bigger → EXPANSION-BOOTSTRAP
@@ -776,14 +944,17 @@ Sometimes stories need time to become what they wanted to be.
 - "Initialize revision project: [Story Name]"
 - "Create story dossier for [Story Name]"
 - "Add literary critique for [Story Name]"
+- "Add scene-level analysis for [Story Name]" (if using)
 - "Archive original: [Story Name]"
 
 **Planning phase**:
 - "Add revision plan for [Story Name]"
+- "Create scene briefs for [Story Name] revision" (if using scene-level)
 - "Update revision plan with author feedback"
 
 **Execution phase**:
 - "Revise [Story Name]: [Scene/Section] - [specific change]"
+- "Rewrite [Story Name]: Scene [X] - [scene name]" (if scene-level rewrite)
 - "Fix [Story Name]: [specific issue]"
 - "Polish [Story Name]: [section]"
 - "Update revision notes: [session summary]"
@@ -822,7 +993,9 @@ Before declaring revision complete:
 
 **Scene Level**:
 - [ ] Each scene necessary
-- [ ] Goals and conflicts present
+- [ ] Goals and conflicts present (if Scene)
+- [ ] Reactions and decisions clear (if Sequel)
+- [ ] Scene chain intact (no breaks)
 - [ ] Transitions smooth
 - [ ] Setting clear
 - [ ] Pacing varied
@@ -850,7 +1023,21 @@ Before declaring revision complete:
 
 ---
 
-**Bootstrap Version**: 2.0  
-**Updated**: December 23, 2025  
-**Author**: Douglas Langille  
+## Version History
+
+**v2.1** - December 24, 2025
+- Added optional scene-level analysis in Phase 1
+- Added optional scene-level revision planning in Phase 2
+- Added scene-level rewrite protocol in Phase 3
+- Integrated SCENE-WORKFLOW.md for atomic scene rewrites
+- Added scene briefs and tracker to file structure (optional)
+- Updated examples with scene-level revision sessions
+
+**v2.0** - December 23, 2025  
+Major revision with comprehensive workflow
+
+---
+
+**Bootstrap Version**: 2.1  
+**Author**: Doug Langille  
 **Repository**: github.com/douglangille/Workbench
