@@ -67,9 +67,9 @@
    - Crisis
    - Climax
    - Resolution
-3. Plan scenes:
-   - Scene list with purpose
-   - Estimated length per scene
+3. Plan high-level scenes:
+   - Major beats and turning points
+   - Estimated scene count
    - POV for each scene
    - Key conflicts
    - Character development moments
@@ -81,53 +81,148 @@
 6. Save outline to GitHub
 
 **Deliverables**:
-- `outline.md` (scene-by-scene plan, author-approved)
+- `outline.md` (beat-level plan, author-approved)
 
 **Status Check**: ✅ Complete when outline is approved
 
 ---
 
-### Phase 3: SCENE BUILDING
-**Goal**: Draft scenes one by one
+### Phase 2.5: SCENE BRIEF DEVELOPMENT
+**Goal**: Plan all scenes at atomic level before drafting any prose
+
+**Scope Decision**:
+- **Flash Fiction (< 1,000 words)**: Scene briefs optional—skip to Phase 3
+- **1,000+ words**: Scene briefs recommended—proceed with this phase
+
+**Reference**: Load and review `story-engine/bootstraps/SCENE-WORKFLOW.md` for complete scene brief protocol
 
 **Tasks**:
-1. Draft scenes in order (or key scenes first, author's choice)
-2. For each scene:
-   - Establish POV and voice
-   - Set scene clearly (where/when)
-   - Drive conflict forward
-   - Reveal character
-   - Advance plot
-   - Maintain tone
-3. Don't self-edit too much:
-   - Get words down
-   - Maintain momentum
-   - Mark problem areas with [NOTES]
-   - Keep moving forward
-4. Track progress:
-   - Scenes completed
-   - Current word count
-   - Pacing check
-5. Document in drafting-notes.md:
-   - Scene completion status
-   - Problems encountered
-   - Solutions found
-   - Deviations from outline
-   - New ideas that emerged
-6. Commit frequently to GitHub
-7. Create save points after each scene
+1. **Break structure into atomic scenes**:
+   - Convert each beat/turning point into one or more Scenes/Sequels
+   - Scene = Goal-Conflict-Disaster (proactive)
+   - Sequel = Reaction-Dilemma-Decision (reactive)
+   - Number sequentially from story start
 
-**Working Method**:
-- One scene per session (or per day)
-- Author can provide feedback on scenes
-- Adjust outline if story evolves
-- Focus on completion, not perfection
+2. **Create scene brief for each scene**:
+   - Use Scene Brief Template from SCENE-WORKFLOW.md
+   - Define Goal/Conflict/Disaster OR Reaction/Dilemma/Decision
+   - Specify POV, setting, connections
+   - Estimate word count per scene
+   - Note key story elements (character development, plot advancement, theme)
+
+3. **Validate scene chain integrity**:
+   - Check: Each Scene disaster connects to next Sequel reaction
+   - Check: Each Sequel decision creates Goal for next Scene
+   - Check: No orphaned scenes (all connect to chain)
+   - Check: Escalating tension throughout
+   - Adjust briefs as needed
+
+4. **Make authorship decisions**:
+   - For each scene, decide:
+     - [ ] Human First Draft (author writes, AI reviews)
+     - [ ] AI First Draft (AI writes, author edits)
+     - [ ] TBD (decide later)
+   - Mark in each scene brief
+
+5. **Create scene tracker**:
+   - Use Scene Tracker Template from SCENE-WORKFLOW.md
+   - List all scenes with status, authorship, target words
+   - Track progress through drafting
+
+6. **GET AUTHOR APPROVAL**:
+   - Review complete scene brief list
+   - Confirm scene chain makes sense
+   - Approve authorship decisions
+   - Commit to GitHub before drafting
+
+**DO NOT DRAFT PROSE YET**—all scene briefs must be complete and validated first
 
 **Deliverables**:
-- `working-draft.md` (complete first draft)
-- `drafting-notes.md` (process log)
+- `scene-briefs.md` (complete scene/sequel brief list) OR
+- `scenes/` folder (individual scene brief files: `scene-01.md`, `scene-02.md`, etc.)
+- `scene-tracker.md` (progress tracking table)
 
-**Status Check**: ✅ Complete when all scenes drafted
+**Status Check**: 
+- ✅ Complete when all scene briefs created
+- ✅ Scene chain validated
+- ✅ Authorship decisions made
+- ✅ Author approved
+
+---
+
+### Phase 3: SCENE DRAFTING
+**Goal**: Draft prose for each scene using chosen authorship approach
+
+**Reference**: Use Scene Drafting Protocol from `SCENE-WORKFLOW.md`
+
+**Tasks**:
+1. **Work scene by scene** (in sequence or strategic order—author's choice):
+   - Review scene brief before drafting
+   - Confirm Goal/Conflict/Disaster or Reaction/Dilemma/Decision structure
+   - Check connections to previous and next scenes
+
+2. **Execute drafting per scene's authorship choice**:
+
+   **If Human First Draft**:
+   - Author writes the scene prose
+   - Focus on hitting structural beats from brief
+   - Don't self-edit excessively—maintain momentum
+   - AI reviews for: structure integrity, pacing, voice consistency
+   - AI suggests improvements (author decides whether to apply)
+
+   **If AI First Draft**:
+   - AI drafts scene prose from brief
+   - AI hits structural beats, maintains voice
+   - Author reviews for: authenticity, character truth, emotional accuracy
+   - Author edits/rewrites as needed
+   - Iterate until scene works
+
+3. **Scene-level review after each draft**:
+   - **Structure Check**:
+     - [ ] Scene fulfills the brief?
+     - [ ] Goal/Conflict/Disaster clear? (if Scene)
+     - [ ] Reaction/Dilemma/Decision clear? (if Sequel)
+     - [ ] Connects to previous scene?
+     - [ ] Sets up next scene?
+   - **Craft Check**:
+     - [ ] Voice consistent with story/character
+     - [ ] Pacing appropriate
+     - [ ] Show vs. tell balance
+     - [ ] Sensory details present
+   - **Continuity Check**:
+     - [ ] Character knowledge consistent
+     - [ ] Setting details match previous scenes
+     - [ ] Timeline coherent
+
+4. **Update tracking**:
+   - Mark scene status in scene tracker (Brief → Drafted → Reviewed)
+   - Note actual word count
+   - Flag any issues for later revision
+   - Update drafting notes
+
+5. **Commit to GitHub**:
+   - Save scene draft with clear naming
+   - Commit message: "Draft [Story Name]: Scene [X] - [scene title]"
+   - Create save points frequently
+
+6. **Proceed to next scene**:
+   - Don't revise entire story yet
+   - Trust the scene brief chain
+   - Maintain drafting momentum
+
+**Working Principles**:
+- One scene at a time—complete before moving on
+- Hit the structural beats from brief
+- Mark trouble spots with [NOTE] and continue
+- Scene briefs can be adjusted if story evolves
+- Completion beats perfection in first draft
+
+**Deliverables**:
+- Individual scene draft files OR
+- `working-draft.md` (all scenes assembled incrementally)
+- `drafting-notes.md` (process log with scene-by-scene notes)
+
+**Status Check**: ✅ Complete when all scenes drafted and reviewed
 
 ---
 
@@ -135,26 +230,27 @@
 **Goal**: Weave scenes into cohesive story
 
 **Tasks**:
-1. Read through complete draft
-2. Check for:
+1. Assemble all scene drafts into single document (if not already)
+2. Read through complete draft
+3. Check for:
    - Plot holes
    - Character consistency
    - Pacing issues
    - Tonal shifts
    - Missing transitions
    - Continuity errors
-3. Address major structural issues:
+4. Address major structural issues:
    - Reorder scenes if needed
-   - Add missing scenes
+   - Add missing scenes (create brief → draft → integrate)
    - Cut redundant material
-   - Strengthen connections
-4. Ensure:
+   - Strengthen connections between scenes
+5. Ensure:
    - Story arc completes
    - Character arcs resolve
    - Themes emerge clearly
    - Ending satisfies
-5. Update drafting notes with assembly decisions
-6. Save assembled draft
+6. Update drafting notes with assembly decisions
+7. Save assembled draft
 
 **Deliverables**:
 - `assembled-draft.md` (structurally sound version)
@@ -199,6 +295,7 @@
 
 ## Working Principles
 
+- **Plan completely, then draft**: All scene briefs before any prose
 - **Finish the draft**: Completion beats perfection
 - **Stay in voice**: Establish and maintain consistent voice
 - **Show, don't tell**: Let readers experience the story
@@ -206,6 +303,7 @@
 - **Trust the process**: First draft is discovery
 - **Embrace mess**: You can fix it in revision
 - **Keep momentum**: Don't get stuck perfecting early scenes
+- **Flex authorship**: Use human/AI strengths per scene
 
 ---
 
@@ -219,6 +317,8 @@ Project folder: `_drafts/[story-name]/`
 ├── foundation.md
 ├── source-material.md
 ├── outline.md
+├── scene-briefs.md (or scenes/ folder)
+├── scene-tracker.md
 ├── drafting-notes.md
 ├── working-draft.md
 ├── assembled-draft.md
@@ -245,19 +345,33 @@ Target tone: Dark, bittersweet
 Begin foundation and outline development.
 ```
 
-### Starting from Concept
+### Scene Brief Phase
 
 ```
 Connect to my Workbench repo on GitHub.
 
-Load and follow story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
+Load story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
 
-# New Story: What Remains
+# Drafting: The Collector - Scene Brief Development
 
-Concept: _drafts/what-remains/concept.md
-Target scope: Novelette (12,000 words)
+Project: _drafts/the-collector/
+Load outline.md and break into atomic scene briefs.
+Target: ~8 scenes for 4,000 words.
+```
 
-Begin outlining.
+### Scene Drafting Phase
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load story-engine/bootstraps/DRAFTING-BOOTSTRAP.md
+
+# Drafting: The Collector - Scene 3
+
+Project: _drafts/the-collector/
+Load scene-briefs.md and scene-tracker.md
+Draft Scene 3 using [Human/AI] first draft approach.
 ```
 
 ### Continuing Existing Draft
@@ -368,39 +482,35 @@ In `outline.md`:
 
 ## Act I: Setup (~25% / X words)
 
-### Scene 1: [Title/Summary]
+### Beat 1: Opening Hook
 **Purpose**: Hook reader, establish normal world
-**POV**: [Character]
-**Setting**: [Where/when]
 **Key Events**: 
 - [Event 1]
 - [Event 2]
 **Character Reveal**: [What we learn]
-**Estimated Length**: [X words]
+**Will become**: Scene(s) [X]
 
-### Scene 2: Inciting Incident
+### Beat 2: Inciting Incident
 **Purpose**: Disrupt status quo
-**POV**: [Character]
-**Setting**: [Where/when]
 **Key Events**:
 - [Event 1]
 - [Event 2]
 **Conflict Introduced**: [What's at stake?]
-**Estimated Length**: [X words]
+**Will become**: Scene(s) [Y]
 
-[Continue for all Act I scenes]
+[Continue for all Act I beats]
 
 ---
 
 ## Act II: Confrontation (~50% / X words)
 
-[Scene breakdown continuing...]
+[Beat breakdown continuing...]
 
 ---
 
 ## Act III: Resolution (~25% / X words)
 
-[Scene breakdown continuing...]
+[Beat breakdown continuing...]
 
 ---
 
@@ -415,6 +525,13 @@ In `outline.md`:
 - [ ] Resolution addresses theme?
 - [ ] Character arc completes?
 
+---
+
+## Next Step
+
+Proceed to Phase 2.5: Scene Brief Development
+- Break each beat into atomic Scene/Sequel briefs
+- See SCENE-WORKFLOW.md for complete protocol
 ```
 
 ---
@@ -429,9 +546,13 @@ In `outline.md`:
 - "Add story outline for [Story Name]"
 - "Update outline with author feedback"
 
+**Scene brief phase**:
+- "Add scene briefs for [Story Name]"
+- "Create scene tracker for [Story Name]"
+
 **Drafting phase**:
-- "Draft [Story Name]: Scene [X] - [scene name]"
-- "Update drafting notes: [progress summary]"
+- "Draft [Story Name]: Scene [X] - [scene title]"
+- "Update scene tracker: [progress summary]"
 
 **Assembly phase**:
 - "Assemble [Story Name]: structural revision"
@@ -451,12 +572,14 @@ In `drafting-notes.md`:
 ## Save Point: [Date/Time]
 
 **Phase**: [Current phase]
-**Progress**: [X of Y scenes complete]
-**Current Word Count**: [X words / Y target]
+**Progress**: 
+- Scenes briefed: [X of Y]
+- Scenes drafted: [X of Y]
+- Current word count: [X words / Y target]
 **Last Completed**: [What scene/section]
 **Next Steps**: [What to draft next]
 **Problems Encountered**: [Any issues]
-**Story Evolution**: [How it's changing from outline]
+**Story Evolution**: [How it's changing from plan]
 **Session Duration**: [Approximate time]
 **Commits Made**: [List of commits]
 
@@ -467,17 +590,32 @@ In `drafting-notes.md`:
 
 ## Drafting Tips
 
+- **Plan all scenes first**: Complete scene briefs before any prose
 - **Write badly first**: Get words down, fix later
 - **Use placeholders**: [DESCRIPTION] or [NAME] if stuck
 - **Mark trouble spots**: [NOTE: This feels weak] and move on
-- **Follow energy**: If a scene excites you, write it out of order
-- **Trust emergence**: Stories reveal themselves in the writing
+- **Follow brief structure**: Hit Goal-Conflict-Disaster or Reaction-Dilemma-Decision
+- **Trust scene chain**: Each scene builds on previous
+- **Choose right authorship**: Use human/AI strengths per scene
 - **Don't look back**: Resist urge to re-read and polish early scenes
 - **Celebrate progress**: Each scene completed is victory
 
 ---
 
-**Bootstrap Version**: 1.0  
-**Created**: December 23, 2025  
-**Author**: Douglas Langille  
+## Version History
+
+**v1.1** - December 24, 2025
+- Added Phase 2.5: Scene Brief Development
+- Integrated SCENE-WORKFLOW.md for atomic scene planning
+- Updated Phase 3 with per-scene authorship flexibility
+- Added scene-level review protocol
+- Updated file structure to include scene briefs and tracker
+
+**v1.0** - December 23, 2025  
+Initial DRAFTING-BOOTSTRAP created
+
+---
+
+**Bootstrap Version**: 1.1  
+**Author**: Doug Langille  
 **Repository**: github.com/douglangille/Workbench
