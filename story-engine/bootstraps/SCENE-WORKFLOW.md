@@ -29,6 +29,85 @@ Scene briefs integrate with:
 
 ---
 
+## File Organization
+
+**Core Principle**: Keep scene briefs and scene drafts in separate files/locations for tight context control.
+
+### Project Structure
+
+```
+_drafts/[project-name]/
+├── scene-briefs.md              # All briefs in single file (short stories), OR
+├── scenes/                       # Individual brief files (novels, long works)
+│   ├── ch01-scene01-brief.md
+│   ├── ch01-scene02-brief.md
+│   ├── ch02-scene01-brief.md
+│   └── ...
+├── scene-tracker.md             # Progress tracking (optional but recommended)
+├── draft/
+│   └── scenes/                  # Drafted scene prose (always separate)
+│       ├── ch01-scene01-draft.md
+│       ├── ch01-scene02-draft.md
+│       ├── ch02-scene01-draft.md
+│       └── ...
+└── [other project files]
+```
+
+### Why Separate Briefs from Drafts?
+
+**Context Control**:
+- When drafting Scene 3, load:
+  - `scenes/ch01-scene03-brief.md` (current instructions)
+  - `draft/scenes/ch01-scene02-draft.md` (previous scene for transition)
+  - NOT all briefs + all drafts (avoids context bloat)
+
+**Phase Separation**:
+- Briefs = planning phase (complete before drafting)
+- Drafts = execution phase (one at a time)
+- Clear workflow progression
+
+**Status Visibility**:
+- Brief exists = planned
+- Draft exists = executed
+- Easy to see what's done vs. pending
+
+**Iterative Work**:
+- Brief might get tweaked during drafting (as story evolves)
+- Draft might go through multiple revisions
+- Separation preserves original planning intentions
+
+### Typical Session Patterns
+
+**Planning Session**:
+```
+Load: scene-briefs.md (or scenes/ folder)
+Create briefs for Chapter 3, scenes 1-4
+Validate scene chain
+Commit scene-briefs.md
+```
+
+**Drafting Session**:
+```
+Load: scenes/ch03-scene01-brief.md (instructions)
+Load: draft/scenes/ch02-scene04-draft.md (for transition)
+Draft ch03-scene01 prose
+Save to: draft/scenes/ch03-scene01-draft.md
+Commit
+```
+
+**Review Session**:
+```
+Load: draft/scenes/ch03-scene01-draft.md
+Load: scenes/ch03-scene01-brief.md (to check fulfillment)
+Scene-level review
+Revise draft if needed
+Commit
+```
+
+**Clean, focused, no context pollution.** ✅
+
+---
+
 ## Scene vs. Sequel Framework
 
 Based on Randy Ingermanson's atomic scene structure.
@@ -236,7 +315,12 @@ Execute after all scene briefs are complete and validated.
 - Note any special considerations from Notes field
 - Check connection to previous/next scenes
 
-**2. Execute Drafting Approach**
+**2. Load Context**
+- Load current scene brief: `scenes/[scene-number]-brief.md`
+- Load previous scene draft: `draft/scenes/[previous-scene]-draft.md` (for transition)
+- Do NOT load all briefs or all drafts (context control)
+
+**3. Execute Drafting Approach**
 
 #### Human First Draft:
 ```
@@ -269,7 +353,11 @@ Real-time back-and-forth:
 Best for: Complex scenes, learning new techniques
 ```
 
-**3. Scene-Level Review**
+**4. Save Draft**
+Save to: `draft/scenes/[scene-number]-draft.md`
+Separate from brief file
+
+**5. Scene-Level Review**
 
 Check each drafted scene for:
 - [ ] **Structure**: Does it deliver on the brief? Goal achieved/denied? Disaster clear?
@@ -279,18 +367,17 @@ Check each drafted scene for:
 - [ ] **Grounding**: Enough sensory detail and physical reality?
 - [ ] **Emotional Truth**: Characters' reactions feel authentic?
 
-**4. Update Status**
+**6. Update Status**
 - Mark scene as "Drafted" or "Scene-Level Review Complete" in tracker
 - Note any issues or revision needs
 - Flag if scene needs rework before assembly
 
-**5. Commit Scene Draft**
-Save with clear naming:
-- `scenes/scene-01-opening.md`
-- `scenes/scene-02-aftermath-sequel.md`
-- etc.
+**7. Commit Scene Draft**
+Commit with clear message:
+- "Draft [Project]: Scene [X] - [scene title]"
+- "Review [Project]: Scene [X] - structural check"
 
-**6. Proceed to Next Scene**
+**8. Proceed to Next Scene**
 - Do not skip ahead unless strategic reason
 - Maintain sequence for continuity
 
@@ -321,7 +408,7 @@ Track progress across all scenes in project.
 ## Scene List
 
 | # | Type | Title | Status | Approach | Target | Actual | Issues | Updated |
-|---|------|-------|--------|----------|--------|--------|--------|---------|
+|---|------|-------|--------|----------|--------|--------|--------|---------||
 | 1 | Scene | Opening Hook | Final | Human | 800 | 850 | - | Dec 23 |
 | 2 | Sequel | Aftermath | Drafted | AI | 600 | 650 | Needs emotion depth | Dec 23 |
 | 3 | Scene | Confrontation | Brief Only | TBD | 1200 | - | - | Dec 22 |
@@ -420,9 +507,22 @@ Scene/Sequel chain still applies, just follow POV character's experience order, 
 
 Brief for flashback scene: Note in "Setting" that it's flashback, identify when it occurs in character's timeline. Still needs Goal-Conflict-Disaster if it's a full scene.
 
+### Why separate brief files from draft files?
+
+**Context control**. When drafting, you only need:
+- Current scene brief (instructions)
+- Previous scene draft (for transition)
+
+Loading all briefs + all drafts = context bloat, confusion, slower AI responses.
+
+Separate files = clean, focused sessions.
+
 ---
 
 ## Version History
+
+**v1.1** - December 24, 2025  
+Added explicit file organization section with separate brief/draft locations for context control.
 
 **v1.0** - December 24, 2025  
 Initial scene workflow protocol with atomic Scene/Sequel structure, complete planning before drafting, per-scene authorship flexibility.
