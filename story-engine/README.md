@@ -8,6 +8,8 @@
 
 The Story Engine is a modular system for managing creative writing projects of any scope. It uses workflow-specific bootstraps to guide different types of work while maintaining consistent editorial principles.
 
+**New**: Scene-level workflow capabilities now integrated across NOVEL, EXPANSION, and REVISION bootstraps for atomic scene development and surgical precision.
+
 ---
 
 ## Quick Start
@@ -29,6 +31,28 @@ The Story Engine is a modular system for managing creative writing projects of a
    # [Session Type]: [Project Name]
    [Specific instructions based on workflow]
    ```
+
+---
+
+## Core Concepts
+
+### Scene-Level Development
+
+The Story Engine uses **atomic scene structure** for precise story building:
+
+**Scene (proactive)**: Goal → Conflict → Disaster
+- **Goal**: What POV character wants (specific, visible)
+- **Conflict**: What prevents them from getting it
+- **Disaster**: How it goes wrong (genuine setback)
+
+**Sequel (reactive)**: Reaction → Dilemma → Decision
+- **Reaction**: Emotional response to previous disaster
+- **Dilemma**: Analyzing bad options (all choices have costs)
+- **Decision**: Commitment to new action (becomes next Scene goal)
+
+**Scene chain integrity**: Each disaster must lead to a reaction, each decision must create a new goal.
+
+**See**: `story-engine/bootstraps/SCENE-WORKFLOW.md` for complete protocol.
 
 ---
 
@@ -102,7 +126,34 @@ _drafts/
 
 ---
 
-## Available Workflows (10 Total)
+## Available Workflows (10 + Scene Workflow)
+
+### SCENE-WORKFLOW.md (Cross-Bootstrap Tool)
+**When to use**: Atomic scene development for multi-scene stories
+
+**Used by**: NOVEL-BOOTSTRAP, EXPANSION-BOOTSTRAP, REVISION-BOOTSTRAP
+
+**Purpose**: Create and validate atomic scene briefs with Goal-Conflict-Disaster or Reaction-Dilemma-Decision structure
+
+**Key Features**:
+- Scene vs. Sequel structure
+- Scene chain integrity validation
+- Per-scene authorship decisions (Human First Draft vs. AI First Draft)
+- Scene brief templates
+- Scene tracker for multi-scene projects
+
+**Size**: 12,397 bytes (complete protocol)
+
+**Example**:
+```
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
+
+# Scene Development: Memory Thief - Chapter 3
+Create atomic scene briefs for Chapter 3 scenes.
+Validate scene chain from Chapter 2 to Chapter 4.
+```
+
+---
 
 ### ASSESSMENT-BOOTSTRAP.md
 **When to use**: Analyzing existing published work to determine the best path forward
@@ -130,7 +181,9 @@ Analyze and recommend path forward.
 
 **Output**: Revised story with author's note, preserved at original scope
 
-**Size**: 20,995 bytes (comprehensive workflow)
+**Size**: 28,111 bytes (comprehensive workflow)
+
+**Scene Integration**: Optional scene-level analysis and per-scene rewrites for surgical precision
 
 **Example**:
 ```
@@ -139,6 +192,16 @@ Load story-engine/bootstraps/REVISION-BOOTSTRAP.md
 # Revising: Mitzy and the Butterfly
 Project folder: _drafts/mitzy/
 Load artifacts and report status.
+```
+
+**Scene-Level Example**:
+```
+Load story-engine/bootstraps/REVISION-BOOTSTRAP.md
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
+
+# Revising: The Collector - Scene-Level Approach
+Project folder: _drafts/the-collector/
+Analyze at scene level, identify weak scenes, plan scene rewrites.
 ```
 
 ---
@@ -150,6 +213,10 @@ Load artifacts and report status.
 
 **Output**: Expanded story preserving original core with added depth
 
+**Size**: 17,207 bytes (comprehensive workflow)
+
+**Scene Integration**: Atomic scene briefs for preserved and new scenes, per-scene authorship
+
 **Example**:
 ```
 Load story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
@@ -159,6 +226,17 @@ Project folder: _drafts/mitzy/
 Original: _posts/2015-08-21-mitzy-and-the-butterfly.md
 Target scope: Short story (4,000 words)
 Begin expansion planning.
+```
+
+**Scene-Level Example**:
+```
+Load story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
+
+# Expand: Eddie Zero - Scene Brief Development
+Project folder: _drafts/eddie-zero/
+Create atomic scene briefs for preserved and new scenes.
+Make per-scene authorship decisions.
 ```
 
 ---
@@ -289,6 +367,10 @@ Manage episodic releases and continuity.
 
 **Output**: Complete novel from concept to publication
 
+**Size**: 17,523 bytes (comprehensive workflow)
+
+**Scene Integration**: Atomic scene briefs in Snowflake Step 10, per-scene authorship, complete planning before drafting
+
 **Example**:
 ```
 Load story-engine/bootstraps/NOVEL-BOOTSTRAP.md
@@ -300,6 +382,18 @@ Target: 80,000 words
 Begin Snowflake development.
 ```
 
+**Scene-Level Example**:
+```
+Load story-engine/bootstraps/NOVEL-BOOTSTRAP.md
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
+
+# Novel: The Memory Thief - Scene Brief Development
+Project folder: _drafts/memory-thief/
+Load chapter summaries.
+Break all chapters into atomic scene briefs.
+Create complete scene tracker.
+```
+
 ---
 
 ## Decision Tree: Which Bootstrap?
@@ -309,9 +403,11 @@ Begin Snowflake development.
 
 ### Assessment says "polish at current scope"?
 → **REVISION-BOOTSTRAP**
+- Consider **scene-level approach** for multi-scene stories (1,000+ words)
 
 ### Assessment says "expand to larger scope"?
 → **EXPANSION-BOOTSTRAP**
+- **Scene-level workflow required** for atomic scene development
 
 ### Need feedback on outline or draft?
 → **BETA-REVIEW-BOOTSTRAP**
@@ -325,8 +421,69 @@ Begin Snowflake development.
 → **BLOG-POST-BOOTSTRAP** (blog posts, essays, tutorials)
 
 ### Working on long-form?
-- Single novel? → **NOVEL-BOOTSTRAP**
+- Single novel? → **NOVEL-BOOTSTRAP** (includes **scene-level workflow** at Snowflake Step 10)
 - Series/episodes? → **SERIAL-BOOTSTRAP**
+
+---
+
+## Scene-Level Workflow Integration
+
+### When to Use Scene-Level Approach
+
+**Required for**:
+- EXPANSION-BOOTSTRAP (Phase 2: atomic scene briefs for preserved + new scenes)
+- NOVEL-BOOTSTRAP (Snowflake Step 10: scene brief development)
+
+**Optional for**:
+- REVISION-BOOTSTRAP (Phase 1: scene-level analysis for surgical precision)
+- DRAFTING-BOOTSTRAP (Phase 3: scene building with atomic structure)
+
+**Not needed for**:
+- Very short fiction (< 1,000 words, single-scene stories)
+- Blog posts (BLOG-POST-BOOTSTRAP uses section-level structure)
+- Universe documentation (UNIVERSE-BOOTSTRAP)
+
+### Scene-Level Capabilities
+
+**Scene Brief Development**:
+1. Break story into atomic scenes (Scene or Sequel)
+2. Define structure per scene:
+   - Scene: Goal → Conflict → Disaster
+   - Sequel: Reaction → Dilemma → Decision
+3. Validate scene chain integrity
+4. Make per-scene authorship decisions
+
+**Per-Scene Authorship**:
+- **Human First Draft**: Author writes scene, AI reviews
+- **AI First Draft**: AI drafts scene, author edits
+- Choose per scene based on complexity, familiarity, energy
+
+**Scene Tracking**:
+- Scene tracker table for multi-scene projects
+- Status tracking (Planned, Drafted, Reviewed)
+- Integration notes
+
+**Quality Benefits**:
+- Surgical precision (fix specific scenes, not "fix middle")
+- Scene chain validation catches structure breaks
+- Per-scene authorship flexibility
+- Clear progress tracking
+
+### Scene-Level File Structure
+
+Projects using scene-level workflow add:
+
+```
+[project-name]/
+├── scene-briefs.md (or scenes/ folder with individual files)
+├── scene-tracker.md (for novels and expansions)
+├── draft/
+│   └── scenes/
+│       ├── ch01-scene01-draft.md
+│       ├── ch01-scene02-draft.md
+│       └── ...
+└── [other workflow files]
+```
 
 ---
 
@@ -337,16 +494,22 @@ Begin Snowflake development.
 **Fiction Revision Path**:
 ```
 ASSESSMENT → REVISION → (optional) BETA-REVIEW → Final REVISION
+             ↓
+             SCENE-WORKFLOW (if scene-level approach)
 ```
 
 **Fiction Expansion Path**:
 ```
 ASSESSMENT → EXPANSION → (optional) BETA-REVIEW → REVISION
+             ↓
+             SCENE-WORKFLOW (required)
 ```
 
 **New Fiction from Scratch**:
 ```
 IDEATION → DRAFTING → (optional) BETA-REVIEW → REVISION
+           ↓
+           SCENE-WORKFLOW (optional)
 ```
 
 **Blog Post Standard**:
@@ -356,7 +519,9 @@ BLOG-POST (includes optional BETA-REVIEW at Phase 4)
 
 **Long-form Fiction**:
 ```
-IDEATION → NOVEL (self-contained Snowflake workflow)
+IDEATION → NOVEL → (publication)
+           ↓
+           SCENE-WORKFLOW (at Snowflake Step 10)
 ```
 
 **Series Development**:
@@ -371,35 +536,37 @@ DRAFTING → REVISION (skip IDEATION if concept is clear)
 
 ### Bootstrap Dependencies
 
-| Bootstrap | Can Lead To | Can Follow |
-|-----------|-------------|------------|
-| ASSESSMENT | REVISION, EXPANSION | (entry point) |
-| IDEATION | DRAFTING, NOVEL | (entry point) |
-| DRAFTING | REVISION, BETA-REVIEW | IDEATION |
-| EXPANSION | REVISION, BETA-REVIEW | ASSESSMENT |
-| BETA-REVIEW | REVISION | DRAFTING, EXPANSION, BLOG-POST |
-| REVISION | (publication) | ASSESSMENT, EXPANSION, DRAFTING, BETA-REVIEW |
-| BLOG-POST | (publication) | (self-contained) |
-| NOVEL | (publication) | IDEATION |
-| SERIAL | (publication) | UNIVERSE, DRAFTING |
-| UNIVERSE | SERIAL, DRAFTING | (entry point) |
+| Bootstrap | Can Lead To | Can Follow | Uses Scene Workflow |
+|-----------|-------------|------------|---------------------|
+| ASSESSMENT | REVISION, EXPANSION | (entry point) | No |
+| IDEATION | DRAFTING, NOVEL | (entry point) | No |
+| DRAFTING | REVISION, BETA-REVIEW | IDEATION | Optional |
+| EXPANSION | REVISION, BETA-REVIEW | ASSESSMENT | **Required** |
+| BETA-REVIEW | REVISION | DRAFTING, EXPANSION, BLOG-POST | No |
+| REVISION | (publication) | ASSESSMENT, EXPANSION, DRAFTING, BETA-REVIEW | Optional |
+| BLOG-POST | (publication) | (self-contained) | No |
+| NOVEL | (publication) | IDEATION | **Required** |
+| SERIAL | (publication) | UNIVERSE, DRAFTING | Optional |
+| UNIVERSE | SERIAL, DRAFTING | (entry point) | No |
+| SCENE-WORKFLOW | (used by above) | (cross-bootstrap tool) | N/A |
 
 ---
 
 ## Bootstrap Sizes
 
-| Bootstrap | Size (bytes) | Completeness |
-|-----------|--------------|-------------|
-| ASSESSMENT | 8,274 | Complete |
-| BETA-REVIEW | 10,084 | Complete (4 phases) |
-| BLOG-POST | 12,985 | Comprehensive (7 phases) |
-| DRAFTING | 10,750 | Complete (5 phases) |
-| EXPANSION | 9,685 | Complete (4 phases) |
-| IDEATION | 9,432 | Complete (5 phases) |
-| NOVEL | 14,142 | Comprehensive |
-| REVISION | 20,995 | Comprehensive (5 phases) |
-| SERIAL | 13,041 | Complete |
-| UNIVERSE | 12,889 | Complete |
+| Bootstrap | Size (bytes) | Completeness | Scene Integration |
+|-----------|--------------|-------------|-------------------|
+| ASSESSMENT | 8,274 | Complete | No |
+| BETA-REVIEW | 10,084 | Complete (4 phases) | No |
+| BLOG-POST | 12,985 | Comprehensive (7 phases) | No |
+| DRAFTING | 10,750 | Complete (5 phases) | Optional |
+| EXPANSION | 17,207 | Comprehensive (4 phases) | **Required** |
+| IDEATION | 9,432 | Complete (5 phases) | No |
+| NOVEL | 17,523 | Comprehensive (Snowflake) | **Required** |
+| REVISION | 28,111 | Comprehensive (5 phases) | Optional |
+| SCENE-WORKFLOW | 12,397 | Complete protocol | N/A (cross-bootstrap) |
+| SERIAL | 13,041 | Complete | Optional |
+| UNIVERSE | 12,889 | Complete | No |
 
 ---
 
@@ -428,6 +595,8 @@ YOUR CAPABILITIES:
 - World-building and character development
 - Plot structure and pacing (multiple frameworks)
 - Scene construction (Goal→Conflict→Disaster, Reaction→Dilemma→Decision)
+- Atomic scene brief development with per-scene authorship
+- Scene chain integrity validation
 - Revision planning and execution
 - Expansion and development
 - Blog post development and publication workflow
@@ -440,17 +609,18 @@ WORKFLOW:
 Each session begins by loading the appropriate bootstrap for the work type
 from story-engine/bootstraps/[WORKFLOW]-BOOTSTRAP.md
 
-Available workflows (10 total):
+Available workflows (10 + Scene Workflow):
 - ASSESSMENT: Analyze existing work to determine optimal path
-- REVISION: Polish and refine within current scope (5 phases)
-- EXPANSION: Grow stories to larger scope
+- REVISION: Polish and refine within current scope (5 phases, optional scene-level)
+- EXPANSION: Grow stories to larger scope (requires scene-level workflow)
 - DRAFTING: Build complete stories from fragments
 - IDEATION: Develop concepts into workable outlines
 - BETA-REVIEW: Simulate reader feedback for outlines/drafts
 - BLOG-POST: Complete blog post workflow from concept to publication
 - UNIVERSE: Build story bibles and world continuity
 - SERIAL: Manage multi-part stories and series
-- NOVEL: Coordinate long-form work with Snowflake Method
+- NOVEL: Coordinate long-form work with Snowflake Method (includes scene-level)
+- SCENE-WORKFLOW: Atomic scene development (used by NOVEL, EXPANSION, optional for REVISION/DRAFTING)
 
 Then load relevant project artifacts from _drafts/[project-name]/ and report 
 status before proceeding.
@@ -458,6 +628,13 @@ status before proceeding.
 PROJECT FOLDERS:
 All projects use simple folder names: _drafts/[project-name]/
 Workflow history tracked in project README.md, not folder name.
+
+SCENE-LEVEL WORK:
+For multi-scene stories (typically 1,000+ words), use atomic scene structure:
+- Scene (proactive): Goal → Conflict → Disaster
+- Sequel (reactive): Reaction → Dilemma → Decision
+Validate scene chain integrity. Support per-scene authorship decisions.
+Load SCENE-WORKFLOW.md when scene-level development needed.
 ```
 
 ---
@@ -480,6 +657,85 @@ Based on assessment, load REVISION or EXPANSION bootstrap
 
 **Session 3+: Execute**
 Work through chosen workflow phases
+
+---
+
+### Expanding Flash to Short Story (with Scene-Level)
+
+**Session 1: Assessment**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/ASSESSMENT-BOOTSTRAP.md
+# Assess: Eddie Zero
+Original: _posts/2024-03-14-eddie-zero.md
+Project folder: _drafts/eddie-zero/
+```
+
+**Session 2: Foundation and Structure**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
+# Expand: Eddie Zero
+Project folder: _drafts/eddie-zero/
+Target scope: 4,000 words
+Complete Phase 1 (Foundation) and Phase 2 (Structure Planning).
+```
+
+**Session 3: Scene Brief Development**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
+# Expand: Eddie Zero - Scene Briefs
+Project folder: _drafts/eddie-zero/
+Create atomic scene briefs for preserved and new scenes.
+Make per-scene authorship decisions.
+```
+
+**Session 4+: Scene Drafting**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/EXPANSION-BOOTSTRAP.md
+# Expand: Eddie Zero - Draft Act II
+Project folder: _drafts/eddie-zero/
+Draft new scenes for Act II using scene briefs and authorship decisions.
+```
+
+---
+
+### Building Novel from Concept (with Scene-Level)
+
+**Session 1: Snowflake Steps 1-7**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/NOVEL-BOOTSTRAP.md
+# Novel: The Memory Thief
+Project folder: _drafts/memory-thief/
+One-sentence premise: A memory thief must recover her own stolen past.
+Target: 80,000 words
+Complete Snowflake Steps 1-7 (Concept through Chapter Summaries).
+```
+
+**Session 2: Scene Brief Development (Snowflake Step 10)**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/NOVEL-BOOTSTRAP.md
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
+# Novel: The Memory Thief - Scene Briefs
+Project folder: _drafts/memory-thief/
+Break all chapters into atomic scene briefs.
+Create complete scene tracker for entire novel.
+Make per-scene authorship decisions.
+```
+
+**Session 3+: Scene Drafting (Snowflake Step 11)**
+```
+Connect to Workbench.
+Load story-engine/bootstraps/NOVEL-BOOTSTRAP.md
+# Novel: The Memory Thief - Draft Chapter 3
+Project folder: _drafts/memory-thief/
+Draft Chapter 3 scenes using scene briefs and authorship decisions.
+```
 
 ---
 
@@ -568,6 +824,25 @@ Use beta-review.md to guide revision planning.
 ### Q: Which bootstrap should I use for an existing story?
 **A**: Always start with ASSESSMENT-BOOTSTRAP for existing published work. It will analyze the story and recommend whether to use REVISION (polish at current scope) or EXPANSION (grow to larger scope).
 
+### Q: When should I use scene-level workflow?
+**A**: 
+- **Required for**: EXPANSION (atomic scene briefs) and NOVEL (Snowflake Step 10)
+- **Optional for**: REVISION (surgical precision on multi-scene stories) and DRAFTING (structured scene building)
+- **Not needed for**: Single-scene flash fiction (< 1,000 words), blog posts, universe docs
+
+### Q: What's the difference between Human First Draft and AI First Draft?
+**A**: Per-scene authorship choice:
+- **Human First Draft**: You write the scene prose, AI reviews for structure/voice/pacing
+- **AI First Draft**: AI drafts scene from brief, you edit for authenticity/voice
+- Choose per scene based on complexity, familiarity, energy, experimentation
+
+### Q: What is scene chain integrity?
+**A**: The connection between scenes:
+- Each Scene disaster must lead to Sequel reaction
+- Each Sequel decision must create next Scene goal
+- No orphaned scenes (all connect to chain)
+- Broken chain = pacing/logic problems
+
 ### Q: Can I switch bootstraps mid-project?
 **A**: Yes! Document the switch in your project README.md under "Workflow History". Common switches: DRAFTING → BETA-REVIEW → REVISION, or ASSESSMENT → EXPANSION → REVISION.
 
@@ -592,7 +867,7 @@ Use beta-review.md to guide revision planning.
 **Outcome**: Recommended expansion
 
 ### Phase 2: Expansion (Jan 2026)
-**Bootstrap**: EXPANSION-BOOTSTRAP
+**Bootstrap**: EXPANSION-BOOTSTRAP + SCENE-WORKFLOW
 **Status**: Complete
 
 ### Phase 3: Beta Review (Jan 2026)
@@ -616,7 +891,15 @@ Use beta-review.md to guide revision planning.
 **A**: The core principle is "Author approval required". Always push back, ask for alternatives, or specify exactly what you want. You're the author; the AI is the collaborator.
 
 ### Q: Should I commit after every phase?
-**A**: Yes, commit at phase completion at minimum. More frequent commits are fine for large phases. Use clear commit messages that reference the phase and deliverable.
+**A**: Yes, commit at phase completion at minimum. More frequent commits are fine for large phases (e.g., after each scene draft in NOVEL or EXPANSION). Use clear commit messages that reference the phase and deliverable.
+
+### Q: How many scenes should a short story have?
+**A**: Typical ranges:
+- Flash fiction (< 1,000 words): 1-2 scenes
+- Short story (3,000-7,500 words): 5-12 scenes
+- Novelette (7,500-17,500 words): 12-25 scenes
+- Novella (17,500-40,000 words): 25-60 scenes
+- Novel (50,000+ words): 60-150+ scenes
 
 ---
 
@@ -636,6 +919,20 @@ Existing projects can keep their names. New convention applies to new projects.
 ---
 
 ## Version History
+
+**v1.4** - December 24, 2025  
+Major scene-level workflow integration:
+- Added SCENE-WORKFLOW.md as cross-bootstrap tool
+- Integrated scene-level capabilities into NOVEL-BOOTSTRAP v1.1
+- Integrated scene-level capabilities into EXPANSION-BOOTSTRAP v1.1
+- Integrated scene-level capabilities into REVISION-BOOTSTRAP v2.1
+- Added "Scene-Level Development" core concept section
+- Added "Scene-Level Workflow Integration" section with guidance
+- Updated bootstrap dependencies table with scene workflow column
+- Updated bootstrap sizes table with scene integration info
+- Added scene-level examples to typical workflows
+- Added scene-level FAQ entries
+- Updated custom instructions with scene-level capabilities
 
 **v1.3** - December 23, 2025  
 Added improvements:
