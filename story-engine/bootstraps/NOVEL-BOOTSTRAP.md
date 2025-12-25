@@ -18,7 +18,7 @@
 
 ## Novel Development Workflow
 
-### Phase 1: CONCEPT (Snowflake Steps 1-3)
+### Phase 1: CONCEPT (Snowflake Steps 1-4)
 **Goal**: Establish core story at macro level
 
 **Tasks**:
@@ -67,7 +67,7 @@
 
 ---
 
-### Phase 2: EXPANSION (Snowflake Steps 4-5)
+### Phase 2: EXPANSION (Snowflake Steps 5-7)
 **Goal**: Expand story and character understanding
 
 **Tasks**:
@@ -102,7 +102,7 @@
 
 ---
 
-### Phase 3: CHAPTER STRUCTURE (Snowflake Steps 6-7)
+### Phase 3: CHAPTER STRUCTURE (Snowflake Steps 8-9)
 **Goal**: Break story into chapters/sequences
 
 **Tasks**:
@@ -143,146 +143,175 @@
 
 ---
 
-### Phase 4: SCENE BREAKDOWN (Snowflake Step 8)
-**Goal**: Fractal expansion to atomic scene level
+### Phase 4: SCENE BREAKDOWN & BRIEFS (Snowflake Step 10)
+**Goal**: Fractal expansion to atomic scene level with complete planning
+
+**Reference**: Load and review `story-engine/bootstraps/SCENE-WORKFLOW.md` for complete scene brief protocol
 
 **Tasks**:
 
 **Step 11: Scene List Per Chapter**
-- Break each chapter into scenes
-- Scene = one continuous unit of action/time/place
+- Break each chapter into atomic scenes
+- Scene = Goal-Conflict-Disaster (proactive)
+- Sequel = Reaction-Dilemma-Decision (reactive)
 - Typical chapter: 2-5 scenes
-- Each scene should:
-  - Advance plot OR
-  - Develop character OR
-  - Both
+- Number scenes consecutively across entire novel
+- Each scene must advance plot OR develop character OR both
 
-**Step 12: Scene vs. Sequel Pattern**
-- **Scene**: Action, conflict, goal pursuit
-  - Goal
-  - Conflict
-  - Disaster (things go wrong)
-- **Sequel**: Reaction, processing, decision
-  - Reaction (emotional response)
-  - Dilemma (what now?)
-  - Decision (new goal)
-- Alternate scenes and sequels for pacing
-- Mark each unit as SCENE or SEQUEL
+**Step 12: Create Scene Briefs for All Scenes**
+- Use Scene Brief Template from SCENE-WORKFLOW.md
+- For each scene/sequel, define:
+  
+  **If Scene (proactive)**:
+  - **Goal**: What POV character wants in this scene (specific, visible)
+  - **Conflict**: What prevents them from getting it
+  - **Disaster**: How it goes wrong (genuine setback)
+  
+  **If Sequel (reactive)**:
+  - **Reaction**: Emotional response to previous disaster
+  - **Dilemma**: Analyzing bad options (all choices have costs)
+  - **Decision**: Commitment to new action (becomes next Scene goal)
+  
+- Also specify:
+  - POV character
+  - Setting (location, time, atmosphere)
+  - Word count target
+  - How scene connects to adjacent scenes
+  - Key story elements (plot advancement, character development, theme)
 
-**Step 13: Scene Briefs**
-- Create detailed brief for each scene/sequel:
-  
-  **Scene Brief Template:**
-  ```markdown
-  ## Chapter X, Scene Y: [Scene Name]
-  
-  **Type**: SCENE / SEQUEL
-  **POV**: [Character name]
-  **Setting**: [Where/when]
-  **Characters Present**: [List]
-  **Word Count Target**: [X words]
-  
-  ### Scene Structure (if SCENE):
-  - **Goal**: [What POV character wants]
-  - **Conflict**: [What opposes them]
-  - **Disaster**: [How it goes wrong]
-  
-  ### Sequel Structure (if SEQUEL):
-  - **Reaction**: [Emotional response]
-  - **Dilemma**: [The problem]
-  - **Decision**: [New course of action]
-  
-  ### Key Elements:
-  - **Plot advance**: [What moves story forward]
-  - **Character reveal**: [What we learn]
-  - **Tension**: [Source of conflict]
-  - **Atmosphere**: [Mood/tone]
-  - **Foreshadowing**: [If any]
-  
-  ### Scene Opening:
-  [How this scene begins - first line or two]
-  
-  ### Scene Ending:
-  [How this scene ends - hook or transition]
-  
-  ### Notes:
-  [Any other important details]
-  ```
+**Step 13: Validate Scene Chain Integrity**
+- Check each Scene disaster leads to Sequel reaction
+- Check each Sequel decision creates next Scene goal
+- Verify no orphaned scenes (all connect to chain)
+- Check escalating tension throughout novel
+- Verify Scene/Sequel pacing serves story
+- Adjust briefs as needed
 
-**Step 14: Scene Sequence Validation**
-- Read through all scene briefs in order
-- Check for:
-  - Logical flow
-  - Pacing (scene/sequel balance)
-  - Character arc progression
-  - Plot continuity
-  - Tension escalation
-  - Subplot integration
-- Adjust as needed
+**Step 14: Make Authorship Decisions**
+- For each scene, decide:
+  - [ ] Human First Draft (author writes, AI reviews)
+  - [ ] AI First Draft (AI writes, author edits)
+  - [ ] TBD (decide later)
+- Mark in each scene brief
+- Consider: complexity, familiarity with content, energy level, experimentation
 
-**Step 15: Get Author Approval**
-- Review complete scene structure
-- This is the blueprint for drafting
-- Changes now are easier than later
+**Step 15: Create Scene Tracker**
+- Use Scene Tracker Template from SCENE-WORKFLOW.md
+- List all scenes with:
+  - Chapter number
+  - Scene number
+  - Type (Scene/Sequel)
+  - Title
+  - Status
+  - Authorship approach
+  - Target word count
+  - Notes/issues
+
+**Step 16: Get Author Approval**
+- Review complete scene brief list (all chapters)
+- This is the complete blueprint for drafting
+- Changes now are easier than during drafting
+- Commit to GitHub before drafting
+
+**DO NOT DRAFT PROSE YET**—all scene briefs must be complete and validated first
 
 **Deliverables**:
-- `scenes/` folder with all scene briefs
-- `scene-sequence.md` (full list in order)
-- Author approval to proceed to drafting
+- `scene-briefs.md` (complete list) OR
+- `scenes/` folder (individual scene brief files: `ch01-scene01.md`, etc.)
+- `scene-tracker.md` (progress tracking table for entire novel)
 
-**Status Check**: ✅ Complete when all scenes planned and approved
+**Status Check**: 
+- ✅ Complete when all scene briefs created
+- ✅ Scene chain validated across entire novel
+- ✅ Authorship decisions made
+- ✅ Author approved
 
 ---
 
-### Phase 5: DRAFTING (Snowflake Steps 9-10)
+### Phase 5: DRAFTING (Snowflake Step 11)
 **Goal**: Write prose from scene briefs
+
+**Reference**: Use Scene Drafting Protocol from `SCENE-WORKFLOW.md`
 
 **Tasks**:
 
-**Step 16: Draft Scenes**
-- Work scene by scene (or out of order if preferred)
-- Each scene brief becomes full prose
-- Drafting options:
-  - **Human draft**: Author writes
-  - **AI-assisted draft**: AI drafts from brief, author revises
-  - **Hybrid**: AI drafts, human rewrites
-- Track completion per scene
+**Step 17: Draft Scenes**
+- Work scene by scene (linearly or strategic order)
+- For each scene:
+  1. Review scene brief
+  2. Confirm Goal/Conflict/Disaster or Reaction/Dilemma/Decision structure
+  3. Check connections to previous and next scenes
+  
+- Execute drafting per scene's authorship choice:
+  
+  **If Human First Draft**:
+  - Author writes the scene prose
+  - Focus on hitting structural beats from brief
+  - Maintain momentum, don't over-edit
+  - AI reviews for: structure integrity, pacing, voice consistency
+  - AI suggests improvements (author decides)
+  
+  **If AI First Draft**:
+  - AI drafts scene prose from brief
+  - AI hits structural beats, maintains voice
+  - Author reviews for: authenticity, character truth, emotional accuracy
+  - Author edits/rewrites as needed
+  - Iterate until scene works
+  
+- Scene-level review after each draft:
+  - [ ] Scene fulfills the brief?
+  - [ ] Structure clear (Goal/Conflict/Disaster or Reaction/Dilemma/Decision)?
+  - [ ] Connects to adjacent scenes?
+  - [ ] Voice consistent?
+  - [ ] Pacing appropriate?
+  - [ ] Continuity maintained?
+  
+- Update scene tracker:
+  - Mark status (Drafted, Reviewed)
+  - Note actual word count
+  - Flag issues for later revision
+  
+- Commit scene draft to GitHub
+- Maintain drafting momentum—don't revise entire novel yet
 
-**Step 17: Chapter Assembly**
+**Working Method**:
+- One scene at a time—complete before moving on
+- Hit structural beats from brief
+- Mark problem areas with [NOTE] and continue
+- Scene briefs can be adjusted if story evolves
+- Trust the scene chain
+- Completion beats perfection in first draft
+
+**Step 18: Chapter Assembly**
 - Assemble completed scenes into chapters
 - Check transitions between scenes
 - Ensure chapter unity
 - Verify chapter arc
+- Read each chapter as continuous text
 
-**Step 18: Act Assembly**
+**Step 19: Act Assembly**
 - Assemble completed chapters into acts
 - Read each act as continuous text
 - Check pacing across act
 - Verify act structure
-
-**Working Method**:
-- Draft linearly or by priority
-- Don't over-revise during drafting
-- Mark problem areas with [NOTE]
-- Keep momentum
-- Commit completed scenes to GitHub
-- Save point after each chapter
+- Ensure act breaks are strong
 
 **Deliverables**:
 - `draft/scenes/` - completed scene drafts
 - `draft/chapters/` - assembled chapters
+- `draft/acts/` - assembled acts
 - `drafting-notes.md` - progress and decisions
 
 **Status Check**: ✅ Complete when full draft exists
 
 ---
 
-### Phase 6: SCENE-LEVEL ANALYSIS
+### Phase 6: SCENE-LEVEL ANALYSIS (Snowflake Step 12)
 **Goal**: Analyze and revise at atomic level
 
 **Tasks**:
 
-**Step 19: Scene-by-Scene Analysis**
+**Step 20: Scene-by-Scene Analysis**
 - For each scene, analyze:
   
   **Structure Check**:
@@ -310,7 +339,7 @@
   - Could it be combined with another?
   - Does it earn its place?
 
-**Step 20: Scene Revision**
+**Step 21: Scene Revision**
 - Revise scenes based on analysis:
   - Strengthen weak goals
   - Heighten conflict
@@ -319,7 +348,7 @@
   - Enhance character voice
   - Tighten prose
 
-**Step 21: Pattern Analysis**
+**Step 22: Pattern Analysis**
 - Look across all scenes:
   - Scene/sequel ratio
   - Pacing patterns
@@ -342,7 +371,7 @@
 
 **Tasks**:
 
-**Step 22: Full Read-Through**
+**Step 23: Full Read-Through**
 - Read entire novel start to finish
 - Note:
   - Continuity errors
@@ -351,15 +380,15 @@
   - Plot holes
   - Tonal shifts
 
-**Step 23: Macro Revision**
+**Step 24: Macro Revision**
 - Address structural issues:
   - Reorder scenes/chapters if needed
   - Cut unnecessary scenes
-  - Add missing scenes
+  - Add missing scenes (create brief → draft → integrate)
   - Strengthen act breaks
   - Enhance climax
 
-**Step 24: Line-Level Polish**
+**Step 25: Line-Level Polish**
 - Polish prose:
   - Tighten sentences
   - Enhance descriptions
@@ -367,7 +396,7 @@
   - Strengthen voice
   - Cut redundancy
 
-**Step 25: Final Technical Pass**
+**Step 26: Final Technical Pass**
 - Grammar and punctuation
 - Consistency checks (names, dates, details)
 - Format for publication
@@ -505,17 +534,20 @@
 │   ├── ch01-summary.md
 │   ├── ch02-summary.md
 │   └── ...
-├── scenes/
-│   ├── ch01-scene01-brief.md
-│   ├── ch01-scene02-brief.md
-│   └── ...
+├── scene-briefs.md (or scenes/ folder)
+├── scene-tracker.md
 ├── draft/
 │   ├── scenes/
 │   │   ├── ch01-scene01-draft.md
 │   │   └── ...
-│   └── chapters/
-│       ├── chapter-01.md
-│       └── ...
+│   ├── chapters/
+│   │   ├── chapter-01.md
+│   │   └── ...
+│   └── acts/
+│       ├── act-i.md
+│       ├── act-ii.md
+│       └── act-iii.md
+├── drafting-notes.md
 ├── analysis/
 │   ├── scene-analysis.md
 │   └── pattern-analysis.md
@@ -527,7 +559,7 @@
 
 ---
 
-## Example Session
+## Example Sessions
 
 ### Starting New Novel
 
@@ -545,6 +577,36 @@ Target length: 80,000 words
 Structure: Save the Cat beat sheet
 
 Begin Snowflake development.
+```
+
+### Scene Brief Development
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load story-engine/bootstraps/NOVEL-BOOTSTRAP.md
+Load story-engine/bootstraps/SCENE-WORKFLOW.md
+
+# Novel: The Memory Thief - Scene Brief Development
+
+Project: _drafts/memory-thief/
+Load chapter summaries.
+Break all chapters into atomic scene briefs.
+Create complete scene tracker.
+```
+
+### Scene Drafting Phase
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load story-engine/bootstraps/NOVEL-BOOTSTRAP.md
+
+# Novel: The Memory Thief - Draft Chapter 3
+
+Project: _drafts/memory-thief/
+Load scene-briefs.md and scene-tracker.md
+Draft scenes for Chapter 3 using per-scene authorship decisions.
 ```
 
 ### Continuing Novel Development
@@ -566,8 +628,10 @@ Report current phase and resume from last save point.
 
 - **Fractal building**: Each expansion reveals more detail
 - **Top-down design**: Big picture first, details last
-- **Scene atomicity**: Each scene is complete unit
+- **Scene atomicity**: Each scene is complete unit with Goal-Conflict-Disaster or Reaction-Dilemma-Decision
 - **Structure flexibility**: Choose structure that serves story
+- **Complete planning before drafting**: All scene briefs validated before any prose
+- **Per-scene authorship**: Choose human/AI approach per scene
 - **Analysis at all levels**: Macro and micro
 - **Iterate freely**: Adjust outline as you learn
 - **Trust the process**: Snowflake method works
@@ -579,14 +643,30 @@ Report current phase and resume from last save point.
 - "Initialize novel: [Novel Name]"
 - "Snowflake Step X: [description]"
 - "Add chapter summaries for [Novel Name]"
-- "Create scene briefs: Chapters X-Y"
-- "Draft scenes: Chapter X"
-- "Analyze scenes: Chapter X"
+- "Create scene briefs for [Novel Name]: Chapters X-Y"
+- "Create scene tracker for [Novel Name]"
+- "Draft [Novel Name]: Chapter X, Scene Y - [scene title]"
+- "Assemble [Novel Name]: Chapter X"
+- "Analyze scenes: [Novel Name] Chapter X"
 - "Revise [Novel Name]: [specific work]"
 
 ---
 
-**Bootstrap Version**: 1.0  
-**Created**: December 23, 2025  
-**Author**: Douglas Langille  
+## Version History
+
+**v1.1** - December 24, 2025
+- Integrated SCENE-WORKFLOW.md for atomic scene planning
+- Updated Phase 4 (Step 10) with complete scene brief development
+- Added per-scene authorship flexibility in Phase 5 (Step 11)
+- Emphasized complete planning before drafting
+- Added scene-level review protocol
+- Updated file structure to include scene briefs and tracker
+
+**v1.0** - December 23, 2025  
+Initial NOVEL-BOOTSTRAP created
+
+---
+
+**Bootstrap Version**: 1.1  
+**Author**: Doug Langille  
 **Repository**: github.com/douglangille/Workbench
