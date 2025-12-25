@@ -2,142 +2,101 @@
 
 **Purpose**: Atomic scene brief creation and drafting protocol for systematic prose development
 
-**Use with**: DRAFTING, EXPANSION, NOVEL, and REVISION bootstraps
-
 ---
 
 ## When to Use Scene Briefs
 
 ### Scope-Based Decision
 
-**Flash Fiction (< 1,000 words)**:
+**Flash Fiction (<1,000 words)**:
 - Scene briefs **optional**
 - Flash typically functions as single atomic unit
-- If used, treat entire flash as one Scene or Sequel
+- Can proceed directly to drafting
 
-**Short Stories & Longer (1,000+ words)**:
-- Scene briefs **recommended**
-- Enables structural integrity
-- Supports continuity across multiple scenes
-- Facilitates human/AI collaboration per scene
+**Short Stories and Longer (1,000+ words)**:
+- Scene briefs **recommended/standard**
+- Enables structural planning before prose commitment
+- Maintains continuity across multiple scenes
+- Supports hybrid human/AI authorship
 
-**Novels (50,000+ words)**:
-- Scene briefs **required**
-- Essential for managing complexity
-- Chapter-by-chapter scene structure
-- Prevents structural drift
+### Applicable Workflows
+
+Scene briefs integrate with:
+- **DRAFTING-BOOTSTRAP** (Phase 2.5)
+- **EXPANSION-BOOTSTRAP** (Phase 2)
+- **NOVEL-BOOTSTRAP** (Step 8)
+- **REVISION-BOOTSTRAP** (optional, for scene-level rewrites)
 
 ---
 
 ## Scene vs. Sequel Framework
 
-Based on Randy Ingermanson's atomic scene structure from "How to Write the Perfect Scene."
+Based on Randy Ingermanson's atomic scene structure.
 
 ### Scene (Proactive)
 
-The **Scene** is where characters pursue goals and face setbacks.
+Characters act to achieve goals. Ends badly.
 
-**Three Components**:
+**Structure**:
+1. **Goal**: What does the POV character want in this scene? Must be specific and visible.
+2. **Conflict**: What prevents them from getting it? Opposition, obstacles, complications.
+3. **Disaster**: How does it go wrong? Setback, failure, or complication that forces change.
 
-1. **Goal**
-   - What does the POV character want in THIS scene?
-   - Must be specific, concrete, achievable in scene timeframe
-   - Reader should know the goal early in the scene
-   - Examples: "Get the key from the guard" not "Be happy"
-
-2. **Conflict**
-   - What prevents the character from achieving the goal?
-   - Opposition, obstacles, antagonistic forces
-   - Rising tension as character struggles
-   - No easy resolution
-
-3. **Disaster**
-   - How does it go wrong?
-   - Goal fails or succeeds with terrible consequences
-   - Setback that creates new problem
-   - Propels story forward
-   - Types: "No!", "Yes, but...", "No, and furthermore..."
-
-**Result**: Character faces setback → needs to process → leads to Sequel
-
----
+**Example**:
+- Goal: Sarah must convince the judge to grant custody
+- Conflict: Ex-husband's lawyer presents damaging evidence
+- Disaster: Judge rules against her, awards custody to ex-husband
 
 ### Sequel (Reactive)
 
-The **Sequel** is where characters process disasters and make decisions.
+Characters process disasters and decide next action. Ends with commitment.
 
-**Three Components**:
+**Structure**:
+1. **Reaction**: Emotional response to the previous disaster. Show how it hits them.
+2. **Dilemma**: Analyzing bad options. All choices have costs.
+3. **Decision**: Character commits to new course of action (becomes Goal of next Scene).
 
-1. **Reaction**
-   - Immediate emotional response to disaster
-   - Visceral, authentic to character
-   - Processing the setback
-   - Can be brief or extended depending on disaster severity
+**Example**:
+- Reaction: Sarah breaks down in courthouse bathroom, rage and despair
+- Dilemma: Accept defeat? Flee with child? Fight dirty like ex-husband?
+- Decision: Hire private investigator to find dirt on ex-husband (→ next Scene goal)
 
-2. **Dilemma**
-   - Character analyzes options
-   - All options are bad or difficult
-   - Internal conflict as character weighs choices
-   - No obvious right answer
-   - Increases tension even in "downtime"
+### The Chain
 
-3. **Decision**
-   - Character commits to new course of action
-   - Creates new Goal for next Scene
-   - May be reluctant, forced, or determined
-   - Propels story forward
-
-**Result**: Character commits to new goal → leads to next Scene
-
----
-
-## The Scene Chain
-
-Effective stories alternate Scene and Sequel in a continuous chain:
+Stories alternate between Scenes and Sequels:
 
 ```
-Scene (Goal-Conflict-Disaster) 
-  ↓
-Sequel (Reaction-Dilemma-Decision)
-  ↓
-Scene (Goal-Conflict-Disaster)
-  ↓
-Sequel (Reaction-Dilemma-Decision)
-  ↓
-[continues to climax]
+Scene → Sequel → Scene → Sequel → Scene → Sequel
+ |         |       |         |       |         |
+Goal    Reaction  Goal    Reaction  Goal    Reaction
+ ↓         ↓       ↓         ↓       ↓         ↓
+Disaster Decision Disaster Decision Disaster Decision
 ```
 
-### Chain Integrity Rules
+Each Disaster requires a Reaction. Each Decision creates the next Goal.
 
-1. **Disaster leads to Reaction**: Every Scene disaster must be addressed in a Sequel reaction
-2. **Decision leads to Goal**: Every Sequel decision must create the Goal for the next Scene
-3. **No skipped links**: Don't jump from Disaster to new Goal without processing (unless intentional time jump)
-4. **Sequel can be brief**: Not every Sequel needs full page count—some decisions are quick
-5. **Scene can be internal**: Not all Scenes are action—can be emotional or intellectual goals
-
-### When to Compress or Skip Sequels
-
-- **Fast pacing**: Very brief Sequel (paragraph reaction + decision)
-- **Clear decision**: If choice is obvious to character, compress Dilemma
-- **Time jump**: Skip to next Scene if Sequel would be boring logistics
-- **Ensemble cast**: Different POV characters process disasters differently
+**Pacing Control**:
+- More Scenes = faster pacing (action-heavy)
+- More Sequels = slower pacing (introspective)
+- Short Sequels = breathless tension
+- Long Sequels = emotional depth
 
 ---
 
 ## Scene Brief Template
 
-Use this template for every scene in your story.
+Use this template for each atomic scene or sequel:
 
 ```markdown
-## Scene [Number]: [Brief Title/Summary]
+## Scene [Number]: [Short Title]
 
 **Type**: Scene / Sequel
 
-**POV Character**: [Character Name]
+**POV Character**: [Name]
 
 **Setting**: [Location, time of day, atmosphere]
 
-**Word Count Target**: [Estimated words for this scene]
+**Word Count Target**: [Estimate]
 
 ---
 
@@ -145,445 +104,330 @@ Use this template for every scene in your story.
 
 #### If Scene (Goal-Conflict-Disaster):
 
-**Goal**: What does the POV character want to accomplish in this scene?
-[Specific, concrete, achievable within scene scope]
+**Goal**: 
+[What does the POV character want in this scene? Be specific and visible.]
 
-**Conflict**: What prevents them from achieving this goal?
-[Opposition, obstacles, antagonistic forces]
+**Conflict**: 
+[What prevents them from getting it? Who or what opposes? What obstacles?]
 
-**Disaster**: How does it go wrong? What setback occurs?
-[Goal failure or success with terrible cost—must propel story forward]
+**Disaster**: 
+[How does it go wrong? What's the setback? How does this force change?]
 
 #### If Sequel (Reaction-Dilemma-Decision):
 
-**Reaction**: How does the POV character emotionally respond to the previous disaster?
-[Visceral, authentic processing of setback]
+**Reaction**: 
+[Emotional response to previous disaster. How does it hit the character?]
 
-**Dilemma**: What bad or difficult options does the character face?
-[Multiple paths, none ideal—internal conflict]
+**Dilemma**: 
+[What are the bad options? What's at stake with each choice?]
 
-**Decision**: What does the character commit to doing?
-[Creates the Goal for the next Scene]
-
----
-
-**Connects To**:
-- Previous: [Scene/Sequel number and how it connects]
-- Next: [Scene/Sequel number and how this leads there]
-
-**Key Story Elements**:
-- Character Development: [What we learn or how character changes]
-- Plot Advancement: [How this moves main plot forward]
-- Subplots: [Any subplot threads touched]
-- Thematic Elements: [Theme reinforcement or exploration]
+**Decision**: 
+[What does the character commit to? This becomes the Goal of the next Scene.]
 
 ---
 
-**Drafting Approach**: [ ] Human First Draft  [ ] AI First Draft  [ ] TBD
+**Leads to**: Scene/Sequel [Number]
 
-**Status**: [ ] Brief Only  [ ] Drafted  [ ] Reviewed  [ ] Revised  [ ] Final
+**Comes from**: Scene/Sequel [Number]
 
-**Notes**: [Special considerations, research needed, tonal notes, etc.]
+---
+
+### Drafting Information
+
+**Drafting Approach**: [ ] Human First Draft  [ ] AI First Draft  [ ] Collaborative
+
+**Status**: [ ] Brief Only  [ ] Drafted  [ ] Scene-Level Review Complete  [ ] Revised  [ ] Final
+
+**Notes**: 
+[Any special considerations, tone requirements, critical details, continuity concerns]
 ```
 
 ---
 
-## Creating a Complete Scene Brief List
+## Creating Complete Scene Brief Lists
 
-### Process: Plan All Scenes Before Drafting Any Prose
+**Core Principle**: Plan all scene briefs BEFORE drafting any prose.
 
-**For New Stories (DRAFTING, NOVEL)**:
+### Process
 
-1. **Start with Structure**
-   - Identify major beats/turning points
-   - Know your beginning, middle, end
-   - Understand character arcs
+**Step 1: Story Structure Foundation**
+- Identify major story beats (acts, turning points, climax)
+- Rough sequence of events
+- Key character arcs
 
-2. **Break Into Scenes**
-   - Each major beat becomes one or more Scenes
-   - Each Scene disaster needs processing → Sequel
-   - Number sequentially from start
+**Step 2: Scene Sequence Mapping**
+- List all major scenes in sequence
+- Identify which are Scenes (proactive) vs. Sequels (reactive)
+- Number consecutively
 
-3. **Create All Briefs**
-   - Fill out template for every scene
-   - Maintain Scene/Sequel alternation (mostly)
-   - Don't draft prose yet
+**Step 3: Create Individual Briefs**
+- Use template for each scene/sequel
+- Fill in Goal-Conflict-Disaster OR Reaction-Dilemma-Decision
+- Be specific—vague briefs create vague drafts
 
-4. **Validate Chain Integrity**
-   - Check: Disaster → Reaction connections
-   - Check: Decision → Goal connections
-   - Adjust briefs as needed
+**Step 4: Chain Validation** (see next section)
 
-5. **Make Authorship Decisions**
-   - Review each brief
-   - Decide: Human first draft or AI first draft?
-   - Mark in each brief
+**Step 5: Authorship Decisions**
+- Mark each scene's drafting approach
+- Consider: complexity, familiarity, energy, experimentation
+- No right answer—choose per scene
 
-**For Expansions (EXPANSION)**:
+**Step 6: Review Complete Structure**
+- Read through all briefs in sequence
+- Check pacing (Scene/Sequel ratio)
+- Verify emotional arcs
+- Confirm all setups have payoffs
+- Adjust briefs as needed
 
-1. **Identify Original Scenes**
-   - Mark existing content as "Scene X (preserved)"
-   - Note which are Scenes vs. Sequels
-   - Identify structural gaps
-
-2. **Plan New Scenes**
-   - Where does expansion happen?
-   - New Scenes to deepen conflict?
-   - New Sequels to add processing?
-   - Fill gaps in scene chain
-
-3. **Create Integrated Scene List**
-   - Combine original + new scenes
-   - Number sequentially
-   - Create briefs only for NEW scenes
-   - Mark originals as "preserved"
-
-4. **Validate Chain Integrity**
-   - Ensure new scenes connect properly
-   - Check disaster/reaction flows
-   - Adjust as needed
-
-5. **Authorship Decisions for New Scenes**
-   - Preserved scenes already exist
-   - Decide approach for each new scene
+**Do NOT draft prose yet**—all briefs complete and validated first.
 
 ---
 
 ## Scene Chain Validation
 
-Before drafting any prose, validate the complete scene chain.
+Ensure structural integrity before drafting.
 
 ### Validation Checklist
 
-**Structural Integrity**:
-- [ ] Scenes and Sequels alternate (with intentional exceptions noted)
-- [ ] Every Scene has Goal-Conflict-Disaster
-- [ ] Every Sequel has Reaction-Dilemma-Decision
-- [ ] Each Disaster connects to next Reaction
-- [ ] Each Decision creates Goal for next Scene
+**For Each Scene**:
+- [ ] Goal is specific and visible?
+- [ ] Conflict actually prevents goal achievement?
+- [ ] Disaster is genuine setback (not easy out)?
+- [ ] Disaster leads to emotional response (next Sequel)?
 
-**Story Progression**:
-- [ ] Each scene advances plot or deepens character
-- [ ] No redundant scenes (same goal attempted twice without change)
-- [ ] Escalating tension (disasters worsen or complicate)
-- [ ] Clear through-line from opening to climax
+**For Each Sequel**:
+- [ ] Reaction authentically responds to previous Disaster?
+- [ ] Dilemma presents real bad options (not easy choice)?
+- [ ] Decision is specific commitment?
+- [ ] Decision creates clear Goal for next Scene?
 
-**Character Consistency**:
-- [ ] POV clear for each scene
-- [ ] Character goals align with motivations
-- [ ] Decisions match character personality/arc
-- [ ] Emotional reactions feel authentic
+**For Overall Chain**:
+- [ ] Every Scene Disaster leads to Sequel Reaction?
+- [ ] Every Sequel Decision leads to Scene Goal?
+- [ ] No orphaned scenes (unconnected to chain)?
+- [ ] Pacing rhythm serves story (not arbitrary)?
+- [ ] Character emotional arc tracks through chain?
 
-**Pacing**:
-- [ ] Mix of scene lengths (avoid all same)
-- [ ] Balance action (Scenes) and processing (Sequels)
-- [ ] Sequel length appropriate to disaster severity
-- [ ] Compressed Sequels where pacing demands it
+### Common Chain Breaks
 
-**Connection Flow**:
-- [ ] "Connects To" fields filled out for all scenes
-- [ ] No orphaned scenes (disconnected from chain)
-- [ ] Time/location transitions make sense
-- [ ] Subplot threads tracked across scenes
+**Missing Sequel**: Scene disaster → immediately to new Scene goal
+- Fix: Add Sequel to process disaster emotionally and show decision
+
+**Missing Scene**: Sequel decision → immediately to emotional reaction
+- Fix: Add Scene showing goal pursuit and resulting disaster
+
+**Weak Disaster**: Scene ends with partial success or neutral outcome
+- Fix: Make disaster worse—genuine setback that creates story problem
+
+**Easy Decision**: Sequel presents false dilemma (one obviously right choice)
+- Fix: Make all options bad—force hard choice with real costs
 
 ---
 
 ## Scene Drafting Protocol
 
-Once all scene briefs are validated, draft scenes one at a time.
+Execute after all scene briefs are complete and validated.
 
-### Per-Scene Workflow
+### Per-Scene Process
 
-**For Each Scene in Sequence**:
+**1. Review Scene Brief**
+- Re-read the brief thoroughly
+- Confirm Goal-Conflict-Disaster or Reaction-Dilemma-Decision is clear
+- Note any special considerations from Notes field
+- Check connection to previous/next scenes
 
-1. **Review Brief**
-   - Re-read the scene brief
-   - Confirm Goal/Conflict/Disaster or Reaction/Dilemma/Decision
-   - Check connections to previous and next scenes
-   - Note any special requirements
+**2. Execute Drafting Approach**
 
-2. **Choose Execution Mode**
+#### Human First Draft:
+```
+Author writes complete scene draft.
+Then: AI reviews for:
+- Structure integrity (does draft fulfill brief?)
+- Voice consistency
+- Pacing
+- Continuity with adjacent scenes
+- Suggestions (not prescriptions)
+```
 
-   **Option A: Human First Draft**
-   - Author writes the scene prose
-   - AI reviews for: structure integrity, pacing, voice consistency
-   - AI suggests improvements (author decides)
-   - Iterate until scene works
+#### AI First Draft:
+```
+AI drafts complete scene from brief.
+Then: Author edits/rewrites:
+- Voice adjustment to match author style
+- Emotional authenticity
+- Specific details and grounding
+- Any needed structural changes
+Author owns final version—not "AI with tweaks"
+```
 
-   **Option B: AI First Draft**
-   - AI drafts scene prose from brief
-   - Author reviews for: voice authenticity, character truth, emotional accuracy
-   - Author edits/rewrites as needed
-   - Iterate until scene works
+#### Collaborative:
+```
+Real-time back-and-forth:
+- AI drafts paragraph/beat
+- Author reviews, edits, directs next section
+- Iterative until scene complete
+Best for: Complex scenes, learning new techniques
+```
 
-   **Option C: Collaborative**
-   - Real-time back-and-forth
-   - Author writes openings/key moments
-   - AI fills connective tissue
-   - Joint refinement
+**3. Scene-Level Review**
 
-3. **Draft the Scene**
-   - Execute chosen approach
-   - Focus on this scene only (don't jump ahead)
-   - Hit the brief's structural beats
-   - Target word count is guideline, not rule
+Check each drafted scene for:
+- [ ] **Structure**: Does it deliver on the brief? Goal achieved/denied? Disaster clear?
+- [ ] **Voice**: Consistent with previous scenes and overall story voice?
+- [ ] **Pacing**: Right rhythm for this moment in story?
+- [ ] **Continuity**: Details/emotions match adjacent scenes?
+- [ ] **Grounding**: Enough sensory detail and physical reality?
+- [ ] **Emotional Truth**: Characters' reactions feel authentic?
 
-4. **Scene-Level Review**
+**4. Update Status**
+- Mark scene as "Drafted" or "Scene-Level Review Complete" in tracker
+- Note any issues or revision needs
+- Flag if scene needs rework before assembly
 
-   **Structure Check**:
-   - [ ] Does scene fulfill the brief?
-   - [ ] Goal/Conflict/Disaster clear? (if Scene)
-   - [ ] Reaction/Dilemma/Decision clear? (if Sequel)
-   - [ ] Connects properly to previous scene?
-   - [ ] Sets up next scene?
+**5. Commit Scene Draft**
+Save with clear naming:
+- `scenes/scene-01-opening.md`
+- `scenes/scene-02-aftermath-sequel.md`
+- etc.
 
-   **Craft Check**:
-   - [ ] Voice consistent with story/character
-   - [ ] Pacing appropriate for scene type
-   - [ ] Sensory details present
-   - [ ] Dialogue natural (if applicable)
-   - [ ] Show vs. tell balance
-
-   **Continuity Check**:
-   - [ ] Character knowledge consistent
-   - [ ] Setting details match previous scenes
-   - [ ] Timeline coherent
-   - [ ] Subplot elements tracked
-
-5. **Update Status**
-   - Mark scene as "Drafted" in tracker
-   - Note authorship approach used
-   - Flag any issues for later revision
-   - Commit to GitHub
-
-6. **Proceed to Next Scene**
-   - Don't revise whole story yet
-   - Move to next scene in sequence
-   - Trust the brief chain
+**6. Proceed to Next Scene**
+- Do not skip ahead unless strategic reason
+- Maintain sequence for continuity
 
 ---
 
 ## Scene Tracker Template
 
-Track all scenes in a single project document: `scene-tracker.md`
+Track progress across all scenes in project.
 
 ```markdown
 # Scene Tracker: [Project Name]
 
-**Status Legend**:
-- **Brief**: Scene brief created, not yet drafted
-- **Drafted**: First draft complete
-- **Reviewed**: Scene-level review done
-- **Revised**: Changes implemented
-- **Final**: Ready for story assembly
-
-**Authorship**:
-- **H**: Human first draft
-- **A**: AI first draft
-- **C**: Collaborative
-- **P**: Preserved (expansion projects)
+**Total Scenes**: [X]  
+**Total Sequels**: [Y]  
+**Target Word Count**: [Z]
 
 ---
 
-| # | Type | Title | Goal/Decision Summary | Status | Auth | Words | Issues/Notes |
-|---|------|-------|----------------------|--------|------|-------|--------------|
-| 1 | Scene | Opening | Get map from stranger | Final | H | 850 | - |
-| 2 | Sequel | Doubt | Decide to trust map | Drafted | A | 400 | Needs emotion depth |
-| 3 | Scene | Into forest | Reach river by sunset | Brief | TBD | ~1000 | Research: forest types |
-| 4 | Sequel | Lost | Choose to cross river | Brief | H | ~600 | - |
-| 5 | Scene | Crossing | Ford the river | Brief | A | ~800 | Action scene |
+## Progress Summary
 
-**Total Word Count**: [Running total]
-
-**Notes**:
-- Scenes 1-2 drafted and reviewed
-- Scene 3 needs forest research before drafting
-- Planning 15 total scenes for ~10,000 word story
-```
+- Briefs Complete: X/Total
+- Drafted: X/Total
+- Scene Review Complete: X/Total
+- Final: X/Total
 
 ---
 
-## Scene Workflow in Action
+## Scene List
 
-### Example: Expanding Flash to Short Story
+| # | Type | Title | Status | Approach | Target | Actual | Issues | Updated |
+|---|------|-------|--------|----------|--------|--------|--------|---------|
+| 1 | Scene | Opening Hook | Final | Human | 800 | 850 | - | Dec 23 |
+| 2 | Sequel | Aftermath | Drafted | AI | 600 | 650 | Needs emotion depth | Dec 23 |
+| 3 | Scene | Confrontation | Brief Only | TBD | 1200 | - | - | Dec 22 |
+| 4 | Sequel | Dark Choice | Brief Only | TBD | 700 | - | - | Dec 22 |
+| 5 | Scene | Point of No Return | Not Started | - | 1500 | - | - | - |
 
-**Original Flash**: 500 words, single scene
-**Target**: 4,000 words, multiple scenes
+---
 
-**Step 1: Identify Original Structure**
-```markdown
-## Scene 1 (Preserved): Confrontation
-**Type**: Scene
-**Goal**: Character confronts antagonist
-**Disaster**: Antagonist reveals character's secret
-**Status**: Preserved
-**Words**: 500
+## Notes
+
+[Any global notes about pacing, continuity issues, structural concerns, etc.]
+
+---
+
+**Last Updated**: [Date]
 ```
-
-**Step 2: Plan Expansion Scenes**
-```markdown
-## Scene 2 (New): Preparation
-**Type**: Sequel
-**Reaction**: Process what secret reveal means
-**Decision**: Decide to gather allies
-**Status**: Brief
-**Drafting Approach**: AI First Draft
-
-## Scene 3 (New): Gathering Allies
-**Type**: Scene  
-**Goal**: Convince friend to help
-**Disaster**: Friend refuses, reveals own secret
-**Status**: Brief
-**Drafting Approach**: Human First Draft
-
-[Continue planning all scenes...]
-```
-
-**Step 3: Validate Chain**
-- Scene 1 disaster → Scene 2 reaction ✓
-- Scene 2 decision → Scene 3 goal ✓
-- Continue checking...
-
-**Step 4: Draft New Scenes**
-- Keep Scene 1 as anchor
-- Draft Scene 2 (AI first)
-- Draft Scene 3 (Human first)
-- Continue in sequence...
-
-**Step 5: Assemble**
-- Original + new scenes integrated
-- Full continuity review
-- Polish and finalize
 
 ---
 
 ## Integration with Bootstraps
 
-### In DRAFTING-BOOTSTRAP
+### DRAFTING-BOOTSTRAP
+- Scene briefs created in Phase 2.5 (after Outline, before Scene Building)
+- Scene drafting executes in Phase 3
+- Assembly integrates drafted scenes in Phase 4
 
-**Phase 2.5: Scene Brief Development** → Load this workflow
-- Create complete scene brief list
-- Validate scene chain
-- Make authorship decisions
-- Do not draft yet
+### EXPANSION-BOOTSTRAP
+- Scene briefs for new material created in Phase 2 (Structure Planning)
+- Identify original scenes to preserve
+- Scene drafting for new scenes in Phase 3 (Incremental Building)
 
-**Phase 3: Scene Drafting** → Use drafting protocol
-- One scene at a time
-- Execute authorship choice per scene
-- Scene-level review
-- Update tracker
+### NOVEL-BOOTSTRAP
+- Scene briefs replace simple scene lists in Snowflake Step 8
+- Complete all chapter scene briefs before drafting
+- Scene drafting becomes Step 9
+- Assembly at chapter and novel level in Step 10
 
-### In EXPANSION-BOOTSTRAP
-
-**Phase 2: Structure Planning** → Scene brief section
-- Identify preserved scenes
-- Plan new scene briefs
-- Validate integrated chain
-- Authorship decisions for new scenes
-
-**Phase 3: Incremental Building** → Draft new scenes only
-- Use drafting protocol for new scenes
-- Preserve original scenes as anchors
-
-### In NOVEL-BOOTSTRAP
-
-**Step 8: Scene Lists** → Becomes scene brief creation
-- Chapter-by-chapter scene briefs
-- Complete all briefs before drafting
-- Validate chain integrity
-
-**Step 9: Scene Drafting** → Use drafting protocol
-- Work chapter-by-chapter or strategically
-- Scene-level review per scene
-- Assemble chapters incrementally
-
-### In REVISION-BOOTSTRAP
-
-**Phase 1: Analysis** → Optional scene-level breakdown
-- Identify which scenes work/fail
-- Check scene/sequel structure
-
-**Phase 2-3: Planning & Execution** → Target specific scenes
-- Create/update briefs for problem scenes
-- Choose authorship approach per scene
-- Draft revised scenes
-- Integrate with unchanged scenes
+### REVISION-BOOTSTRAP
+- Optional: Scene-level analysis in Phase 1
+- Scene-level revision plan in Phase 2
+- Rewrite specific scenes in Phase 3 (using scene brief + drafting protocol)
 
 ---
 
 ## FAQ
 
-### Q: Do I really need to plan ALL scenes before drafting ANY prose?
-**A**: For stories over 1,000 words, yes. Benefits:
-- See the complete story structure before committing
-- Catch plot holes and pacing issues early
-- Adjust briefs much faster than rewriting prose
-- Clear roadmap prevents mid-draft wandering
-- Efficient continuity management
+### When should I use Scene vs. Sequel?
 
-### Q: Can I change scene briefs after I start drafting?
-**A**: Yes! Briefs are guides, not contracts. If a better idea emerges:
-- Update the brief
-- Check how it affects downstream scenes
-- Adjust connected scenes' briefs if needed
-- Continue drafting with new plan
+**Use Scene when**: Character is acting to achieve goal, pushing story forward actively.
 
-### Q: What if a scene becomes two scenes during drafting?
-**A**: Split it:
-1. Create new scene brief for the split portion
-2. Update scene numbers for subsequent scenes
-3. Update scene tracker
-4. Validate connections still work
-5. Continue
+**Use Sequel when**: Character needs to process what just happened, make hard decision, transition to next action.
 
-### Q: Should Sequels always be shorter than Scenes?
-**A**: Not always. Sequels CAN be brief (single paragraph), but complex emotional processing or difficult dilemmas may need full scene length. Match length to story needs.
+**General rhythm**: Big action scenes often need Sequel after to process. Multiple small Scenes in row = breathless pacing. Multiple Sequels in row = introspective, slow (use sparingly).
 
-### Q: Can I have two Scenes in a row without a Sequel?
-**A**: Yes, if intentional:
-- Fast-paced action where processing happens later
-- Character already committed to plan (executing multiple goals)
-- Montage or time compression
-- Just note the exception and ensure you eventually process accumulated disasters
+### Can I combine Scene and Sequel in one unit?
 
-### Q: What about scenes with multiple POV characters?
-**A**: Each POV shift is a new scene:
-- Scene 5: Alice's Scene (her goal)
-- Scene 6: Bob's Scene (his goal)
-- Scene 7: Alice's Sequel (her reaction to her disaster)
-- Or: Use omniscient POV and treat as single scene with multiple character goals
+Yes, but be aware you're compressing. Sometimes a character experiences Disaster, has brief Reaction, and immediately commits to new Goal in single scene. This speeds pacing dramatically—use intentionally.
 
-### Q: How detailed should scene briefs be?
-**A**: Detailed enough to draft from, but not prose:
-- Goal should be one clear sentence
-- Conflict described in 2-3 sentences
-- Disaster stated clearly
-- Don't write dialogue or specific actions yet
-- Capture the essence, not the execution
+### What if my scene doesn't fit Goal-Conflict-Disaster?
 
-### Q: Can I use scene briefs for revision?
-**A**: Absolutely:
-1. Break existing draft into current scene structure
-2. Analyze which scenes work/don't work
-3. Create briefs for problem scenes (what they SHOULD do)
-4. Redraft those scenes from briefs
-5. Integrate revised scenes with working scenes
+Question whether it's actually a Scene. Could be:
+- Sequel (character processing, deciding)
+- Exposition dump (usually revise to integrate into Scene/Sequel)
+- Transition (consider cutting or folding into adjacent scene)
+
+True Scenes have character wanting something specific, facing opposition, ending badly.
+
+### How long should each brief be?
+
+Brief enough to guide drafting, detailed enough to prevent vagueness.
+
+Typical: 100-200 words per brief. Goal/Conflict/Disaster or Reaction/Dilemma/Decision each get 2-4 sentences.
+
+**Too vague**: "Sarah confronts her ex-husband and it goes badly."
+**Good brief**: "Sarah wants ex-husband to admit he's been coaching their daughter against her. He deflects with lawyer-speak and veiled threats. She loses her temper, says things that will be used against her in court."
+
+### Should all scenes have equal word count targets?
+
+No. Action Scenes often shorter (sharp, punchy). Sequels can be quite short (quick decision) or longer (deep introspection). Climax scenes often longer. Let story needs dictate.
+
+### Can I revise briefs after drafting starts?
+
+Yes, but carefully. If you change a brief for Scene 8 after drafting Scenes 1-7, check ripple effects. Might require revision of already-drafted scenes.
+
+Better: Get all briefs solid before drafting. Saves rework.
+
+### What if AI drafts don't match my voice?
+
+This is normal. AI first drafts are scaffolding—you're expected to rewrite heavily. Think of it as a rough structural draft you then translate into your voice.
+
+If you find you're rewriting 80%+ of AI drafts, consider switching to Human First Draft for remaining scenes.
+
+### How do I handle flashbacks or non-linear structure?
+
+Scene/Sequel chain still applies, just follow POV character's experience order, not chronological story order.
+
+Brief for flashback scene: Note in "Setting" that it's flashback, identify when it occurs in character's timeline. Still needs Goal-Conflict-Disaster if it's a full scene.
 
 ---
 
 ## Version History
 
 **v1.0** - December 24, 2025  
-Initial Scene Workflow module created
-- Ingermanson Scene/Sequel framework
-- Complete scene brief template
-- Scene chain validation protocol
-- Scene drafting protocol with authorship flexibility
-- Scene tracker template
-- Integration guidance for all prose bootstraps
+Initial scene workflow protocol with atomic Scene/Sequel structure, complete planning before drafting, per-scene authorship flexibility.
 
 ---
 
 **Author**: Doug Langille  
-**Repository**: github.com/douglangille/Workbench  
-**Reference**: Randy Ingermanson, "How to Write the Perfect Scene"
+**Repository**: github.com/douglangille/Workbench
