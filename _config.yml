@@ -73,6 +73,8 @@ exclude:
   - /_!nbox
   - /archived
   - /projects
+  - /_drafts
+  - /story-engine
   # Build & Environment
   - vendor
   - .bundle

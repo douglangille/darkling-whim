@@ -19,13 +19,6 @@ vendor/
 # --- OS cruft ---
 .DS_Store
 Icon?
-
-# --- Workbench ---
-_drafts/
-projects/
-!nbox/
-archived/
-story-engine/
 Thumbs.db
 ._*
 *.icloud
