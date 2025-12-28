@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>CreateSpace</dc:publisher>
+    <meta name="calibre:title_sort" content="Midnight Abyss: A Collection of Darklings"/>
+    <meta name="calibre:rating" content="10.00"/>
+    <dc:description>&lt;div&gt;&lt;p&gt;Horrifically Delightful!&lt;/p&gt;&lt;p&gt;The witching hour has arrived.&lt;/p&gt;&lt;p&gt;Spooky tales by Anisa A. Claire, Shaun Adams, Theresa Bricoe Tschetter, Matthew X. Gomez, Doug Langille, Kelleigh Elizabeth Perry, Gregory K. Shipman, Raymond Tobaygo, Jennifer M. Zeiger&lt;/p&gt;&lt;p&gt;Step into the darkness of the Midnight Abyss, a collection of devilishly dark fantasy, hauntingly horrific short stories, and petrifying poetry that will keep you on the edge of your seat from dusk til dawn.&lt;/p&gt;&lt;p&gt;It's midnight in the abyss... Do you know where your darklings are?&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Alice-Claire, Anisa &amp; Adams, Shaun &amp; Tschetter, Theresa Briscoe &amp; Gomez, Matthew X. &amp; Langille, Doug &amp; Perry, Kelleigh Elizabeth &amp; Shipman, Greg &amp; Tobaygo, Raymond" opf:role="aut">Anisa Alice-Claire</dc:creator>
+    <dc:creator opf:file-as="Alice-Claire, Anisa &amp; Adams, Shaun &amp; Tschetter, Theresa Briscoe &amp; Gomez, Matthew X. &amp; Langille, Doug &amp; Perry, Kelleigh Elizabeth &amp; Shipman, Greg &amp; Tobaygo, Raymond" opf:role="aut">Shaun Adams</dc:creator>
+    <dc:creator opf:file-as="Alice-Claire, Anisa &amp; Adams, Shaun &amp; Tschetter, Theresa Briscoe &amp; Gomez, Matthew X. &amp; Langille, Doug &amp; Perry, Kelleigh Elizabeth &amp; Shipman, Greg &amp; Tobaygo, Raymond" opf:role="aut">Theresa Briscoe Tschetter</dc:creator>
+    <dc:creator opf:file-as="Alice-Claire, Anisa &amp; Adams, Shaun &amp; Tschetter, Theresa Briscoe &amp; Gomez, Matthew X. &amp; Langille, Doug &amp; Perry, Kelleigh Elizabeth &amp; Shipman, Greg &amp; Tobaygo, Raymond" opf:role="aut">Matthew X. Gomez</dc:creator>
+    <dc:creator opf:file-as="Alice-Claire, Anisa &amp; Adams, Shaun &amp; Tschetter, Theresa Briscoe &amp; Gomez, Matthew X. &amp; Langille, Doug &amp; Perry, Kelleigh Elizabeth &amp; Shipman, Greg &amp; Tobaygo, Raymond" opf:role="aut">Doug Langille</dc:creator>
+    <dc:creator opf:file-as="Alice-Claire, Anisa &amp; Adams, Shaun &amp; Tschetter, Theresa Briscoe &amp; Gomez, Matthew X. &amp; Langille, Doug &amp; Perry, Kelleigh Elizabeth &amp; Shipman, Greg &amp; Tobaygo, Raymond" opf:role="aut">Kelleigh Elizabeth Perry</dc:creator>
+    <dc:creator opf:file-as="Alice-Claire, Anisa &amp; Adams, Shaun &amp; Tschetter, Theresa Briscoe &amp; Gomez, Matthew X. &amp; Langille, Doug &amp; Perry, Kelleigh Elizabeth &amp; Shipman, Greg &amp; Tobaygo, Raymond" opf:role="aut">Greg Shipman</dc:creator>
+    <dc:creator opf:file-as="Alice-Claire, Anisa &amp; Adams, Shaun &amp; Tschetter, Theresa Briscoe &amp; Gomez, Matthew X. &amp; Langille, Doug &amp; Perry, Kelleigh Elizabeth &amp; Shipman, Greg &amp; Tobaygo, Raymond" opf:role="aut">Raymond Tobaygo</dc:creator>
+    <meta name="calibre:timestamp" content="2013-10-31T23:21:53+00:00"/>
+    <dc:title>Midnight Abyss: A Collection of Darklings</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2013-10-31T03:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.8.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9781492966234</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">18595036</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a0689a17-8b42-49e4-b097-03df76aea37b</dc:identifier>
+    <dc:identifier opf:scheme="calibre">a0689a17-8b42-49e4-b097-03df76aea37b</dc:identifier>
+    <dc:subject>Horror</dc:subject>
+    <dc:subject>Dark Fantasy</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="fonts/Calibri-Bold.ttf" id="font6" media-type="application/x-font-truetype"/>
+    <item href="fonts/Calibri.ttf" id="font3" media-type="application/x-font-truetype"/>
+    <item href="fonts/Candara.ttf" id="font7" media-type="application/x-font-truetype"/>
+    <item href="fonts/Garamond-Bold.ttf" id="font5" media-type="application/x-font-truetype"/>
+    <item href="fonts/Garamond.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="fonts/Times-New-Roman-Bold-Italic.ttf" id="font8" media-type="application/x-font-truetype"/>
+    <item href="fonts/Times-New-Roman-Bold.ttf" id="font9" media-type="application/x-font-truetype"/>
+    <item href="fonts/Times-New-Roman-Italic.ttf" id="font2" media-type="application/x-font-truetype"/>
+    <item href="fonts/Times-New-Roman.ttf" id="font4" media-type="application/x-font-truetype"/>
+    <item href="images/image-1.jpeg" id="id3" media-type="image/jpeg"/>
+    <item href="images/image-10.jpeg" id="id4" media-type="image/jpeg"/>
+    <item href="images/image-11.jpeg" id="id5" media-type="image/jpeg"/>
+    <item href="images/image-12.jpeg" id="id6" media-type="image/jpeg"/>
+    <item href="images/image-13.jpeg" id="id7" media-type="image/jpeg"/>
+    <item href="images/image-14.jpeg" id="id8" media-type="image/jpeg"/>
+    <item href="images/image-15.jpeg" id="id9" media-type="image/jpeg"/>
+    <item href="images/image-16.jpeg" id="id10" media-type="image/jpeg"/>
+    <item href="images/image-17.jpeg" id="id11" media-type="image/jpeg"/>
+    <item href="images/image-18.jpeg" id="id12" media-type="image/jpeg"/>
+    <item href="images/image-19.jpeg" id="id13" media-type="image/jpeg"/>
+    <item href="images/image-2.jpeg" id="id14" media-type="image/jpeg"/>
+    <item href="images/image-20.jpeg" id="id15" media-type="image/jpeg"/>
+    <item href="images/image-21.jpeg" id="id16" media-type="image/jpeg"/>
+    <item href="images/image-22.jpeg" id="id17" media-type="image/jpeg"/>
+    <item href="images/image-3.jpeg" id="id18" media-type="image/jpeg"/>
+    <item href="images/image-4.jpeg" id="id19" media-type="image/jpeg"/>
+    <item href="images/image-5.jpeg" id="id20" media-type="image/jpeg"/>
+    <item href="images/image-6.jpeg" id="id21" media-type="image/jpeg"/>
+    <item href="images/image-7.jpeg" id="id22" media-type="image/jpeg"/>
+    <item href="images/image-8.jpeg" id="id23" media-type="image/jpeg"/>
+    <item href="images/image-9.jpeg" id="id24" media-type="image/jpeg"/>
+    <item href="images/image.jpeg" id="id25" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id231" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id230" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id229" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id228" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id227" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id226" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id225" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id224" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id223" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id222" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.html" id="id221" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.html" id="id220" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.html" id="id219" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.html" id="id218" media-type="application/xhtml+xml"/>
+    <item href="index_split_014.html" id="id217" media-type="application/xhtml+xml"/>
+    <item href="index_split_015.html" id="id216" media-type="application/xhtml+xml"/>
+    <item href="index_split_016.html" id="id215" media-type="application/xhtml+xml"/>
+    <item href="index_split_017.html" id="id214" media-type="application/xhtml+xml"/>
+    <item href="index_split_018.html" id="id213" media-type="application/xhtml+xml"/>
+    <item href="index_split_019.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="index_split_020.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="index_split_021.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="index_split_022.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="index_split_023.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="index_split_024.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="index_split_025.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id231"/>
+    <itemref idref="id230"/>
+    <itemref idref="id229"/>
+    <itemref idref="id228"/>
+    <itemref idref="id227"/>
+    <itemref idref="id226"/>
+    <itemref idref="id225"/>
+    <itemref idref="id224"/>
+    <itemref idref="id223"/>
+    <itemref idref="id222"/>
+    <itemref idref="id221"/>
+    <itemref idref="id220"/>
+    <itemref idref="id219"/>
+    <itemref idref="id218"/>
+    <itemref idref="id217"/>
+    <itemref idref="id216"/>
+    <itemref idref="id215"/>
+    <itemref idref="id214"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

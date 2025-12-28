@@ -1,0 +1,754 @@
+.block {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block1 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block10 {
+    color: black;
+    display: block;
+    page-break-inside: avoid;
+    padding: 0;
+    margin: 0
+    }
+.block11 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    page-break-inside: avoid;
+    padding: 0;
+    margin: 0
+    }
+.block12 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 0
+    }
+.block13 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block14 {
+    background-color: #FFF;
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block15 {
+    background-color: #FFF;
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 21.6pt;
+    padding: 0;
+    margin: 0
+    }
+.block16 {
+    background-color: #FFF;
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    font-style: italic;
+    text-align: justify;
+    padding: 0;
+    margin: 12pt 0 0
+    }
+.block17 {
+    background-color: #FFF;
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 12pt 0 0
+    }
+.block18 {
+    background-color: #FFF;
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    padding: 0;
+    margin: 12pt 0 0
+    }
+.block19 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block2 {
+    color: black;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block20 {
+    background-color: white;
+    color: black;
+    display: block;
+    font-family: "Candara", sans-serif;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0
+    }
+.block21 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    font-style: italic;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 0 36pt
+    }
+.block22 {
+    color: black;
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block23 {
+    color: black;
+    display: block;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block24 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block25 {
+    color: black;
+    display: block;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block26 {
+    color: black;
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.block27 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.5;
+    text-align: justify;
+    text-indent: -35.5pt;
+    padding: 0;
+    margin: 0 0 0 35.5pt
+    }
+.block28 {
+    display: block;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block29 {
+    display: block;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block3 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.66667em;
+    line-height: 1.2;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block30 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block31 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.66667em;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block32 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block33 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block34 {
+    display: block;
+    text-align: justify;
+    text-indent: 72pt;
+    padding: 0;
+    margin: 0
+    }
+.block35 {
+    display: block;
+    font-style: italic;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block36 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 0 36pt
+    }
+.block37 {
+    display: block;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block38 {
+    display: block;
+    text-align: center;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block39 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 0 36pt
+    }
+.block4 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block40 {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block41 {
+    color: black;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block42 {
+    color: black;
+    display: block;
+    text-align: center;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block43 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: center;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block44 {
+    display: block;
+    font-size: 0.625em;
+    text-align: right;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block45 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    padding: 0;
+    margin: 0
+    }
+.block46 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    padding: 0;
+    margin: 0
+    }
+.block47 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block48 {
+    color: black;
+    display: block;
+    font-size: 0.83333em;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0
+    }
+.block49 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block5 {
+    color: black;
+    display: block;
+    font-family: "Garamond", serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block50 {
+    color: black;
+    display: block;
+    font-family: "Book Antiqua", serif;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block51 {
+    display: block;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block52 {
+    display: block;
+    font-size: 0.83333em;
+    font-style: italic;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block53 {
+    color: black;
+    display: block;
+    font-family: serif;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block54 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    font-weight: bold;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block55 {
+    display: block;
+    font-style: italic;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block56 {
+    color: black;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block57 {
+    color: black;
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 36pt;
+    padding: 0;
+    margin: 0 0 10pt
+    }
+.block58 {
+    color: black;
+    display: block;
+    font-style: italic;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block6 {
+    color: black;
+    display: block;
+    font-style: italic;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block7 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block8 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 0.83333em;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.block9 {
+    color: black;
+    display: block;
+    page-break-inside: avoid;
+    text-align: center;
+    padding: 0;
+    margin: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: 140pt;
+    width: 170pt
+    }
+.calibre10 {
+    display: block;
+    height: 65.5pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 87.3pt
+    }
+.calibre11 {
+    display: block;
+    height: 71.2pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 71.2pt
+    }
+.calibre12 {
+    display: block;
+    height: 67.7pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 90pt
+    }
+.calibre13 {
+    display: block;
+    padding: 0;
+    margin: 0
+    }
+.calibre14 {
+    display: block;
+    height: 75.8pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 100pt
+    }
+.calibre15 {
+    display: block;
+    height: 81pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 81pt
+    }
+.calibre16 {
+    display: block;
+    height: 73.5pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 97.8pt
+    }
+.calibre17 {
+    height: 104pt;
+    width: 138pt
+    }
+.calibre18 {
+    display: block;
+    height: 87.6pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 117pt
+    }
+.calibre19 {
+    height: 73.5pt;
+    width: 86.4pt
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre20 {
+    display: block;
+    height: 86.3pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 115pt
+    }
+.calibre21 {
+    height: 163pt;
+    width: 122pt
+    }
+.calibre22 {
+    display: block;
+    height: 92.7pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 123pt
+    }
+.calibre23 {
+    height: 120pt;
+    width: 158pt
+    }
+.calibre24 {
+    display: block;
+    height: 89.2pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 89.2pt
+    }
+.calibre25 {
+    height: 107pt;
+    width: 143pt
+    }
+.calibre26 {
+    display: block;
+    height: 88.5pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 118pt
+    }
+.calibre27 {
+    display: block;
+    height: 76.8pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 67.8pt
+    }
+.calibre28 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.calibre29 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre3 {
+    white-space: pre-wrap
+    }
+.calibre30 {
+    height: 141pt;
+    width: 141pt
+    }
+.calibre31 {
+    display: block
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    height: 76.3pt;
+    width: 92.2pt
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    display: block;
+    height: 67.5pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 90pt
+    }
+.calibre8 {
+    display: block;
+    height: 79.5pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 89.2pt
+    }
+.calibre9 {
+    display: block;
+    height: 76.5pt;
+    line-height: 1.2;
+    margin-left: auto;
+    width: 102pt
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.text {
+    background-color: white;
+    font-size: 1.2em
+    }
+.text1 {
+    background-color: white;
+    font-size: 2em;
+    line-height: 1.2
+    }
+.text10 {
+    font-family: "Garamond", serif;
+    font-size: 2.4em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text11 {
+    font-family: "Times New Roman", serif;
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text2 {
+    background-color: white;
+    line-height: 1.2
+    }
+.text3 {
+    background-color: #FFF;
+    color: #000;
+    font-style: italic
+    }
+.text4 {
+    display: block;
+    font-style: italic;
+    padding: 0;
+    margin: 0
+    }
+.text5 {
+    font-style: italic;
+    font-weight: bold
+    }
+.text6 {
+    font-size: 0.75em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: normal;
+    vertical-align: super
+    }
+.text7 {
+    color: #000;
+    font-family: "Times New Roman", serif
+    }
+.text8 {
+    font-family: "Book Antiqua", serif
+    }
+.text9 {
+    color: #000;
+    font-family: "Times New Roman", serif;
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 1.2
+    }
