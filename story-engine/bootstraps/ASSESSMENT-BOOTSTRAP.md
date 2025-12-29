@@ -40,16 +40,35 @@ Do NOT use for unpublished drafts - those should use REVISION or DRAFTING bootst
    - Heart: What is the emotional core?
    - Theme: What larger idea does this explore?
 
-3. **Capture immediate observations**:
+3. **Analyze causality and character agency**:
+   
+   **Character Agency Questions**:
+   - Do characters make things happen, or do things happen to them?
+   - Are key discoveries/revelations accidental or deliberate?
+   - Is the plot driven by character choices or by circumstances?
+   - Are characters proactive (pursuing goals) or reactive (responding to events)?
+   
+   **Why this matters for expansion**:
+   - **Accidental discoveries** may lose magic if made deliberate in expansion
+   - **Reactive characters** may feel wrong if made proactive planners
+   - **Serendipitous plots** can be killed by adding "mission objectives"
+   - **Spontaneous decisions** lose charm when preceded by planning scenes
+   
+   **Flag for expansion planning**: 
+   - If story's appeal depends on serendipity, mark as "preserve accidental nature"
+   - If character strength is reactive intelligence, mark as "preserve reactive genius"
+   - If discoveries feel inevitable-yet-surprising, mark as "preserve organic revelation"
+
+4. **Capture immediate observations**:
    - What works exceptionally well?
    - What feels underdeveloped?
    - What surprised you on re-reading?
    - What would you change if starting fresh?
 
 **Deliverables**:
-- `assessment.md` with Initial Analysis section
+- `assessment.md` with Initial Analysis section including causality analysis
 
-**Status Check**: ✅ Complete when you can articulate the story's core in one sentence
+**Status Check**: ✅ Complete when you can articulate the story's core in one sentence AND identify whether agency is proactive/reactive
 
 ---
 
@@ -104,6 +123,7 @@ Do NOT use for unpublished drafts - those should use REVISION or DRAFTING bootst
    - Identify target scope (short story / novelette / novella)
    - List scenes/moments to add
    - Specify what to preserve unchanged (the "core")
+   - Reference causality analysis: Note if expansion must preserve accidental/reactive elements
    - Describe how expansion serves the story
    - Rough outline of expanded structure
 
@@ -153,6 +173,16 @@ In `assessment.md`:
 **Heart**: [What is the emotional core?]
 
 **Theme**: [What larger idea does this explore?]
+
+### Causality & Character Agency
+
+**Character Agency**: [Proactive / Reactive / Mixed]
+
+**Key Discoveries**: [Deliberate / Accidental / Mixed]
+
+**Plot Driver**: [Character choices / Circumstances / Both]
+
+**Expansion Considerations**: [What must be preserved - e.g., "accidental discovery is core to charm"]
 
 ### What Works
 
@@ -212,7 +242,7 @@ In `assessment.md`:
 
 [For EXPAND path]:
 **Target Scope**: [X words]
-**Preserve**: [What stays exactly as-is]
+**Preserve**: [What stays exactly as-is - including causality elements]
 **Add**: [Major additions]
 **Expand**: [Elements to develop further]
 
@@ -289,6 +319,8 @@ Report current phase and resume.
 
 7. **Be specific**: "Character needs work" is vague. "Sarah's motivation unclear in Act 2" is actionable.
 
+8. **Watch for causality shifts**: Don't accidentally change accidental discoveries into planned missions during expansion.
+
 ---
 
 ## What Can Go Wrong
@@ -307,8 +339,14 @@ Report current phase and resume.
 
 ---
 
-**Bootstrap Version**: 1.0  
+**Bootstrap Version**: 1.1  
 **Created**: December 23, 2025  
-**Last Updated**: December 23, 2025  
+**Last Updated**: December 29, 2025  
 **Author**: Douglas Langille  
 **Repository**: github.com/douglangille/Workbench
+
+**Changelog v1.1** (December 29, 2025):
+- Added causality and character agency analysis to Phase 1
+- Added expansion considerations for serendipity vs. intent
+- Updated assessment template with causality section
+- Added tip about watching for causality shifts during expansion
