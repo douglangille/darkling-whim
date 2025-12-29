@@ -1,4 +1,4 @@
-# Expansion Plan: Thoughtful Magic (REVISED)
+# Expansion Plan: Thoughtful Magic (REVISED v2)
 
 ## High-Level Strategy
 **Character Study with Accidental Discovery Preserved**
@@ -9,9 +9,9 @@ The story is about how a truly deliberate mind never stops working, even during 
 2. **Philosophy**: Her discussion with Stacey about calculation vs. deliberation 
 3. **Process**: Her mind decompressing and working on the beach
 4. **Application**: The accidental discovery and immediate recognition
-5. **Strategy**: The beginning of her plan to weaponize the knowledge
+5. **Strategy**: Her first move in the long game - becoming his anonymous informant
 
-This is NOT a heist story. This is a character study about a brilliant strategist who literally cannot turn off her superpower.
+This is NOT a heist story. This is a character study about a brilliant strategist who literally cannot turn off her superpower - and what she does with the ultimate strategic advantage.
 
 ## Scene Structure
 
@@ -115,12 +115,12 @@ This is the crystallization moment. Don't touch it.
 
 ---
 
-### Scene 6: The Return & Planning (PRESERVED/EXPANDED)
+### Scene 6: The Return & Strategic Opening (PRESERVED/EXPANDED)
 **Type**: Sequel (Reaction-Dilemma-Decision)  
-**Word Count**: ~400 (150 original + 250 new)  
+**Word Count**: ~450 (150 original + 300 new)  
 **Authorship**: Original preserved, expansion TBD
 
-**Purpose**: From discovery to strategy. Show her mind immediately weaponizing the knowledge.
+**Purpose**: From discovery to strategy. Show her making the first move in the long game.
 
 **Preserved Elements**:
 - The laughing and singing entrance
@@ -129,14 +129,47 @@ This is the crystallization moment. Don't touch it.
 - "The hero's been unmasked tonight"
 
 **Expansion Points**:
-- Stacey's calculated response vs. Amy's intuitive leap
-- The beginning of strategic thinking: what this knowledge means
-- A few specific opening moves in the long game
-- End on a beat that shows this is just the beginning
 
-**Reaction**: Triumph  
-**Dilemma**: How to leverage this knowledge  
-**Decision**: Begin the long game; think before acting
+**Reaction Phase**:
+- Stacey's calculated response: "This information has significant tactical value"
+- Amy's intuitive leap: "It has more than tactical value. It has strategic value."
+- Contrast: Stacey suggests immediate blackmail; Amy rejects it
+
+**Dilemma Phase**:
+- **Option 1**: Blackmail/expose (burns the advantage)
+- **Option 2**: Avoid him (defensive, wastes opportunity)
+- **Option 3**: Use knowledge without revealing she has it (the long game)
+
+**Decision Phase** (NEW - The Strategic Opening):
+Amy pulls up her encrypted terminal and drafts the first message:
+
+*"Mr. Brandt,*
+
+*The Crimson Syndicate meets Thursday at the Old Harbor warehouse. Dock 7, midnight. They're planning something that would be bad for business - yours and mine.*
+
+*Consider this a professional courtesy between those who care about our city.*
+
+*- A Thoughtful Friend"*
+
+She hits send, then turns to Stacey with a smile: "Now we play the game properly."
+
+**Final Beat**:
+- Amy explains the strategy to her gang: Position herself as indispensable
+- Eliminate competition by feeding them to Tim
+- Build trust while maintaining control
+- End on Amy's line: "He thinks he knows who his enemies are. Time to teach him about friends."
+
+**Why This Works**:
+- Demonstrates "thoughtful magic" in action - the first move of a long strategy
+- Shows she's playing chess while everyone else plays checkers
+- Creates natural sequel hook without requiring sequel
+- Concrete ending beats abstract "we'll discuss this"
+- Stays true to character: patient, strategic, deliberate
+- Raises questions: Will it work? How will Tim respond? What's her endgame?
+
+**Reaction**: Triumph + Strategic clarity  
+**Dilemma**: How to leverage this knowledge without burning it  
+**Decision**: Become his anonymous informant - the long game begins
 
 ---
 
@@ -146,7 +179,7 @@ This is the crystallization moment. Don't touch it.
 
 **Act 2** (Scenes 3-4): Amy's deliberate mind works even when she thinks she's relaxing
 
-**Act 3** (Scenes 5-6): The payoff - thoughtful magic delivers, and she begins to use it
+**Act 3** (Scenes 5-6): The payoff - thoughtful magic delivers the ultimate advantage, and she uses it perfectly
 
 ## What Makes This Work
 
@@ -155,11 +188,13 @@ This is the crystallization moment. Don't touch it.
 - The **character study** deepens our understanding of Amy
 - The **humor** stays smart and campy
 - The **romance** complicates the rivalry
-- The **ending** shows growth - she's learning to trust her process
+- The **ending** is concrete and strategic - shows growth through action
+- The **long game** begins immediately - sequel potential without requiring sequel
 
 ## Status Check
 - [x] Foundation revised to Option A
 - [x] Scene sequence finalized
+- [x] Scene 6 revised with concrete strategic action
 - [ ] Atomic scene briefs (detailed)
 - [ ] Author approval of approach
 - [ ] Authorship decisions for new scenes
