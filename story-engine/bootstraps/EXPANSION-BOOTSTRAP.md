@@ -90,7 +90,38 @@
    - How does subplot interweave with main plot?
    - Subplot resolution timing
 
-**2C. Create Complete Scene Brief List**:
+**2C. Motivation Integrity Check**:
+
+Before finalizing scene briefs, verify expansion preserves original's core motivations:
+
+**Checklist**:
+- [ ] Does expansion change WHY characters act?
+- [ ] Are accidental discoveries still accidental?
+- [ ] Do new scenes add mission objectives that weren't there originally?
+- [ ] Would the original author recognize the character's decision-making process?
+- [ ] Does reactive character remain reactive (or vice versa)?
+
+**Warning Signs of Motivation Drift**:
+- ❌ Adding "heist objectives" to characters who were wandering/exploring
+- ❌ Making deliberate what was originally spontaneous
+- ❌ Turning reactive characters into planners (or planners into reactive)
+- ❌ Adding "because I planned this" explanations to serendipitous discoveries
+- ❌ Replacing "stumbled upon" with "infiltrated to find"
+
+**How to Fix Motivation Drift**:
+1. Re-read original's key decision points
+2. Ask: "Is this character SEEKING or DISCOVERING?"
+3. If discovering: preserve the accident, expand the recognition/response
+4. If seeking: preserve the goal, expand the pursuit/obstacles
+5. Revise new scene briefs to match original causality pattern
+
+**Example - Thoughtful Magic**:
+- ❌ **Wrong**: Amy infiltrates party on mission to steal intel
+- ✅ **Right**: Amy wanders to party seeking distraction, accidentally discovers truth
+
+If motivations have drifted, revise expansion plan before proceeding to scene briefs.
+
+**2D. Create Complete Scene Brief List**:
 1. **Number all scenes sequentially** (preserved + new):
    - Example: Scene 1 (new), Scene 2 (preserved), Scene 3 (new), Scene 4 (new), Scene 5 (preserved), etc.
 2. **Create briefs for NEW scenes only**:
@@ -122,7 +153,32 @@
    - Track status, authorship, word counts
    - Mark preserved scenes clearly
 
-**2D. Estimate & Approve**:
+**Ending Scene Best Practices**:
+
+Final scenes in expansions must be **demonstrative, not promissory**.
+
+**Weak ending patterns to avoid**:
+- ❌ "They discussed what to do next"
+- ❌ "She began to plan her strategy"
+- ❌ "Everything was about to change"
+- ❌ "He decided to take action"
+
+**Strong ending patterns**:
+- ✅ Character takes concrete first action of their plan
+- ✅ Character makes choice that demonstrates growth through specific act
+- ✅ Character sends/says/does something specific with immediate consequences
+- ✅ Character executes opening move that begins the "next chapter"
+
+**Example - Thoughtful Magic**:
+- ❌ **Weak**: "Amy gathered her team and began planning how to use this knowledge."
+- ✅ **Strong**: Amy drafts and sends the first anonymous message to Tim: "Mr. Brandt, the Crimson Syndicate meets Thursday..."
+
+**Why This Matters**: 
+- Readers should see the strategy in action, not just hear it described
+- Endings should plant story seeds, not just announce planting season
+- Show the first domino falling, don't just describe the domino setup
+
+**2E. Estimate & Approve**:
 1. Calculate final word count:
    - Preserved scenes: [X words]
    - New scenes: [Y words estimated]
@@ -149,6 +205,7 @@
 - ✅ Original scenes identified and mapped
 - ✅ All new scene briefs created
 - ✅ Scene chain validated (preserved + new)
+- ✅ Motivation integrity verified
 - ✅ Authorship decisions made for new scenes
 - ✅ Author approved
 
@@ -300,6 +357,8 @@
 - **Think structurally**: Expansion changes pacing and rhythm
 - **Use anchors**: Preserved scenes guide voice for new scenes
 - **Flex authorship**: Use human/AI strengths per new scene
+- **Guard motivations**: Preserve why characters act, not just what they do
+- **Show the move**: Endings demonstrate, they don't just promise
 
 ---
 
@@ -422,6 +481,11 @@ In `foundation.md`:
 
 ### Atmosphere
 - [Mood/tone that must persist]
+
+### Causality & Motivation (from ASSESSMENT)
+- [Note if discoveries are accidental vs. deliberate]
+- [Note if character is proactive vs. reactive]
+- [Flag what must be preserved to maintain story's magic]
 
 ## Expand (Development Targets)
 
@@ -553,6 +617,13 @@ In `expansion-notes.md`:
 
 ## Version History
 
+**v1.2** - December 29, 2025
+- Added Motivation Integrity Check (Phase 2C)
+- Added Ending Action Beat best practices
+- Updated Working Principles with motivation and ending guidance
+- Added causality section to foundation template
+- Renumbered Phase 2 sections (2C→2D, 2D→2E)
+
 **v1.1** - December 24, 2025
 - Integrated SCENE-WORKFLOW.md for atomic scene planning
 - Updated Phase 2 with scene brief development for preserved + new scenes
@@ -565,6 +636,6 @@ Initial EXPANSION-BOOTSTRAP created
 
 ---
 
-**Bootstrap Version**: 1.1  
+**Bootstrap Version**: 1.2  
 **Author**: Doug Langille  
 **Repository**: github.com/douglangille/Workbench
