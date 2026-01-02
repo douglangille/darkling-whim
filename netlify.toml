@@ -1,10 +1,13 @@
+[build]
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)_!nbox/' ':(exclude)archived/' ':(exclude)projects/' ':(exclude)story-engine/' ':(exclude)_drafts/'"
+
 [[redirects]]
   from = "https://douglangille.netlify.app/*"
   to = "https://douglangille.ca/:splat"
   status = 301
   force = true  
 
- [[redirects]] 
+[[redirects]] 
   from = "https://www.douglangille.ca/*"
   to = "https://douglangille.ca/:splat"
   status = 301
