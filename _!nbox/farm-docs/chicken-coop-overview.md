@@ -2,29 +2,32 @@
 
 ## Structure Details
 - **Name**: "Butt Nugget Palace"
-- **Chicken Run**: Approximately 25' x 25' fenced area [file:20].
-- **Chicken Coop**: 4' x 8' x 4' high structure with a pitched roof [file:17].
+- **Dimensions**: 4' x 8' x 4' high with a pitched roof [file:17].
+- **Foundation**: Currently sits on 6-inch pallets (lowered for wind stability after previous structure blew over).
 - **Layout Features**:
-    - **Doors**: Chicken door located in the middle of the long wall; large cleaning door located on one end [file:17].
-    - **Lighting**: Light fixture in the top right corner [file:19].
-    - **Water/Feed**: Water dish on a raised platform below the light [file:19]; suspended food dish on the left side [file:18].
-    - **Nesting & Roosting**:
-        - Nesting boxes located on the back short wall.
-        - Three roosts (30"–36" high) spanning the narrow side at the 2', 4', and 6' marks [file:18].
+    - **Doors**: Chicken door (long wall) and large cleaning door (end) [file:17].
+    - **Interior**: Water on raised platform; suspended food dish [file:18][file:19].
+    - **Roosting**: Three 2x2 wooden roosts at 30"–36" high across the narrow side [file:18].
 
 ## Operations & Management
-- **Lighting Schedule**: LED bulb on the same timer as the goat barn (On: 03:00, Off: 16:00). This ensures light is available during inclement weather when doors must remain closed.
-- **Door Management**: The chicken door and cleaning door are opened daily whenever weather permits.
-- **Productivity Tracking**: 
-    - Daily production is not logged, but an annual productivity count is derived from tracking feed consumption and the total number of eggs eaten or sold.
-    - Note: Production has been observed to be lower over the last few months.
+- **Lighting**: LED on timer (03:00–16:00), shared with Kid Row.
+- **Winter Maintenance**:
+    - **Water**: Checked twice daily (morning/evening); warm water ("Tea") provided on cold days. Rubber bowls are used for easy ice removal.
+    - **Bedding**: "Deep Litter" style approach; shavings added weekly to keep surface dry during freezes; full clean-out during thaws.
+    - **Wind Protection**: Planned plywood baffle/porch for the chicken door to reduce internal drafts.
 
-## Livestock: The Flock
-- **Composition**: Eight hens and one rooster.
-- **Age**: All birds are between two and four years old.
+## Livestock & Productivity
+- **Flock**: 8 hens, 1 rooster (ages 2–4).
+- **Tracking**: Annual productivity based on feed vs. eggs eaten/sold. 
 
-## Seasonal Management
-- **Winter Prep**: Top of the fence is currently covered for protection against winter weather [file:20].
+## Known Challenges
+- **Wind**: High wind area (Milford); structures must be low or heavily anchored.
+- **Rodents**: Constant pressure due to neighboring dairy farm. 
+
+## Future Design Goals (Walk-In Coop)
+- **Rodent Proofing**: Use a "hardware cloth sandwich" (1/4" wire between floor layers) or a concrete/paver foundation.
+- **Stability**: Use auger-style earth anchors to allow for a taller, walk-in structure without wind risk.
+- **Maintenance**: Design for waist-height cleaning and integrated internal storage for feed bins.
 
 ***
-*Documentation updated with informal name on January 3, 2026.*
+*Documentation updated with winter maintenance and future design goals on January 3, 2026.*
