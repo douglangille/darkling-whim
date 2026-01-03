@@ -16,7 +16,6 @@ timezone                  : "America/Halifax"
 # -----------------------------------------------------------------------------
 theme                     : "minimal-mistakes-jekyll"
 minimal_mistakes_skin     : "default"
-# Site Logo: Disabled. Site identity is handled via Google Fonts in CSS.
 logo                      : 
 teaser                    : "/assets/images/white500x300.jpg"
 og_image                  : "https://douglangille.ca/assets/images/DarklingWhim-e1569155401864.png"
@@ -69,15 +68,15 @@ include:
   - .htaccess
   - _pages
 exclude:
-  # Writing Studio / Private PKM
+  # Workbench Domains
   - /_!nbox
   - /_writing
-  - /_story-engine
   - /_drafts
   - /_work
   - /_farm
   - /_life
-  - /_logs
+  - /_plan
+  - story-engine
   # Build & Environment
   - vendor
   - .bundle
@@ -127,16 +126,6 @@ autopages:
     layouts               : 
       - 'archive-taxonomy.html'
     permalink             : '/:tag/'
-
-# -----------------------------------------------------------------------------
-# Related Posts (Theme Logic)
-# -----------------------------------------------------------------------------
-related_by                : tags or categories 
-related_limit             : 4            
-related_categories        : 1       
-related_tags              : 1    
-related_template          : archive-single.html
-related_layout            : grid
 
 # -----------------------------------------------------------------------------
 # Defaults (Front Matter)

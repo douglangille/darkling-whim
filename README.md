@@ -1,11 +1,15 @@
-# What is this?
+# Workbench
+The centralized hub for IT management, creative fiction, and life organization.
 
-This repository is the source for the non-wordpress version of [douglangille.ca](https://douglangille.ca). It's available at https://douglangille.netlify.app. 
+## Repository Structure
+- **`_!nbox`**: Universal capture zone.
+- **`_drafts`**: Creative workshop for fiction WIPs and pending blog posts.
+- **`_work`**: IT Management (NSCC) and professional projects.
+- **`_farm`**: Hobby farm logs and property records.
+- **`_life`**: Health (biweekly injections), relationships, and personal admin.
+- **`_writing`**: Archives, story universes, and external backups.
+- **`_plan`**: Quarterly and annual strategic planning.
+- **`story-engine`**: Perplexity toolset and bootstraps.
 
-It's coded using the [Jekyll framework](https://jekyllrb.com/), previously served with [GitHub Pages](https://pages.github.com) and now published using [Netlify](https://netlify.com).
-
-The base theme is [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes) and hacked by Yours Truly.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/35e834aa-3d47-442c-ba83-3fb8e1997c9e/deploy-status)](https://app.netlify.com/sites/douglangille/deploys)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d3e2c98e-de6a-4b2e-bbcf-fbcca61cbd0a/deploy-status)](https://app.netlify.com/sites/douglangille/deploys)
+## Build Information
+Non-jekyll folders (prefixed with `_`) are excluded in `_config.yml` and `netlify.toml` to prevent accidental publication or unnecessary build triggers.
