@@ -11,13 +11,19 @@
         - Nesting boxes located on the back short wall.
         - Three roosts (30"–36" high) spanning the narrow side at the 2', 4', and 6' marks [file:18].
 
+## Operations & Management
+- **Lighting Schedule**: LED bulb on the same timer as the goat barn (On: 03:00, Off: 16:00). This ensures light is available during inclement weather when doors must remain closed.
+- **Door Management**: The chicken door and cleaning door are opened daily whenever weather permits.
+- **Productivity Tracking**: 
+    - Daily production is not logged, but an annual productivity count is derived from tracking feed consumption and the total number of eggs eaten or sold.
+    - Note: Production has been observed to be lower over the last few months.
+
 ## Livestock: The Flock
 - **Composition**: Eight hens and one rooster.
 - **Age**: All birds are between two and four years old.
-- **Production**: Currently averaging five eggs per week (noting decreased production due to age/season).
 
 ## Seasonal Management
 - **Winter Prep**: Top of the fence is currently covered for protection against winter weather [file:20].
 
 ***
-*Documentation generated from batch upload on January 3, 2026.*
+*Documentation updated with operational details on January 3, 2026.*
