@@ -1,5 +1,5 @@
 [build]
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)_!nbox/' ':(exclude)archived/' ':(exclude)projects/' ':(exclude)story-engine/' ':(exclude)_drafts/'"
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)_!nbox/' ':(exclude)_writing/' ':(exclude)_story-engine/' ':(exclude)_drafts/' ':(exclude)_work/' ':(exclude)_farm/' ':(exclude)_life/' ':(exclude)_logs/'"
 
 [[redirects]]
   from = "https://douglangille.netlify.app/*"
