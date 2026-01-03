@@ -1,6 +1,7 @@
-# Duck Pens Overview
+# Duckington Heights (Duck Pens Overview)
 
 ## Setup & Infrastructure
+- **Name**: "Duckington Heights"
 - **Layout**: Two duck houses and pens situated side-by-side [file:25].
 - **Seasonal Management**: Pools have been removed for the winter season. The raised platforms for the pools remain in the pens [file:21][file:24].
 
@@ -19,4 +20,4 @@
 - **Land Reclamation**: Once the flocks are merged, the land currently occupied by the second pen will be reclaimed for other farm uses.
 
 ***
-*Documentation generated from batch upload on January 3, 2026.*
+*Documentation updated with informal name on January 3, 2026.*

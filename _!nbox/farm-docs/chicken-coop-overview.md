@@ -1,6 +1,7 @@
-# Chicken Coop & Run Overview
+# Butt Nugget Palace (Chicken Coop & Run Overview)
 
 ## Structure Details
+- **Name**: "Butt Nugget Palace"
 - **Chicken Run**: Approximately 25' x 25' fenced area [file:20].
 - **Chicken Coop**: 4' x 8' x 4' high structure with a pitched roof [file:17].
 - **Layout Features**:
@@ -26,4 +27,4 @@
 - **Winter Prep**: Top of the fence is currently covered for protection against winter weather [file:20].
 
 ***
-*Documentation updated with operational details on January 3, 2026.*
+*Documentation updated with informal name on January 3, 2026.*
