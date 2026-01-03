@@ -6,6 +6,11 @@
 - **Lighting**: Equipped with an LED bulb in the corner on a timer (On: 03:00, Off: 16:00). This provides light during bad weather when the shutter must remain closed.
 - **Storage**: Used for hay storage and all animal feed storage (including bins for ducks and other layers).
 
+## Outdoor Field & Grazing
+- **Current Setup**: Goats are leashed in the back field using two 15-foot leashes.
+- **Equipment**: Leashes are secured to ground stakes with orange tops for visibility.
+- **Feeding/Watering**: The leashes meet in the middle, where a shared water dish and hay are provided during winter outdoor sessions.
+
 ## Livestock: The Bonded Pair
 - **Goat 1 (Brown)**: Pygmy / Nigerian Dwarf goat.
 - **Goat 2 (White)**: Boer goat.
@@ -15,7 +20,7 @@
     - They spend time in the back field when put outside.
 
 ## Planned Projects
-- **Pasture**: A fenced-in pasture is planned for Spring/Summer 2026.
+- **Pasture**: A fenced-in pasture is planned for Spring/Summer 2026 to replace the current leash setup.
 
 ***
-*Documentation generated from batch upload on January 3, 2026.*
+*Documentation updated with field details on January 3, 2026.*
