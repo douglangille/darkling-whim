@@ -13,7 +13,8 @@
 - **Lighting**: LED on timer (03:00–16:00), shared with Kid Row.
 - **Winter Maintenance**:
     - **Water**: Checked twice daily (morning/evening); warm water ("Tea") provided on cold days. Rubber bowls are used for easy ice removal.
-    - **Bedding**: "Deep Litter" style approach; shavings added weekly to keep surface dry during freezes; full clean-out during thaws.
+    - **Bedding**: "Deep Litter" style approach; shavings added weekly to keep surface dry.
+    - **Dust Bath**: "Turtle Pool" station in the run with a 3:1 dirt/DE mix. Shell lid is used to keep contents dry during weather events.
     - **Wind Protection**: Planned plywood baffle/porch for the chicken door to reduce internal drafts.
 
 ## Livestock & Productivity
@@ -30,4 +31,4 @@
 - **Maintenance**: Design for waist-height cleaning and integrated internal storage for feed bins.
 
 ***
-*Documentation updated with winter maintenance and future design goals on January 3, 2026.*
+*Documentation updated with Turtle Pool dust bath strategy on January 3, 2026.*
