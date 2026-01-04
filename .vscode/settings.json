@@ -4,9 +4,5 @@
     "**/*": "/assets/images/${fileName}" 
     },
     "markdown.copyFiles.name": "${datetime}-pasted-image",
-    "[markdown]": {
-        "editor.cursorSurroundingLines": 0,
-        "editor.tabSize": 4,
-        "editor.wrappingIndent": "same"
-    }
+    "typewriterScrollMode.enable": true
 }

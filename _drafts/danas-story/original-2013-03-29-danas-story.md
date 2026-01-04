@@ -3,12 +3,12 @@
 title: "Dana's Story"
 header:
  teaser: /assets/images/63224608_b2dd0efea4_b_campfire.jpg
+ overlay_image: /assets/images/63224608_b2dd0efea4_b_campfire.jpg
 categories:
   - writings
 tags: [short-story, horror, scifi]
 ---
-
-<img src="/assets/images/63224608_b2dd0efea4_b_campfire.jpg">**PRIM**
+**PRIM**
 
 "I have something to tell you", said Dana quietly, barely audible.
 
