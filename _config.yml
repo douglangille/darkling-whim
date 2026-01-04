@@ -74,6 +74,7 @@ exclude:
   - /_farm
   - /_life
   - /_plan
+  - /_tech
   - /_work
   - /_writing
   - /_drafts
