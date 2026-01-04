@@ -2,13 +2,17 @@
 
 **Original Export**: System_Workbench.md from ChatGPT  
 **Created**: 2025-08-20  
-**Last Updated**: 2025-12-07  
+**Last Updated**: 2026-01-04  
 **Total Turns**: 541  
 **Renamed**: Lifebench (personal productivity and life-systems workbench)
 
 ## Overview
 
 This folder contains the broken-down components from a massive productivity engineering conversation. The original chat ("System Workbench", later renamed "Lifebench") spanned 541 turns and covered system design, health integration, creative workflows, and life optimization strategies.
+
+## Perplexity About Me Profile
+
+An IT manager and creative writer in Nova Scotia who integrates AI tools into both professional and personal workflows. I maintain a structured approach to productivity using task management systems and quarterly planning, while actively developing fiction projects and story universes. My interests span AI/LLM developments, writing craft, workflow automation, and evidence-based health optimization. I prefer practical, actionable information over theory, maintain a curated digital environment with minimal clutter, and follow a "workbench, not warehouse" philosophy across all systems. I'm privacy-conscious, selective about app installations, and primarily use browser-based tools within the Apple ecosystem.
 
 ## Component Files
 
