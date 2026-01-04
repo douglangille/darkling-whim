@@ -1,23 +1,24 @@
 # Workbench
-The centralized hub for IT management, creative fiction, and life organization.
 
-## Repository Structure
-- **`_!nbox`**: Universal capture zone.
-- **`_drafts`**: Creative workshop for fiction WIPs and pending blog posts.
-- **`_work`**: IT Management (NSCC) and professional projects.
-- **`_farm`**: Hobby farm logs and property records.
-- **`_life`**: Health (biweekly injections), personal admin, and the **Counselling Workbench**.
-- **`_writing`**: Archives, story universes, and external backups.
-- **`_plan`**: Quarterly and annual strategic planning.
-- **`story-engine`**: Perplexity toolset and bootstraps.
+Personal knowledge management system integrating IT work, creative writing, life planning, and hobby farm operations.
 
-## Life Organization: Counselling Workbench
-The `_life/counselling/` directory contains a modular reflection system:
-- **`brian-persona.md`**: Therapeutic engine (ACT) and vocabulary.
-- **`workbench-inner-work.md`**: Active growth goals and the "Playbook."
-- **`case-file-carye.md`**: Narrative log of family estrangement dynamics.
-- **`personal-history.md`**: Life acts and ancestral metaphors.
-- **`perplexity-space-instructions.md`**: System prompt for the Perplexity Space.
+## Domain Structure
 
-## Build Information
-Non-jekyll folders (prefixed with `_`) are excluded in `_config.yml` and `netlify.toml` to prevent accidental publication or unnecessary build triggers.
+- **`_!nbox`**: Universal inbox for rapid capture
+- **`_plan`**: Strategic planning (quarterly/annual), productivity systems, execution frameworks
+- **`_work`**: IT management (NSCC), professional projects, career development
+- **`_tech`**: Technology stack, AI tooling, dev environment, system optimization
+- **`_writing`**: Fiction projects, story universes, writing craft and workflows
+- **`_life`**: Personal health, counselling, relationships, recipes
+- **`_farm`**: Hobby farm logs, animal care, property management
+- **`_drafts`**: Active works in progress across all domains
+- **`_posts`**: Published content ready for site deployment
+- **`story-engine`**: Perplexity-based writing toolset and AI assistants
+
+## Philosophy
+
+This workbench follows a "workbench, not warehouse" principle—active tools and current projects, with minimal archival clutter. Content flows through capture (`_!nbox`), development (`_drafts`), and either storage (domain folders) or publication (`_posts`).
+
+## Build Configuration
+
+Non-Jekyll folders (prefixed with `_`) are excluded in `_config.yml` and `netlify.toml` to prevent publication of private content while maintaining the Jekyll site structure.
