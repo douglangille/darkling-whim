@@ -24,7 +24,7 @@ I have a bad habit: I use $10 words when $0.10 words would do. I like how langua
 
 I already knew about bottom-line-up-front, inverted pyramid structure for long emails, all that stuff. But I still couldn't write simply. So I started running my emails through ChatGPT. It was scathing. "Bring this down to accessible reading level."
 
-I'd used Hemingway app before - paste your text, clean up complicated sentences, fix heavy jargon. But it was always an extra step, an extra tool, an external webpage. I'd skip it. Using Copilot puts that clarity check right in the application. That removed the friction. Now I do it.
+I'd used Hemingway app before - paste your text, clean up complicated sentences, fix heavy jargon. But it was always an extra step, an extra tool, an external webpage. I'd skip it. Using Copilot puts that clarity check right in the application where I'm already writing. That removed the friction. Now I do it.
 
 Try this: Draft your email, then ask "rewrite this for grade 8 reading level while keeping all important information and deadlines. Make it clear and friendly."
 
@@ -38,31 +38,27 @@ This one's different, and it surprises people most. Most folks think AI is about
 
 I do this with meeting notes all the time. I'll paste in my messy notes and ask the AI to interrogate me for what's missing. "What assumptions am I making here?" "What did you mean by X?" It asks better questions than I would've thought to ask myself. Then I fill in the gaps and suddenly the notes are useful.
 
-This works for planning too. Say you have an hour of professional development time this afternoon. Your thoughts are scattered - something about AI tools, accessibility requirements changed, new metrics to report, rubric design came up last week, equity training is mandatory, time management keeps showing up in complaints. What do you cover?
-
-Prompt: "I have an hour with my team this afternoon to cover professional development. Here's what I'm thinking: [paste your messy list]. Help me organize this into a coherent session plan."
-
-What happens: Groups related items. Identifies themes. Suggests priorities. Time-blocks it realistically. Tells you what won't fit in an hour.
-
 Or if you're a student with a group project mess - three people with different ideas, a presentation due Friday, nobody knows who's doing what:
 
 Prompt: "Group project on sustainable energy. Sarah wants to focus on solar, Mike says wind power, I'm thinking hydro. We need a 15-minute presentation, research paper, and demo. Due Friday. Help organize this into tasks."
 
 Result: AI organizes tasks by deliverable, assigns realistic timelines, suggests who handles what based on the interests you mentioned. You still negotiate with your group, but now you've got a starting point instead of chaos.
 
-Then you can follow up: "Ask me smart one-at-a-time questions to help clarify what should be the focus."
+Optional follow-up: "Ask me smart one-at-a-time questions to help clarify what should be the focus."
 
 And it does. "What's the most urgent concern?" "Are any of these required vs. optional?" You answer based on your context, and it refines the output.
 
-It took me way too long to figure this out: I used to try having one giant endless chat dedicated to a topic. Story development in one thread, tool management in another, everything piling up for weeks. Bad idea. The context window drifts. The AI starts forgetting what happened earlier. I'd spend half my time re-reminding it what we'd already covered, what it was supposed to remember.
+---
+
+**One lesson I learned too slowly:** I used to try having one giant endless chat dedicated to a topic. Story development in one thread, tool management in another, everything piling up for weeks. Bad idea. The context window drifts. The AI starts forgetting what happened earlier. I'd spend half my time re-reminding it what we'd already covered, what it was supposed to remember.
 
 Eventually I learned: clear instructions, clear intention, fresh context. Don't treat it like Google with keyword searches. Give it the goal - what you want and why it matters - then let it figure out the how.
 
-This works for: Planning meetings or study sessions, organizing meeting notes, thinking through project priorities, structuring presentations, clarifying any fuzzy problem where you know the pieces but not the structure.
+---
 
 ## 3. Finding Current Information (Without Falling Into a Rabbit Hole)
 
-My brain goes down rabbit holes. Lately it's geopolitics - the world's on fire and I'm doing the AI chatbot equivalent of doomscrolling. But it happens with work stuff too. I'll mean to catch up on one higher ed policy change, and three hours later I'm reading the 47th comment thread about implementation details I'll never need.
+My brain goes down rabbit holes. I'll mean to catch up on one higher ed policy change, and three hours later I'm reading the 47th comment thread about implementation details I'll never need.
 
 AI helps me set boundaries I won't set myself. You know how you mean to stay current with what's happening in your field, but who has time to read trade publications every day? Web-grounded AI pulls recent articles and research for you.
 
@@ -93,6 +89,7 @@ I'm just five minutes ahead of you on this stuff, and I'm still figuring it out.
 ## NOTES FOR NEXT REVISION
 
 **Revision History:**
+- Jan 6, 7:20 PM: Reader panel surgical edits - clarified Copilot friction removal, cut PD example, streamlined Section 2, removed geopolitics reference, separated long chat lesson, clarified optional follow-up, cut use-case list
 - Jan 6, 6:30 PM: Major structural revision - new opening (procrastination hook), cut Mitzy/Goblin Tools/Bacon section/Excel, consolidated privacy warnings, removed repetition, tightened to ~1,500 words
 - Jan 6, 6:00 PM: Added personal narrative throughout, tool graveyard, Mitzy story, procrastination confession, pull quotes
 - Jan 6, 4:08 PM: Doug feedback - needed more personal story/narrative
@@ -103,10 +100,14 @@ I'm just five minutes ahead of you on this stuff, and I'm still figuring it out.
 - Three clean sections: Email clarity, Reverse prompting, Research without rabbit holes
 - Personal stories distributed throughout (not just opening)
 - One pull quote: "might as well be drunk"
+- Long chat lesson separated as standalone paragraph between sections
 - Closing: Tool graveyard + procrastinator callback + five minutes ahead
-- ~1,500 words, readable, focused
+- ~1,450 words, readable, focused
 
-**Still to consider:**
-- Does the voice stay consistent throughout?
-- Any remaining AI-isms or repetition?
-- Readability test with fresh eyes
+**Reader panel feedback addressed:**
+- ✓ Clarified why Copilot specifically solved friction (Jennifer)
+- ✓ Cut generic PD example, kept meeting notes + student project (Marcus, Sarah)
+- ✓ Removed geopolitics doomscrolling reference (David)
+- ✓ Clarified optional follow-up in student example (Alex)
+- ✓ Cut "This works for:" list at end of Section 2 (Keisha)
+- ✓ Moved long chat lesson to standalone section between 2 and 3 (Sarah)
