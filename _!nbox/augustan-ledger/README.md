@@ -24,9 +24,39 @@ We're not endorsing or celebrating - we're calling things what they are. Maduro 
 ## Entry Format
 
 Each entry reads like a novel chapter with:
-- Title cards (## headings) for scene transitions
+- Title cards (## headings) for scene transitions (e.g., "THE TULLIANUM," "THE ALPS," "THE ANDEAN TARGET")
 - Cinematic prose with dialogue and sensory grounding
-- Strategic ledger at the bottom with hard facts/dates
+- Strategic ledger at the bottom with hard facts/dates for reference
+
+## Workflow
+
+### For New Chat Sessions (Rehydration)
+
+1. **Read the character guide:** Start with `dramatis-personae.md` to understand who's who
+2. **Check the tone:** Review `writing-sample.md` for voice and style
+3. **Scan recent entries:** Look at the latest files in `entries/` to catch up on the board state
+4. **Search for updates:** When adding new entries, always search current events first
+5. **Write in voice:** Use the cinematic, scene-based prose style consistently
+6. **Push to repo:** All new entries get timestamped filenames (YYYY-MM-DD format)
+
+### When Tracking Developments
+
+- Search for updates on key players (Augustus, Vercingetorix, the Alps, etc.)
+- Translate events into Roman framework (no diplomatic language)
+- Write scenes with sensory details, dialogue, and clear location markers
+- End with Strategic Ledger section containing hard facts
+- Maintain cold-eyed clarity - no emotion, all mechanics
+
+### Voice Requirements
+
+**Cinematic. Cold-eyed. Sensory-grounded. No emotion, all clarity.**
+
+- Scene cuts between power centers
+- Object work (coins, maps, tactical vests)
+- Smell/taste/texture grounding
+- Dialogue reveals character through rhythm
+- The punchline always lands at the end
+- Zero sentimentality
 
 ## Philosophy
 
@@ -37,6 +67,16 @@ This analytical distance lets us engage with what's actually happening without b
 ## Imperial Motto
 
 "Vassalage for Peace. Resources for Protection. The Map is what We say it is."
+
+---
+
+## Current Board State (As of Jan 6, 2026)
+
+- **VERCINGETORIX (Maduro):** In the Tullianum (MDC Brooklyn). Pleaded not guilty. Next hearing: March 17, 2026.
+- **THE ALPS (Greenland):** Hot frontier. Denmark threatening "end of NATO" if U.S. takes it. Augustus mocking their defenses.
+- **THE ANDEAN REBEL (Petro/Colombia):** On Augustus's target list. Deployed 30,000 troops to Venezuelan border. Refusing to kneel.
+- **THE GALLIC TRIBUNES (Canada):** Being economically crushed by 25% tariffs. Currency sliding. Strategic value evaporating.
+- **CLEOPATRA (Delcy Rodríguez):** Managing Venezuela's ruins. Offering collaboration to survive.
 
 ---
 
