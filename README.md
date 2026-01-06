@@ -5,6 +5,7 @@ Personal knowledge management system integrating IT work, creative writing, life
 ## Domain Structure
 
 - **`_!nbox`**: Universal inbox for rapid capture
+  - **`augustan-ledger`**: Current events tracking through Roman Empire lens (darkly playful geopolitical analysis)
 - **`_plan`**: Strategic planning (quarterly/annual), productivity systems, execution frameworks
 - **`_work`**: IT management (NSCC), professional projects, career development
 - **`_tech`**: Technology stack, AI tooling, dev environment, system optimization
