@@ -131,78 +131,113 @@ Academic Advising Office
 
 ## Demo 3: Excel Help - PeopleSoft Data Analysis
 
-### Status: ⚠️ NOT FULLY TESTED YET (Prompts prepared, need to test in Copilot)
+### Status: ✅ TESTED & WORKING EXCELLENTLY
 
-### Three Scenarios Prepared:
-
-#### Scenario 1: Pivot Table for At-Risk Students
-**Prompt**:
+### Prompt Used:
 ```
 I have an Excel file with columns for Student Name, Course Code, Final Grade, and Attendance Percentage. I need to create a pivot table that shows me how many students in each course have grades below 60% AND attendance below 70%. Walk me through how to set this up.
 ```
 
-**Sample Data**: 15 students across BUS101, MATH201, ENG150, BUS102, CHEM101
-- At-risk students included: Chris Rodriguez (45%, 52%), Evan Smith (35%, 45%), Gabriel Torres (42%, 61%), Kayla Johnson (38%, 48%), Noah Davis (44%, 58%)
+### Copilot Response:
 
-#### Scenario 2: Filter/Highlight At-Risk Students
-**Prompt**:
+**Step 1: Prepare Your Data**
+- Ensure columns are clearly labeled: Student Name | Course Code | Final Grade | Attendance %
+- Confirm Final Grade and Attendance % are numeric (remove % signs if needed)
+
+**Step 2: Add a Helper Column**
+- Insert new column called "At Risk"
+- Formula example (assuming Final Grade in C and Attendance in D):
+  `=IF(AND(C2<60,D2<70),"Yes","No")`
+- This marks students who meet both conditions
+
+**Step 3: Create the Pivot Table**
+- Select entire data range (including the new "At Risk" column)
+- Go to Insert → PivotTable
+- Place the Pivot Table in a new worksheet
+
+**Step 4: Configure the Pivot Table**
+- Rows: Drag Course Code
+- Filters: Drag At Risk
+- Values: Drag Student Name (set to Count)
+
+**Step 5: Apply Filter**
+- In the At Risk filter, select "Yes"
+- This will show the count of students per course who have Final Grade < 60% AND Attendance < 70%
+
+**Result Example (Based on Your Data):**
+```
+Course Code | Count of Students
+BUS101      | 2
+MATH201     | 1
+ENG150      | 1
+BUS102      | 1
+CHEM101     | 2
+```
+
+### Follow-Up Offered by Copilot:
+- "Create this pivot table in your uploaded file and send it back"
+- "Generate a quick chart (bar graph) showing these counts"
+
+### Why This Works:
+- Clear, numbered steps anyone can follow
+- Teaches the helper column technique (valuable Excel skill most people don't know)
+- Explains WHY each step is needed
+- Provides example result so you know what success looks like
+- Offers to go further with visualizations
+- No actual student data needed - teaches the concept
+
+### Demo Strategy:
+- Show the prompt clearly
+- Scroll through the response highlighting key steps
+- **Emphasize Step 2** (helper column): "This is the trick most people don't know"
+- Point out the example result table: "This is what you'd get"
+- Acknowledge: "This isn't doing it for you - it's teaching you how. You still have to go build it."
+- Note: "Yes, taking an Excel course would be better long-term, but when you need an answer today and you need to get students helped..."
+
+### Alternative Scenarios (Not Tested, But Available if Needed):
+
+#### Scenario 2: Filter/Highlight
 ```
 I have student data with columns: Student Name, Course Code, Grade (%), Attendance (%). I need to identify all students who have BOTH a grade below 60% AND attendance below 75%. What's the best way to filter or highlight these students in Excel?
 ```
 
-**Same data as Scenario 1**
-
-#### Scenario 3: VLOOKUP for Email Matching
-**Prompt**:
+#### Scenario 3: VLOOKUP
 ```
 I have two Excel sheets: one with student names and email addresses, another with student names and their current grades. How do I use a formula to pull the email address into the grades sheet so I can email students who are failing?
 ```
 
-**Sample Data**:
-- Contact Info sheet: 10 students with emails (alex.j@student.edu, etc.) and phone numbers
-- Grades sheet: Same 10 students with courses and final grades
-
-### Expected Copilot Response:
-- Step-by-step instructions for each technique
-- Explanation of Excel functions (PIVOT, FILTER, IF, VLOOKUP, INDEX-MATCH)
-- Common errors and how to avoid them
-- Alternative approaches
-
-### Why This Works:
-- No actual student data goes into Copilot (web-grounded limitation respected)
-- Shows how to get help with Excel concepts and formulas
-- Addresses real PeopleSoft query export pain points
-- Teaches fishing, doesn't just give fish
-
-### Demo Strategy:
-- Show the Excel file with sample data (brief glance)
-- Pick ONE scenario based on time and audience engagement
-- Read the prompt to Copilot
-- Show the response
-- Emphasize: "This isn't analyzing your data - it's teaching you how to analyze it yourself"
-- Acknowledge: "Yes, learning Excel properly would be better long-term, but when you need an answer today..."
+**Recommendation**: Stick with Scenario 1 (Pivot Table) - it's the most impactful and best-tested.
 
 ---
 
 ## Demo 4: Effective Brainstorming/Prompting
 
-### Status: ⚠️ NOT TESTED - NEEDS DEFINITION
+### Status: DECISION MADE - Use Option B
 
-### Options:
+### Approach: Integrate Prompting Lessons Into All Three Demos
 
-**Option A: Bad vs. Good Prompt Comparison**
-- Bad: "Give me professional development ideas for faculty"
-- Good: "I'm presenting to community college academic chairs in Nova Scotia. They're overwhelmed with administrative tasks. What are three current best practices from higher education for helping chairs manage their workload? Focus on practical, implementable strategies."
+Rather than a standalone fourth demo, weave prompting lessons throughout:
 
-**Option B: Integrate into other demos**
-- Show how specificity in prompts led to better results in demos 1-3
-- Make it a teaching moment rather than standalone demo
+**During Demo 1 (Research):**
+- "Notice I said 'community colleges' not just 'higher education' - specificity matters"
 
-**Option C: Skip entirely**
-- Use time for deeper Q&A on demos 1-3
-- Address brainstorming in closing remarks
+**During Demo 2 (Email):**
+- "I told it grade 8 reading level, keep all info, make it friendly - three specific instructions"
 
-### Decision needed: Which approach fits best in 30-minute timeframe?
+**During Demo 3 (Excel):**
+- "I described my exact column names and the exact conditions I needed - that specificity gets better help"
+
+**In Wrap-Up (Minute 21-25):**
+- "Notice the pattern? Vague prompts get vague answers. Specific prompts get useful help."
+- Quick comparison if time:
+  - Bad: "Give me PD ideas" 
+  - Good: "I'm presenting to community college academic chairs in Nova Scotia who are overwhelmed with admin tasks. Three practical strategies they can implement this week?"
+
+### Why This Approach:
+- Teaches prompting without taking extra demo time
+- Makes the connection explicit as you go
+- More impactful than standalone examples
+- Keeps focus on practical outcomes
 
 ---
 
@@ -210,10 +245,12 @@ I have two Excel sheets: one with student names and email addresses, another wit
 
 ### What's Available in Web-Grounded Copilot:
 ✅ Web search and article retrieval
-✅ Text rewriting and simplification
-✅ Excel formula help and explanations
+✅ Text rewriting and simplification  
+✅ Excel formula help and step-by-step instructions
+✅ Helper column technique teaching
 ✅ Summary generation
 ✅ Follow-up action suggestions
+✅ Example results/visualizations
 ✅ Chat history (visible in sidebar)
 ✅ Library, Create, Teach, Agents features (visible but may require licensing)
 
@@ -221,7 +258,7 @@ I have two Excel sheets: one with student names and email addresses, another wit
 ❌ Direct document upload/analysis (no internal files)
 ❌ Access to OneDrive/SharePoint documents
 ❌ Integration with Outlook/Word/Excel apps (requires licensed add-on)
-❌ Custom agent creation (visible but may not work)
+❌ Actually creating/modifying Excel files (can only teach)
 
 ### Privacy Reminders:
 ⚠️ Never paste student names, IDs, grades, or personal information
@@ -231,69 +268,104 @@ I have two Excel sheets: one with student names and email addresses, another wit
 
 ---
 
-## Session Flow Recommendations
+## Final Session Flow (30 Minutes)
 
 ### Minute 0-5: Setup & Expectations
 - Show of hands: Who's seen Copilot button? Who's used it?
-- Set expectation: Web-grounded version, no licensed add-ons
-- Positioning: "I'm 5 minutes ahead, not an expert"
+- Set expectation: "We're using web-grounded Copilot - no licensed add-ons, playing it safe with privacy"
+- Positioning: "I'm 5 minutes ahead, not an expert. I'm just experimenting."
+- "We're going to look at three practical uses you can try this week"
 
-### Minute 5-10: Demo 1 - Academic Chair Research
-- "Let's start by seeing what's current about your challenges"
-- Show prompt, show results
-- Click "Create a summary report" to show follow-up
-- Transition: "This is about finding current information. But what about creating content?"
+### Minute 5-10: Demo 1 - Research
+- "Let's start by seeing what's current about YOUR challenges"
+- Show prompt, emphasize specificity: "community colleges, not just higher ed"
+- Show results - Inside Higher Ed articles
+- Point out themes: "This is you, right? Role ambiguity, limited training?"
+- Optional: Click "Create a summary report"
+- Transition: "Finding info is one thing. Creating content?"
 
 ### Minute 10-15: Demo 2 - Email Clarity
-- "How many of you write emails that could be clearer?"
-- Show original academic-ese email
-- Show prompt and result
-- Side-by-side comparison
-- Privacy reminder
+- "Who writes emails that could be clearer?" (expect laughs/nods)
+- Show original academic email
+- Point out prompt: "grade 8 level, keep info, make friendly - three specific asks"
+- Show result
+- Let them react to the difference
+- Privacy reminder: "Generic email. Don't paste student names."
+- "This is humbling every time"
 
-### Minute 15-20: Demo 3 - Excel Help
-- "PeopleSoft dumps - who loves them?"
-- Quick glimpse of sample data
-- Pick ONE scenario based on engagement
-- Show prompt and Copilot's teaching response
-- Emphasize: Teaching vs. doing
+### Minute 15-21: Demo 3 - Excel
+- "PeopleSoft dumps - who loves them?" (expect groans)
+- Context: "Can't paste real data, but you CAN get help with techniques"
+- Show prompt - note column specificity
+- Scroll through response:
+  - Helper column is the key
+  - Step-by-step approach
+  - Example result
+- "Teaching you to fish, not fishing for you"
+- "Excel course would be better long-term, but when you need help today..."
 
-### Minute 20-25: Demo 4 (if time) OR Deeper Q&A
-- Decision point based on how previous demos went
-- If running long: Skip demo 4, go straight to Q&A
+### Minute 21-25: Wrap-Up & Pattern Recognition
+- "See the pattern in all three?"
+- **Specificity**: Vague prompts = vague answers
+- **Teaching**: It helps you learn, doesn't do it for you  
+- **Current info**: Web-grounded strength
+- "This is table stakes, not advanced AI tricks"
 
-### Minute 25-30: Q&A, Challenge, Close
-- Address limitations honestly
-- "Pick one thing to try this week"
-- "I'm 5 minutes ahead, experimenting within our boundaries"
-- Share follow-up resources
+### Minute 25-30: Q&A & Challenge
+- "Questions?"
+- Honest about limitations: "Web-grounded = privacy-safe but limited"
+- "More advanced stuff needs licensed tools"
+- "But research, writing, learning Excel - that's real value TODAY"
+- **The challenge**: "Pick ONE. Try it ONCE this week."
+- "I'm five minutes ahead because I'm experimenting. You can too."
+- Share email for follow-up
 
 ---
 
-## Outstanding Items to Test
+## Pre-Session Checklist
 
-- [ ] Actually test Excel prompts in Copilot (all three scenarios)
-- [ ] Test brainstorming bad vs. good prompt comparison
-- [ ] Verify all follow-up action buttons work in demo account
-- [ ] Create backup prompts in case primary ones fail
-- [ ] Screenshot key results for reference during live demo
-- [ ] Test in demo account one more time before session
+- [x] Test academic chair research prompt ✅
+- [x] Test email rewrite prompt ✅
+- [x] Test Excel pivot table prompt ✅
+- [x] Create Excel file with sample data ✅
+- [x] Decide on Demo 4 approach ✅ (integrated)
+- [ ] Practice full run-through with timing
+- [ ] Screenshot key results as backup
+- [ ] Final test in demo account morning of session
+- [ ] Have prompts ready to copy/paste (use cheat sheet)
+- [ ] Prepare to share email in chat at end
 
 ---
 
-## Notes for Tomorrow Morning
+## Key Talking Points to Weave In
 
-**What worked really well:**
-- Academic chair research prompt - perfect audience connection
-- Email rewrite demo - dramatic, visible improvement
-- Follow-up action buttons add bonus value
+- "Notice how specific the prompt was..."
+- "This is web-grounded, so no confidential data..."
+- "It's teaching you, not doing it for you..."
+- "This is table stakes, not advanced AI..."
+- "I'm five minutes ahead, experimenting..."
+- "This is humbling every time..."
+- "When you need an answer today..."
 
-**What needs attention:**
-- Excel prompts need live testing
-- Decision on Demo 4 approach
-- Timing practice (30 minutes goes fast)
+---
 
-**Emergency backup plan:**
-- If demos fail: Talk through what you would have shown
-- Have screenshots ready as fallback
-- Lean into "experimenting together" if things break
+## Emergency Backup Plan
+
+**If Copilot is slow/broken:**
+- Have screenshots of successful results ready
+- Walk through what you tested: "Here's what it gave me yesterday..."
+- The conversation about possibilities is still valuable
+
+**If running long:**
+- Skip "Create summary report" follow-up in Demo 1
+- Don't show Excel file, just describe it
+- Shorten wrap-up, extend Q&A
+
+**If running short:**
+- Show "Create summary report" in Demo 1
+- Do bad vs. good prompt comparison in wrap-up
+- Deeper dive on helper column technique in Excel
+
+**Lean into authenticity:**
+- If something breaks: "This is why I say I'm experimenting - let's try again"
+- The "5 minutes ahead" positioning gives you permission to not be perfect
