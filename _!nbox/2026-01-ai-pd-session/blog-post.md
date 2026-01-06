@@ -1,5 +1,7 @@
 # Three AI Tricks I Use (That Actually Work)
 
+*I'm still procrastinating. The tools just make it look intentional.*
+
 *Digital Doug, January 2026*
 
 ---
@@ -89,6 +91,7 @@ I'm just five minutes ahead of you on this stuff, and I'm still figuring it out.
 ## NOTES FOR NEXT REVISION
 
 **Revision History:**
+- Jan 6, 7:33 PM: Added subtitle - "I'm still procrastinating. The tools just make it look intentional." (LinkedIn lure, callback to opening)
 - Jan 6, 7:30 PM: Title change - "That You Probably Should Too" → "That Actually Work" (removed hedge, added contrast)
 - Jan 6, 7:20 PM: Reader panel surgical edits - clarified Copilot friction removal, cut PD example, streamlined Section 2, removed geopolitics reference, separated long chat lesson, clarified optional follow-up, cut use-case list
 - Jan 6, 6:30 PM: Major structural revision - new opening (procrastination hook), cut Mitzy/Goblin Tools/Bacon section/Excel, consolidated privacy warnings, removed repetition, tightened to ~1,500 words
@@ -98,6 +101,7 @@ I'm just five minutes ahead of you on this stuff, and I'm still figuring it out.
 
 **Current state:**
 - Title: Three AI Tricks I Use (That Actually Work)
+- Subtitle: I'm still procrastinating. The tools just make it look intentional.
 - Opening: Procrastination confession + tomorrow's presentation + tool boundaries
 - Three clean sections: Email clarity, Reverse prompting, Research without rabbit holes
 - Personal stories distributed throughout (not just opening)
@@ -106,12 +110,4 @@ I'm just five minutes ahead of you on this stuff, and I'm still figuring it out.
 - Closing: Tool graveyard + procrastinator callback + five minutes ahead
 - ~1,450 words, readable, focused
 
-**Reader panel feedback addressed:**
-- ✓ Clarified why Copilot specifically solved friction (Jennifer)
-- ✓ Cut generic PD example, kept meeting notes + student project (Marcus, Sarah)
-- ✓ Removed geopolitics doomscrolling reference (David)
-- ✓ Clarified optional follow-up in student example (Alex)
-- ✓ Cut "This works for:" list at end of Section 2 (Keisha)
-- ✓ Moved long chat lesson to standalone section between 2 and 3 (Sarah)
-
-**Publication ready:** Text locked, title optimized, section headers work.
+**Publication ready:** Text locked, title optimized, subtitle added, section headers work.
