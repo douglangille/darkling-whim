@@ -129,133 +129,155 @@ Academic Advising Office
 
 ---
 
-## Demo 3: Excel Help - PeopleSoft Data Analysis
+## Demo 3: Reverse Prompting / Brainstorming
 
-### Status: ✅ TESTED & WORKING EXCELLENTLY
+### Status: ✅ TESTED & WORKING - IT'S A KEEPER!
 
-### ⚠️ CRITICAL DISTINCTION - MUST EMPHASIZE IN DEMO:
-**Copilot teaches you HOW to do the Excel analysis. It does NOT do the transforms for you.**
-- Demo 1 (Research): Copilot DOES the research and summarizing
-- Demo 2 (Email): Copilot DOES the rewriting  
-- Demo 3 (Excel): Copilot TEACHES you the steps - you still have to execute them yourself
+### Prompt Used (Step 1 - Brain Dump):
+```
+I have an hour with faculty this afternoon to cover professional development. Here's what I'm thinking:
+- Something about AI tools maybe
+- Accessibility requirements changed
+- New student success metrics we have to report on
+- Somebody asked about rubric design last week
+- Equity and inclusion training is mandatory this term
+- Time management keeps coming up in complaints
 
-**Why this matters for your audience:**
-- They can't paste their actual Excel file into web-grounded Copilot
-- Even if they could, it won't manipulate their data
-- The value is in learning the technique (helper columns, pivot tables, formulas)
-- They save time by not googling or trial-and-error, but they still do the work
+Help me organize this into a coherent session plan.
+```
 
-**How to frame this:**
-- "The first two demos, Copilot did the work. This one? It's your Excel tutor."
-- "You're learning to fish, not getting a fish delivered."
-- "It won't touch your data - but it'll teach you exactly what to do with it."
+### What Copilot Delivered:
 
-### Prompt Used:
+**Session Title:** "Faculty Development Hour – Practical Tools & Updates"
+
+**Organized Structure:**
+1. Welcome & Objectives (5 min)
+2. AI Tools for Teaching (10 min)
+3. Accessibility Updates (10 min)
+4. Student Success Metrics (10 min)
+5. Rubric Design Basics (10 min)
+6. Equity & Inclusion Training (10 min)
+7. Time Management Hacks (5 min)
+8. Q&A and Wrap-Up (5 min)
+
+**Each section included:**
+- What: Brief description
+- Why: Rationale
+- Action: Specific takeaway
+
+**Bottom Line Summary:** Clear outcomes for faculty
+
+**Follow-Up Offered:**
+- "Turn this into a polished handout (PDF)"
+- "Create a PowerPoint deck for the session"
+- "Draft a quick email invite with this agenda"
+
+### Step 2 Test (Clarifying Questions):
+
+**Prompt:**
+```
+Ask me smart one-at-a-time questions to help clarify what should be the focus for this session.
+```
+
+**Result:** ✅ WORKS - Copilot asks meaningful clarifying questions
+
+### Why This Works:
+
+**Organizational Power:**
+- Turned messy brain dump into structured 60-minute agenda
+- Time-blocked realistically
+- Prioritized content
+- Called out what doesn't fit (Time Management = 5 min)
+- Added What/Why/Action framework
+
+**Shows New Capability:**
+- Most people think AI = "ask question, get answer"
+- This shows AI = "have conversation, think together"
+- Conversational/iterative approach is surprising
+- "Reverse prompting" - you dump info, AI asks YOU questions
+
+**Broadly Applicable:**
+- Planning PD sessions
+- Organizing meeting notes
+- Developing ESP strategies
+- Thinking through budget priorities
+- Structuring course design
+- Clarifying any fuzzy problem
+
+**Differentiated from Other Demos:**
+- Demo 1: AI finds information (research)
+- Demo 2: AI rewrites content (email)
+- Demo 3: AI helps you THINK (brainstorming)
+
+### Demo Strategy:
+
+**The Setup:**
+"This one's different. This is about using AI as a thinking partner when you have a fuzzy problem."
+
+**Show the messy brain dump:**
+- Read it out loud: "Something about AI tools maybe..."
+- "This is real - how many of you plan sessions like this?"
+
+**Show Copilot's organization:**
+- Scroll through the structured output
+- Point out: "60 minutes, time-blocked, each section has purpose"
+- "Notice it called out Time Management only gets 5 min - it knows what fits"
+
+**Optional Step 2 (if time):**
+- Ask for clarifying questions
+- Show 1-2 questions Copilot asks
+- "This is reverse prompting - I dump, it asks ME questions"
+
+**If running short on time:**
+- Stop after showing the organized output
+- "And if I wanted, I could ask it to ask ME clarifying questions to refine this further"
+- Move to wrap-up
+
+**Key talking points:**
+- "First two demos, Copilot did the work. This one? Copilot helps me THINK."
+- "You're the expert with context. AI helps you organize."
+- "It's conversational - most people don't know you can do this."
+- Privacy reminder: "Notice no student names, no specific faculty complaints, no confidential issues."
+
+### Alternative Scenario (Backup if PD planning doesn't land):
+
+**Meeting Notes Organization:**
+```
+I just came out of a meeting about student retention. My notes are messy:
+- Early alert system isn't working well
+- Faculty don't know how to refer students
+- Counselling is overwhelmed
+- Something about peer mentoring program
+- Budget concerns were mentioned
+- Someone said we need data
+- First-year students particularly at risk
+
+Help me organize these notes and identify what needs follow-up action.
+```
+
+---
+
+## Demo 4: Excel Help - REMOVED FROM SESSION
+
+### Status: ✅ TESTED BUT MOVED TO BLOG POST ONLY
+
+### Why Removed:
+- Matt said "Excel might be too much to cram into 30 minutes"
+- Only teaches (doesn't do) - creates expectation mismatch
+- Reverse prompting demo is higher value for broader audience
+- Too technical for 30-minute intro session
+
+### Where It Lives Now:
+- Available in blog post with full walkthrough
+- Mentioned briefly in wrap-up: "You can also get Excel help"
+- Follow-up resource if people ask
+
+### Original Excel Prompt (for reference):
 ```
 I have an Excel file with columns for Student Name, Course Code, Final Grade, and Attendance Percentage. I need to create a pivot table that shows me how many students in each course have grades below 60% AND attendance below 70%. Walk me through how to set this up.
 ```
 
-### Copilot Response:
-
-**Step 1: Prepare Your Data**
-- Ensure columns are clearly labeled: Student Name | Course Code | Final Grade | Attendance %
-- Confirm Final Grade and Attendance % are numeric (remove % signs if needed)
-
-**Step 2: Add a Helper Column**
-- Insert new column called "At Risk"
-- Formula example (assuming Final Grade in C and Attendance in D):
-  `=IF(AND(C2<60,D2<70),"Yes","No")`
-- This marks students who meet both conditions
-
-**Step 3: Create the Pivot Table**
-- Select entire data range (including the new "At Risk" column)
-- Go to Insert → PivotTable
-- Place the Pivot Table in a new worksheet
-
-**Step 4: Configure the Pivot Table**
-- Rows: Drag Course Code
-- Filters: Drag At Risk
-- Values: Drag Student Name (set to Count)
-
-**Step 5: Apply Filter**
-- In the At Risk filter, select "Yes"
-- This will show the count of students per course who have Final Grade < 60% AND Attendance < 70%
-
-**Result Example (Based on Your Data):**
-```
-Course Code | Count of Students
-BUS101      | 2
-MATH201     | 1
-ENG150      | 1
-BUS102      | 1
-CHEM101     | 2
-```
-
-### Follow-Up Offered by Copilot:
-- "Create this pivot table in your uploaded file and send it back" (won't work with web-grounded)
-- "Generate a quick chart (bar graph) showing these counts" (theoretical, not actual data manipulation)
-
-### Why This Works:
-- Clear, numbered steps anyone can follow
-- Teaches the helper column technique (valuable Excel skill most people don't know)
-- Explains WHY each step is needed
-- Provides example result so you know what success looks like
-- No actual student data needed - teaches the concept
-- Saves time vs. googling or YouTube tutorials
-
-### Demo Strategy:
-- **SET EXPECTATIONS FIRST**: "This demo is different - Copilot won't do it for you, it'll teach you how"
-- Show the prompt clearly
-- Scroll through the response highlighting key steps
-- **Emphasize Step 2** (helper column): "This is the trick most people don't know - Copilot just taught you that"
-- Point out the example result table: "This is what you'd get if you follow these steps"
-- **Be explicit**: "Now you have to go open your actual Excel file and follow these instructions. Copilot didn't manipulate your data - it can't with web-grounded access. But you just saved 30 minutes of googling and trial-and-error."
-- Acknowledge: "Taking an Excel course would be better long-term, but when you need an answer today and students are waiting..."
-
-### Alternative Scenarios (Not Tested, But Available if Needed):
-
-#### Scenario 2: Filter/Highlight
-```
-I have student data with columns: Student Name, Course Code, Grade (%), Attendance (%). I need to identify all students who have BOTH a grade below 60% AND attendance below 75%. What's the best way to filter or highlight these students in Excel?
-```
-
-#### Scenario 3: VLOOKUP
-```
-I have two Excel sheets: one with student names and email addresses, another with student names and their current grades. How do I use a formula to pull the email address into the grades sheet so I can email students who are failing?
-```
-
-**Recommendation**: Stick with Scenario 1 (Pivot Table) - it's the most impactful and best-tested.
-
----
-
-## Demo 4: Effective Brainstorming/Prompting
-
-### Status: DECISION MADE - Use Option B
-
-### Approach: Integrate Prompting Lessons Into All Three Demos
-
-Rather than a standalone fourth demo, weave prompting lessons throughout:
-
-**During Demo 1 (Research):**
-- "Notice I said 'community colleges' not just 'higher education' - specificity matters"
-
-**During Demo 2 (Email):**
-- "I told it grade 8 reading level, keep all info, make it friendly - three specific instructions"
-
-**During Demo 3 (Excel):**
-- "I described my exact column names and the exact conditions I needed - that specificity gets better help"
-
-**In Wrap-Up (Minute 21-25):**
-- "Notice the pattern? Vague prompts get vague answers. Specific prompts get useful help."
-- Quick comparison if time:
-  - Bad: "Give me PD ideas" 
-  - Good: "I'm presenting to community college academic chairs in Nova Scotia who are overwhelmed with admin tasks. Three practical strategies they can implement this week?"
-
-### Why This Approach:
-- Teaches prompting without taking extra demo time
-- Makes the connection explicit as you go
-- More impactful than standalone examples
-- Keeps focus on practical outcomes
+**What it taught:** Helper column technique, pivot table setup, step-by-step Excel guidance
 
 ---
 
@@ -264,23 +286,22 @@ Rather than a standalone fourth demo, weave prompting lessons throughout:
 ### What's Available in Web-Grounded Copilot:
 ✅ Web search and article retrieval
 ✅ Text rewriting and simplification  
-✅ Excel formula help and step-by-step instructions
-✅ Helper column technique teaching
+✅ Conversational brainstorming and organization
+✅ Reverse prompting (ask you clarifying questions)
 ✅ Summary generation
-✅ Follow-up action suggestions
+✅ Follow-up action suggestions (PDF, PowerPoint, email drafts)
 ✅ Example results/visualizations
 ✅ Chat history (visible in sidebar)
-✅ Library, Create, Teach, Agents features (visible but may require licensing)
 
 ### What's NOT Available:
 ❌ Direct document upload/analysis (no internal files)
 ❌ Access to OneDrive/SharePoint documents
 ❌ Integration with Outlook/Word/Excel apps (requires licensed add-on)
-❌ **Actually creating/modifying Excel files (can only teach you how)**
+❌ Actually creating/modifying files (can only generate text)
 
 ### Privacy Reminders:
 ⚠️ Never paste student names, IDs, grades, or personal information
-⚠️ Never paste confidential internal documents
+⚠️ Never paste confidential internal documents or meeting notes with names
 ⚠️ Draft generic versions, then add specific details manually afterward
 ⚠️ Rule of thumb: "Would I post this on Twitter?" - if not, don't put it in Copilot
 
@@ -311,34 +332,32 @@ Rather than a standalone fourth demo, weave prompting lessons throughout:
 - Privacy reminder: "Generic email. Don't paste student names."
 - "This is humbling every time"
 
-### Minute 15-21: Demo 3 - Excel
-- "PeopleSoft dumps - who loves them?" (expect groans)
-- **SET EXPECTATIONS**: "This demo is different. The first two, Copilot did the work. This one? Copilot is your Excel tutor."
-- Context: "Can't paste real data, and even if you could, it won't manipulate it. But it WILL teach you how."
-- Show prompt - note column specificity
-- Scroll through response:
-  - Helper column is the key technique
-  - Step-by-step approach anyone can follow
-  - Example result shows what you'd get
-- **Be explicit**: "You still have to go do this in your actual Excel file. But you just saved 30 minutes of googling."
-- "You're learning to fish, not getting a fish delivered."
-- Acknowledge: "Excel course would be better long-term, but when you need help today and students are waiting..."
+### Minute 15-22: Demo 3 - Reverse Prompting
+- "This one's different. Using AI as a thinking partner for fuzzy problems."
+- Relatable scenario: "You have PD this afternoon, thoughts are scattered"
+- Show brain dump prompt
+- Show organized output with time blocks
+- Point out: "60 min agenda, What/Why/Action for each, knows what fits"
+- **Optional if time:** Show Step 2 (clarifying questions)
+- **If running short:** "And I could ask it to ask ME questions to refine this"
+- "First two demos, Copilot did work. This one? Helps me THINK."
+- Privacy reminder: "No names, no specific complaints, keep it generic"
 
-### Minute 21-25: Wrap-Up & Pattern Recognition
-- "See the pattern in all three?"
+### Minute 22-25: Wrap-Up & Pattern Recognition
+- "See the pattern?"
 - **Specificity**: Vague prompts = vague answers
-- **Different value propositions**:
-  - Research: Copilot does it
-  - Email: Copilot does it
-  - Excel: Copilot teaches you
-- **Current info**: Web-grounded strength
-- "This is table stakes, not advanced AI tricks"
+- **Different value**:
+  - Finding (research)
+  - Creating (writing)
+  - Thinking (organizing)
+- **Conversational**: Not just Q&A, back-and-forth
+- "This is table stakes, not advanced AI"
+- Brief mention: "You can also get Excel help - that's in the blog post"
 
 ### Minute 25-30: Q&A & Challenge
 - "Questions?"
 - Honest about limitations: "Web-grounded = privacy-safe but limited"
-- "More advanced stuff needs licensed tools"
-- "But research, writing, learning Excel - that's real value TODAY"
+- "But research, writing, organizing thinking - that's real value TODAY"
 - **The challenge**: "Pick ONE. Try it ONCE this week."
 - "I'm five minutes ahead because I'm experimenting. You can too."
 - Share email for follow-up
@@ -349,28 +368,28 @@ Rather than a standalone fourth demo, weave prompting lessons throughout:
 
 - [x] Test academic chair research prompt ✅
 - [x] Test email rewrite prompt ✅
-- [x] Test Excel pivot table prompt ✅
-- [x] Create Excel file with sample data ✅
-- [x] Decide on Demo 4 approach ✅ (integrated)
-- [x] Clarify Excel teaching vs. doing distinction ✅
+- [x] Test reverse prompting brain dump ✅
+- [x] Verify clarifying questions feature works ✅
+- [x] Create revised session outline ✅
+- [x] Update prompts cheat sheet ✅
 - [ ] Practice full run-through with timing
 - [ ] Screenshot key results as backup
 - [ ] Final test in demo account morning of session
-- [ ] Have prompts ready to copy/paste (use cheat sheet)
+- [ ] Have prompts ready to copy/paste
 - [ ] Prepare to share email in chat at end
 
 ---
 
-## Key Talking Points to Weave In
+## Key Talking Points
 
 - "Notice how specific the prompt was..."
 - "This is web-grounded, so no confidential data..."
-- "First two demos, Copilot did the work. This one, Copilot teaches you."
-- "You're learning to fish, not getting a fish..."
+- "First two demos, Copilot did the work. This one, Copilot helps me think."
+- "You're the expert with context; AI helps you organize..."
+- "It's conversational - most people don't know you can do this..."
 - "This is table stakes, not advanced AI..."
 - "I'm five minutes ahead, experimenting..."
 - "This is humbling every time..."
-- "When you need an answer today and students are waiting..."
 
 ---
 
@@ -382,14 +401,19 @@ Rather than a standalone fourth demo, weave prompting lessons throughout:
 - The conversation about possibilities is still valuable
 
 **If running long:**
-- Skip "Create summary report" follow-up in Demo 1
-- Don't show Excel file, just describe it
+- Skip "Create summary report" in Demo 1
+- Don't show Step 2 (clarifying questions) in Demo 3
 - Shorten wrap-up, extend Q&A
 
 **If running short:**
 - Show "Create summary report" in Demo 1
+- Show clarifying questions in Demo 3
 - Do bad vs. good prompt comparison in wrap-up
-- Deeper dive on helper column technique in Excel
+
+**Demo 3 flexibility:**
+- **Minimum version (3 min):** Just show brain dump → organized output
+- **Full version (7 min):** Brain dump → organized output → clarifying questions → refined output
+- **Backup scenario:** Switch to meeting notes organization if PD planning doesn't land
 
 **Lean into authenticity:**
 - If something breaks: "This is why I say I'm experimenting - let's try again"
