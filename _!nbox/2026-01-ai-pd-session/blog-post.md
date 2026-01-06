@@ -4,9 +4,23 @@
 
 ---
 
-There's a Copilot button in practically every corner of O365 now. I know you've seen it. I also know a lot of you are wondering "okay... but what do I actually *do* with this?"
+I'm a nerd. That's the tweet.
 
-Here are three things I'm actually using, not just talking about. Turns out, it's not the fancy stuff. It's the boring, everyday tasks that AI handles surprisingly well. I'm using Microsoft Copilot mostly, but these techniques work just as well with Claude, ChatGPT, Gemini, Perplexity, or whatever tool you've got access to.
+When I see a new tool, I get the big dopamine splash and I go all-in. Before AI, it was graphic design, then productivity frameworks, then coaching models. I can't help myself. But this time something different happened: the tool actually stuck.
+
+I've always hated staring at a blank page. I procrastinate, I put things off, I tell myself I work better under pressure - which is bullshit because literally no one works better under pressure. But AI gave me a way to just start. Brain dump the chaos, let the tool organize it, then build with intention.
+
+My wife was recently diagnosed with ADHD. She showed me Goblin Tools - this simple brain-dump-to-to-do-list thing. I tried it. It worked. Then I thought: if it works for task lists, maybe it works for everything else.
+
+So I dumped a 10-year-old short story into ChatGPT and asked for a literary critique. "Mitzy and the Butterfly" - this fever dream fantasy about sibling rivalry where a girl navigates a maze to rescue her sister with advice from a sarcastic butterfly named Larry. I'd always thought there was more to it, but I was stuck.
+
+The AI came back with ideas. Good ones. I didn't let it write the additions - finished prose is mine - but that back-and-forth conversation unlocked something. Now it's expanding into a much longer work.
+
+That's when I realized: writing isn't the point. Organizing my thinking is. Getting the shit out of my brain into structure I can actually use.
+
+Here are three things I'm actually doing with AI now - not just talking about. Turns out, it's not the fancy stuff. It's boring everyday tasks. I've paid for ChatGPT Plus (six months, too expensive in Canadian dollars, unsubscribed). Tried Gemini (great for analysis), Claude (best for brainstorming), Mistral (uncensored, useful for dark fantasy writing). In December I got a free year of Perplexity Pro, which routes between models automatically and connects to my GitHub repository where I keep a decade of markdown notes. That GitHub connection? Game-changer for retrieval.
+
+For work, I use Copilot exclusively. College-approved tool, proper data handling. For blogging, creative writing, personal stuff - I use everything else. Privacy and intellectual property matter. Keep them separate.
 
 ## 1. Making Your Emails Actually Readable
 
@@ -16,7 +30,15 @@ We write for ourselves, not our audience. Whether you're sending emails to stude
 
 Try this: Draft your email, then ask "rewrite this for grade 8 reading level while keeping all important information and deadlines. Make it clear and friendly."
 
+I have a bad habit: I use $10 words when $0.10 words would do. I like how language sounds as much as what it means. It's persuasive affect, but it gets lost.
+
+I already knew about bottom-line-up-front, inverted pyramid structure for long emails, all that stuff. But I still couldn't write simply. So I ran my emails through ChatGPT. It was scathing. "Bring this down to accessible reading level." 
+
+I'd used Hemingway app before - paste your text, clean up complicated sentences, fix heavy jargon. But it was always an extra step, an extra tool, an external webpage. I'd skip it. Using Copilot puts that clarity check right in the application. That removed the friction. Now I actually do it.
+
 The result? Shorter subject lines. Bullet points instead of paragraphs. "Please make sure to" instead of "This correspondence is to inform you that." Same information, half the words, twice as clear.
+
+**There's nothing worse than putting stuff out there and not knowing what you wrote. I might as well be drunk.**
 
 **Important:** Don't paste anything confidential or personally identifiable into web-grounded tools. Draft a generic version, get it cleaned up, then customize with specific names or details afterward.
 
@@ -40,9 +62,19 @@ Then you can follow up: "Ask me smart one-at-a-time questions to help clarify wh
 
 And it actually asks you clarifying questions - "What's the most urgent concern?" "Are any of these required vs. optional?" You answer based on your context, and it refines the output.
 
+### The Long Chat Mistake
+
+It took me way too long to figure this out: I used to try having one giant endless chat dedicated to a topic. Story development in one thread, tool management in another, everything piling up for weeks.
+
+Bad idea. The context window drifts. The AI starts forgetting what happened earlier. I'd spend half my time re-reminding it what we'd already covered, what it was supposed to remember, stay on track.
+
+Eventually I learned: clear instructions, clear intention, fresh context. Don't treat it like Google with keyword searches. Give it the goal - what you want and why it matters - then let it figure out the how.
+
 **This works for:** Planning meetings or study sessions, organizing meeting notes, thinking through project priorities, structuring presentations, clarifying any fuzzy problem where you know the pieces but not the structure.
 
 **Privacy note:** Keep it generic when brainstorming. No student names, no specific complaints, no confidential issues. Describe the *problem* generically, not the specific people or details.
+
+**It's never about putting information in. It's always about getting information out.**
 
 ## 3. Finding Current Information (Without Falling Into a Rabbit Hole)
 
@@ -56,6 +88,18 @@ What you get: Recent articles (often from the past few months), themes that actu
 
 Is this going to replace actually reading? No. But it'll get you 80% of the way there when you need to know "what's current on this topic" without spending an hour scrolling.
 
+## When AI Actually Saved My Bacon
+
+I'm a procrastinator. I put presentations off until the day before. Like tomorrow's session - I'm prepping it tonight.
+
+I like to tell myself I work better under pressure. It's a lie. No one works better under pressure. What actually happens: I either over-prepare and psych myself out, or I wing it and deliver something serviceable but not great. Lots of "ums" and "ahs." Absent-minded professor vibes. Not great.
+
+AI didn't speed up my process. If anything, it slowed me down. But it forced me to think with intention. The back-and-forth iteration, the testing, the refinement - I actually do the planning now because the tool makes it conversational.
+
+If I didn't use AI for that process, I wouldn't do it at all. I'd wing it. And it would show.
+
+So yeah, AI saved me. Not by doing the work, but by making me do the work I should've been doing all along.
+
 ## Bonus: Excel Help (When You're Not an Excel Wizard)
 
 Systems export massive Excel files. I've watched people spend hours trying to make sense of them.
@@ -68,34 +112,35 @@ Is it faster than just learning Excel properly? Maybe not long-term. But when yo
 
 ## The Real Talk
 
-None of this makes you an AI expert. It just makes you someone who's putting in the time to figure out what actually works. The table stakes right now aren't about building custom GPTs or understanding transformer models - they're about writing clearer messages, organizing your thinking, staying current with information, and asking better questions.
+I've tried seven AI tools this year. Six are gone. ChatGPT Plus? Too expensive. Mistral? Too niche. NotebookLM? Solved problems I don't have. The graveyard is how you figure out what works.
 
-**Know your tools:** Web-grounded Copilot is great for general questions, research, and non-confidential work. For sensitive data or internal documents, you need a licensed tool with proper data handling - or you need to be very careful about what you share.
+What stuck: Tools that removed friction. Tools that let me start before I'm ready. Tools that make me think with intention instead of winging it.
 
-Pick one of these three things (or the Excel bonus if that's your jam). Try it this week. See if it saves you 15 minutes. That's it.
+None of this makes you an AI expert. The table stakes right now aren't about building custom GPTs or understanding transformer models. They're about writing clearer messages, organizing scattered thinking, and asking better questions.
 
-I'm just five minutes ahead of you on this stuff, and I'm still figuring it out. But those five minutes have saved me hours.
+**Know your tools:** Web-grounded Copilot is fine for general questions, research, non-confidential work. For sensitive data or internal documents, you need a licensed tool with proper data handling - or you need to be very careful what you share.
 
-**Your turn:** Which one are you trying first?
+Pick one of these three things. Try it this week. See if it saves you 15 minutes.
+
+I'm just five minutes ahead of you on this stuff, and I'm still figuring it out. The tools will keep changing. But those five minutes have saved me hours.
 
 ---
 
 ## NOTES FOR NEXT REVISION
 
-**Doug's feedback (Jan 6, 4:08 PM):**
-- Need more "me" in the post - missing sense of story/narrative
-- Need to inject personal narrative and lived experience
-- Probably want more snark
+**Revision History:**
+- Jan 6, 6:00 PM: Added personal narrative throughout, tool graveyard, Mitzy story, procrastination confession, pull quotes
+- Jan 6, 4:08 PM: Doug feedback - needed more personal story/narrative
+- Earlier: Evergreen version, de-jargonized, restructured
 
 **Current state:**
-- Evergreen version (no PD session references)
-- De-jargonized (removed NSCC-specific acronyms)
-- Restructured: Email → Reverse Prompting → Research
-- Added student example (group project chaos)
-- Reader panel validated: tone good, examples practical, needs personal voice
+- Opening: "I'm a nerd" confession + blank page problem + wife's ADHD + Mitzy story
+- Personal stories woven throughout each section
+- Tool graveyard + pricing decisions revealed
+- Boundaries stated (finished prose, work/personal separation)
+- Pull quotes: "might as well be drunk" + "getting information out"
+- Procrastination story as save-my-bacon moment
+- Closing: no summary, honest limitation, specific challenge
 
-**To explore:**
-- Where does Doug's story fit? Opening? Throughout examples?
-- What lived experiences anchor each section?
-- How to add snark without losing peer-beside-you vibe?
-- Specific moments/anecdotes that show "five minutes ahead" in practice?
+**What's next:**
+- Doug has guidance for another pass
