@@ -133,6 +133,23 @@ Academic Advising Office
 
 ### Status: ✅ TESTED & WORKING EXCELLENTLY
 
+### ⚠️ CRITICAL DISTINCTION - MUST EMPHASIZE IN DEMO:
+**Copilot teaches you HOW to do the Excel analysis. It does NOT do the transforms for you.**
+- Demo 1 (Research): Copilot DOES the research and summarizing
+- Demo 2 (Email): Copilot DOES the rewriting  
+- Demo 3 (Excel): Copilot TEACHES you the steps - you still have to execute them yourself
+
+**Why this matters for your audience:**
+- They can't paste their actual Excel file into web-grounded Copilot
+- Even if they could, it won't manipulate their data
+- The value is in learning the technique (helper columns, pivot tables, formulas)
+- They save time by not googling or trial-and-error, but they still do the work
+
+**How to frame this:**
+- "The first two demos, Copilot did the work. This one? It's your Excel tutor."
+- "You're learning to fish, not getting a fish delivered."
+- "It won't touch your data - but it'll teach you exactly what to do with it."
+
 ### Prompt Used:
 ```
 I have an Excel file with columns for Student Name, Course Code, Final Grade, and Attendance Percentage. I need to create a pivot table that shows me how many students in each course have grades below 60% AND attendance below 70%. Walk me through how to set this up.
@@ -175,24 +192,25 @@ CHEM101     | 2
 ```
 
 ### Follow-Up Offered by Copilot:
-- "Create this pivot table in your uploaded file and send it back"
-- "Generate a quick chart (bar graph) showing these counts"
+- "Create this pivot table in your uploaded file and send it back" (won't work with web-grounded)
+- "Generate a quick chart (bar graph) showing these counts" (theoretical, not actual data manipulation)
 
 ### Why This Works:
 - Clear, numbered steps anyone can follow
 - Teaches the helper column technique (valuable Excel skill most people don't know)
 - Explains WHY each step is needed
 - Provides example result so you know what success looks like
-- Offers to go further with visualizations
 - No actual student data needed - teaches the concept
+- Saves time vs. googling or YouTube tutorials
 
 ### Demo Strategy:
+- **SET EXPECTATIONS FIRST**: "This demo is different - Copilot won't do it for you, it'll teach you how"
 - Show the prompt clearly
 - Scroll through the response highlighting key steps
-- **Emphasize Step 2** (helper column): "This is the trick most people don't know"
-- Point out the example result table: "This is what you'd get"
-- Acknowledge: "This isn't doing it for you - it's teaching you how. You still have to go build it."
-- Note: "Yes, taking an Excel course would be better long-term, but when you need an answer today and you need to get students helped..."
+- **Emphasize Step 2** (helper column): "This is the trick most people don't know - Copilot just taught you that"
+- Point out the example result table: "This is what you'd get if you follow these steps"
+- **Be explicit**: "Now you have to go open your actual Excel file and follow these instructions. Copilot didn't manipulate your data - it can't with web-grounded access. But you just saved 30 minutes of googling and trial-and-error."
+- Acknowledge: "Taking an Excel course would be better long-term, but when you need an answer today and students are waiting..."
 
 ### Alternative Scenarios (Not Tested, But Available if Needed):
 
@@ -258,7 +276,7 @@ Rather than a standalone fourth demo, weave prompting lessons throughout:
 ❌ Direct document upload/analysis (no internal files)
 ❌ Access to OneDrive/SharePoint documents
 ❌ Integration with Outlook/Word/Excel apps (requires licensed add-on)
-❌ Actually creating/modifying Excel files (can only teach)
+❌ **Actually creating/modifying Excel files (can only teach you how)**
 
 ### Privacy Reminders:
 ⚠️ Never paste student names, IDs, grades, or personal information
@@ -295,19 +313,24 @@ Rather than a standalone fourth demo, weave prompting lessons throughout:
 
 ### Minute 15-21: Demo 3 - Excel
 - "PeopleSoft dumps - who loves them?" (expect groans)
-- Context: "Can't paste real data, but you CAN get help with techniques"
+- **SET EXPECTATIONS**: "This demo is different. The first two, Copilot did the work. This one? Copilot is your Excel tutor."
+- Context: "Can't paste real data, and even if you could, it won't manipulate it. But it WILL teach you how."
 - Show prompt - note column specificity
 - Scroll through response:
-  - Helper column is the key
-  - Step-by-step approach
-  - Example result
-- "Teaching you to fish, not fishing for you"
-- "Excel course would be better long-term, but when you need help today..."
+  - Helper column is the key technique
+  - Step-by-step approach anyone can follow
+  - Example result shows what you'd get
+- **Be explicit**: "You still have to go do this in your actual Excel file. But you just saved 30 minutes of googling."
+- "You're learning to fish, not getting a fish delivered."
+- Acknowledge: "Excel course would be better long-term, but when you need help today and students are waiting..."
 
 ### Minute 21-25: Wrap-Up & Pattern Recognition
 - "See the pattern in all three?"
 - **Specificity**: Vague prompts = vague answers
-- **Teaching**: It helps you learn, doesn't do it for you  
+- **Different value propositions**:
+  - Research: Copilot does it
+  - Email: Copilot does it
+  - Excel: Copilot teaches you
 - **Current info**: Web-grounded strength
 - "This is table stakes, not advanced AI tricks"
 
@@ -329,6 +352,7 @@ Rather than a standalone fourth demo, weave prompting lessons throughout:
 - [x] Test Excel pivot table prompt ✅
 - [x] Create Excel file with sample data ✅
 - [x] Decide on Demo 4 approach ✅ (integrated)
+- [x] Clarify Excel teaching vs. doing distinction ✅
 - [ ] Practice full run-through with timing
 - [ ] Screenshot key results as backup
 - [ ] Final test in demo account morning of session
@@ -341,11 +365,12 @@ Rather than a standalone fourth demo, weave prompting lessons throughout:
 
 - "Notice how specific the prompt was..."
 - "This is web-grounded, so no confidential data..."
-- "It's teaching you, not doing it for you..."
+- "First two demos, Copilot did the work. This one, Copilot teaches you."
+- "You're learning to fish, not getting a fish..."
 - "This is table stakes, not advanced AI..."
 - "I'm five minutes ahead, experimenting..."
 - "This is humbling every time..."
-- "When you need an answer today..."
+- "When you need an answer today and students are waiting..."
 
 ---
 
