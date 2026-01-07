@@ -1,89 +1,88 @@
-# AI PD Session & Blog Post - January 2026
+# AI PD Session - Project Files
 
-## Purpose
-Material for a 30-minute professional development session to CTL/AC at NSCC on January 8, 2026, plus a companion Digital Doug blog post.
+**Publication Date:** Wednesday, January 7, 2026  
+**Blog Post:** 8:00 AM AST  
+**PD Session:** 9:00 AM AST
 
-## Context
-- **Session Date**: Wednesday, January 8, 2026, 9:00 AM AST
-- **Audience (Session)**: Academic Chairs and Centre for Teaching and Learning staff at NSCC
-- **Delivery**: Teams meeting with browser screen share
-- **Tool**: Microsoft Copilot Chat for Enterprise (Education) - web-grounded, no licensed add-ons
-- **Blog Publishing**: Wednesday, January 8, 2026, 10:00 AM - 12:00 PM (after session)
-- **Audience (Blog)**: Mixed internal (NSCC staff/faculty/students) and external (LinkedIn, general public)
+---
 
-## Workflow Strategy
+## Quick Start - Wednesday Morning
 
-### Session-First Approach
-Focus on the PD session first, then refine the blog post based on what works in practice.
+**See `PUBLISHING-CHECKLIST.md` for complete publishing tasks**
 
-**Rationale:**
-1. Hard deadline with live audience - session must work tomorrow morning
-2. Demo testing reveals what actually works vs. what sounds good on paper
-3. Audience Q&A and reactions inform blog emphasis and examples
-4. 30-minute constraint forces clarity on what matters most
-5. Blog benefits from real-world testing and feedback
+1. Download header image: https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f7080c0b-8250-488b-b58c-d86c22301f3e.png
+2. Publish blog post at 8 AM (SharePoint, Substack, LinkedIn)
+3. Rehearse session using `session-outline-REVISED.md`
+4. Run PD session at 9 AM
 
-### Timeline
+---
 
-**Tuesday, January 7 (afternoon)**
-- [ ] Refine session outline based on any additional context
-- [ ] Test all demos in actual Microsoft Copilot Chat
-- [ ] Document what works smoothly vs. what's clunky
-- [ ] Adjust session outline based on demo testing
-- [ ] Prepare backup examples if primary demos fail
+## Key Files
 
-**Wednesday, January 8 (morning - before 9am)**
-- [ ] Final review of session outline
-- [ ] Browser prep: Copilot Chat open, prompts ready
-- [ ] Mental checklist of key safety reminders
+### Blog Post
+- **`blog-post.md`** - Final publication-ready content (~1,450 words)
+- **`PUBLISHING-CHECKLIST.md`** - Complete publishing workflow and LinkedIn copy
+- **`IMAGE-NOTES.md`** - Header image selection and alt text
+- **`digital-doug-style-guide.md`** - Voice and style reference (14.9KB)
 
-**Wednesday, January 8 (9:00 AM)**
-- [ ] Deliver 30-minute PD session
-- [ ] Note what resonates, what confuses, what questions arise
-- [ ] Observe which demos get strongest reactions
+### Session Materials  
+- **`session-outline-REVISED.md`** - Updated session plan
+- **`demo-testing-notes.md`** - Demo prep notes
+- **`prompts-cheat-sheet.md`** - Attendee reference guide
+- **`excel-demo-scenarios.md`** - Excel use cases
 
-**Wednesday, January 8 (10:00 AM - 12:00 PM)**
-- [ ] Update blog post with insights from session
-- [ ] Add any relevant audience reactions or questions
-- [ ] Incorporate examples that worked best in demos
-- [ ] Final polish and fact-check
-- [ ] Publish to Digital Doug
-- [ ] Share on LinkedIn
-- [ ] Share in internal NSCC channels
+### Development History
+- **`revision-notes.md`** - Complete session log (4 hours, 4 revision passes)
+- **`interview-raw-material.md`** - Personal stories Q&A
+- **`conversation-context.md`** - Earlier context
 
-## Core Topics
-Based on conversation with Matt Taylor about practical AI use cases for administrative tasks:
+---
 
-1. **Summarizing meeting notes** - for developing ESPs and action items
-2. **Editing email for clarity** - ensuring messages match audience reading levels (literacy + EAL)
-3. **Analyzing data in Excel** - working with PeopleSoft query exports
-4. **Effective brainstorming** - writing prompts that lead to productive outcomes
+## Blog Post Summary
 
-## Positioning
-"I'm just 5 minutes ahead" - peer-to-peer enthusiastic experimenter, not SME or authority figure. Focused on practical, table-stakes applications that save time.
+**Title:** Three AI Tricks I Use (That Actually Work)  
+**Subtitle:** I'm still procrastinating. The tools just make it look intentional.
 
-## Files
-- `blog-post.md` - Digital Doug blog post draft (to be refined post-session)
-- `session-outline.md` - 30-minute PD session outline (primary focus)
-- `conversation-context.md` - Original Teams conversation with Matt Taylor
-- `README.md` - This file
-- `demo-testing-notes.md` - (Create during demo testing) Notes on what works/doesn't
+**Three Sections:**
+1. Making Emails Actually Readable
+2. Organizing Your Messy Thinking (Reverse Prompting)
+3. Finding Current Information (Without Rabbit Holes)
 
-## Key Constraints
-- Web-grounded Copilot cannot access internal documents or confidential data
-- Must emphasize data privacy and appropriate use
-- Keep demos generic/public to avoid confidentiality issues
-- Acknowledge limitations while showing practical value
+**Voice:** Peer-beside-you, self-deprecating, practical  
+**Status:** ✓ Locked and ready
 
-## Success Metrics
+---
 
-**For Session:**
-- At least one person tries one technique within the week
-- Questions indicate understanding (not confusion)
-- Feedback suggests value for time invested
+## Header Image
 
-**For Blog:**
-- Post reflects what actually worked in practice
-- Includes real audience insights from session
-- Provides value to both internal and external readers
-- Drives engagement (comments, shares, follow-up questions)
+**Selected:** Watercolor workspace illustration  
+**Why:** Least AI-ish, warm/human, matches vulnerable voice  
+**Download:** See URL above  
+**Alt text:** In IMAGE-NOTES.md
+
+---
+
+## Publishing Strategy
+
+**8:00 AM** - Blog post goes live  
+**8:00-9:00 AM** - Attendees can see/skim post  
+**9:00 AM** - PD session starts (primed audience)
+
+**Session opener:** "Some of you may have seen the post I published this morning..."
+
+---
+
+## Content Saved for Future
+
+- Mitzy/creative writing story
+- ADHD/accessibility angle (Goblin Tools)
+- Excel/data analysis deep dive
+
+---
+
+**Session completed:** January 6, 2026, 8:00 PM  
+**Next actions:** Follow PUBLISHING-CHECKLIST.md Wednesday morning
+
+---
+
+*All files ready. Good luck with the session!*
