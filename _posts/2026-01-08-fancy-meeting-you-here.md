@@ -37,7 +37,7 @@ She reached across Elliot for the peanut bowl and plucked three. She fidgeted wi
 
 She turned to face him, picked up her glass and took another measured sip, measuring his next response.
 
-"I'm too busy with my own flavour of shit to be spiking your leads," said Elliot. He grabbed a peanut shell from his debris field and lined it up for another shot. "Who the fuck burns down orphanages? Not one, not two, but three? Christ."
+"I'm too busy with my own flavour of hell to be spiking your leads," said Elliot. He grabbed a peanut shell from his debris field and lined it up for another shot. "Who the fuck burns down orphanages? Not one, not two, but three? Christ."
 
 Elliot flicked and launched his shell. It missed. By a mile. She threw him off his game and he hated himself for it. He stood up, grabbed his drink and it sloshed wildly, but didn't spill. "And the paperwork keeps vanishing."
 
