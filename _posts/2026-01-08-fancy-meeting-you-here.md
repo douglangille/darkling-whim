@@ -37,7 +37,7 @@ She reached across Elliot for the peanut bowl and plucked three. She fidgeted wi
 
 She turned to face him, picked up her glass and took another measured sip, measuring his next response.
 
-"I'm too busy with my own shit to be spiking your leads," said Elliot. He grabbed a peanut shell from his debris field and lined it up for another shot. "Who the fuck burns down orphanages? Not one, not two, but three? Christ."
+"I'm too busy with my own flavour of shit to be spiking your leads," said Elliot. He grabbed a peanut shell from his debris field and lined it up for another shot. "Who the fuck burns down orphanages? Not one, not two, but three? Christ."
 
 Elliot flicked and launched his shell. It missed. By a mile. She threw him off his game and he hated himself for it. He stood up, grabbed his drink and it sloshed wildly, but didn't spill. "And the paperwork keeps vanishing."
 
@@ -53,7 +53,7 @@ He emptied the glass and plunked it down. Elliot put up his hand to let Barney k
 
 Marla's voice dropped to a low whisper, almost a growl. "That's not fair and you know it." She raised her head to meet Elliot in the eye, ready to eviscerate him for being so callous and mean. She caught the TV flickering over his shoulder. "Barney, turn that up."
 
-Breaking news from downtown this morning. Vigilante copycat torches the 6th Street Precinct. The helicopter feed caught some too-fast blurred figure frenetically embattled with a swarm of drones around the blaze.
+*Breaking news from downtown this morning. Vigilante copycat torches the 6th Street Precinct.* The helicopter feed caught some too-fast blurred figure frenetically embattled with a swarm of drones around the blaze.
 
 Rain began to splatter against the windows as if adding insult to injury against the wintery breeze.
 
