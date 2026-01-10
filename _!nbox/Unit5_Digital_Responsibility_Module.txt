@@ -1,0 +1,325 @@
+
+Unit 5: Digital Responsibility and Safety
+Module Duration: ~1 hour
+Delivery Mode: Self-paced in Brightspace
+Audience: NSCC employees with low digital literacy
+Tone: Professional-casual, plain language, inclusive
+
+Learning Objectives:
+- Practice safe digital habits like secure passwords, device updates, and scam awareness.
+- Apply ethical standards in online communication, academic integrity, and data use.
+- Understand and respect privacy, copyright, and digital footprint responsibilities.
+- Navigate NSCC’s technology policies and know where to find support.
+- Recognize the shared responsibility between individuals and NSCC in maintaining a safe digital environment.
+
+Segment 1: Safe Digital Habits
+
+Why It Matters
+Digital safety isn’t just about protecting NSCC systems — it’s about protecting you. Whether you're checking email, logging into Brightspace, or using your phone at home, your habits shape your risk.
+
+Passwords & Authentication
+Good Practice:
+- Use long, memorable passphrases (e.g., “CoffeeIsLife@7am”)
+- Don’t reuse passwords across accounts
+- Turn on Multi-Factor Authentication (MFA) wherever possible
+
+Common Missteps:
+- Writing passwords on sticky notes
+- Using “NSCC2023!” for everything
+- Ignoring MFA prompts because “it’s annoying”
+
+Device Updates
+Good Practice:
+- Keep your operating system and apps updated
+- Restart your device regularly to apply patches
+- Use antivirus software (NSCC-managed devices already have this)
+
+Common Missteps:
+- Clicking “Remind Me Later” for weeks
+- Using unsupported browsers or outdated plugins
+
+Scam & Phishing Awareness
+Good Practice:
+- Check sender addresses carefully
+- Hover over links before clicking
+- Report suspicious emails to NSCC IT
+
+Common Missteps:
+- Clicking “urgent” links without checking
+- Downloading attachments from unknown senders
+
+NSCC-Specific Requirement
+All NSCC employees must complete Beauceron Cyber Awareness Training.
+Link: https://nscc.app.beauceronsecurity.com/individual.php
+
+Activity
+Spot the Scam Quiz (Brightspace quiz tool placeholder)
+
+Quiz Questions
+1. What’s the most secure type of password?
+   A. Your birthdate
+   B. A short word with a number
+   C. A long passphrase you can remember (Correct)
+
+2. What should you do if you receive a suspicious email?
+   A. Click the link to see what it is
+   B. Forward it to a friend
+   C. Report it to NSCC IT (Correct)
+
+3. Which of the following is a required training for NSCC employees?
+   A. LinkedIn Learning
+   B. Beauceron Cyber Awareness Training (Correct)
+   C. Brightspace Basics
+
+Discussion Prompt
+What’s one digital habit you’ll change starting today?
+
+Media Script
+Doug Video: “Why Digital Habits Matter”
+Hey — Doug here.
+Let’s talk about digital habits. Not the flashy stuff — just the basics that keep you and NSCC safe.
+Strong passwords. Device updates. Spotting sketchy emails. These aren’t just IT rules — they’re everyday habits that protect your work, your students, and your personal info.
+NSCC requires all employees to complete Beauceron Cyber Awareness Training. It’s short, practical, and yes — actually useful.
+If you haven’t done it yet, go knock it out. It’s part of being a responsible digital citizen here.
+
+Segment 2: Ethical Online Behaviour
+
+Why It Matters
+Digital spaces are shared spaces. Your actions reflect your values — and NSCC’s expectations.
+
+Respectful Communication
+Good Practice:
+- Use clear, inclusive language
+- Avoid sarcasm or jokes that don’t translate well
+- Assume good intent, but be mindful of tone
+
+Common Missteps:
+- ALL CAPS = yelling
+- Replying in frustration
+- Ignoring accessibility (e.g., no alt text)
+
+Academic Integrity
+Good Practice:
+- Cite your sources
+- Don’t reuse work without permission
+- Ask for help when unsure
+
+Common Missteps:
+- Copy-pasting from the internet
+- Sharing answers in group chats
+- “Borrowing” someone’s work and tweaking it
+
+Ethical Data Use
+Good Practice:
+- Only access data you’re authorized to see
+- Keep student info private
+- Use NSCC-approved tools
+
+Common Missteps:
+- Emailing spreadsheets with grades
+- Using personal cloud storage
+- Sharing login credentials
+
+Activity
+Scenario Quiz: “What Would You Do?”
+
+Quiz Questions
+1. Which of these is respectful online communication?
+   A. Using ALL CAPS to make your point
+   B. Responding with sarcasm
+   C. Asking clarifying questions politely (Correct)
+
+2. What’s a violation of academic integrity?
+   A. Citing your sources
+   B. Copying someone else’s work without permission (Correct)
+   C. Asking for help
+
+3. What should you do with a spreadsheet of student grades found on a shared drive?
+   A. Share it with your team
+   B. Move it to your personal Google Drive
+   C. Alert your supervisor or IT (Correct)
+
+Discussion Prompt
+What does ethical tech use look like in your role?
+
+Media Script
+Doug Video: “Trust and Tech Ethics”
+Ethics online isn’t just about avoiding trouble — it’s about trust.
+When you post in Brightspace, email a colleague, or handle student data, you’re building (or breaking) trust.
+Respectful communication matters. So does academic integrity. And yes, citing your sources applies even in discussion posts.
+NSCC has policies to guide you — but the real question is: what kind of digital citizen do you want to be?
+
+Segment 3: Privacy, Copyright, and Digital Footprint
+
+Why It Matters
+Your digital footprint follows you. Privacy and copyright matter — for you and your students.
+
+Privacy Awareness
+Good Practice:
+- Use NSCC-approved tools
+- Lock your screen
+- Know what info you’re sharing
+
+Common Missteps:
+- Emailing student info to personal accounts
+- Leaving devices unlocked
+- Oversharing on social media
+
+Copyright Literacy
+Good Practice:
+- Use Creative Commons
+- Attribute sources
+- Ask Library Services for help
+
+Common Missteps:
+- Copy-pasting images from Google
+- Using copyrighted music
+- Sharing textbook PDFs
+
+Digital Footprint Awareness
+Good Practice:
+- Google yourself
+- Use privacy settings
+- Think before you post
+
+Common Missteps:
+- Posting complaints publicly
+- Forgetting deleted posts may be archived
+- Mixing personal and professional accounts
+
+Activity
+Digital Footprint Tracker Worksheet
+
+Quiz Questions
+1. What’s a good way to respect copyright?
+   A. Use images from Google
+   B. Use Creative Commons content with attribution (Correct)
+   C. Copy content from a textbook
+
+2. How can you protect your privacy online?
+   A. Share your full name and location on every platform
+   B. Use strong privacy settings on social media (Correct)
+   C. Post your work schedule publicly
+
+3. What might negatively affect your digital footprint?
+   A. Posting thoughtful comments on LinkedIn
+   B. Sharing classroom photos without consent (Correct)
+   C. Using privacy settings
+
+Discussion Prompt
+Where does your digital footprint show up — and what does it say about you?
+
+Media Script
+Doug Audio: “Digital Footprint Gone Wrong”
+Quick story.
+A colleague once posted a classroom photo on social media — didn’t blur faces, didn’t ask permission.
+It seemed harmless… until a student flagged it. Privacy breach.
+Your digital footprint isn’t just what you post — it’s what others see, share, and remember.
+So before you hit “share,” ask: is this mine to post? And what does it say about me?
+
+Segment 4: NSCC Technology Policies and Support
+
+Why It Matters
+Knowing what’s expected — and where to get help — makes digital life smoother.
+
+Key NSCC Policies
+- Acceptable Use Policy
+- Social Media Policy
+- Generative AI Guidelines
+
+Support Channels
+- NSCC Technology Service Desk
+- Copilot
+- LinkedIn Learning
+
+Activity
+Policy Scavenger Hunt
+Use NSCC’s policy site to answer:
+1. What’s one thing you can’t do under Acceptable Use?
+2. Where do you report phishing?
+3. What’s NSCC’s stance on ChatGPT?
+
+Quiz Questions
+1. What’s NOT allowed under Acceptable Use?
+   A. Using NSCC tech for personal profit (Correct)
+   B. Asking IT for help
+   C. Using NSCC email for work
+
+2. Where can you find NSCC’s tech policies?
+   A. On Reddit
+   B. In your email inbox
+   C. On the NSCC website (Correct)
+
+3. What should you do if you suspect phishing?
+   A. Ignore it
+   B. Report it to NSCC IT (Correct)
+   C. Forward it to a friend
+
+Discussion Prompt
+Which NSCC tech policy feels most relevant to your day-to-day work?
+Where do you usually go when you need help with tech? Is it working for you?
+
+Media Script
+Doug Audio: “Where to Find Help”
+NSCC has your back — but only if you know where to look.
+The Technology Service Desk is your go-to for tech issues. Copilot (that’s me) can help with questions. And LinkedIn Learning is great for brushing up on skills.
+Policies like Acceptable Use and Generative AI Guidelines aren’t just red tape — they’re there to protect you and the college.
+So take a few minutes to explore them. You’ll be glad you did.
+
+Segment 5: Shared Responsibility
+
+Why It Matters
+Digital safety isn’t just IT’s job. It’s a shared responsibility.
+
+Your Role
+Good Practice:
+- Complete required training
+- Follow policies
+- Model good habits
+
+Common Missteps:
+- Assuming “someone else” will handle it
+- Ignoring suspicious activity
+- Sharing credentials “just this once”
+
+NSCC’s Role
+- DI&Tech: Systems and cybersecurity
+- Centre for Teaching and Learning: Academic tech and pedagogy
+- Library Services: Copyright and privacy support
+
+Activity
+Discussion Board Prompt
+What does shared responsibility mean to you in a digital context?
+How do you see your role — and NSCC’s — in keeping our digital environment safe?
+
+Quiz Questions
+1. Who is responsible for digital safety at NSCC?
+   A. Only the IT department
+   B. Only managers
+   C. Everyone — including you (Correct)
+
+2. Which department helps with academic tech and pedagogy?
+   A. Library Services
+   B. Centre for Teaching and Learning (Correct)
+   C. Digital Innovation and Technology
+
+3. How can you contribute to a safe digital environment?
+   A. Share your login with a colleague
+   B. Complete required training and follow policies (Correct)
+   C. Assume someone else will handle it
+
+Media Script
+Doug Video: “We’re All in This Together”
+Digital safety isn’t just IT’s job. It’s everyone’s.
+At NSCC, DI&Tech keeps the systems secure. The Centre for Teaching and Learning helps you use tech wisely. Library Services supports copyright and privacy.
+But you? You’re the front line.
+When you follow good habits, report issues, and model ethical behaviour — you make the whole system stronger.
+So yeah, we’re all in this together. Let’s keep it safe.
+
+Module Wrap-Up
+You now know how to:
+- Practice safe digital habits
+- Act ethically online
+- Respect privacy and copyright
+- Navigate NSCC’s tech policies
+- Share responsibility for digital safety

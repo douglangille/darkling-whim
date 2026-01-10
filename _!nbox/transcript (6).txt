@@ -1,0 +1,48 @@
+﻿Mandy (2025-04-04, 12:57:25 p.m.): Thanks for using DigiCert Live Chat! You are now chatting with Mandy. 
+Mandy (2025-04-04, 12:57:47 p.m.): Good day Doug I hope you are well 
+Me (2025-04-04, 12:57:53 p.m.): I am! 
+Me (2025-04-04, 12:58:55 p.m.): I need to renew the cert for support.nscc.ca. I'm listed as the POC, but am no longer in that role) 
+Mandy (2025-04-04, 12:59:29 p.m.): I see the verification call is pending for Nova Scotia Community College 
+Mandy (2025-04-04, 1:00:16 p.m.): We have verified the number +19024916722 is anyone available to accept the call if we attempt the call now? 
+Me (2025-04-04, 1:00:29 p.m.): just a sec. 
+Me (2025-04-04, 1:01:29 p.m.): I'm not sure that is an active number.. stand by 
+Mandy (2025-04-04, 1:01:52 p.m.): Certainly 
+Me (2025-04-04, 1:04:26 p.m.): so that's a switchboard to anynumber of different people. Is there another way to verify? 
+Mandy (2025-04-04, 1:07:15 p.m.): We can also validate via email I have verified the following email address please can you advice if you are able to access the email ITcampus.info@nscc.ca 
+Me (2025-04-04, 1:08:20 p.m.): no... That's an unmonitored inbox for one of our campuses 
+Mandy (2025-04-04, 1:08:59 p.m.): Can you advise if there is an email address on the Nova Scotia Community College webste that we can use? 
+Me (2025-04-04, 1:09:10 p.m.): cybersecurity@nscc.ca would be a better email address to use 
+Mandy (2025-04-04, 1:10:04 p.m.): Can the address be located on the Nova Scotia Community College website? 
+Me (2025-04-04, 1:11:55 p.m.): well... any @nscc.ca email is associated with our website and institution 
+Mandy (2025-04-04, 1:12:39 p.m.): I was unable to locate the email address on the website do you have a link where I can find the address please 
+Mandy (2025-04-04, 1:12:42 p.m.): in alternative we can complete the verification via postal letter We send a letter to the verified address listed on the order with a security code. When the letter arrives, a contact can then reach out to us, provide the code and complete the verification call.
+
+OR
+
+ Legal opinion letter
+ In order to complete the validation process, the attached form must be completed, signed, and returned to DigiCert. To complete the form, you will need to consult with a licensed lawyer, accountant, or equivalent in your local jurisdiction. The form will be filled out by that representative and requires a valid signature. Once received, we will verify the legal standing of the signer through the proper registering authority and contact them, using publicly verified information, to verify the signature.
+Once the letter is signed, please attach it as a reply to this email or fax it to +1-801-705-0481.
+If the letter is signed by in-house counsel, please ensure that the registration records for the signer are up to date including contact information. 
+Me (2025-04-04, 1:13:47 p.m.): ok.. how about andre.klefenz@nscc.ca....  that should be finable on our employee directory and he's our IT infrastructure manager 
+Me (2025-04-04, 1:14:34 p.m.): https://www.nscc.ca/contact/employee-directory.aspx 
+Mandy (2025-04-04, 1:16:58 p.m.): Thank you for the link I have verified the email address Andre.Klefenz@nscc.ca and will send the verification email right away ,just a moment please 
+Me (2025-04-04, 1:17:34 p.m.): thanks.. standing by 
+Mandy (2025-04-04, 1:18:41 p.m.): I have now sent the email to Andre.Klefenz@nscc.ca 
+Mandy (2025-04-04, 1:20:43 p.m.): Is there anything else I can assist you with? 
+Me (2025-04-04, 1:22:04 p.m.): I'm not sure.. who is going to get the token to create the txt record? me or Andre Klefenz? 
+Me (2025-04-04, 1:22:14 p.m.): Are there any oyher steps? 
+Mandy (2025-04-04, 1:22:56 p.m.): The domain  nscc.ca has already been validated only the verification call is pending 
+Mandy (2025-04-04, 1:23:15 p.m.): nscc.ca
+
+Successfully passed DCV check on 07 Mar 2025 15:01 UTC
+  Valid for EV until 08 Apr 2026 15:01 UTC (12 months 3 days left)
+  Valid for OV until 08 Apr 2026 15:01 UTC (12 months 3 days left)
+
+DCV Method: email Date Submitted: 05 Mar 2025 14:05 UTC Email Used: webmaster@nscc.ca 
+Me (2025-04-04, 1:23:39 p.m.): great.. so we 
+Me (2025-04-04, 1:23:45 p.m.): 'we're good to go? 
+Mandy (2025-04-04, 1:24:15 p.m.): Yes once the verification email to Andre.Klefenz@nscc.ca has been approved we will complete the review and the certificate will be issued 
+Me (2025-04-04, 1:24:30 p.m.): perfect. thanks again 
+Mandy (2025-04-04, 1:24:48 p.m.): You are most welcome , is there anything else I can assist you with? 
+Me (2025-04-04, 1:25:06 p.m.): no. I think that is all. 
+Mandy (2025-04-04, 1:25:24 p.m.): Thank you for visiting have a great day further 
