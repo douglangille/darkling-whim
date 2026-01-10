@@ -1,6 +1,6 @@
 # Decision Discovery Session - Should I Pursue Acting CIO?
 
-**Date**: 2026-01-09, 8:56 PM - 9:55 PM AST
+**Date**: 2026-01-09, 8:56 PM - 10:06 PM AST
 **Method**: Structured questioning to uncover true motivations and decision factors
 
 ---
@@ -182,7 +182,7 @@
 - **"Creating innovative programs [and mentoring] great people and making a real impact on learning"** - that's what would make him proud
 - **"I'm not sure that being a CIO would make me proud outside of the status symbol that comes with it."**
 
-**Key Insight**: THE核心 ADMISSION. CIO is about status, not fulfillment. Considering role mostly out of fear (Angela, being packaged out, being passed over) rather than desire.
+**Key Insight**: THE CORE ADMISSION. CIO is about status, not fulfillment. Considering role mostly out of fear (Angela, being packaged out, being passed over) rather than desire.
 
 ---
 
@@ -223,100 +223,183 @@
 
 **Q**: If innovation work requires CIO-level air cover and Derek is leaving regardless, isn't the work already doomed unless you or someone sympathetic becomes CIO? Or is there another executive who could champion it?
 
-**A**: [Session paused to save state]
+**A**: 
+- **RJ could provide the right air cover**
+- **Angela would not**
+- Derek would if he stayed, but **not convinced Derek would stay if he didn't get swing at VP job**
+- **"Pretty sure a new CIO is going to be a thing within the next 12 months anyway"**
+- **"In my mind the only viable internal candidate that I could work with would be RJ"**
+- Anyone else would be problematic
+- No idea what external hire would bring
+
+**Key Insight**: Derek is leaving regardless. RJ is the ONLY internal candidate Doug can work with who would provide air cover for innovation work. Angela would kill it. External hire is unknown variable.
 
 ---
 
-## Critical Decision Factors Identified
+## FINAL ANALYSIS
 
-### What He Actually Wants
-1. Create innovative programs
-2. Mentor great people  
-3. Make real impact on learning
-4. Do creative/strategic skunkworks work
-5. Present, scheme, strategize with groups
-6. Lead through crisis
-7. Eventually: career coaching or "professional skunkworks for hire"
+### The Reframed Question
 
-### What CIO Role Offers
-1. Status symbol
-2. Money
-3. Proof he can do it (capstone)
-4. Some executive strategy sessions and crisis leadership
-5. Orchestration of capable people
-6. Air cover for innovation work (if he's doing it)
+The question is NOT: "Should I pursue acting CIO?"
 
-### What CIO Role Costs
-1. Individual contributor innovation work he loves
-2. Personal time (logistics: one car, 45 min commute, shift work wife)
-3. 6-12 months off market for other opportunities
-4. Implementation details grind (even with delegation)
-5. Executive-level politics (stretch skill, introverted with unknowns)
-6. Risk of being trapped if better opportunity emerges
+The question IS: **"Given that Derek is leaving anyway and a new CIO is inevitable within 12 months, what's the best path to protect innovation work and position for ideal next role?"**
 
-### The Fear Driving Consideration
-1. Angela becoming CIO and gutting innovation work
-2. Being marginalized or packaged out
-3. People who were below him moving ahead
-4. "If I can't make a difference now, I won't ever" (age 53, second mountain)
-5. Sense of duty as "best internal candidate"
+### The Three Viable Scenarios
 
-### The Core Dilemma
-**Innovation work requires executive-level air cover to survive.** Derek is leaving regardless. Without CIO-level protection:
-- Angela would gut it
-- RJ might not prioritize it
-- LMS work gets absorbed elsewhere
+**Scenario A: Doug Becomes Acting CIO**
+- ✅ Protects innovation work (provides own air cover)
+- ✅ Proves capability (capstone/status achieved)
+- ✅ Money and executive experience
+- ✅ Positions for senior manager roles afterward
+- ❌ Gives up IC work he loves for 6-12 months
+- ❌ Risk of being trapped if better opportunity emerges
+- ❌ Logistics challenges (one car, 45 min commute, RTO pressure)
+- ❌ May hate it or be mediocre at it
+- ❌ Doing job for status/duty, not fulfillment
 
-So is Doug being forced to choose between:
-- Taking job he doesn't want to protect work he loves?
-- Letting work die while pursuing roles he'd actually enjoy?
-- Finding third path with different executive champion?
+**Scenario B: RJ Becomes CIO, Doug Takes RJ's Role**
+- ✅ RJ provides air cover for innovation work
+- ✅ Senior Manager of Service Delivery Operations = "might be the best of both worlds"
+- ✅ Managers reporting to Doug (growth from current 3 reports)
+- ✅ More operational/strategic blend, less pure executive admin
+- ✅ Stays available for Dean or other creative senior roles
+- ✅ Better alignment with actual interests (mentoring, strategy, some IC work)
+- ❌ Requires RJ to get CIO (not guaranteed)
+- ❌ Still risk of external hire or Angela getting it
+- ❌ May feel like "settling" for not pursuing CIO
 
----
+**Scenario C: Angela or External Gets CIO**
+- ❌ Innovation work likely gutted or deprioritized
+- ❌ Doug marginalized or packaged out
+- ❌ "Life would just suck so hard"
+- ❌ Would be looking for other roles at risk of pension
+- This is the scenario to AVOID
 
-## Open Questions for Next Session
+### The Strategic Calculation
 
-1. **Air Cover Question**: Who besides CIO could champion/protect innovation work? Anna Burke as Acting President? VP Academic? Someone else?
+**Key Facts:**
+1. Derek leaving regardless = new CIO is happening
+2. Only RJ provides acceptable air cover among internal candidates
+3. Doug doesn't actually want to BE a CIO permanently
+4. What Doug actually wants: innovation work + mentoring + eventual career coaching/skunkworks role
+5. RJ's senior manager role might be "best of both worlds"
+6. Doug is 53, locked into NSCC for pension (12 years to 65)
 
-2. **RJ Scenario Deep Dive**: If RJ becomes CIO and Doug takes RJ's senior manager role - does that actually solve everything? Innovation work status? Growth potential? Satisfaction level?
+**The Risk Assessment:**
+- If Doug DOESN'T pursue CIO and RJ gets it = IDEAL OUTCOME (innovation protected, Doug in RJ's role)
+- If Doug DOESN'T pursue CIO and Angela/external gets it = WORST OUTCOME (innovation gutted, marginalized)
+- If Doug DOES pursue and gets CIO = ACCEPTABLE OUTCOME (work protected, but doing job he doesn't want)
+- If Doug DOES pursue and doesn't get it = depends who does (RJ = fine, Angela/external = bad)
 
-3. **Alternative Paths**: What other senior roles at NSCC would provide:
-   - Creative/strategic work
-   - Mentoring opportunities  
-   - Sufficient compensation
-   - Protection from marginalization
-   - Better alignment with "retirement career" vision
+### The Missing Intelligence
 
-4. **Negotiation Leverage**: If does pursue CIO, what could negotiate?
-   - Hybrid work arrangement (one car, 45 min commute)
-   - Keeping some innovation IC work
-   - Guaranteed senior manager role afterward
-   - Clear expectations about permanent vs. temporary
+**Critical questions that change everything:**
 
-5. **Risk Assessment**: What's actual probability of:
-   - Angela getting CIO?
-   - RJ getting CIO?
-   - External candidate?
-   - Doug getting it if applies?
-   - Current role being eliminated in next 1-3 years?
+1. **What is RJ's actual interest in CIO role?** 
+   - If RJ wants it badly = don't compete, support him
+   - If RJ ambivalent = Doug becomes default internal candidate
 
-6. **Test the Assumption**: Is he actually "best internal candidate" or is that ego/duty talking? What would objective assessment look like?
+2. **What is Anna Burke's preference?**
+   - Does she want internal continuity or external fresh perspective?
+   - Who does she see as Derek's natural successor?
 
----
+3. **How strong is Angela's candidacy really?**
+   - Is she actually interested?
+   - Does she have executive support?
 
-## Preliminary Hypothesis
-
-**Doug is considering a job he doesn't want (CIO) out of fear and duty, when what he actually wants is to protect and continue innovation work while positioning for eventual career coaching/mentoring role.**
-
-The real question isn't "Should I pursue CIO?" 
-
-The real question is: **"How do I protect the innovation work I love while building toward the career endgame I actually want - with or without being CIO?"**
+4. **What is timeline and process?**
+   - Internal appointment or posted position?
+   - When does Derek officially move?
 
 ---
 
-*Session paused at Question 13 to save state.*  
-*To be continued...*
+## RECOMMENDATION
+
+### Immediate Action: Intelligence Gathering (Next 7 Days)
+
+**Before making ANY decision about pursuing CIO, you MUST answer these questions:**
+
+1. **Have direct conversation with RJ** (casual, colleague to colleague):
+   - "Derek's likely pursuing VP role. Have you thought about the CIO opportunity?"
+   - Gauge his genuine interest level
+   - If he wants it: gauge whether he'd value your support
+   - If he's ambivalent: understand why
+
+2. **Have strategic conversation with Derek** (mentor to mentee):
+   - Confirm his VP timeline and likelihood
+   - Ask his perspective on CIO succession
+   - Gauge whether he'd advocate for you vs. RJ vs. external
+   - Understand Anna's thinking if he knows
+
+3. **Read Anna Burke's priorities**:
+   - What are her immediate challenges as Acting President?
+   - Does she want continuity or change in CIO role?
+   - Is there way to have indirect conversation about IT leadership needs?
+
+### Decision Framework (Week 2)
+
+**IF RJ clearly wants CIO and would provide air cover:**
+- **DON'T pursue CIO**
+- Position for RJ's senior manager role
+- Support RJ's candidacy
+- This gets you innovation protection + better role fit + stay available for Dean roles
+
+**IF RJ is ambivalent or doesn't want CIO:**
+- **DO pursue acting CIO**
+- You become default internal candidate
+- Frame as temporary leadership during transition
+- Negotiate hybrid arrangement upfront
+- Plan exit strategy to senior manager role after 6-12 months
+- This is duty/capstone path but protects work
+
+**IF Angela is strong candidate with exec support:**
+- **DO pursue acting CIO aggressively**
+- This becomes defensive move to prevent worst outcome
+- Rally support from stakeholders
+- Position as continuity/stability candidate
+- Accept this means giving up IC work to save innovation function
+
+**IF external hire is likely regardless:**
+- **DON'T pursue CIO**
+- Focus on making innovation work bulletproof with documentation/results
+- Position as valuable #2 to incoming CIO
+- Stay available for lateral senior opportunities
+- Build relationship with new CIO to secure air cover
+
+### The "Third Path" (If RJ Gets CIO)
+
+**This might actually be your BEST outcome:**
+
+1. RJ becomes CIO (provides air cover you need)
+2. Doug takes RJ's senior manager role (growth + better fit)
+3. Innovation work protected under RJ's leadership
+4. Doug gets:
+   - Strategic/operational blend work (more interesting than pure exec admin)
+   - Mentoring opportunities (managers reporting to him)
+   - Some proximity to innovation work
+   - Stays available for Dean or other creative senior roles when they arise
+   - Better work-life logistics
+   - Alignment with actual interests and retirement career vision
+
+**This is the "best of both worlds" you mentioned.**
 
 ---
 
-*Last Updated: 2026-01-09, 9:55 PM AST*
+## FINAL VERDICT
+
+**You have enough information to recommend a course of action, but you need ONE WEEK of intelligence gathering first.**
+
+**The recommendation depends entirely on RJ's interest level:**
+
+- **RJ wants CIO** = Support him, position for his role = BEST OUTCOME
+- **RJ doesn't want CIO** = Pursue acting CIO yourself = NECESSARY DUTY
+- **Angela strong candidate** = Pursue CIO aggressively = DEFENSIVE MOVE
+
+**Your next action is NOT to decide about CIO. Your next action is to have coffee with RJ.**
+
+That conversation determines everything.
+
+---
+
+*Session completed: 2026-01-09, 10:15 PM AST*  
+*Next step: Talk to RJ within 7 days*
