@@ -11,7 +11,12 @@ tags: [web-presence, substack, jekyll, content-strategy, digital-identity]
 
 ## Executive Summary
 
-You maintain two distinct and complementary web presences that effectively separate professional and creative identities. Digital Doug (Substack) serves as a thought leadership platform for technology innovation and productivity in higher education, while On a Darkling Whim (douglangille.ca) functions as a creative portfolio for fiction and personal writing. Both properties demonstrate consistent voice, clear positioning, and deliberate content curation aligned with their respective purposes.
+You maintain two distinct and deliberately separated web presences with clear boundaries between professional and creative identities. Digital Doug (Substack) serves as a weekly thought leadership platform for technology innovation and productivity in higher education, while On a Darkling Whim (douglangille.ca) functions as a dedicated creative portfolio publishing weekly flash fiction. Both properties demonstrate consistent voice, disciplined publishing cadence, and strategic positioning aligned with their respective purposes.
+
+**Current Publishing Rhythm:**
+- **Digital Doug:** Weekly professional content (breaks for Christmas and summer)
+- **On a Darkling Whim:** Weekly flash fiction (recent commitment)
+- **Strategic Approach:** Strict delineation between properties
 
 ---
 
@@ -22,6 +27,7 @@ You maintain two distinct and complementary web presences that effectively separ
 - **Tagline:** "Tech-related brain-droppings about innovation, productivity, and higher ed. You've been warned."
 - **Launch Date:** Launched 2 years ago (approximately November 2023)
 - **Primary Audience:** Technology leaders, educators, innovation professionals in higher education
+- **Publishing Cadence:** Weekly (with seasonal breaks for Christmas and summer)
 
 ### Content Strategy & Themes
 
@@ -31,6 +37,14 @@ You maintain two distinct and complementary web presences that effectively separ
 3. **Higher Education Innovation** - Technology adoption, pedagogy, institutional change
 4. **Digital Craftsmanship** - The intersection of human creativity and AI tools
 5. **Attention Economics** - Algorithm resistance, feed curation, information diet
+
+### Publishing Discipline
+
+**Operational Rhythm:**
+- ✅ **Weekly publication schedule** - Consistent delivery builds subscriber trust
+- ✅ **Strategic breaks** - Christmas and summer gaps prevent burnout while maintaining quality
+- ✅ **Professional focus** - Content stays within tech/innovation/productivity boundaries
+- **Strength:** Predictable cadence supports newsletter format and audience expectations
 
 ### Recent Content Performance (2025)
 
@@ -59,28 +73,28 @@ You maintain two distinct and complementary web presences that effectively separ
 - Avoiding jargon while maintaining technical credibility
 - Self-deprecating warnings ("You've been warned")
 
-### Content Gaps & Opportunities
+### Growth Opportunities
 
-**Observed Gaps:**
-1. **Publishing frequency** appears irregular (Sept/Nov 2025 visible, but gaps between)
-2. **Community engagement signals** (comments, discussions) not visible in analysis
-3. **Cross-linking** between Substack and Jekyll site could be stronger
-4. **Email subscriber metrics** not visible (Substack growth indicators)
+**Strengths to Leverage:**
+1. **Weekly cadence is established** - Maintain momentum and use for compounding subscriber growth
+2. **Newsletter format** - Substack's native email delivery supports audience building
+3. **Niche positioning** - Higher ed tech innovation has limited quality voices
+4. **Authentic expertise** - IT management background provides credibility
 
-**Growth Opportunities:**
-1. **Consistent cadence** - Establish predictable publishing rhythm (e.g., bi-weekly)
-2. **Multimedia expansion** - Consider audio/video supplements (you mentioned podcast interest)
-3. **Guest contributions** - Interview format with educators/innovators
-4. **Tool reviews** - Systematic evaluation of productivity/AI tools
-5. **Case studies** - Document specific NSCC innovation projects (where permissible)
-6. **Synthesis posts** - Quarterly roundups connecting themes across posts
+**Expansion Possibilities:**
+1. **Guest contributions** - Interview educators/innovators implementing your ideas
+2. **Tool reviews** - Systematic evaluation of productivity/AI tools (monthly feature)
+3. **Case studies** - Document NSCC innovation projects (where permissible)
+4. **Community engagement** - Substack discussion threads to surface reader insights
+5. **Cross-promotion** - Guest posts in higher ed tech publications to grow subscriber base
 
 ### Technical Implementation
 
 **Platform Choice Assessment:**
 - ✅ **Substack strengths:** Easy publishing, built-in newsletter, discoverability, minimal maintenance
+- ✅ **Weekly workflow:** Platform supports consistent publishing without technical friction
 - ⚠️ **Substack limitations:** Less control over design/branding, potential platform lock-in, limited analytics
-- **Recommendation:** Continue with Substack for now; platform serves purpose well and aligns with "workbench not warehouse" philosophy
+- **Recommendation:** Continue with Substack; platform serves purpose well and weekly cadence proves sustainable
 
 ---
 
@@ -90,7 +104,8 @@ You maintain two distinct and complementary web presences that effectively separ
 - **Platform:** Jekyll (static site generator) hosted on Netlify
 - **Tagline:** "On a Darkling Whim" (evocative, mysterious)
 - **Domain:** douglangille.ca (canonical personal domain)
-- **Primary Purpose:** Creative writing portfolio, fiction showcase, personal narrative
+- **Primary Purpose:** Creative writing portfolio, fiction showcase
+- **Publishing Cadence:** Weekly flash fiction (recent commitment)
 
 ### Content Architecture
 
@@ -102,179 +117,246 @@ Your Workbench repository reveals sophisticated Jekyll implementation:
 - Netlify deployment with custom configuration
 
 **Public Site Content (Sample):**
-- **"A Couple LLM Prompt Tips"** (March 2024) - Practical AI guidance with anatomy of good prompts
-- **"Digital Wellness: Working Smarter, Happier, and More Playfully"** (Feb 2024)
-- **Creative fiction:** "Eddie's Decision" (2014), "Stormy Night" (2013) - Long-standing fiction presence
+- **Weekly flash fiction** - Recent commitment to regular creative output
+- **Creative fiction archive:** "Eddie's Decision" (2014), "Stormy Night" (2013) - Long-standing fiction presence
+- **Occasional craft posts:** "A Couple LLM Prompt Tips" (March 2024)
+
+### Publishing Discipline
+
+**Operational Rhythm:**
+- ✅ **Weekly flash fiction commitment** - Builds creative discipline and audience expectations
+- ✅ **Genre-focused** - Fiction-only content maintains creative identity
+- ✅ **Separation from professional content** - No bleed from Digital Doug
+- **Strength:** Weekly practice develops craft while building portfolio
 
 ### Site Identity & Positioning
 
 **Creative Focus:**
-- Primary vehicle for fiction and narrative work
-- Demonstrates long-term commitment (content dating back to 2013)
-- Less frequent updates than Substack (intentional curation vs. regular publishing)
-- Links to canonical domain establish authority and ownership
+- **Primary vehicle for fiction** - Strictly creative writing, no professional content
+- **Long-term commitment** - Content dating back to 2013 demonstrates sustained creative practice
+- **Canonical domain** - douglangille.ca establishes permanent authorial presence
+- **Platform independence** - Self-hosted Jekyll removes platform risk for creative work
 
 **Technical Sophistication:**
 - Self-hosted with full control (Jekyll + Netlify)
 - No platform dependencies or content lock-in
 - Version-controlled via GitHub (content as code)
 - Professional development workflow (Gemfile, config, custom themes)
+- Git-based publishing workflow integrates with Workbench PKM system
 
-### Content Gaps & Opportunities
+### Growth Opportunities
 
-**Observed Gaps:**
-1. **Update frequency** - Appears less active than Substack
-2. **Cross-pollination** - Limited visible connection between creative and professional content
-3. **Story universe presentation** - If you're developing story universes (per your profile), unclear how they're showcased
-4. **Navigation/discovery** - Without full site access, unclear how readers find older work
+**Weekly Flash Fiction Strategy:**
+1. **Story universe development** - Use weekly pieces to build interconnected narratives
+2. **Thematic collections** - Group flash pieces into themed series (quarterly or seasonal)
+3. **RSS/Email subscriptions** - Build fiction audience parallel to Substack professional audience
+4. **Portfolio curation** - Feature best flash pieces prominently; create "Start Here" page
+5. **Submission pipeline** - Weekly practice generates material for literary magazine submissions
 
-**Growth Opportunities:**
-1. **Serial fiction** - Publish ongoing stories in installments
-2. **Story universe hub** - Create dedicated sections for interconnected narratives
-3. **Writing process posts** - Behind-the-scenes craft discussions
-4. **Cross-linking** - Strategic bridges between Substack (craft) and Jekyll (creative work)
-5. **RSS feeds** - Ensure discoverability for dedicated readers
-6. **Portfolio curation** - Highlight best/representative work prominently
+**Technical Enhancements:**
+1. **Fiction-specific navigation** - Story universes, characters, themes as discovery mechanisms
+2. **Reading lists** - Chronological vs. thematic vs. story-universe reading orders
+3. **Privacy-friendly analytics** - Track which stories resonate (Plausible/Fathom)
+4. **Author platform features** - Bibliography, publication history, writing philosophy
 
 ### Technical Implementation Assessment
 
 **Jekyll Choice Evaluation:**
-- ✅ **Strengths:** Full control, markdown-based, git workflow, no hosting costs (Netlify free tier), privacy-friendly
-- ✅ **Alignment:** Matches your technical expertise and workflow preferences
-- ✅ **Future-proof:** Content portable, no platform risk
-- ⚠️ **Considerations:** Requires technical maintenance, slower to publish than Substack
-- **Recommendation:** Maintain Jekyll for creative work; leverage technical control for unique presentation
+- ✅ **Full control:** Perfect for creative work requiring unique presentation
+- ✅ **Git workflow:** Integrates with Workbench, supports versioning creative drafts
+- ✅ **Markdown-based:** Fast writing workflow, no platform friction
+- ✅ **Future-proof:** Content portable, zero platform risk
+- ✅ **Privacy-friendly:** No tracking, reader-respectful
+- **Recommendation:** Maintain Jekyll; ideal for creative work and aligns with technical expertise
 
 ---
 
 ## Comparative Analysis
 
-### Identity Separation
+### Identity Separation Strategy
 
 | Dimension | Digital Doug (Substack) | On a Darkling Whim (Jekyll) |
-|-----------|-------------------------|-----------------------------|
-| **Purpose** | Professional thought leadership | Creative portfolio |
-| **Audience** | Educators, tech leaders | Readers, creative community |
+|-----------|-------------------------|-----------------------------||
+| **Purpose** | Professional thought leadership | Creative fiction portfolio |
+| **Audience** | Educators, tech leaders, innovators | Readers, writers, creative community |
 | **Voice** | Conversational expert | Narrative storyteller |
-| **Cadence** | Regular (newsletter rhythm) | Curated (quality over frequency) |
-| **Platform** | Substack (ease) | Jekyll (control) |
-| **Monetization** | Potential (Substack subscriptions) | Not evident |
+| **Content** | Tech, productivity, innovation | Flash fiction, creative writing |
+| **Cadence** | Weekly (+ seasonal breaks) | Weekly flash fiction |
+| **Platform** | Substack (newsletter ease) | Jekyll (creative control) |
+| **Monetization** | Potential paid subscriptions | Not prioritized |
+| **Cross-linking** | **Strictly separated** | **Strictly separated** |
 
-### Strategic Positioning
+### Strategic Positioning Assessment
 
-**Strengths:**
-- **Clear boundaries:** Professional vs. creative identities don't blur
-- **Platform-appropriate:** Each property uses ideal tool for its purpose
-- **Domain ownership:** douglangille.ca provides canonical home
-- **Authentic voice:** Both properties sound genuinely "you"
-- **Technical credibility:** Jekyll implementation demonstrates technical chops claimed in Substack
+**Strengths of Separation:**
+- ✅ **Clear audience expectations:** Subscribers know what they're getting from each property
+- ✅ **Professional credibility:** Digital Doug maintains authority without creative "noise"
+- ✅ **Creative freedom:** Darkling Whim avoids professional constraints
+- ✅ **Platform optimization:** Each property uses ideal tool for its purpose
+- ✅ **Reduced confusion:** No identity blurring or mixed messaging
+- ✅ **Independent growth:** Each property can develop without contaminating the other
 
-**Tensions:**
-- **Discoverability:** Two separate platforms may fragment audience
-- **Cross-promotion:** Limited visible linking between properties
-- **Content repurposing:** Opportunities to leverage content across both (e.g., craft essays on Substack → creative work on Jekyll)
-- **Update frequency:** Imbalance may signal priority (Substack > Jekyll)
+**Trade-offs of Separation:**
+- ⚠️ **Audience fragmentation:** Readers may not discover both properties
+- ⚠️ **Reduced cross-pollination:** Professional readers might enjoy creative work (and vice versa)
+- ⚠️ **Duplicated effort:** Two separate audiences require independent cultivation
+- ⚠️ **SEO/discovery:** No mutual link authority boost
+- ⚠️ **Limited repurposing:** Content stays siloed
+
+**Assessment:** Your strict separation strategy is **deliberate and defensible**. It prioritizes clarity and professional positioning over audience cross-pollination, which aligns with higher ed professional context where creative fiction presence might dilute tech credibility.
 
 ---
 
 ## Recommendations
 
-### Short-Term Actions (Next 30 Days)
+### Current Strategy Validation
 
-1. **Establish Publishing Cadence**
-   - Digital Doug: Commit to bi-weekly or monthly schedule
-   - On a Darkling Whim: Quarterly creative releases or monthly craft posts
+**What's Working (Keep Doing):**
+1. ✅ **Weekly publishing on both properties** - Sustainable rhythm you've proven you can maintain
+2. ✅ **Strict separation** - Maintains clear professional identity for Digital Doug
+3. ✅ **Platform choices** - Substack for ease, Jekyll for control; both appropriate
+4. ✅ **Flash fiction focus** - Weekly practice builds craft and portfolio simultaneously
+5. ✅ **Seasonal breaks** - Prevents burnout while maintaining annual consistency
 
-2. **Cross-Link Properties**
-   - Add prominent link to douglangille.ca in Substack bio/header
-   - Add Substack subscription widget to Jekyll site
-   - Include "Also published at..." notes in relevant posts
+### Short-Term Optimizations (Next 30 Days)
 
-3. **Content Audit**
-   - Review Jekyll site analytics (if available) to identify popular content
-   - Identify Substack posts that could spawn creative work (or vice versa)
+**Digital Doug:**
+1. **Analytics baseline** - Document current subscriber count, open rates, popular posts
+2. **Archive organization** - Tag/categorize posts by pillar (AI, productivity, higher ed, etc.)
+3. **About page refresh** - Ensure positioning is clear and link to relevant external profiles (LinkedIn, NSCC)
+4. **Comment engagement** - Respond to reader comments to build community
 
-4. **RSS/Newsletter Hygiene**
-   - Ensure both properties have clear RSS feeds
-   - Test email notifications and subscription flows
+**On a Darkling Whim:**
+1. **Flash fiction archive** - Create clear index/table of contents for weekly pieces
+2. **Reading guides** - Suggest reading orders (chronological, thematic, story universe)
+3. **RSS optimization** - Ensure feed works well for fiction readers
+4. **Author bio** - Establish authorial presence separate from professional identity
 
 ### Medium-Term Strategy (Next 90 Days)
 
-1. **Content Bridge Series**
-   - Create "The Craft of X" series on Substack that references creative work on Jekyll
-   - Publish "Behind the Story" posts on Jekyll that discuss process (linking to Substack craft discussions)
+**Digital Doug:**
+1. **Guest interview series** - Monthly conversations with educators/innovators
+2. **Tool review column** - Regular feature evaluating productivity/AI tools
+3. **Subscriber milestone goals** - Set growth targets and strategies
+4. **Referral program** - Leverage Substack's built-in referral features
 
-2. **Portfolio Refresh**
-   - Update Jekyll homepage to highlight best creative work
-   - Create "Story Universe" landing pages if applicable
-   - Add "Recent from Digital Doug" section to Jekyll site
-
-3. **Analytics Implementation**
-   - Add privacy-friendly analytics to Jekyll (Plausible, Fathom, or similar)
-   - Track Substack growth metrics (subscribers, open rates, popular posts)
-   - Identify content themes that resonate most
-
-4. **Audience Development**
-   - Guest post opportunities in higher ed tech publications
-   - Submit fiction to relevant markets (with douglangille.ca as author platform)
-   - Engage with writers/educators in comments and social
+**On a Darkling Whim:**
+1. **Story universe documentation** - If flash pieces connect, create universe guides
+2. **Submission strategy** - Submit best flash fiction to literary magazines
+3. **Thematic collections** - Group stories by season/quarter for reader discovery
+4. **Privacy-friendly analytics** - Add Plausible or Fathom to understand reader behavior
 
 ### Long-Term Vision (Next Year)
 
-1. **Content Ecosystem**
-   - Develop clear content strategy: What goes where, and why
-   - Consider podcast/audio as third pillar (references in Substack suggest interest)
-   - Build systematic repurposing workflow (Substack → Jekyll → social → GitHub)
+**Professional Property (Digital Doug):**
+1. **Authority building** - Position as go-to voice for higher ed tech innovation
+2. **Speaking opportunities** - Use Substack authority to secure conference talks
+3. **Paid subscriptions evaluation** - Consider premium tier if subscriber base reaches threshold
+4. **Book/guide potential** - Compile best posts into practical guide for educators
 
-2. **Monetization Strategy** (If Desired)
-   - Evaluate Substack paid subscriptions for premium content
-   - Consider Patreon/Ko-fi for creative work supporters
-   - Explore consulting/speaking opportunities stemming from Substack authority
+**Creative Property (On a Darkling Whim):**
+1. **Flash fiction collection** - Compile year's worth of stories into self-published collection
+2. **Story universe expansion** - Develop interconnected narratives into longer form
+3. **Writer platform** - Build presence in creative writing community
+4. **Publication credits** - Build bibliography through literary magazine submissions
 
-3. **Technical Evolution**
-   - Maintain Jekyll but explore modern static site generators (Eleventy, Astro) if needed
-   - Investigate headless CMS options for easier Jekyll content management
-   - Consider unified design system across both properties (subtle visual connections)
+**Ecosystem Management:**
+1. **Workbench optimization** - Refine content workflow (drafting → publishing → archiving)
+2. **Archive strategy** - Systematic backup of Substack content to Workbench
+3. **Platform flexibility** - Maintain ability to migrate either property if needed
+4. **Time allocation** - Track time spent on each property; adjust if imbalanced
 
-4. **Archive & Preservation**
-   - Systematic backup of all Substack content to Workbench
-   - Version control for Jekyll content evolution
-   - Document content migration plans (maintain platform flexibility)
+---
+
+## Strategic Considerations
+
+### The Separation Question
+
+Your decision to maintain **strict delineation** between properties is strategic and reflects clear thinking about professional positioning. Key considerations:
+
+**Arguments for Maintaining Separation:**
+- Higher ed professional context values focused expertise over renaissance dilettantism
+- Tech credibility could be undermined by prominent creative writing association
+- Each property can optimize for its specific audience without compromise
+- You can code-switch completely between professional and creative modes
+- Reduces risk of professional content alienating creative readers (or vice versa)
+
+**Alternative Models (For Consideration):**
+- **Minimal linking:** Brief author bio mentions on each property ("Also writes fiction at..." / "Professional work at...")
+- **Craft bridges:** Occasional Digital Doug posts about writing process/AI tools for writers (links to Darkling Whim as portfolio)
+- **Unified author platform:** Third property (douglangille.ca/about) that acknowledges both identities
+
+**Recommendation:** Maintain current strict separation for now, but consider **minimal linking** in 2027 once both properties have established stronger independent identities. Your professional positioning is most vulnerable during authority-building phase; separation protects this.
+
+### Sustainability Assessment
+
+**Weekly Publishing on Two Properties:**
+- **Workload:** ~4-6 hours weekly for Digital Doug, ~2-3 hours for flash fiction
+- **Burnout risk:** Seasonal breaks are smart; monitor for fatigue
+- **Quality maintenance:** Weekly flash fiction could pressure quality; ensure you maintain standards
+- **Recommendation:** Track writing time and quality satisfaction; adjust if either property suffers
+
+**Platform Risk Management:**
+- **Substack:** Growing but could be acquired/change terms; maintain Workbench backup
+- **Jekyll/Netlify:** Low risk but requires technical maintenance; document deployment process
+- **Recommendation:** Quarterly backup of all Substack content to Workbench; test Jekyll build regularly
 
 ---
 
 ## Conclusion
 
-Your dual web presence demonstrates intentional design and authentic voice. Digital Doug effectively positions you as a thought leader in educational technology and innovation, while On a Darkling Whim preserves space for creative expression and narrative work. The separation serves you well, but strategic cross-linking and content bridging could amplify both properties without compromising their distinct identities.
+Your dual web presence demonstrates disciplined execution and strategic clarity. The **weekly publishing cadence on both properties** is ambitious and sustainable only if you maintain the seasonal breaks you've planned. The **strict separation strategy** prioritizes professional credibility and audience clarity over cross-pollination efficiency—a defensible choice given higher ed professional context.
 
-The technical implementation choices—Substack for ease of professional publishing, Jekyll for creative control—align with your stated "workbench not warehouse" philosophy. Both platforms serve their purposes effectively, though publishing cadence and audience engagement remain opportunities for growth.
+**Primary Strengths:**
+- Consistent weekly publishing rhythm on both properties
+- Clear strategic separation prevents identity confusion
+- Platform choices optimize for each property's needs
+- Flash fiction commitment builds creative discipline and portfolio
+- Substack weekly cadence supports newsletter audience growth
 
-**Primary Action:** Establish consistent publishing rhythm for both properties and create explicit bridges between professional craft discussions and creative output.
+**Primary Risks:**
+- Sustainability of dual weekly publishing (monitor for burnout)
+- Audience discovery limitations due to strict separation
+- Platform dependencies (especially Substack)
+
+**Primary Recommendation:** Maintain current strategy through 2026. Document growth metrics (Substack subscribers, site traffic, flash fiction archive size) quarterly to assess effectiveness. Revisit separation strategy in 2027 once both properties have stronger independent identities.
 
 ---
 
 ## Appendix: Content Inventory
 
-### Digital Doug Recent Posts (2025)
-- Nov 18, 2025: Digital Craftsmanship (Part III: Navigating the In-Betweens)
-- Sept 25, 2025: Confidently Wrong
-- Sept 18, 2025: Slaying the Algorithm Dragon
-- Sept 9, 2025: AI Harmonizes with My Ideas
-- June 10, 2024: How I Plan My Week
-- (Earlier posts: Minimalist Phone, Disrupting Disruption, etc.)
+### Digital Doug Publishing Data
+- **Cadence:** Weekly (with Christmas and summer breaks)
+- **Recent visible posts (2025):**
+  - Nov 18, 2025: Digital Craftsmanship (Part III: Navigating the In-Betweens)
+  - Sept 25, 2025: Confidently Wrong
+  - Sept 18, 2025: Slaying the Algorithm Dragon
+  - Sept 9, 2025: AI Harmonizes with My Ideas
+- **Historical posts:** How I Plan My Week (June 2024), Minimalist Phone, Disrupting Disruption
 
-### On a Darkling Whim Sample Content
-- March 20, 2024: A Couple LLM Prompt Tips
-- Feb 20, 2024: Digital Wellness: Working Smarter, Happier, and More Playfully
-- July 27, 2014: Eddie's Decision (fiction)
-- March 13, 2013: Stormy Night (fiction)
+### On a Darkling Whim Publishing Data
+- **Cadence:** Weekly flash fiction (recent commitment)
+- **Archive samples:**
+  - March 20, 2024: A Couple LLM Prompt Tips (craft post)
+  - Feb 20, 2024: Digital Wellness: Working Smarter, Happier, and More Playfully
+  - July 27, 2014: Eddie's Decision (fiction)
+  - March 13, 2013: Stormy Night (fiction)
+- **Content span:** 13+ years (2013-2026)
 
 ### Technical Stack
-- **Digital Doug:** Substack platform
+- **Digital Doug:** Substack platform (native newsletter, email delivery, comments)
 - **On a Darkling Whim:** Jekyll 4.x, Ruby Gems, Netlify hosting, GitHub version control
-- **Domain:** douglangille.ca (canonical)
+- **Domain:** douglangille.ca (canonical personal domain)
 - **Workbench:** Private GitHub repository with comprehensive PKM structure
+- **Publishing workflow:** Git-based for Jekyll, web-based for Substack
+
+### Strategic Framework
+- **Professional identity:** Digital Doug (tech/innovation/productivity)
+- **Creative identity:** On a Darkling Whim (fiction/narrative)
+- **Separation strategy:** Strict delineation, no cross-linking
+- **Publishing discipline:** Weekly on both properties with seasonal breaks
+- **Platform philosophy:** "Workbench not warehouse" - active working spaces, not passive archives
 
 ---
 
-*Analysis conducted January 11, 2026 using live site inspection and web search. Recommendations reflect current state and stated user preferences for structured workflows, privacy-conscious tools, and "workbench not warehouse" philosophy.*
+*Analysis conducted January 11, 2026 and updated with actual publishing practices. Recommendations reflect confirmed weekly publishing cadence and strategic separation approach.*
