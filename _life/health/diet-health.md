@@ -113,8 +113,43 @@
 - Refined PDF infographic (fonts, spacing, print-friendly) for fridge posting
 - Potential expansion: "Approved Snack List" and "Store Run Protocol" as laminated checklist
 
-## Discardables
 
-- Deep dive into formal academic terminology for physical activity
-- Overly rigid or calorie-counting diet approaches (risk guilt spirals)
-- Generic gym/fitness prescriptions (not aiming for physique/swole goals)
+## Neurodivergent-Friendly Habit System (from Health Coaching)
+
+### Core Principles
+- **Environment beats willpower:** Systems and cues, not discipline, drive change—especially for ADHD/autistic brains.
+- **Friction and visibility:** Make healthy choices easier and default; make less-helpful choices less visible or more effortful.
+- **No shame, no tracking traps:** Focus on small, repeatable wins, not perfection or calorie counting.
+
+### Key Behavioral Strategies
+
+#### 1. Water Bottle Habit Loop
+- Place a water bottle in a fixed spot by the door.
+- Every time you finish a dog-related task, grab/fill the bottle and carry it upstairs—hands occupied, snack impulse blocked.
+- Track only: "How many dog trips included bottle → fill → upstairs?"
+
+#### 2. Snack Friction & Ownership Boundaries
+- If snacks must remain in the house, label those not for you (e.g., "Rhonda").
+- Personal rule: "If I’m not hungry and it says Rhonda, I don’t touch it."
+- Out of sight = out of mind: Move tempting snacks to less visible, less convenient spots if possible.
+
+#### 3. Protein-First Early in the Day
+- Prioritize 1–2 protein-forward foods before 1 p.m. (e.g., eggs, yogurt, cheese, leftover meat, shake).
+- For breakfast: keep eggs, reduce bread (2 slices → 1 slice).
+- For lunch: add a palm-sized protein to whatever is shared.
+
+#### 4. Evening Snack Vehicle Swap
+- Hummus is fine; swap pretzels/chips for softer, lower-carb options (cucumber, bell pepper, snow peas, cherry tomatoes, etc.).
+
+#### 5. Sleep Hygiene by Environment
+- Buy a manual alarm clock; charge phone outside the bedroom.
+- No screens for the last 20 minutes in bed.
+- This improves sleep quality, which reduces next-day cravings and supports metabolic health.
+
+#### 6. Tracking for Neurodivergence
+- Weekly check-ins (not daily): weight trend, side effects, energy, gout symptoms.
+- Focus on process and outcomes, not rigid tracking or all-or-nothing thinking.
+
+---
+
+These strategies are designed to work with, not against, neurodivergent wiring—minimizing friction, maximizing environmental cues, and building sustainable, low-effort health improvements.
