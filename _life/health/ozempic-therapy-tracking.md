@@ -84,6 +84,11 @@ This document tracks Doug's Ozempic (semaglutide) therapy initiated January 2026
 - **Evening Snacking:** Sporadic; sometimes heavy, sometimes not
 - **Assessment:** Carb-heavy lunch and all-day snacking (especially low-quality evening snacks) likely driving weight gain and A1C increase
 
+### Beverage Consumption
+- **Coffee:** ~1 pot of black coffee daily (no cream, no sugar)
+- **Evening Beverages:** Switches to tea in evenings (hot beverage preference)
+- **Hydration Note:** Coffee consumption to be considered against 1.5-2L daily water target for Ozempic therapy
+
 ---
 
 ## Ozempic Dosing Schedule
@@ -178,6 +183,7 @@ Weight is primary driver of interconnected health issues (hypertension, choleste
 - **Monitor:** Daily bowel movements
 - **Action:** If no bowel movement for entire day, take Milk of Magnesia
 - **Note:** Most users get constipation rather than diarrhea
+- **Coffee consideration:** ~1 pot of black coffee daily counts partially toward hydration but has diuretic effect; prioritize plain water
 
 ### 3. Combat Nausea
 - **Cause:** Drug slows digestive tract significantly
@@ -199,6 +205,7 @@ Weight is primary driver of interconnected health issues (hypertension, choleste
 - **Taste Changes:** Some foods may taste different or become unappealing
 - **Preference Shift:** May shift from carbs to preferring meat and vegetables
 - **Snacking:** May naturally decrease or eliminate
+- **Beverage Changes:** Coffee and tea preferences may shift; some users report coffee tasting different or becoming unappealing
 
 ### 6. Timeline & Expectations
 - **Settling Period:** ~4 months to stabilize on therapeutic dose
@@ -315,7 +322,7 @@ Autistic traits + ADHD characteristics create specific challenges with tracking:
 ### First Week Priorities
 - Take first injection Monday evening (January 13)
 - Monitor for side effects (especially GI issues)
-- Focus on hydration (1.5-2L daily)
+- Focus on hydration (1.5-2L daily) - plain water, not just coffee
 - Have crackers available at all times
 - Monitor bowel movements
 
@@ -426,5 +433,5 @@ Autistic traits + ADHD characteristics create specific challenges with tracking:
 
 ## Document History
 - **Created:** January 11, 2026
-- **Updated:** January 11, 2026 - Changed injection timing to Monday evenings; added autism/ADHD-sustainable tracking approach with clarity on neurodivergent profile
+- **Updated:** January 11, 2026 - Changed injection timing to Monday evenings; added autism/ADHD-sustainable tracking approach with clarity on neurodivergent profile; added caffeine consumption baseline
 - **Next Review:** Weekly updates during therapy; major review after 3-month bloodwork
