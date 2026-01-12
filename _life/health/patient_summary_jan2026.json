@@ -1,0 +1,20 @@
+{
+  "patient_information": {
+    "name": "Doug Langille",
+    "location": "Hardwood Lands, Nova Scotia, Canada",
+    "last_updated": "2026-01-12",
+    "primary_care_providers": [
+      "Dr. Shikhi Phimsharma (Shikhi Sharma) - Primary",
+      "Dr. Peter Alexander Massaro - Specialist/Hormone Management"
+    ],
+    "primary_facility": "Colchester Regional Hospital"
+  },
+  "diagnosed_conditions": [
+    "Hypertension",
+    "Type 2 Diabetes (Prediabetic progressing)",
+    "High Cholesterol (Hyperlipidemia)",
+    "Sleep Apnea",
+    "Low Testosterone (Hypogonadism)",
+    "Gout"
+  ]
+}

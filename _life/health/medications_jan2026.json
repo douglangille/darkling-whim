@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-01-12",
+  "total_medications": 6,
+  "daily_oral": [
+    {"name": "Rosuvastatin", "dose": "10 mg", "frequency": "Once daily", "condition": "High cholesterol", "started": "2026-01-09", "din": "02411636"},
+    {"name": "Telmisartan HCTZ", "dose": "80mg/25mg", "frequency": "Once daily", "condition": "Hypertension", "started": "2026-01-09", "din": "02390310"},
+    {"name": "Metformin ER", "dose": "1000 mg", "frequency": "Once daily", "condition": "Type 2 diabetes", "started": "2026-01-09", "din": "02460653"},
+    {"name": "Allopurinol", "dose": "200 mg", "frequency": "Once daily", "condition": "Gout", "started": "2026-01-09", "din": "02396335"}
+  ],
+  "injectable": [
+    {"name": "Ozempic (Semaglutide)", "dose": "0.25-0.5 mg", "route": "Subcutaneous", "frequency": "Weekly", "condition": "Type 2 diabetes/weight", "started": "2026-01-12", "din": "02540258"},
+    {"name": "Testosterone Enanthate", "dose": "150 mg", "route": "Intramuscular", "frequency": "Every 2 weeks", "condition": "Low testosterone", "started": "2025-11-22", "din": "02536315"}
+  ]
+}
