@@ -167,7 +167,7 @@ Would you like me to sketch this into a three-act outline or a short “book-jac
 
 **User:**
 
-lol. An opportunity to recast the Heritage Foundation as a rogue Masonic secret society. Project 2025 takes on a new meaning. A competing Masonic sect associated with the Democrats. No clean heroes on either side agendas and duplicity and greed power across the board.   Our hero finds himself in the middle of it all.
+lol. An opportunity to recast the Heritage Foundation as a rogue Masonic secret society. Project 2025 takes on a new meaning. A competing Masonic sect associated with the Democrats. No clean heroes on either side agendas and duplicity and greed power across the board. Our hero finds himself in the middle of it all.
 
 ---
 
