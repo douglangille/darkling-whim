@@ -16,6 +16,7 @@ This document tracks Doug's Ozempic (semaglutide) therapy initiated January 2026
 - **Height:** 5'9"
 - **Weight:** 315 lbs (January 9, 2026 - doctor's scale)
 - **BMI:** ~46.5
+- **Neurodivergence:** Self-assessed autistic with ADHD traits (Asperger's cluster)
 
 ### Diabetes Management
 - **A1C History:**
@@ -218,15 +219,18 @@ Weight is primary driver of interconnected health issues (hypertension, choleste
 
 ---
 
-## Tracking Approach: ADHD-Sustainable Strategy
+## Tracking Approach: Autism/ADHD-Sustainable Strategy
 
 ### The Perfection Trap Problem
-With ADHD, detailed daily tracking (food journaling, daily weighing) can trigger perfectionism → all-or-nothing thinking → "off the wagon and in the rhubarb" → abandoning the entire effort.
+Autistic traits + ADHD characteristics create specific challenges with tracking:
+- **Autistic systemizing drive:** Strong desire for complete, accurate data
+- **ADHD executive function:** Difficulty maintaining consistent daily routines
+- **Combined effect:** "Perfect tracking or no tracking" thinking → system breakdown → "in the rhubarb"
 
 ### Research-Based Evidence
 - **Food Journaling:** Doubles weight loss in studies (13 lbs vs 6 lbs average)
 - **Daily Weighing:** Produces 6 kg more weight loss than weighing 5 days/week
-- **The Catch:** Studies don't account for neurodivergent dropout rates from tracking fatigue
+- **The Catch:** Studies don't account for neurodivergent burnout from tracking demands or impact of autistic need for perfection meeting ADHD inconsistency
 
 ### Pragmatic Compromise: Outcome-Based Tracking
 
@@ -249,6 +253,7 @@ With ADHD, detailed daily tracking (food journaling, daily weighing) can trigger
 - Did you have protein at breakfast? (yes/no - you already do eggs)
 - Did you have protein shake or high-protein snack today? (yes/no)
 - This is **awareness**, not rigid counting to 150g
+- Leverages autistic pattern recognition without ADHD tracking burden
 
 #### "Trust the Process" Indicators
 - Fitbit steps (already tracking automatically)
@@ -256,20 +261,23 @@ With ADHD, detailed daily tracking (food journaling, daily weighing) can trigger
 - Farm work capacity (can you lift/carry as well or better?)
 - Quarterly bloodwork (the objective medical truth)
 
-### Why This Works for ADHD
-1. **Reduces decision fatigue:** Weekly not daily
-2. **Lowers perfection pressure:** Trend data, not daily points
-3. **Focuses on outcomes:** A1C and doctor visits are the real measures
-4. **Leverages existing habits:** Fitbit already tracks, Monday injection creates built-in weekly checkpoint
-5. **Allows flexibility:** Some weeks you track more, some less - both are fine
+### Why This Works for Autism/ADHD
+1. **Reduces executive function load:** Weekly not daily decisions
+2. **Satisfies systemizing:** Still tracking patterns, just lower frequency
+3. **Avoids all-or-nothing trap:** Missing a week doesn't break the system
+4. **Focuses on outcomes:** A1C and doctor visits are the real measures
+5. **Leverages existing habits:** Fitbit already tracks, Monday injection creates built-in weekly checkpoint
+6. **Allows flexibility:** Some weeks you track more, some less - system persists either way
+7. **Respects both traits:** Structure (autistic need) with grace for inconsistency (ADHD reality)
 
 ### When to Consider More Detailed Tracking
 - If weight loss stalls for 4+ weeks despite medication
 - If A1C doesn't improve at 3-month check
 - If Dr. Sharma specifically requests it
 - If YOU feel curious and want data (not obligated)
+- **Important:** Only if you can design a system that accommodates both the autistic need for completeness and ADHD inconsistency reality
 
-**Bottom line:** Ozempic works through appetite suppression and hormonal mechanisms, not through your tracking perfection. Your body will respond to the medication regardless of whether you logged every meal. Track enough to spot problems, not enough to create them.
+**Bottom line:** Ozempic works through appetite suppression and hormonal mechanisms, not through your tracking perfection. Your body will respond to the medication regardless of whether you logged every meal. Track enough to spot problems and satisfy your need for patterns, but not so much that the system becomes unsustainable and collapses.
 
 ---
 
@@ -402,7 +410,8 @@ With ADHD, detailed daily tracking (food journaling, daily weighing) can trigger
 ### Tracking Research Context
 - Food journaling can double weight loss (Kaiser Permanente study, 1,700 participants)
 - Daily weighing produces 6kg more loss than 5x/week weighing
-- BUT: ADHD considerations require sustainable approaches over perfect adherence
+- BUT: Neurodivergent considerations require sustainable approaches over perfect adherence
+- Autistic systemizing + ADHD executive dysfunction = need for "good enough" tracking systems
 - Ozempic's mechanism (appetite suppression, hormonal regulation) works independently of tracking rigor
 - Quarterly A1C is the primary success metric for diabetes management
 
@@ -417,5 +426,5 @@ With ADHD, detailed daily tracking (food journaling, daily weighing) can trigger
 
 ## Document History
 - **Created:** January 11, 2026
-- **Updated:** January 11, 2026 - Changed injection timing to Monday evenings; added ADHD-sustainable tracking approach
+- **Updated:** January 11, 2026 - Changed injection timing to Monday evenings; added autism/ADHD-sustainable tracking approach with clarity on neurodivergent profile
 - **Next Review:** Weekly updates during therapy; major review after 3-month bloodwork
