@@ -4,7 +4,7 @@
 This document tracks Doug's Ozempic (semaglutide) therapy initiated January 2026 for Type 2 diabetes management. Primary goal is glycemic control with welcomed secondary benefits of weight loss and improved overall metabolic health.
 
 **Prescribing Physician:** Dr. Sharma  
-**Therapy Start Date:** January 12, 2026 (first injection planned for evening after darts)  
+**Therapy Start Date:** January 13, 2026 (first injection planned for Monday evening after darts)  
 **Insurance Coverage:** Blue Cross (approved)
 
 ---
@@ -89,17 +89,17 @@ This document tracks Doug's Ozempic (semaglutide) therapy initiated January 2026
 
 ### Phase 1: Starter Dose (4 weeks)
 - **Dose:** 0.25mg once weekly
-- **Duration:** Weeks 1-4 (January 12 - February 8, 2026)
+- **Duration:** Weeks 1-4 (January 13 - February 9, 2026)
 - **Pen:** Single pen provides ~2 months supply
 
 ### Phase 2: Therapeutic Dose
 - **Planned:** Increase after 4 weeks (pending tolerance check)
-- **Timing:** Starting approximately February 9, 2026
+- **Timing:** Starting approximately February 10, 2026
 - **Follow-up:** Phone appointment with Dr. Sharma late February/early March before next prescription issued
 
-### Injection Protocol (per Tina's advice)
-- **Timing:** Evening injection (planned for Sunday evenings)
-  - Rationale: Side effects typically peak 1-2 days post-injection; evening dosing allows worst symptoms mid-week
+### Injection Protocol
+- **Timing:** Monday evenings after darts
+  - Rationale: Side effects typically peak 1-2 days post-injection; Monday dosing means worst symptoms Tuesday-Wednesday, leaving weekends clear
 - **Location:** Abdomen preferred (better absorption, less painful than thighs)
 - **Rotation Pattern:**
   1. Start bottom right of abdomen (>2 inches from belly button)
@@ -193,56 +193,93 @@ Weight is primary driver of interconnected health issues (hypertension, choleste
   - Avoid deli meat (high nitrates and sodium)
 - **Priority:** Maintain muscle mass during weight loss
 
-### 5. Injection Timing Matters
-- **Tina's schedule:** Tuesday 7pm injections
-  - Rationale: Feels terrible Wednesday-Thursday, recovers for weekend enjoyment
-- **Doug's plan:** Sunday evening injections
-  - Rationale: Post-darts routine; side effects Monday-Tuesday won't impact weekend
-
-### 6. Expected Changes
+### 5. Expected Changes
 - **Cravings:** Will likely stop (whatever you craved before)
 - **Taste Changes:** Some foods may taste different or become unappealing
 - **Preference Shift:** May shift from carbs to preferring meat and vegetables
 - **Snacking:** May naturally decrease or eliminate
 
-### 7. Timeline & Expectations
+### 6. Timeline & Expectations
 - **Settling Period:** ~4 months to stabilize on therapeutic dose
 - **Side Effects:** May diminish or disappear after settling
 - **Variable Response:** Some people have no side effects at all
 - **Weight Loss:** Great side effect, but 20% of people don't lose weight
 - **Example:** Tina's father on 0.25mg for years; lost 45 lbs for diabetes management
 
-### 8. Evening Eating
+### 7. Evening Eating
 - **Tina's pattern:** No eating after supper
 - **Alternative:** If significant evening nausea occurs, small snack may help
 - **Strategy:** Adjust based on individual response
 
-### 9. Drug Safety
+### 8. Drug Safety
 - **Storage:** Refrigerate; stable 56 days room temperature if needed
 - **Visual Check:** Do not use if drug appears cloudy
 - **Power Outage:** 56-day room temperature stability provides buffer
 
 ---
 
+## Tracking Approach: ADHD-Sustainable Strategy
+
+### The Perfection Trap Problem
+With ADHD, detailed daily tracking (food journaling, daily weighing) can trigger perfectionism → all-or-nothing thinking → "off the wagon and in the rhubarb" → abandoning the entire effort.
+
+### Research-Based Evidence
+- **Food Journaling:** Doubles weight loss in studies (13 lbs vs 6 lbs average)
+- **Daily Weighing:** Produces 6 kg more weight loss than weighing 5 days/week
+- **The Catch:** Studies don't account for neurodivergent dropout rates from tracking fatigue
+
+### Pragmatic Compromise: Outcome-Based Tracking
+
+**Instead of daily perfection, track what matters to your actual goals:**
+
+#### Weekly Check-ins (Mondays before injection)
+- Weight (doctor's scale baseline, track trend not daily fluctuation)
+- Notable side effects this week (brief notes)
+- Any gout symptoms or joint pain?
+- Energy level (better/same/worse than last week)
+- Bowel movement pattern (regular/constipated/loose)
+
+#### Quarterly Medical Tracking
+- A1C results (the actual diabetes goal metric)
+- Blood pressure readings
+- Medication changes
+- Doctor feedback and adjustments
+
+#### Protein Awareness (Not Counting)
+- Did you have protein at breakfast? (yes/no - you already do eggs)
+- Did you have protein shake or high-protein snack today? (yes/no)
+- This is **awareness**, not rigid counting to 150g
+
+#### "Trust the Process" Indicators
+- Fitbit steps (already tracking automatically)
+- Clothes fit (more useful than daily weight fluctuations)
+- Farm work capacity (can you lift/carry as well or better?)
+- Quarterly bloodwork (the objective medical truth)
+
+### Why This Works for ADHD
+1. **Reduces decision fatigue:** Weekly not daily
+2. **Lowers perfection pressure:** Trend data, not daily points
+3. **Focuses on outcomes:** A1C and doctor visits are the real measures
+4. **Leverages existing habits:** Fitbit already tracks, Monday injection creates built-in weekly checkpoint
+5. **Allows flexibility:** Some weeks you track more, some less - both are fine
+
+### When to Consider More Detailed Tracking
+- If weight loss stalls for 4+ weeks despite medication
+- If A1C doesn't improve at 3-month check
+- If Dr. Sharma specifically requests it
+- If YOU feel curious and want data (not obligated)
+
+**Bottom line:** Ozempic works through appetite suppression and hormonal mechanisms, not through your tracking perfection. Your body will respond to the medication regardless of whether you logged every meal. Track enough to spot problems, not enough to create them.
+
+---
+
 ## Monitoring Schedule
 
-### Daily Tracking (Optional but Recommended)
-- Morning weight (same time, same conditions)
-- Bowel movements (for constipation monitoring)
-- Water intake
-- Protein intake estimate
-- Energy level (1-10 scale)
-- Side effects (nausea, GI issues, etc.)
-- Fitbit steps
-- Sleep hours (Fitbit data)
-
-### Weekly Tracking
-- Injection date and time
-- Injection location
-- Side effect severity and duration
-- Weight trend
-- Activity level assessment
-- Notable food preference changes
+### Weekly Check-in (Monday before injection)
+- Weight (if available)
+- Side effects this week
+- Any concerns for Dr. Sharma
+- Protein awareness check
 
 ### Medical Follow-ups
 - **Late February/Early March 2026:** Phone appointment with Dr. Sharma
@@ -257,22 +294,20 @@ Weight is primary driver of interconnected health issues (hypertension, choleste
 
 ## Action Items
 
-### Before First Injection (January 12, 2026)
+### Before First Injection (January 13, 2026)
 - ✅ Review Tina's advice
-- ✅ Plan Sunday evening injection timing (post-darts)
-- ☐ Purchase fresh glucose test strips
+- ✅ Plan Monday evening injection timing (post-darts)
+- ☐ Purchase fresh glucose test strips (optional - use if curious)
 - ☐ Stock up on crackers (nausea management)
 - ☐ Purchase Milk of Magnesia (backup for constipation)
 - ☐ Order Fairlife protein shakes from Costco.ca
 - ☐ Buy almonds and walnuts for protein snacking
 - ☐ Restock Over-50 multivitamin from Costco
-- ☐ Consider tracking notebook or app for daily metrics
 
 ### First Week Priorities
-- Take first injection Sunday evening (January 12)
+- Take first injection Monday evening (January 13)
 - Monitor for side effects (especially GI issues)
 - Focus on hydration (1.5-2L daily)
-- Begin tracking protein intake
 - Have crackers available at all times
 - Monitor bowel movements
 
@@ -280,7 +315,6 @@ Weight is primary driver of interconnected health issues (hypertension, choleste
 - Complete 4-week starter dose phase
 - Identify personal side effect pattern
 - Establish sustainable protein intake routine
-- Begin strategic glucose testing (fasting and post-meal)
 - Maintain or increase farm activity level
 - Prepare for phone check-in with Dr. Sharma
 
@@ -293,22 +327,68 @@ Weight is primary driver of interconnected health issues (hypertension, choleste
 
 ---
 
-## Notes & Observations
+## Weekly Observations
 
-### Week 1 (January 12-18, 2026)
-_Add observations here_
+### Week 1 (January 13-19, 2026)
+**Injection:** Monday, January 13, 2026 [location: ___________]
 
-### Week 2 (January 19-25, 2026)
-_Add observations here_
+**Side Effects:**
 
-### Week 3 (January 26 - February 1, 2026)
-_Add observations here_
+**Energy/Sleep:**
 
-### Week 4 (February 2-8, 2026)
-_Add observations here_
+**GI Status:**
+
+**Notes:**
+
+---
+
+### Week 2 (January 20-26, 2026)
+**Injection:** Monday, January 20, 2026 [location: ___________]
+
+**Side Effects:**
+
+**Energy/Sleep:**
+
+**GI Status:**
+
+**Notes:**
+
+---
+
+### Week 3 (January 27 - February 2, 2026)
+**Injection:** Monday, January 27, 2026 [location: ___________]
+
+**Side Effects:**
+
+**Energy/Sleep:**
+
+**GI Status:**
+
+**Notes:**
+
+---
+
+### Week 4 (February 3-9, 2026)
+**Injection:** Monday, February 3, 2026 [location: ___________]
+
+**Side Effects:**
+
+**Energy/Sleep:**
+
+**GI Status:**
+
+**Notes:**
+
+---
 
 ### Phone Follow-up (Late Feb/Early March 2026)
-_Add Dr. Sharma's feedback here_
+**Date:**
+
+**Dr. Sharma's Feedback:**
+
+**Decision on dose increase:**
+
+**Next steps:**
 
 ---
 
@@ -319,11 +399,12 @@ _Add Dr. Sharma's feedback here_
 - **Urology:** Dr. Massaro (testosterone replacement therapy)
 - **Informal Advisor:** Tina Buchner (retired pharmacy tech, personal Ozempic experience)
 
-### Key Information Sources
-- Ozempic official prescribing information
-- Clinical guidelines for GLP-1 therapy
-- Diabetes management best practices
-- Protein requirements for muscle preservation during weight loss
+### Tracking Research Context
+- Food journaling can double weight loss (Kaiser Permanente study, 1,700 participants)
+- Daily weighing produces 6kg more loss than 5x/week weighing
+- BUT: ADHD considerations require sustainable approaches over perfect adherence
+- Ozempic's mechanism (appetite suppression, hormonal regulation) works independently of tracking rigor
+- Quarterly A1C is the primary success metric for diabetes management
 
 ### Related Documents in Health Folder
 - `Consolidating_Health_Data.md` - Health data consolidation strategies
@@ -336,5 +417,5 @@ _Add Dr. Sharma's feedback here_
 
 ## Document History
 - **Created:** January 11, 2026
-- **Last Updated:** January 11, 2026
+- **Updated:** January 11, 2026 - Changed injection timing to Monday evenings; added ADHD-sustainable tracking approach
 - **Next Review:** Weekly updates during therapy; major review after 3-month bloodwork
