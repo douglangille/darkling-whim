@@ -12,7 +12,12 @@ Medical records, healthspan optimization, and treatment tracking. Your centraliz
 - `medications_jan2026.json` - Structured medication list
 - `bloodwork_comprehensive_jan2026.json` - Lab results with trends
 - `health_timeline_jan2026.json` - Chronological health events
-- `patient_summary_jan2026.json` - Structured patient data
+
+**Tech Stack Documentation:**
+- `health-tech-stack.md` - Current validated tech ecosystem (Fitbit, myAir, OneTouch, Apple Reminders)
+
+**Lifestyle Context:**
+- `diet-health.md` - Default eating OS and nutrition framework
 
 ---
 
@@ -61,29 +66,28 @@ Medical records, healthspan optimization, and treatment tracking. Your centraliz
 
 ## Folder Structure
 
-### 📊 Active Health Data (Current)
+### 📊 Active Medical Data
 - **`patient_summary_jan2026.md`** ⭐ PRIMARY DOCUMENT
-  - Complete health profile, all conditions, medications
+  - Complete health profile, all diagnosed conditions
+  - Current medications with dosing & DINs
   - Ozempic therapy protocol and side effect management
-  - Lifestyle baseline, tracking strategy, follow-up schedule
+  - Lifestyle baseline and tracking strategy
+  - Neurodivergent considerations
   - **START HERE** for all health-related queries
 
 - **`medications_jan2026.json`** - Structured medication data with DINs
-- **`bloodwork_comprehensive_jan2026.json`** - Lab results organized by date
-- **`health_timeline_jan2026.json`** - Chronological health events
-- **`patient_summary_jan2026.json`** - Structured patient metadata
+- **`bloodwork_comprehensive_jan2026.json`** - Lab results organized by date, with trends
+- **`health_timeline_jan2026.json`** - Chronological health events and milestones
 
-### 📖 Reference & Research Documents
-- `Consolidating_Health_Data.md` - Health data strategies
-- `Emotional_regulation_tips.md` - Emotional regulation techniques
-- `Fitbit_Premium_advantages.md` - Fitbit feature analysis
-- `Health_coaching_questions.md` - Health coaching framework
-- `Peak_state_analysis.md` - Peak performance analysis
-- `Resilience_overview.md` - Resilience building
-- `health-tech-action-items.md` - Health tech action items
-- `health-tech-executive-summary.md` - Health tech summary
-- `diet-health.md` - Diet and nutrition notes
-- `health-data.md` - General health data tracking
+### 📋 Supporting Documents
+- **`health-tech-stack.md`** - Current validated tech ecosystem (Fitbit, myAir, OneTouch, Apple Reminders); replaces previous health-tech docs
+- **`diet-health.md`** - Default eating OS, nutrition framework, and snacking patterns
+
+### 📁 Moved to _life/ (Behavioral/Wellbeing)
+The following documents were moved to the parent `_life/` folder as they address behavior, psychology, and lifestyle rather than clinical health:
+- `Emotional_regulation_tips.md`
+- `Resilience_overview.md`
+- `Health_coaching_questions.md`
 
 ---
 
@@ -142,19 +146,41 @@ When starting fresh conversations about health:
    - This loads full context in one document
    - No need to explain conditions, meds, or history
 
-2. **After Medical Appointments**
-   - Update `patient_summary_jan2026.md` with new info
-   - Add bloodwork results to JSON files
-   - Update medication changes
-   - Document provider feedback and next steps
+2. **Tracking Fitbit & Health Data (Low-Friction Approach)**
+   - **Weekly/Casual:** Just mention metrics in conversation as they matter
+     - "Weight down to 312"
+     - "Steps averaging 10.2k this week"
+     - "Sleep's been 5.5-6 hours, CPAP cooperating"
+     - "Ozempic side effects: nausea Wed-Thu, clear by Friday"
+   - **No daily logging** (contradicts ADHD-friendly design)
+   - **No automated sync** (you've already rejected complex tech bridges)
+   - **Conversational mentions** capture patterns better than rigid data entry
 
-3. **Weekly Ozempic Check-ins (Mondays)**
-   - Note side effects, energy levels, GI status
-   - Track weight trend (not daily fluctuations)
-   - Monitor gout symptoms, bowel movements
-   - Protein awareness check (not rigid counting)
+3. **Quarterly Structured Updates (April, July, October, January)**
+   - After doctor appointments or bloodwork:
+     1. Dump the numbers into chat
+     2. I'll help update JSON files and `patient_summary_jan2026.md`
+     3. Takes 5 minutes, gives you a clean baseline for next quarter
+   - Updates go into:
+     - `medications_jan2026.json` — if any med changes
+     - `bloodwork_comprehensive_jan2026.json` — new lab results
+     - `health_timeline_jan2026.json` — major health events
+     - `patient_summary_jan2026.md` — summary refresh with latest data
 
-4. **Quarterly Reviews**
+4. **After Medical Appointments**
+   - Share doctor feedback and medication changes
+   - Provide any new lab results or blood pressure readings
+   - Note provider guidance on dosing adjustments
+   - I'll update the files and consolidate into summary
+
+5. **Ongoing Monitoring (Build-as-You-Go)**
+   - Weekly Ozempic Check-ins (Mondays): Note side effects, weight trend, GI status, protein awareness
+   - Track weight trend (not daily fluctuations—weekly or biweekly is sufficient)
+   - Monitor gout symptoms (especially during weight loss)
+   - Observe CPAP adherence trends via myAir
+   - Notice Fitbit activity/sleep patterns (informal, not logged)
+
+6. **Quarterly Reviews**
    - Update after bloodwork (HbA1c is primary metric)
    - Assess medication effectiveness
    - Review tracking system sustainability
