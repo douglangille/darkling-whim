@@ -35,9 +35,19 @@ Don Bureau (President) is leaving NSCC for Halifax Chamber of Commerce. Anna Bur
 - Angela McCarthy - would not provide air cover for innovation work
 - RJ Poirier - **only viable internal candidate Doug could work with; could provide air cover**
 
-## Discovery Session Summary
+## Discovery Session & RJ Meeting Summary
 
-### Session Completed: 2026-01-09, 8:56 PM - 10:06 PM AST
+### Discovery Session Completed: 2026-01-09, 8:56 PM - 10:06 PM AST
+### RJ Meeting: 2026-01-12
+
++**Key New Insights from RJ Meeting and Personal Reflection:**
+RJ has now firmly stated he does not want the CIO role, even temporarily. Doug has also decided not to pursue the CIO role under any scenario, due to personal logistics, lack of fulfillment, and negative impact on life and work—even as a defensive move. This removes the preferred "RJ as CIO, Doug as senior manager" scenario from consideration.
+Both Doug and RJ remain concerned about Angela or an external candidate deprioritizing innovation work.
+Derek’s move to VP is uncertain (50-50), but if he leaves, the CIO role will open. Anna is likely to become President, and Stacey Bailey is a strong candidate for VP.
+It is now critical to clarify what Derek wants in a CIO, what he wants as VP College Services, and to understand Stacey Bailey’s and Anna’s vision for the future structure.
+There is a possibility of a dark horse candidate emerging for either CIO or VP roles; remain agile and alert for unexpected developments.
+It is also important to have a candid conversation with Angela to better understand her intentions and leadership approach as a potential CIO, as perceptions may not match her actual approach in a senior leadership context.
+The focus is now on seeking a solution that protects innovation work and aligns with Doug's values, without sacrificing well-being.
 
 ### Core Insights Uncovered
 
@@ -111,31 +121,19 @@ That conversation determines the entire strategy:
 - ✅ This becomes defensive move
 - ✅ Rally stakeholders, position as continuity
 
-## 7-Day Intelligence Plan
++## Updated Next Steps (as of Jan 12, 2026)
 
-### Week of January 13-17, 2026
-
-**Priority 1: Conversation with RJ** (CRITICAL)
-- Casual colleague-to-colleague discussion
-- "Derek's likely pursuing VP role. Have you thought about CIO opportunity?"
-- Gauge genuine interest level
-- Understand his perspective on succession
-
-**Priority 2: Strategic Conversation with Derek**
-- Confirm VP timeline and likelihood
-- Ask his perspective on CIO succession
-- Gauge whether he'd advocate for you vs. RJ vs. external
-- Understand Anna's thinking if he knows
-
-**Priority 3: Read Anna Burke's Priorities**
-- What are her immediate challenges as Acting President?
-- Does she want continuity or change in CIO role?
-- Any indirect way to gauge IT leadership needs?
-
-**Priority 4: Assess Angela's Candidacy**
-- Is she actually interested?
-- Does she have executive support?
-- What's her likely positioning strategy?
+1. RJ has confirmed he does not want the CIO role, even temporarily.
+2. Doug has decided not to pursue the CIO role under any scenario, due to personal logistics, lack of fulfillment, and negative impact on life and work—even as a defensive move.
+3. Have a direct conversation with Derek to clarify:
+	- What he wants in a CIO
+	- His own intentions as VP College Services
+4. Quietly assess Stacey Bailey’s intentions and vision as likely VP College Services.
+5. Quietly assess Anna’s vision for the future structure and succession.
+6. Have a candid conversation with Angela to understand her intentions and leadership approach as a potential CIO.
+7. Remain alert for the possibility of a dark horse candidate for either CIO or VP roles.
+8. Seek a solution that protects innovation work and aligns with your values, without sacrificing your well-being.
+9. Document all findings and decisions in the action plan and README.
 
 ## Decision Timeline
 
@@ -180,13 +178,13 @@ That conversation determines the entire strategy:
 
 ## Decision Status
 
-**Status**: Intelligence gathering phase - awaiting RJ conversation  
-**Next Action**: Schedule coffee with RJ within 7 days  
-**Target Decision**: Week of January 20-24, 2026 (after intelligence gathered)  
-**Decision Driver**: RJ's interest level in CIO role  
+**Status**: Intelligence gathering phase - RJ meeting provided new clarity; follow-up conversations with RJ and Derek are next  
+**Next Action**: Meet again with RJ, then talk to Derek, and monitor Anna/Stacey priorities  
+**Target Decision**: Week of January 20-24, 2026 (after follow-up intelligence gathered)  
+**Decision Driver**: RJ's interest level in CIO role and Derek's succession preferences  
 
 ---
 
-*Last Updated: 2026-01-09, 10:20 PM AST*  
-*Discovery Session: COMPLETE*  
-*Next Step: Talk to RJ*
+*Last Updated: 2026-01-12, after RJ meeting*  
+*Discovery Session: COMPLETE; RJ meeting: COMPLETE*  
+*Next Step: Meet again with RJ, then talk to Derek*

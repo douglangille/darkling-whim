@@ -1,12 +1,25 @@
-# Action Plan - CIO Position Decision & Application
+# Action Plan - CIO Position Decision & Application (Updated Jan 12, 2026)
 
 ## Phase 1: Intelligence Gathering (Week 1-2)
+
+### Immediate Priorities (Post-RJ Meeting)
+[x] Confirmed: RJ does not want the CIO role, even temporarily
+[x] Confirmed: Doug does not want the CIO role, even as a defensive move, due to personal logistics, lack of fulfillment, and negative impact on life and work
+[ ] Have a direct conversation with Derek to clarify:
+	- What he wants in a CIO
+	- His own intentions as VP College Services
+[ ] Quietly assess Stacey Bailey’s intentions and vision as likely VP College Services
+[ ] Quietly assess Anna’s vision for the future structure and succession
+[ ] Have a candid conversation with Angela to understand her intentions and leadership approach as a potential CIO
+[ ] Remain alert for the possibility of a dark horse candidate for either CIO or VP roles
+[ ] Seek a solution that protects innovation work and aligns with your values, without sacrificing your well-being
+[ ] Document all findings and decisions in the action plan and README
 
 ### Confirm the Opportunity
 - [ ] Verify Derek's intention to apply for Acting VP College Services
 - [ ] Confirm timeline for VP decision
 - [ ] Determine if CIO role will be posted or internal appointment
-- [ ] Identify decision-makers (Anna Burke, HR, others?)
+- [ ] Identify decision-makers (Anna Burke, HR, Stacey Bailey, others?)
 - [ ] Clarify if this is "acting" with potential to permanent or purely interim
 
 ### Understand Position Requirements
@@ -19,9 +32,9 @@
 ### Competitive Intelligence
 - [ ] Assess likelihood of external candidates being considered
 - [ ] Evaluate Angela McCarthy's actual interest and qualifications
-- [ ] Evaluate RJ Poirier's actual interest and qualifications
+- [ ] Evaluate RJ Poirier's actual interest and qualifications (CRITICAL: Confirm in next meeting)
 - [ ] Identify any other potential internal candidates
-- [ ] Understand Anna Burke's leadership priorities and preferences
+- [ ] Understand Anna Burke's and Stacey Bailey's leadership priorities and preferences
 
 ### Compensation & Terms
 - [ ] Research acting vs. permanent CIO salary ranges at NSCC
@@ -98,9 +111,9 @@
 ## Phase 4: Strategic Positioning (Ongoing)
 
 ### Relationship Management
-- [ ] Have informal conversation with Derek about his VP plans
-- [ ] Express interest in CIO opportunity (to Derek and/or Anna)
-- [ ] Strengthen relationship with Anna Burke (subtle, professional)
+- [ ] Have informal conversation with Derek about his VP plans and succession preferences
+- [ ] Meet again with RJ to clarify intentions and possible collaboration
+- [ ] Strengthen relationship with Anna Burke and Stacey Bailey (subtle, professional)
 - [ ] Maintain visibility at executive/senior leadership meetings
 - [ ] Cultivate advocates among decision-makers
 - [ ] Build bridges with potential peer VPs
@@ -114,7 +127,7 @@
 - [ ] Position yourself as continuity candidate during transition
 
 ### Political Navigation
-- [ ] Understand Anna Burke's priorities as Acting President
+- [ ] Understand Anna Burke's and Stacey Bailey's priorities as Acting President and likely VP
 - [ ] Align messaging with college strategic priorities
 - [ ] Be prepared to address "managing former boss" dynamic (RJ)
 - [ ] Navigate peer relationships professionally (Angela, RJ)
