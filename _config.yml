@@ -70,7 +70,7 @@ include:
   - _pages
 exclude:
   # Writing Studio / Private PARA Folders
-  - /_!nbox
+  - /__inbox
   - /_farm
   - /_life
   - /_plan

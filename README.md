@@ -4,7 +4,7 @@ Personal knowledge management system integrating IT work, creative writing, life
 
 ## Domain Structure
 
-- **`_!nbox`**: Universal inbox for rapid capture
+- **`__inbox`**: Universal inbox for rapid capture
 - **`_plan`**: Strategic planning (quarterly/annual), productivity systems, execution frameworks
 - **`_work`**: IT management (NSCC), professional projects, career development
 - **`_tech`**: Technology stack, AI tooling, dev environment, system optimization
@@ -17,7 +17,7 @@ Personal knowledge management system integrating IT work, creative writing, life
 
 ## Philosophy
 
-This workbench follows a "workbench, not warehouse" principle—active tools and current projects, with minimal archival clutter. Content flows through capture (`_!nbox`), development (`_drafts`), and either storage (domain folders) or publication (`_posts`).
+This workbench follows a "workbench, not warehouse" principle—active tools and current projects, with minimal archival clutter. Content flows through capture (`__inbox`), development (`_drafts`), and either storage (domain folders) or publication (`_posts`).
 
 ## Reference Archives
 
