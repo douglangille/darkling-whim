@@ -7,8 +7,8 @@ This folder tracks the decision-making process around whether to apply for the a
 - **Position**: Acting CIO at NSCC
 - **Trigger**: Derek McCurdy applying for Acting VP College Services
 - **Timeline**: Minimum 6 months
-- **Decision Status**: ✅ Discovery phase complete - Intelligence gathering required
-- **Next Steps**: Execute 7-day intelligence plan (conversations with RJ, Derek, assess Anna's priorities)
+- **Decision Status**: ✅ RJ meeting complete (Jan 12) - Derek conversation critical next step
+- **Next Steps**: Meet with RJ again this week to align, then have solo conversation with Derek on Friday
 
 ## Folder Contents
 
@@ -17,39 +17,76 @@ This folder tracks the decision-making process around whether to apply for the a
 3. **opportunity-context.md** - Vacancy details, candidate analysis, qualifications
 4. **decision-discovery-session.md** - ✅ COMPLETE structured Q&A session with final recommendation
 5. **action-plan.md** - 7-phase comprehensive action plan
+6. **rj-conversation-prep.md** - Preparation notes for RJ discussion
+7. **rj-meeting-2026-01-12.md** - ✅ COMPLETE Notes from RJ meeting
+8. **derek-conversation-prep.md** - ✅ NEW Preparation for critical Derek conversation
+9. **materials/** - Supporting documents folder
 
 ## Key Context
 
 ### The Opportunity
 Don Bureau (President) is leaving NSCC for Halifax Chamber of Commerce. Anna Burke becomes Acting President, creating VP College Services vacancy. Derek McCurdy interested in that role, which would open Acting CIO position.
 
+### Anna's EOI Process
+Anna is creating an Expression of Interest rather than direct appointment. May be opening beyond direct reports - adding uncertainty to timeline and candidate pool. No applications submitted yet.
+
 ### Doug's Position
 - Manager of Digital Innovation, Staff Training & Development
 - 26 years at NSCC (24 in IT operations)
-- Currently 3 reports, would manage ~100 as CIO
+- Direct reports: Shelley Hire, Madison Fraser, Holly Stackhouse (Ed Tech Analysts)
 - Strong relationship with Anna Burke
 - Deep institutional knowledge
 
-### Primary Candidates
-- Doug Langille (you) - assessed as most suitable but doesn't actually want permanent CIO role
-- Angela McCarthy - would not provide air cover for innovation work
-- RJ Poirier - **only viable internal candidate Doug could work with; could provide air cover**
+### Key Players
+
+**Derek McCurdy (Current CIO)**
+- Pursuing Acting VP College Services (50-50 odds per RJ)
+- Expects either Doug or RJ to backfill CIO role
+- **Does not yet know neither wants the position**
+- Likely to leave eventually if doesn't get VP
+
+**RJ Poirier (Senior Manager Service Delivery Operations)**
+- Confirmed he does NOT want CIO role (even temporarily)
+- Might apply "just to see" but would likely decline
+- Personal/logistical reasons make it unworkable
+- Only internal candidate Doug could work with
+
+**Angela McCarthy (Sr Manager Core Infrastructure Services)**
+- Reports to Derek, peer to RJ
+- Back-of-house focus (infrastructure, operations)
+- Blind spot: front-of-house/student-facing priorities
+- Concern: would deprioritize innovation work
+
+**Stacey Bailey (Director of Public Affairs)**
+- Anna's friend and trusted confidant
+- Long tenure at NSCC
+- Likely preferred candidate for VP College Services
+- If she gets VP, Derek probably doesn't
+
+**Anna Burke (Acting President)**
+- Current VP, becoming Acting President
+- Close relationship with Stacey
+- Creating formal EOI process for VP role
+
+### Innovation Work at Risk
+
+What needs protection:
+- Classroom technology initiatives
+- AI productivity work and AI tinkerspaces
+- Emerging technology integration
+- Makerspaces and learning innovation labs
+- Esports programs
+- D2L Brightspace tech stack and training
+- All student-facing learning experience technology
+
+**The Risk**: Angela or external candidate may not understand or prioritize "front of house" learning technology, focusing only on back-of-house infrastructure.
 
 ## Discovery Session & RJ Meeting Summary
 
 ### Discovery Session Completed: 2026-01-09, 8:56 PM - 10:06 PM AST
-### RJ Meeting: 2026-01-12
+### RJ Meeting: 2026-01-12, 3:00 PM AST
 
-+**Key New Insights from RJ Meeting and Personal Reflection:**
-RJ has now firmly stated he does not want the CIO role, even temporarily. Doug has also decided not to pursue the CIO role under any scenario, due to personal logistics, lack of fulfillment, and negative impact on life and work—even as a defensive move. This removes the preferred "RJ as CIO, Doug as senior manager" scenario from consideration.
-Both Doug and RJ remain concerned about Angela or an external candidate deprioritizing innovation work.
-Derek’s move to VP is uncertain (50-50), but if he leaves, the CIO role will open. Anna is likely to become President, and Stacey Bailey is a strong candidate for VP.
-It is now critical to clarify what Derek wants in a CIO, what he wants as VP College Services, and to understand Stacey Bailey’s and Anna’s vision for the future structure.
-There is a possibility of a dark horse candidate emerging for either CIO or VP roles; remain agile and alert for unexpected developments.
-It is also important to have a candid conversation with Angela to better understand her intentions and leadership approach as a potential CIO, as perceptions may not match her actual approach in a senior leadership context.
-The focus is now on seeking a solution that protects innovation work and aligns with Doug's values, without sacrificing well-being.
-
-### Core Insights Uncovered
+**Key Insights from Both Sessions:**
 
 **What Doug Actually Wants:**
 - Create innovative programs and mentor great people
@@ -61,101 +98,108 @@ The focus is now on seeking a solution that protects innovation work and aligns 
 - To BE a permanent CIO ("not sure being CIO would make me proud outside of status symbol")
 - Implementation details grind
 - Pure executive admin
+- One-car household logistics with 45-min commute and RTO requirements
 
-**The Real Question:**
-Not "Should I pursue CIO?" but rather "Given Derek is leaving anyway within 12 months, what's the best path to protect innovation work and position for ideal next role?"
+**Critical Decisions Made:**
+1. ✅ Doug will NOT pursue CIO role under any scenario
+2. ✅ RJ will NOT pursue CIO role (even temporarily)
+3. ⚠️ Derek does NOT know this yet - expects one of them to apply
+4. 🎯 Derek conversation is now CRITICAL - his VP decision may hinge on CIO succession confidence
 
-**Critical Discovery:**
-- Derek leaving regardless (won't stay if doesn't get VP role)
-- New CIO inevitable within 12 months
-- **RJ is ONLY internal candidate Doug can work with who would provide air cover**
-- Angela would gut innovation work
-- External hire is unknown variable
+**Alternative Scenarios Discussed:**
+- Derek as dual VP/CIO (very broad portfolio)
+- Virtual CIO model (committee of senior managers)
+- Reversion to Director-level instead of CIO
+- External candidate (unknown variable)
 
-## Three Viable Scenarios
+## THE CRITICAL REALIZATION
+
+**Derek's expectation**: Either Doug or RJ will backfill CIO when he moves to VP
+
+**The reality**: Neither wants the role
+
+**The implication**: Derek's willingness to pursue VP could depend on knowing he's leaving CIO in capable, trusted hands. Discovering neither Doug nor RJ wants it could affect his decision calculus.
+
+**The urgency**: This conversation needs to happen THIS WEEK before Derek gets too far into his own planning.
+
+## Updated Strategy: Options A + B
+
+### This Week (Before Friday)
+**Action**: Meet with RJ again to align on Derek conversation
+- Coordinate key talking points
+- Agree on what to surface in respective conversations
+- Align on messaging without being scripted
+- Ensure both are ready to have candid discussions
+
+### Friday (Meeting with Derek - Solo)
+**Action**: Have preliminary conversation with Derek (RJ unavailable - collective bargaining)
+- Surface his expectations for CIO succession
+- Understand his vision and needs for successor
+- Gauge reaction to neither Doug/RJ pursuing role
+- Explore alternative structure scenarios
+- Assess his confidence level in pursuing VP
+
+### After Friday
+**Action**: Debrief with RJ and reassess
+- Share Derek's responses and reactions
+- Determine implications for protecting innovation work
+- Identify next steps based on new intelligence
+- Update strategy accordingly
+
+## Key Questions for Derek
+
+When the moment is right in Friday's conversation:
+
+1. **Succession confidence**: What does he need from his CIO successor to feel confident pursuing VP?
+2. **Alternative structures**: Has he considered alternatives (virtual CIO, dual role, different org structure)?
+3. **Innovation priorities**: How does he see innovation work being protected/prioritized under different scenarios?
+4. **Candidate preferences**: Does he have views on potential candidates (Angela, external, other)?
+5. **Realistic assessment**: What's his honest take on VP role odds and timeline?
+6. **His contingency**: What if neither Doug nor RJ pursues CIO - what then?
+
+## Three Scenarios (Still Relevant but Evolving)
 
 ### Scenario A: Doug Becomes Acting CIO
-✅ Protects innovation work (provides own air cover)  
-✅ Proves capability (capstone/status achieved)  
-✅ Executive experience and compensation  
-❌ Gives up IC work he loves for 6-12 months  
-❌ Doing job for status/duty, not fulfillment  
-❌ Logistics challenges (one car, 45 min commute, RTO)  
+**Status**: Doug has decided NOT to pursue this
+✅ Would protect innovation work  
+❌ Logistics challenges, doing job for wrong reasons, not fulfilling
 
-### Scenario B: RJ Becomes CIO, Doug Takes RJ's Role ⭐ BEST OUTCOME
-✅ RJ provides air cover for innovation work  
-✅ Senior Manager of Service Delivery Operations = "best of both worlds"  
-✅ More strategic/operational blend, less pure exec admin  
-✅ Stays available for Dean or other creative senior roles  
-✅ Better alignment with actual interests (mentoring, strategy, some IC work)  
-❌ Requires RJ to want CIO (not yet confirmed)  
+### Scenario B: RJ Becomes CIO, Doug Takes RJ's Role
+**Status**: RJ has decided NOT to pursue CIO
+✅ Would have been best outcome for innovation protection  
+❌ Not viable - RJ won't do it
 
 ### Scenario C: Angela or External Gets CIO
-❌ Innovation work likely gutted or deprioritized  
-❌ Doug marginalized or packaged out  
-❌ "Life would just suck so hard"  
-❌ This is the scenario to AVOID  
+**Status**: Most likely outcome now
+❌ Innovation work likely deprioritized  
+❌ Front-of-house blindspot risk  
+🎯 Need to influence this outcome or find alternative protection strategy
 
-## RECOMMENDATION
+### Scenario D: Alternative Structures (Emerging)
+**Status**: Needs exploration with Derek
+- Derek as dual VP/CIO
+- Virtual CIO (committee model)
+- Director-level position instead
+- Restructured department reporting
 
-### Critical Next Step: ONE CONVERSATION DETERMINES EVERYTHING
+## Current Timeline
 
-**Have coffee with RJ within next 7 days to gauge his genuine interest in CIO role.**
+**Week of Jan 13-17**: 
+- RJ meeting to align on Derek conversation (ASAP)
+- Derek conversation on Friday (solo)
+- Post-Derek debrief with RJ
 
-That conversation determines the entire strategy:
+**Week of Jan 20-24**: 
+- Reassess strategy based on Derek conversation results
+- Determine protection strategy for innovation work
+- Identify any additional intelligence gathering needed
 
-**IF RJ wants CIO:**
-- ✅ DON'T compete with him
-- ✅ Support his candidacy
-- ✅ Position for his senior manager role
-- ✅ This is likely your BEST outcome
+**Week of Jan 27+**: 
+- Execute chosen strategy based on findings
+- Monitor Anna's EOI process development
+- Stay alert for dark horse candidates or unexpected developments
 
-**IF RJ is ambivalent or doesn't want CIO:**
-- ✅ DO pursue acting CIO yourself
-- ✅ You become default internal candidate
-- ✅ Frame as temporary transition leadership
-- ✅ Prevents worst-case scenario
-
-**IF Angela has strong executive support:**
-- ✅ DO pursue CIO aggressively
-- ✅ This becomes defensive move
-- ✅ Rally stakeholders, position as continuity
-
-+## Updated Next Steps (as of Jan 12, 2026)
-
-1. RJ has confirmed he does not want the CIO role, even temporarily.
-2. Doug has decided not to pursue the CIO role under any scenario, due to personal logistics, lack of fulfillment, and negative impact on life and work—even as a defensive move.
-3. Have a direct conversation with Derek to clarify:
-	- What he wants in a CIO
-	- His own intentions as VP College Services
-4. Quietly assess Stacey Bailey’s intentions and vision as likely VP College Services.
-5. Quietly assess Anna’s vision for the future structure and succession.
-6. Have a candid conversation with Angela to understand her intentions and leadership approach as a potential CIO.
-7. Remain alert for the possibility of a dark horse candidate for either CIO or VP roles.
-8. Seek a solution that protects innovation work and aligns with your values, without sacrificing your well-being.
-9. Document all findings and decisions in the action plan and README.
-
-## Decision Timeline
-
-**Week of Jan 13-17**: Intelligence gathering (RJ, Derek, Anna, Angela assessment)  
-**Week of Jan 20-24**: Make go/no-go decision based on RJ conversation results  
-**Week of Jan 27+**: Execute chosen strategy (pursue CIO, support RJ, or defensive positioning)  
-
-## The "Third Path" - Potential Best Outcome
-
-**If RJ becomes CIO and Doug takes RJ's senior manager role:**
-
-1. Innovation work protected under RJ's air cover ✅
-2. Senior Manager of Service Delivery Operations (growth + better fit) ✅
-3. Strategic/operational blend (more interesting than pure exec admin) ✅
-4. Mentoring opportunities (managers reporting to him) ✅
-5. Stays available for Dean or other creative senior roles ✅
-6. Better work-life logistics ✅
-7. Alignment with actual interests and retirement career vision ✅
-
-**This might be "best of both worlds" - you get protection for innovation work without sacrificing what you actually love doing.**
-
-## Key Quotes from Discovery Session
+## Key Quotes from Discovery Process
 
 > "I'm not sure that being a CIO would make me proud outside of the status symbol that comes with it."
 
@@ -167,24 +211,34 @@ That conversation determines the entire strategy:
 
 > "Pretty sure a new CIO is going to be a thing within the next 12 months anyway."
 
+From RJ Meeting:
+> "Neither R.J. nor I want the CIO role due to the administrative burden, logistical challenges, and the requirement to be Halifax-centered."
+
+> "We estimate Derek's chances for the VP role at about 50-50. If he does not get it, he is likely to leave eventually."
+
 ## Files Status
 
-- ✅ README.md - Updated with discovery results and next steps
+- ✅ README.md - Updated with latest status and strategy
 - ✅ org-structure.md - Complete
 - ✅ opportunity-context.md - Complete  
-- ✅ decision-discovery-session.md - Complete with full analysis and recommendation
-- ✅ action-plan.md - Complete 7-phase plan (will execute based on intelligence results)
-- 📁 materials/ - Supporting documents folder
+- ✅ decision-discovery-session.md - Complete with full analysis
+- ✅ action-plan.md - Complete 7-phase plan
+- ✅ rj-conversation-prep.md - Complete
+- ✅ rj-meeting-2026-01-12.md - Complete
+- ✅ derek-conversation-prep.md - NEW - Ready for Friday
+- 📁 materials/ - Supporting documents (including Derek endorsement letter)
 
 ## Decision Status
 
-**Status**: Intelligence gathering phase - RJ meeting provided new clarity; follow-up conversations with RJ and Derek are next  
-**Next Action**: Meet again with RJ, then talk to Derek, and monitor Anna/Stacey priorities  
-**Target Decision**: Week of January 20-24, 2026 (after follow-up intelligence gathered)  
-**Decision Driver**: RJ's interest level in CIO role and Derek's succession preferences  
+**Doug's Decision**: Will NOT pursue CIO role under any scenario - FINAL  
+**RJ's Decision**: Will NOT pursue CIO role - FINAL  
+**Critical Gap**: Derek doesn't know this yet  
+**Next Action**: Meet with RJ this week, then Derek on Friday  
+**Focus**: Understand Derek's needs and explore alternative structures to protect innovation work  
 
 ---
 
-*Last Updated: 2026-01-12, after RJ meeting*  
-*Discovery Session: COMPLETE; RJ meeting: COMPLETE*  
-*Next Step: Meet again with RJ, then talk to Derek*
+*Last Updated: 2026-01-12, 3:37 PM AST*  
+*Discovery Session: COMPLETE*  
+*RJ Meeting: COMPLETE*  
+*Next Critical Action: RJ alignment meeting + Derek conversation Friday*
