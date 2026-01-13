@@ -44,7 +44,7 @@
 **The Problem**: 
 - Had ChatGPT Plus subscription
 - Accumulated **hundreds and hundreds** of chat threads
-- **Couldn't delete them** - not because they had value, but because deleting felt wrong
+- **Couldn't delete them** - not because they had value, but because deleting them felt wrong
 - "It was a nightmare"
 - Had to "call shenanigans on the whole thing"
 
@@ -141,23 +141,70 @@
 
 ---
 
-## Section 6: Practical Checklist - TO BE CLARIFIED
+## Section 6: Practical Checklist - COMPLETE
 
-Based on Section 4, the checklist should include:
+### Doug's Actual Takeaway Extraction Prompt
 
-1. **Turn on auto-delete** (Gemini supports 3-month auto-delete)
-2. **Remove chatbot apps from phone** (except one for Share Sheet if needed)
-3. **Create harvesting protocol**:
-   - Write/bookmark a takeaway extraction prompt
-   - Review → Save gold → Delete thread (three steps)
-4. **Use browser bookmarks** instead of apps when possible
-5. **Remove social media apps** to reduce idle phone usage
-6. **Add intentional friction** between impulse and action
+**Stored in Apple Note, used in Perplexity**:
 
-**Still need from Doug**:
-- The actual takeaway extraction prompt he uses
-- His `!nbox` workflow details (if different from harvest protocol)
-- Any other specific recommendations
+```
+Read through this entire chat and provide a structured detailed summary. Then identify anything that is important enough to save to my notes. Give me those in separate markdown code blocks so I can easily copy/paste them into individual files. If you can give me them in downloadable markdown files directly, do that. If you can access my Workbench GitHub repo, commit these files to my __inbox folder.
+```
+
+**Note**: `__inbox` folder naming convention:
+- Double underscore sorts to top of repo
+- No special characters that break scripts/agents
+- Changed from `!nbox` for better compatibility
+
+### Custom Instructions Strategy
+
+**Gemini Custom Instructions** (builds in exit protocol):
+
+```
+Always start every response with one crisp, decisive sentence. Lead with most important facts. Use bullet points and bold headers for scannability. Provide the most likely "draft" answer immediately; state clearly if guessing and what info increases confidence. Talk informally like a trusted peer sitting beside me, not across from me. No preamble. Provide honest feedback and push for views I haven't considered. Do not end every response with a follow-up question. Only challenge assumptions if it fundamentally changes the strategic outcome. Only suggest frameworks if uniquely applicable. Creative writing only when requested. If the topic shifts, interrupt with: "We are drifting from [Original Topic]. Stay here or move to a new thread?". At conclusion, provide a concise summary of insights/decisions in a markdown-formatted code block. Suggest thread deletion after the Roll-Up if it lacks long-term value.
+```
+
+**Key elements**:
+- **No engagement-baiting follow-ups**: Stops the endless conversation loop
+- **Drift detection**: AI interrupts when topic shifts
+- **Built-in exit**: Automatic roll-up at conclusion
+- **Deletion prompt**: AI suggests thread deletion if no long-term value
+- Doug: "Mostly works"
+
+### The Complete Checklist
+
+1. **Turn on auto-delete where available**
+   - Gemini: 3-month auto-delete setting
+   - Other tools: Manual protocol below
+
+2. **Remove chatbot apps from phone**
+   - Exception: Keep ONE for Share Sheet functionality if needed
+   - Remove social media apps too (same idle-usage pattern)
+
+3. **Create your takeaway extraction protocol**:
+   - Write/bookmark a rollup prompt
+   - Finish conversation → Extract takeaways → Delete thread
+   - Three steps, every time
+
+4. **Set up custom instructions to prevent engagement loops**:
+   - No follow-up questions at end of responses
+   - Request markdown code blocks for outputs
+   - Ask AI to suggest thread deletion when appropriate
+
+5. **Use browser bookmarks instead of apps**
+   - Adds intentional friction
+   - Reduces boredom-driven usage
+   - Keeps chatbots "at the ready" without instant access
+
+6. **Create a notes landing zone**:
+   - `__inbox` folder in GitHub (or equivalent)
+   - One place for all harvested outputs
+   - Process/file later during review sessions
+
+7. **Prefer transactional over conversational interaction**:
+   - Type/dictate questions rather than voice chat
+   - "I submit question, you give answer" mindset
+   - Avoid multi-turn conversations when possible
 
 ---
 
@@ -170,8 +217,10 @@ Based on Section 4, the checklist should include:
 5. **Context frustration** - tools forget, we remind, cycle continues
 6. **Transactional vs. conversational** - defense against parasocial drift
 7. **Friction as feature** - intentional barriers protect presence
-8. **The core truth**: "I don't want to have any emotion with the tool. It is just a tool."
+8. **Exit protocols** - custom instructions that prompt closure
+9. **Engagement-baiting** - AI follow-up questions that extend threads
+10. **The core truth**: "I don't want to have any emotion with the tool. It is just a tool."
 
 ---
 
-**Status**: Section 4 complete. Section 6 needs final clarification (takeaway prompt, any other checklist items).
+**Status**: Sections 1, 4, and 6 research complete. Ready to build full outline.
