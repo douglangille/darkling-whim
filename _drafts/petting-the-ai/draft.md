@@ -1,12 +1,10 @@
 # Stop Petting the AI! How to Use ChatGPT Without Becoming Its Emotional Support Human
 
-**Draft Status**: COMPLETE - Ready for Revision  
+**Draft Status**: REVISED - Ready for Human Edit  
 **Target Length**: ~1,500 words  
 **Publication**: Digital Doug (Substack) - January 14, 2026 @ 8:00 AM AST
 
 ---
-
-## Opening Hook
 
 It's 3 AM. I'm in bed. I've gone from reading political news to spinning scenarios with ChatGPT about a "mad scientist vs. mad engineer" epic battle tournament that somehow evolved into a 7-season reality TV series concept.
 
@@ -20,7 +18,7 @@ This post is about how I stopped treating chatbots like companions and started t
 
 ---
 
-## Section 1: The Intimacy of the Phone
+## The Intimacy of the Phone
 
 I'd check ChatGPT the way folks check TikTok. Reflexively, to cure boredom.
 
@@ -32,13 +30,13 @@ Bored? Check social media. Bored? Chat with the bot.
 
 The chatbot becomes part of the phone's cure-boredom function. Research is starting to show what this enables: parasocial attachment. The phone makes it easy, too easy, to treat AI like a companion instead of a tool.
 
-So how does this spiral from "one quick question" to hundreds of threads you can't delete?
+Here's how it happens.
 
 ---
 
-## Section 2: How Chat Sprawl Happens
+## How Chat Sprawl Happens
 
-You start with good intentions. Using the tool for actual problems. Questions pile up: one-offs, half-finished conversations, experiments. The responses are tuned for engagement, slightly sycophantic, reaffirming. You engage more than you intended. Suddenly you have hundreds of threads.
+You start with good intentions, using the tool for actual problems. Questions pile up: one-offs, half-finished conversations, experiments. The responses are tuned for engagement, slightly sycophantic, reaffirming. You engage more than you intended. Suddenly you have hundreds of threads.
 
 You assume there's valuable output buried in those threads. "I can't delete this. What if I need it later?" But you lose track of what's where. The more threads you have, the less useful any of them become. Digital clutter you can't mentally manage. Context overload. Too many conversations blur together.
 
@@ -56,7 +54,7 @@ So I stopped trying to manage the chaos with willpower. I redesigned the system 
 
 ---
 
-## Section 3: From Willpower to System Design
+## From Willpower to System Design
 
 Sustainable digital hygiene isn't about discipline or white-knuckling your way through temptation. It's about building systems that make good behavior easy and bad behavior harder. Don't rely on willpower. Design the friction.
 
@@ -72,11 +70,9 @@ No engagement prompts at the end of chats. Drift detection interrupts. Auto-roll
 
 Does it work perfectly? Mostly. It helps me exit faster, though it still requires me to actually delete the thread myself. The instructions can remind you, but they can't force the habit. But the friction is what matters. It gave me back control.
 
-Here's the actual system I built.
-
 ---
 
-## Section 4: Architecting Defense - My Actual Setup
+## My Actual Setup
 
 My primary tool is Perplexity Pro. I've had an annual membership since December 2024. Why Perplexity? It presents as a search engine, not an engagement engine. Results are answer plus evidence, not "here are 5 follow-up questions to keep you hooked."
 
@@ -93,13 +89,13 @@ Read through this entire chat and provide a structured detailed summary. Then id
 
 3. Delete thread immediately. No accumulation, no guilt.
 
-Before I deleted all my ChatGPT threads, I exported everything to a zip file first. A backup in case I needed something. Then I clicked "delete all chats." There was a numb moment. Then nothing. No catastrophe. I still have that backup file. I've never opened it.
+Before I deleted all my ChatGPT threads, I exported everything to a zip file first. A backup in case I needed something. Then I stared at the "delete all chats" button for longer than I want to admit. Finally clicked it. There was a numb moment. Then nothing. No catastrophe. I still have that backup file. I've never opened it.
 
-This is workbench, not warehouse. The workbench is not your work. Visit the tool with purpose, use it, put it down. No emotional attachment.
+The artifact matters. The conversation doesn't. Extract what you need, then let it go.
 
 ---
 
-## Section 5: The Practical Checklist
+## The Practical Checklist
 
 Want to build your own version? Here's what actually works.
 
@@ -107,9 +103,9 @@ Want to build your own version? Here's what actually works.
 
 Gemini has a 3-month auto-delete setting. ChatGPT doesn't yet, but delete regularly anyway.
 
-**2. Remove chatbot apps from your phone**
+**2. Remove chatbot apps from your phone, keep browser bookmarks only**
 
-Keep browser bookmarks instead. Friction forces intentionality.
+Makes access intentional instead of reflexive.
 
 **3. Create a takeaway extraction protocol**
 
@@ -119,33 +115,27 @@ Have a rollup prompt ready. Use it at the end of every session. Extract what mat
 
 No engagement-baiting follow-ups. Drift detection interrupts. Built-in rollup at conclusion. Suggest thread deletion if there's no long-term value.
 
-**5. Use browser bookmarks, not apps**
-
-At the ready, but not in your face.
-
-**6. Create a notes landing zone**
+**5. Create a notes landing zone**
 
 GitHub inbox folder, Evernote, Obsidian, Apple Notes. Whatever works. The point: extract artifacts, delete threads.
 
-**7. Prefer transactional over conversational interaction**
+**6. Prefer transactional over conversational**
 
-Go in with purpose. Get what you need. Get out. No lingering, no "what else can you help me with?"
+Ask your question. Get your answer. Exit. No "what else can I help you with?"
 
 Some caveats: This works for my brain, which tends toward doom scrolling. It needs external constraints more than willpower. Multi-turn conversations do improve reasoning tasks when needed. Some people genuinely benefit from conversational AI for loneliness, social anxiety, processing thoughts out loud. I'm not dismissing that value. For me, brain-dumping into the tool and having it sort through my thoughts works better than ongoing conversation. My issue isn't with the tool. It's with how my phone made it too easy to use the tool in ways that didn't serve me. Your mileage may vary.
 
 ---
 
-## Section 6: Closing
-
 You don't name your table saw. You don't feel guilty unplugging your drill. You don't doom-chat with your circular saw at 3 AM.
 
-AI is a tool on your workbench. Visit it with purpose, use it, put it down. The workbench is not your work. The conversation is not the value. The artifact is.
+AI is a tool on your workbench. Visit it with purpose, use it, put it down. The conversation is not the value. The artifact is.
 
 That 3 AM mad scientist tournament conversation didn't need to happen. My phone made it easy, so it did. The system enabled the behavior. Changed system, changed behavior.
 
 Don't wait until you feel addicted to design boundaries. The engagement engine is already running. Your phone is already optimized to keep you scrolling. Chatbots are just the newest slot machine. Design your constraints now, while you still can.
 
-The AI doesn't need you. Make sure you're only using it when you need it.
+The AI doesn't need you. Make sure you're only reaching for it when you actually need it.
 
 ---
 
