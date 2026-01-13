@@ -56,3 +56,19 @@ So I stopped trying to manage the chaos with willpower. I redesigned the system 
 
 ---
 
+## Section 3: From Willpower to System Design
+
+Sustainable digital hygiene isn't about discipline or white-knuckling your way through temptation. It's about building systems that make good behavior easy and bad behavior harder. Don't rely on willpower. Design the friction.
+
+Before, ChatGPT had shortcuts everywhere: widget, Control Centre, shortcut key. I used it for everything. Even "What are Walmart's store hours?" Convenience led to overuse. No friction meant no intentionality.
+
+After? I removed all chatbot apps from my phone. Only browser bookmarks remain. I must be intentional to use them. The friction forces the question: "Do I actually need this?" Result: I only use them when there's real need.
+
+I also built custom instructions in Gemini and ChatGPT to prevent engagement loops. No engagement prompts at the end of chats. Drift detection interrupts. Auto-rollup at conclusion without asking. The system suggests thread deletion if there's no long-term value.
+
+Does it work perfectly? Mostly. It helps me exit faster, though it still requires me to actually delete the thread myself. The instructions can remind you, but they can't force the habit. But the friction is what matters. It gave me back control.
+
+Here's the actual system I built.
+
+---
+
