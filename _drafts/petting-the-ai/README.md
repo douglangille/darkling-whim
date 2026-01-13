@@ -1,6 +1,6 @@
 # Project Status: Stop Petting the AI!
 
-**Last Updated**: January 13, 2026 @ 6:03 PM AST
+**Last Updated**: January 13, 2026 @ 6:22 PM AST
 
 ---
 
@@ -66,6 +66,16 @@
 - **Status**: Ready for human edit
 - **Word count**: ~1,600 words
 
+### HEADER IMAGE ✅ COMPLETE
+- **File**: `header-image-prompt.md`
+- Brainstormed 20 concepts, evaluated on 5-point rubric
+- **Selected concept**: Hand Petting AI Icon (9.5/10)
+- Tested 3 art directions
+- **Selected**: Art Direction 1 - Photorealistic Soft Glow (9.0/10)
+- Image generated and selected
+- **Status**: Ready for publication
+- **Usage**: Substack hero, LinkedIn teaser, SharePoint header
+
 ### Phase 6: REVISION ⏳ NEXT
 - **Estimated time**: 20-30 minutes
 - Doug will do human edit pass
@@ -74,6 +84,7 @@
 
 ### Phase 7: PUBLICATION - NOT STARTED
 - Format for Substack
+- Add header image
 - Schedule for 8 AM January 14, 2026
 
 ---
@@ -111,6 +122,7 @@ _drafts/petting-the-ai/
 ├── beta-review.md ✅
 ├── index.md (original outline, kept for reference) ✅
 ├── draft.md ✅ (REVISED, ready for human edit)
+├── header-image-prompt.md ✅ (image generation documentation)
 └── revised-draft.md ❌ (will be created after human edit)
 ```
 
@@ -175,9 +187,9 @@ Load artifacts from _drafts/petting-the-ai/
 Focus on: revised-draft.md
 
 We are in Phase 7: PUBLICATION
-Format for Substack and schedule for 8 AM.
+Format for Substack, add header image, schedule for 8 AM.
 ```
 
 ---
 
-**Status**: Phase 5 complete with critical revision. Draft is solid, flows well, emotional journey works. Ready for Doug's human edit pass tomorrow morning before publication at 8 AM.
+**Status**: Phase 5 complete with critical revision. Header image selected and documented. Draft is solid, flows well, emotional journey works. Ready for Doug's human edit pass tomorrow morning before publication at 8 AM.
