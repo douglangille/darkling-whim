@@ -1,6 +1,6 @@
 # Project Status: Stop Petting the AI!
 
-**Last Updated**: January 13, 2026 @ 4:56 PM AST
+**Last Updated**: January 13, 2026 @ 6:03 PM AST
 
 ---
 
@@ -50,14 +50,26 @@
 - Outline revised with all feedback incorporated
 - Ready for drafting
 
-### Phase 5: DRAFTING ⏳ NEXT
-- **Target file**: `draft.md`
-- **Estimated time**: 60-90 minutes
-- **Approach**: Doug will draft in clean Claude chat session
-- **Status**: Ready to begin - outline is solid and beta-tested
+### Phase 5: DRAFTING ✅ COMPLETE
+- **File**: `draft.md`
+- All 6 sections drafted section-by-section in Perplexity
+- Committed incrementally to GitHub
+- Critical review conducted for narrative flow, repetition, emotional journey
+- **Revisions applied**:
+  - Removed repetition of "visit with purpose" (kept only in closing)
+  - Cut "Here's the actual system I built" transition
+  - Merged redundant checklist items (6 points instead of 7)
+  - Added decision moment to deletion story
+  - Clarified "artifact matters" instead of "workbench, not warehouse"
+  - Cleaned up section headings (removed enumeration)
+  - Fixed transition phrases and flow issues
+- **Status**: Ready for human edit
+- **Word count**: ~1,600 words
 
-### Phase 6: REVISION - NOT STARTED
+### Phase 6: REVISION ⏳ NEXT
 - **Estimated time**: 20-30 minutes
+- Doug will do human edit pass
+- Final polish before publication
 - Tomorrow morning before 8 AM publication
 
 ### Phase 7: PUBLICATION - NOT STARTED
@@ -66,65 +78,23 @@
 
 ---
 
-## Key Changes During Beta Review
+## Key Revisions Made During Drafting
 
-### MUST Fixes Applied:
-1. ✅ Replaced "Action→Hope→Motivation" jargon with clearer "system design beats willpower" language
-2. ✅ Expanded emotional climax (panic at deletion) from 3 sentences to full paragraph with counseling thread story
-3. ✅ Removed Perplexity app from phone (done literally while working on post) - all chatbots now browser-only
+### Repetition Fixes:
+1. ✅ "Visit with purpose, use it, put it down" - kept only in Section 6 (Closing)
+2. ✅ "Friction forces intentionality" - simplified in checklist
+3. ✅ Merged checklist Points 2 & 5 (both about apps/bookmarks)
 
-### SHOULD Fixes Applied:
-1. ✅ Simplified Section 2 from 3 competing arcs to single Useful→Suffocating arc
-2. ✅ Cut "everything turns to brown" confusing metaphor
-3. ✅ Explained "mostly works" limitation on custom instructions
-4. ✅ Consolidated closing metaphors - power tool primary, dropped robot librarian
-5. ✅ Added "after deletion" aftermath beat (exported backup, never opened it)
-6. ✅ Added emotional use case caveat (brain-dumping vs. conversation distinction)
+### Flow Improvements:
+1. ✅ Cut abrupt transition from Section 3
+2. ✅ Changed Section 1 ending to "Here's how it happens."
+3. ✅ Fixed Section 2 opening fragment
+4. ✅ Cleaned all section headings (no enumeration, no "Opening Hook" or "Closing")
 
-### COULD Fixes Applied:
-1. ✅ Kept opening hook length (absurdity is the point)
-2. ✅ Added personal bridge to Section 1: "I'd check ChatGPT the way folks check TikTok"
-3. ✅ Simplified harsh language: "Chatbots don't care. People do."
-4. ✅ Cut Share Sheet tongue-twister joke (didn't land)
-5. ✅ Added Claude/Copilot to tool mentions (no Grok)
-6. ✅ Simplified GitHub setup explanation: "I'm a nerd and it makes me feel like a hacker"
-
----
-
-## Key Content Captured
-
-### Personal Stories (All Integrated):
-- 3 AM mad scientist tournament (primary hook)
-- Counseling thread between sessions (emotional climax)
-- Panic at deletion + relief afterward
-- Story development threads resistance
-- ChatGPT shortcuts everywhere → "What are Walmart's hours?"
-- Exported all data to backup zip, never opened it
-- Deleted Perplexity from phone while writing this post
-
-### Key Insights:
-- "I was petting the AI"
-- "Chatbots don't care. People do."
-- "The artifact matters, not the conversation"
-- "The workbench is not your work"
-- "Hard to decide? Yes. Hard to do? No. And nobody died."
-
-### Technical Details:
-- Perplexity Pro as primary tool
-- VS Code + GitHub for notes ("makes me feel like a hacker")
-- All chatbot apps removed from phone
-- Browser bookmarks only
-- Three-step hygiene protocol
-- Actual rollup prompt (in code block)
-- Gemini custom instructions
-- 7-point checklist
-
-### Caveats:
-- Works for my brain (ADHD)
-- Multi-turn improves reasoning when needed
-- Some benefit from conversational AI (loneliness, social anxiety)
-- Brain-dumping vs. ongoing conversation distinction
-- Access patterns matter, not the tool itself
+### Emotional Journey:
+1. ✅ Added decision moment: "Then I stared at the 'delete all chats' button for longer than I want to admit. Finally clicked it."
+2. ✅ Clarified artifact vs. conversation philosophy
+3. ✅ Tightened closing line to avoid "need" repetition
 
 ---
 
@@ -132,31 +102,30 @@
 
 ```
 _drafts/petting-the-ai/
-├── README.md (this file)
+├── README.md (this file) ✅
 ├── brief.md ✅
 ├── concept.md ✅
-├── outline.md ✅ (UPDATED with beta fixes)
+├── outline.md ✅
 ├── research-notes.md ✅
 ├── ancillary-evidence.md ✅
-├── beta-review.md ✅ (NEW)
-├── index.md (original outline, kept for reference)
-├── draft.md ❌ (NEXT)
-└── revised-draft.md ❌
+├── beta-review.md ✅
+├── index.md (original outline, kept for reference) ✅
+├── draft.md ✅ (REVISED, ready for human edit)
+└── revised-draft.md ❌ (will be created after human edit)
 ```
 
 ---
 
 ## Time Remaining
 
-**Available tonight**: ~1.5 hours  
 **Available tomorrow morning**: 60-90 minutes before 8 AM publication
 
 **Estimated work remaining**:
-- Drafting: 60-90 minutes (Doug doing in Claude)
-- Revision: 20-30 minutes
+- Human edit pass: 15-20 minutes
+- Final polish: 10 minutes
 - Formatting/publication: 10-15 minutes
 
-**Total**: ~2 hours
+**Total**: ~45 minutes
 
 ---
 
@@ -168,16 +137,16 @@ _drafts/petting-the-ai/
 1. Setup ✅
 2. Concept & Angle ✅
 3. Outline & Research ✅
-4. Beta Review ✅ (completed, not skipped)
-5. Drafting ⏳ (next)
-6. Revision ⏳
+4. Beta Review ✅
+5. Drafting ✅ (including critical revision pass)
+6. Revision ⏳ (next - human edit)
 7. Publication ⏳
 
 ---
 
 ## Next Session Instructions
 
-**To Resume Drafting in New Chat**:
+**To Resume for Human Edit**:
 
 ```
 Connect to my Workbench repo on GitHub.
@@ -187,29 +156,28 @@ Load and follow story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
 # Post: Stop Petting the AI!
 
 Load artifacts from _drafts/petting-the-ai/
-Focus on: outline.md (beta-tested and ready)
-
-We are in Phase 5: DRAFTING
-Convert outline to prose, section by section.
-Target: 1,500 words, Doug's voice.
-```
-
-**To Resume Revision (After Drafting)**:
-
-```
-Connect to my Workbench repo on GitHub.
-
-Load and follow story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
-
-# Post: Stop Petting the AI!
-
-Load artifacts from _drafts/petting-the-ai/
-Focus on: draft.md
+Focus on: draft.md (revised and ready for human edit)
 
 We are in Phase 6: REVISION
-Polish draft for publication.
+Human edit complete - ready for final polish.
+```
+
+**To Resume for Publication**:
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load and follow story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
+
+# Post: Stop Petting the AI!
+
+Load artifacts from _drafts/petting-the-ai/
+Focus on: revised-draft.md
+
+We are in Phase 7: PUBLICATION
+Format for Substack and schedule for 8 AM.
 ```
 
 ---
 
-**Status**: Phases 1-4 complete. Outline is solid, beta-tested, and ready for drafting. Doug will draft in separate Claude session. Revision and publication tomorrow morning.
+**Status**: Phase 5 complete with critical revision. Draft is solid, flows well, emotional journey works. Ready for Doug's human edit pass tomorrow morning before publication at 8 AM.
