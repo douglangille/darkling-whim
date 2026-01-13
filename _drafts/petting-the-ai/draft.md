@@ -36,3 +36,23 @@ So how does this spiral from "one quick question" to hundreds of threads you can
 
 ---
 
+## Section 2: How Chat Sprawl Happens
+
+You start with good intentions. Using the tool for actual problems. Questions pile up: one-offs, half-finished conversations, experiments. The responses are tuned for engagement, slightly sycophantic, reaffirming. You engage more than you intended. Suddenly you have hundreds of threads.
+
+You assume there's valuable output buried in those threads. "I can't delete this. What if I need it later?" But you lose track of what's where. The more threads you have, the less useful any of them become. Digital clutter you can't mentally manage. Context overload. Too many conversations blur together.
+
+Here's the thing: with a chatbot, it's the opposite of other creative work. The artifact you extract is more important than the conversation. Chatbots don't care. People do. The process doesn't matter with a tool. Only what you extract from it. It's the opposite of human interactions where the interaction is often more important than the result.
+
+I had a ChatGPT thread I'd been using between counseling sessions. Tracking homework, processing insights, preparing for the next appointment. It had gotten long. Too long. The bot was forgetting context, contradicting itself, becoming less useful every time I opened it.
+
+I wanted to delete it and start fresh. I'd already extracted everything I needed. Notes for my next session, key insights, action items. I had what mattered. But when I went to hit delete, I froze.
+
+My brain kept circling back: "But what if there's something in there I missed?" The panic wasn't rational. I knew I had the good stuff saved. But I resisted. I kept that thread, and dozens of story development threads like it, because deleting the conversation felt wrong, even though the conversation itself had no value anymore.
+
+When I finally deleted them, I felt relief. But the fact that I'd had an emotional response to deleting a chat thread at all? That's when I knew something was off. I was treating tool output like a relationship.
+
+So I stopped trying to manage the chaos with willpower. I redesigned the system instead.
+
+---
+
