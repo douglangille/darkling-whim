@@ -147,6 +147,52 @@ Analyze this spreadsheet and create:
 
 ---
 
+## HealthKit Integration Status
+
+### Current State (January 2026)
+**Status**: Non-functional - awaiting official release
+
+### The Issue
+HealthKit integration exhibits contradictory platform availability:
+
+**macOS Safari (Desktop)**:
+- HealthKit appears as a source option in chat threads
+- Cannot be configured or authorized (no HealthKit on macOS)
+- Selecting it produces errors
+- No connector in Settings → Connectors page
+
+**iOS/iPadOS Safari (Mobile)**:
+- HealthKit does NOT appear as source option
+- Should be available (HealthKit exists on these platforms)
+- This is backwards from expected behavior
+
+### Root Cause
+Likely platform detection bug or incomplete feature rollout. The feature appears to have been:
+- Partially implemented in the web interface
+- Never properly completed or tested
+- Possibly intended for native macOS app (as documentation suggested)
+- Accidentally exposed on wrong platforms
+
+### What Doesn't Work
+- No authorization flow exists on any platform
+- Tool exists in MCP toolkit but can't be properly initialized
+- No official documentation in Perplexity support center
+
+### Potential Use Cases (When Working)
+- Query step counts, heart rate, sleep patterns over time periods
+- Correlate health metrics with writing productivity
+- Track farm work activity impact on daily movement
+- Integrate biometric data into quarterly planning reviews
+- Evidence-based health optimization queries
+
+### Next Steps
+- Wait for official announcement and proper release
+- Feature will likely require proper iOS authorization flow
+- May eventually appear in Settings → Connectors page
+- Report to support@perplexity.ai if persists beyond Q1 2026
+
+---
+
 ## Voice Features (Rarely Used)
 
 ### When to Use Dictation (Preferred)
@@ -212,6 +258,12 @@ While Perplexity UI font can't be changed, maintain consistency elsewhere:
 - Model sets per Space, not globally
 - Set default in Space settings for consistency
 
+**HealthKit appears but doesn't work**:
+- Known issue - feature not properly released yet
+- Appears on macOS (where it can't work)
+- Doesn't appear on iOS/iPadOS (where it should work)
+- Wait for official release and proper documentation
+
 ---
 
-**Last Updated**: December 27, 2025
+**Last Updated**: January 13, 2026
