@@ -99,3 +99,39 @@ This is workbench, not warehouse. The workbench is not your work. Visit the tool
 
 ---
 
+## Section 5: The Practical Checklist
+
+Want to build your own version? Here's what actually works.
+
+**1. Turn on auto-delete (if available)**
+
+Gemini has a 3-month auto-delete setting. ChatGPT doesn't yet, but delete regularly anyway.
+
+**2. Remove chatbot apps from your phone**
+
+Keep browser bookmarks instead. Friction forces intentionality.
+
+**3. Create a takeaway extraction protocol**
+
+Have a rollup prompt ready. Use it at the end of every session. Extract what matters, then delete.
+
+**4. Build friction into your custom instructions**
+
+No engagement-baiting follow-ups. Drift detection interrupts. Built-in rollup at conclusion. Suggest thread deletion if there's no long-term value.
+
+**5. Use browser bookmarks, not apps**
+
+At the ready, but not in your face.
+
+**6. Create a notes landing zone**
+
+GitHub inbox folder, Evernote, Obsidian, Apple Notes. Whatever works. The point: extract artifacts, delete threads.
+
+**7. Prefer transactional over conversational interaction**
+
+Go in with purpose. Get what you need. Get out. No lingering, no "what else can you help me with?"
+
+Some caveats: This works for my brain, which tends toward doom scrolling. It needs external constraints more than willpower. Multi-turn conversations do improve reasoning tasks when needed. Some people genuinely benefit from conversational AI for loneliness, social anxiety, processing thoughts out loud. I'm not dismissing that value. For me, brain-dumping into the tool and having it sort through my thoughts works better than ongoing conversation. My issue isn't with the tool. It's with how my phone made it too easy to use the tool in ways that didn't serve me. Your mileage may vary.
+
+---
+
