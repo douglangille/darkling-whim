@@ -20,3 +20,19 @@ This post is about how I stopped treating chatbots like companions and started t
 
 ---
 
+## Section 1: The Intimacy of the Phone
+
+I'd check ChatGPT the way folks check TikTok. Reflexively, to cure boredom.
+
+The phone is already an engagement engine designed for this. It's with you constantly, pocket-ready, optimized to solve the problem of empty moments. Big tech has spent decades engineering these devices to keep you scrolling, tapping, coming back for more.
+
+Context blurs on the phone. Entertainment, work, social media, messaging. It all lives in the same glass rectangle. You swipe between them without thinking. Chatbots like ChatGPT, Gemini, Claude, Copilot, and the rest slot right into that pattern.
+
+Bored? Check social media. Bored? Chat with the bot.
+
+The chatbot becomes part of the phone's cure-boredom function. Research is starting to show what this enables: parasocial attachment. The phone makes it easy, too easy, to treat AI like a companion instead of a tool.
+
+So how does this spiral from "one quick question" to hundreds of threads you can't delete?
+
+---
+
