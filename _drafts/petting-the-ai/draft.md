@@ -1,6 +1,6 @@
 # Stop Petting the AI! How to Use ChatGPT Without Becoming Its Emotional Support Human
 
-**Draft Status**: In Progress - Section by Section  
+**Draft Status**: COMPLETE - Ready for Revision  
 **Target Length**: ~1,500 words  
 **Publication**: Digital Doug (Substack) - January 14, 2026 @ 8:00 AM AST
 
@@ -135,3 +135,18 @@ Some caveats: This works for my brain, which tends toward doom scrolling. It nee
 
 ---
 
+## Section 6: Closing
+
+You don't name your table saw. You don't feel guilty unplugging your drill. You don't doom-chat with your circular saw at 3 AM.
+
+AI is a tool on your workbench. Visit it with purpose, use it, put it down. The workbench is not your work. The conversation is not the value. The artifact is.
+
+That 3 AM mad scientist tournament conversation didn't need to happen. My phone made it easy, so it did. The system enabled the behavior. Changed system, changed behavior.
+
+Don't wait until you feel addicted to design boundaries. The engagement engine is already running. Your phone is already optimized to keep you scrolling. Chatbots are just the newest slot machine. Design your constraints now, while you still can.
+
+The AI doesn't need you. Make sure you're only using it when you need it.
+
+---
+
+**END OF DRAFT**
