@@ -1,6 +1,6 @@
 # Project Status: Stop Petting the AI!
 
-**Last Updated**: January 13, 2026 @ 4:02 PM AST
+**Last Updated**: January 13, 2026 @ 4:56 PM AST
 
 ---
 
@@ -23,7 +23,7 @@
 ### Phase 1: SETUP ✅ COMPLETE
 - **File**: `brief.md`
 - Audience defined: NSCC community + EdTech professionals
-- Core ethos: Action→Hope→Motivation virtuous cycle
+- Core ethos: System design beats willpower
 - Success criteria established
 
 ### Phase 2: CONCEPT & ANGLE ✅ COMPLETE
@@ -32,20 +32,29 @@
 - Primary angle locked: System design beats willpower
 - LinkedIn-optimized subtitle chosen
 
-### Phase 3: OUTLINE & RESEARCH 🟡 IN PROGRESS
-- **Files**: `research-notes.md`, `ancillary-evidence.md`
-- Section 1 (Hook): Personal stories captured - 3 AM mad scientist tournament
-- Section 4 (Architecting Defense): Complete tech stack details
-- Section 6 (Practical Checklist): Complete with actual prompts and custom instructions
-- Evidence research: Completed parasocial AI, system design, digital hoarding, ADHD patterns
-- **NEXT STEP**: Build complete expanded outline.md with all 7 sections
+### Phase 3: OUTLINE & RESEARCH ✅ COMPLETE
+- **Files**: `outline.md`, `research-notes.md`, `ancillary-evidence.md`
+- All 7 sections detailed with word count targets
+- Section 1 (Hook): 3 AM mad scientist tournament
+- Section 2 (Chat Sprawl): Simplified to single arc, emotional climax expanded
+- Section 3 (System Design): Willpower vs. constraints philosophy
+- Section 4 (My Setup): Actual tech stack + aftermath of deletion
+- Section 5 (Checklist): 7-point practical guide with prompts
+- Section 6 (Closing): Power tool metaphor + callback
+- Evidence research: Complete
 
-### Phase 4: BETA REVIEW - SKIPPED
-- Not needed for blog post with tight timeline
+### Phase 4: BETA REVIEW ✅ COMPLETE
+- **File**: `beta-review.md`
+- 4-persona panel simulation conducted
+- All MUST/SHOULD/COULD fixes identified and integrated
+- Outline revised with all feedback incorporated
+- Ready for drafting
 
-### Phase 5: DRAFTING - NOT STARTED
+### Phase 5: DRAFTING ⏳ NEXT
+- **Target file**: `draft.md`
 - **Estimated time**: 60-90 minutes
-- Can begin after outline complete or jump directly if preferred
+- **Approach**: Doug will draft in clean Claude chat session
+- **Status**: Ready to begin - outline is solid and beta-tested
 
 ### Phase 6: REVISION - NOT STARTED
 - **Estimated time**: 20-30 minutes
@@ -57,120 +66,65 @@
 
 ---
 
+## Key Changes During Beta Review
+
+### MUST Fixes Applied:
+1. ✅ Replaced "Action→Hope→Motivation" jargon with clearer "system design beats willpower" language
+2. ✅ Expanded emotional climax (panic at deletion) from 3 sentences to full paragraph with counseling thread story
+3. ✅ Removed Perplexity app from phone (done literally while working on post) - all chatbots now browser-only
+
+### SHOULD Fixes Applied:
+1. ✅ Simplified Section 2 from 3 competing arcs to single Useful→Suffocating arc
+2. ✅ Cut "everything turns to brown" confusing metaphor
+3. ✅ Explained "mostly works" limitation on custom instructions
+4. ✅ Consolidated closing metaphors - power tool primary, dropped robot librarian
+5. ✅ Added "after deletion" aftermath beat (exported backup, never opened it)
+6. ✅ Added emotional use case caveat (brain-dumping vs. conversation distinction)
+
+### COULD Fixes Applied:
+1. ✅ Kept opening hook length (absurdity is the point)
+2. ✅ Added personal bridge to Section 1: "I'd check ChatGPT the way folks check TikTok"
+3. ✅ Simplified harsh language: "Chatbots don't care. People do."
+4. ✅ Cut Share Sheet tongue-twister joke (didn't land)
+5. ✅ Added Claude/Copilot to tool mentions (no Grok)
+6. ✅ Simplified GitHub setup explanation: "I'm a nerd and it makes me feel like a hacker"
+
+---
+
 ## Key Content Captured
 
-### Section 1: Hook (Personal Stories)
-1. **3 AM Mad Scientist Tournament** - Primary hook story
-   - Political news → scenarios → mad scientist vs engineer question
-   - Ended with 7-season reality TV series concept
-   - At 3 AM in bed
-   - Perfect example of "doom chatting"
+### Personal Stories (All Integrated):
+- 3 AM mad scientist tournament (primary hook)
+- Counseling thread between sessions (emotional climax)
+- Panic at deletion + relief afterward
+- Story development threads resistance
+- ChatGPT shortcuts everywhere → "What are Walmart's hours?"
+- Exported all data to backup zip, never opened it
+- Deleted Perplexity from phone while writing this post
 
-2. **Named Threads & Context Frustration**
-   - Long threads with names to preserve context
-   - Tool forgets anyway, constant reminding
-   - Frustration with the tool itself
+### Key Insights:
+- "I was petting the AI"
+- "Chatbots don't care. People do."
+- "The artifact matters, not the conversation"
+- "The workbench is not your work"
+- "Hard to decide? Yes. Hard to do? No. And nobody died."
 
-3. **Hundreds of Undeletable Threads**
-   - ChatGPT Plus subscription
-   - Accumulated hundreds of threads
-   - Couldn't delete - not because valuable, but felt wrong
-   - Realization: "I was petting the AI"
+### Technical Details:
+- Perplexity Pro as primary tool
+- VS Code + GitHub for notes ("makes me feel like a hacker")
+- All chatbot apps removed from phone
+- Browser bookmarks only
+- Three-step hygiene protocol
+- Actual rollup prompt (in code block)
+- Gemini custom instructions
+- 7-point checklist
 
-### Section 4: Architecting Defense (Doug's ACTUAL Setup)
-
-**Current Tech Stack**:
-- Perplexity Pro (primary, annual membership Dec 2024)
-- Connected to GitHub via MCP
-- Notes stored in private GitHub repo (__inbox folder)
-
-**Device Strategy**:
-- REMOVED: ChatGPT app, Gemini app
-- KEPT: Perplexity app (only chatbot, for Share Sheet + daily utility)
-- Browser bookmarks for all chatbots "at the ready"
-
-**Three-Step Chat Hygiene Protocol**:
-1. Finish conversation
-2. Harvest takeaways (paste rollup prompt)
-3. Delete thread immediately
-
-**Key Quotes**:
-- "I don't want to have any emotion with the tool. It is just a tool."
-- "The stupid Apple Share Sheet" (tongue twister joke)
-
-### Section 6: Practical Checklist
-
-**Doug's Actual Takeaway Prompt** (stored in Apple Note):
-```
-Read through this entire chat and provide a structured detailed summary. Then identify anything that is important enough to save to my notes. Give me those in separate markdown code blocks so I can easily copy/paste them into individual files. If you can give me them in downloadable markdown files directly, do that. If you can access my Workbench GitHub repo, commit these files to my __inbox folder.
-```
-
-**Doug's Gemini Custom Instructions**:
-- No engagement-baiting follow-ups
-- Drift detection interrupts
-- Built-in rollup at conclusion
-- Suggests thread deletion if no long-term value
-- "Mostly works"
-
-**7-Point Checklist**:
-1. Turn on auto-delete (Gemini: 3-month setting)
-2. Remove chatbot apps from phone (except one for Share Sheet)
-3. Create takeaway extraction protocol (harvest-save-delete)
-4. Set custom instructions to prevent engagement loops
-5. Use browser bookmarks vs. apps (friction = intentionality)
-6. Create notes landing zone (__inbox folder in GitHub)
-7. Prefer transactional over conversational interaction
-
----
-
-## Evidence Base Summary
-
-**Strong Support**:
-- System design vs. willpower (Thaler & Sunstein, BJ Fogg)
-- Friction design (50-70% usage reduction through app removal)
-- Digital hoarding patterns (loss aversion, status quo bias)
-- ADHD/neurodivergent patterns (constraints > motivation)
-
-**Research Gaps**:
-- Limited peer-reviewed studies on generative AI parasocial relationships (field too new)
-- Custom instructions for user behavior (emerging, not established)
-
-**Contrary Evidence Acknowledged**:
-- Multi-turn conversations DO improve reasoning tasks
-- Willpower approaches work for some people
-- Chatbot interaction can improve mental health
-- ADHD individuals may benefit from AI body doubling
-
-**Critical Caveats**:
-1. Field is new (ChatGPT only 2 years old)
-2. "Works for my brain" qualifier essential
-3. Not universal prescription
-4. Neurodiversity matters significantly
-5. Benefits aren't denied - about access type, not tool value
-
----
-
-## Remaining Sections to Detail
-
-**Section 2: The Intimacy of the Phone**
-- Phone as always-with-you object
-- Why it encourages emotional use
-- Brief research on parasociality
-
-**Section 3: How Chat Sprawl Happens**
-- One-offs, half-finished threads
-- Talking to bot about everything
-- Guilt of not curating vs. impossibility of doing so
-
-**Section 5: From Willpower to System Design**
-- Sustainable digital hygiene = constraints, not discipline
-- Encoding intent into devices reduces emotional drift
-- Action→Hope→Motivation cycle
-
-**Section 7: Closing**
-- Reframe: AI isn't pet, it's power tool
-- Invite readers to design boundaries proactively
-- Not waiting to feel "addicted" first
+### Caveats:
+- Works for my brain (ADHD)
+- Multi-turn improves reasoning when needed
+- Some benefit from conversational AI (loneliness, social anxiety)
+- Brain-dumping vs. ongoing conversation distinction
+- Access patterns matter, not the tool itself
 
 ---
 
@@ -181,49 +135,28 @@ _drafts/petting-the-ai/
 ├── README.md (this file)
 ├── brief.md ✅
 ├── concept.md ✅
+├── outline.md ✅ (UPDATED with beta fixes)
 ├── research-notes.md ✅
 ├── ancillary-evidence.md ✅
-├── outline.md ❌ (NEXT STEP)
-├── draft.md ❌
-└── index.md (original outline, keep for reference)
-```
-
----
-
-## Next Session Instructions
-
-**To Resume Work**:
-
-```
-Connect to my Workbench repo on GitHub.
-
-Load and follow story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
-
-# Post: Stop Petting the AI!
-
-Load artifacts from _drafts/petting-the-ai/
-Report current phase status from README.md
-
-We are in Phase 3: OUTLINE & RESEARCH
-Next step: Create expanded outline.md with all 7 sections detailed.
-
-Then proceed to Phase 5: DRAFTING when ready.
+├── beta-review.md ✅ (NEW)
+├── index.md (original outline, kept for reference)
+├── draft.md ❌ (NEXT)
+└── revised-draft.md ❌
 ```
 
 ---
 
 ## Time Remaining
 
-**Available tonight**: ~2 hours (if desired)
+**Available tonight**: ~1.5 hours  
 **Available tomorrow morning**: 60-90 minutes before 8 AM publication
 
 **Estimated work remaining**:
-- Expanded outline: 15-20 minutes
-- Drafting: 60-90 minutes
+- Drafting: 60-90 minutes (Doug doing in Claude)
 - Revision: 20-30 minutes
 - Formatting/publication: 10-15 minutes
 
-**Total**: ~2-2.5 hours
+**Total**: ~2 hours
 
 ---
 
@@ -234,14 +167,49 @@ Then proceed to Phase 5: DRAFTING when ready.
 7 Phases:
 1. Setup ✅
 2. Concept & Angle ✅
-3. Outline & Research 🟡 (in progress)
-4. Beta Review (skipped)
-5. Drafting ⏳
+3. Outline & Research ✅
+4. Beta Review ✅ (completed, not skipped)
+5. Drafting ⏳ (next)
 6. Revision ⏳
 7. Publication ⏳
 
 ---
 
-**Status**: Ready to create expanded outline or jump directly to drafting.
-**Recommended**: Build outline first for structure, then draft.
-**Alternative**: Draft directly from research notes if energy is high.
+## Next Session Instructions
+
+**To Resume Drafting in New Chat**:
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load and follow story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
+
+# Post: Stop Petting the AI!
+
+Load artifacts from _drafts/petting-the-ai/
+Focus on: outline.md (beta-tested and ready)
+
+We are in Phase 5: DRAFTING
+Convert outline to prose, section by section.
+Target: 1,500 words, Doug's voice.
+```
+
+**To Resume Revision (After Drafting)**:
+
+```
+Connect to my Workbench repo on GitHub.
+
+Load and follow story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
+
+# Post: Stop Petting the AI!
+
+Load artifacts from _drafts/petting-the-ai/
+Focus on: draft.md
+
+We are in Phase 6: REVISION
+Polish draft for publication.
+```
+
+---
+
+**Status**: Phases 1-4 complete. Outline is solid, beta-tested, and ready for drafting. Doug will draft in separate Claude session. Revision and publication tomorrow morning.
