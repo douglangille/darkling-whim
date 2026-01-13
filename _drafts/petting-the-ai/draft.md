@@ -64,11 +64,38 @@ Before, ChatGPT had shortcuts everywhere: widget, Control Centre, shortcut key. 
 
 After? I removed all chatbot apps from my phone. Only browser bookmarks remain. I must be intentional to use them. The friction forces the question: "Do I actually need this?" Result: I only use them when there's real need.
 
-I also built custom instructions in Gemini and ChatGPT to prevent engagement loops. No engagement prompts at the end of chats. Drift detection interrupts. Auto-rollup at conclusion without asking. The system suggests thread deletion if there's no long-term value.
+I also built friction into the custom instructions in Gemini and ChatGPT:
+
+```
+No engagement prompts at the end of chats. Drift detection interrupts. Auto-rollup at conclusion without asking. Suggest thread deletion if there's no long-term value.
+```
 
 Does it work perfectly? Mostly. It helps me exit faster, though it still requires me to actually delete the thread myself. The instructions can remind you, but they can't force the habit. But the friction is what matters. It gave me back control.
 
 Here's the actual system I built.
+
+---
+
+## Section 4: Architecting Defense - My Actual Setup
+
+My primary tool is Perplexity Pro. I've had an annual membership since December 2024. Why Perplexity? It presents as a search engine, not an engagement engine. Results are answer plus evidence, not "here are 5 follow-up questions to keep you hooked."
+
+I keep my notes in VS Code and GitHub because I'm a nerd and it makes me feel like a hacker. The mechanics don't matter for this post.
+
+I follow a three-step chat hygiene protocol:
+
+1. Finish the conversation. Get what you came for.
+2. Harvest takeaways. I paste this prompt at the end of every session:
+
+```
+Read through this entire chat and provide a structured detailed summary. Then identify anything important enough to save to my notes. Give me those in separate markdown code blocks so I can easily copy/paste them into individual files. If you can give them to me in downloadable markdown files directly, do that. If you can access my Workbench GitHub repo, commit these files to my __inbox folder.
+```
+
+3. Delete thread immediately. No accumulation, no guilt.
+
+Before I deleted all my ChatGPT threads, I exported everything to a zip file first. A backup in case I needed something. Then I clicked "delete all chats." There was a numb moment. Then nothing. No catastrophe. I still have that backup file. I've never opened it.
+
+This is workbench, not warehouse. The workbench is not your work. Visit the tool with purpose, use it, put it down. No emotional attachment.
 
 ---
 
