@@ -1,6 +1,6 @@
 # Project Status: Stop Petting the AI!
 
-**Last Updated**: January 13, 2026 @ 6:22 PM AST
+**Last Updated**: January 13, 2026 @ 7:00 PM AST
 
 ---
 
@@ -66,6 +66,19 @@
 - **Status**: Ready for human edit
 - **Word count**: ~1,600 words
 
+### Phase 6: REVISION ✅ COMPLETE
+- **File**: `revised-draft.md`
+- **Human edit completed**: Doug's revision applied
+- **Final polish tweaks applied**:
+  - Tightened opening hook ("This isn't productive. It's not even fun.")
+  - Formatted custom instructions as block quote for readability
+  - Bolded all checklist items for scannability
+  - Separated caveats with proper "A Few Caveats" header
+  - Added section breaks (---) for visual rhythm
+  - Improved protocol formatting with numbered + bolded headers
+- **Final word count**: ~1,580 words (within target range)
+- **Status**: PUBLICATION READY
+
 ### HEADER IMAGE ✅ COMPLETE
 - **File**: `header-image-prompt.md`
 - Brainstormed 20 concepts, evaluated on 5-point rubric
@@ -76,36 +89,34 @@
 - **Status**: Ready for publication
 - **Usage**: Substack hero, LinkedIn teaser, SharePoint header
 
-### Phase 6: REVISION ⏳ NEXT
-- **Estimated time**: 20-30 minutes
-- Doug will do human edit pass
-- Final polish before publication
-- Tomorrow morning before 8 AM publication
-
-### Phase 7: PUBLICATION - NOT STARTED
+### Phase 7: PUBLICATION ⏳ NEXT
 - Format for Substack
 - Add header image
 - Schedule for 8 AM January 14, 2026
+- **Estimated time**: 10-15 minutes tomorrow morning
 
 ---
 
-## Key Revisions Made During Drafting
+## Editorial Tweaks Applied in Final Polish
 
-### Repetition Fixes:
-1. ✅ "Visit with purpose, use it, put it down" - kept only in Section 6 (Closing)
-2. ✅ "Friction forces intentionality" - simplified in checklist
-3. ✅ Merged checklist Points 2 & 5 (both about apps/bookmarks)
+### Structural Improvements:
+1. ✅ Added section breaks (---) for visual breathing room
+2. ✅ Formatted custom instructions as block quote with context ("yes, it's dense—that's intentional")
+3. ✅ Bolded all checklist items for scannable hierarchy
+4. ✅ Separated "A Few Caveats" as distinct section
+5. ✅ Improved protocol formatting (numbered + bold headers)
 
-### Flow Improvements:
-1. ✅ Cut abrupt transition from Section 3
-2. ✅ Changed Section 1 ending to "Here's how it happens."
-3. ✅ Fixed Section 2 opening fragment
-4. ✅ Cleaned all section headings (no enumeration, no "Opening Hook" or "Closing")
+### Voice Refinements:
+1. ✅ Opening hook: "This isn't productive. It's not even fun." (tighter rhythm)
+2. ✅ Maintained Doug's conversational fragments throughout
+3. ✅ Preserved vulnerability moments (backup file, deletion hesitation)
+4. ✅ Kept intellectual honesty in caveats without hedging main argument
 
-### Emotional Journey:
-1. ✅ Added decision moment: "Then I stared at the 'delete all chats' button for longer than I want to admit. Finally clicked it."
-2. ✅ Clarified artifact vs. conversation philosophy
-3. ✅ Tightened closing line to avoid "need" repetition
+### Readability Enhancements:
+1. ✅ Visual hierarchy clear throughout
+2. ✅ Block quotes distinguish instructional content
+3. ✅ Section breaks create natural reading rhythm
+4. ✅ Bold headers make checklist actionable at a glance
 
 ---
 
@@ -121,9 +132,9 @@ _drafts/petting-the-ai/
 ├── ancillary-evidence.md ✅
 ├── beta-review.md ✅
 ├── index.md (original outline, kept for reference) ✅
-├── draft.md ✅ (REVISED, ready for human edit)
-├── header-image-prompt.md ✅ (image generation documentation)
-└── revised-draft.md ❌ (will be created after human edit)
+├── draft.md ✅ (AI-revised version)
+├── revised-draft.md ✅ (FINAL - human edit + polish applied)
+└── header-image-prompt.md ✅ (image generation documentation)
 ```
 
 ---
@@ -133,11 +144,9 @@ _drafts/petting-the-ai/
 **Available tomorrow morning**: 60-90 minutes before 8 AM publication
 
 **Estimated work remaining**:
-- Human edit pass: 15-20 minutes
-- Final polish: 10 minutes
 - Formatting/publication: 10-15 minutes
 
-**Total**: ~45 minutes
+**Total**: ~15 minutes
 
 ---
 
@@ -151,28 +160,12 @@ _drafts/petting-the-ai/
 3. Outline & Research ✅
 4. Beta Review ✅
 5. Drafting ✅ (including critical revision pass)
-6. Revision ⏳ (next - human edit)
+6. Revision ✅ (human edit + final polish)
 7. Publication ⏳
 
 ---
 
 ## Next Session Instructions
-
-**To Resume for Human Edit**:
-
-```
-Connect to my Workbench repo on GitHub.
-
-Load and follow story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
-
-# Post: Stop Petting the AI!
-
-Load artifacts from _drafts/petting-the-ai/
-Focus on: draft.md (revised and ready for human edit)
-
-We are in Phase 6: REVISION
-Human edit complete - ready for final polish.
-```
 
 **To Resume for Publication**:
 
@@ -184,7 +177,7 @@ Load and follow story-engine/bootstraps/BLOG-POST-BOOTSTRAP.md
 # Post: Stop Petting the AI!
 
 Load artifacts from _drafts/petting-the-ai/
-Focus on: revised-draft.md
+Focus on: revised-draft.md (FINAL VERSION)
 
 We are in Phase 7: PUBLICATION
 Format for Substack, add header image, schedule for 8 AM.
@@ -192,4 +185,4 @@ Format for Substack, add header image, schedule for 8 AM.
 
 ---
 
-**Status**: Phase 5 complete with critical revision. Header image selected and documented. Draft is solid, flows well, emotional journey works. Ready for Doug's human edit pass tomorrow morning before publication at 8 AM.
+**Status**: Phase 6 REVISION complete. Final polished draft created with all editorial tweaks applied. Voice preserved, structure improved, ready for Substack formatting and publication tomorrow morning at 8 AM AST.
