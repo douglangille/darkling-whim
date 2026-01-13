@@ -1,4 +1,6 @@
-# Post Brief: Petting the AI
+# Post Brief: Stop Petting the AI!
+
+**Full Title**: Stop Petting the AI! How to Use ChatGPT Without Becoming Its Emotional Support Human
 
 **Target Publication**: Digital Doug (Substack)  
 **Target Date**: January 14, 2026 @ 8:00 AM AST  
