@@ -71,6 +71,7 @@ include:
 exclude:
   # Writing Studio / Private PARA Folders
   - /__inbox
+  - /_books
   - /_farm
   - /_life
   - /_plan
