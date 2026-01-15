@@ -52,7 +52,7 @@ I find it in a ravine I don't remember walking toward. The fingers dig into the 
 
 From the hilltop, the forest spreads forever.
 
-The smell hits first. Wet bark and something else, something like rust and old copper and the back of my throat closing. I count the shapes between the trees. Dozens. More. The undergrowth is too close, the ravines too regular, and my legs are shaking but my hands are steady, my hands are always steady, and the light... God, the light pulses in patterns, sweeps and returns. Not like sunlight. Like a signal. And I'm following it because my feet are moving and I didn't tell them to move. My camera is up. I'm still shooting. The notes in my periphery are fragments now: *alignment visible / accelerated by / forest doesn't / I should...*
+The smell hits first. Wet bark and something else, something like rust and old copper and the back of my throat closing. I count the shapes between the trees. Dozens. More. The undergrowth is too close, the ravines too regular, and my legs are shaking but my hands are steady, my hands are always steady, and the light... the light pulses in patterns, sweeps and returns. Not like sunlight. Like a signal. And I'm following it because my feet are moving and I didn't tell them to move. My camera is up. I'm still shooting. The notes in my periphery are fragments now: *alignment visible / accelerated by / forest doesn't / I should...*
 
 Night is a series of strobe-lit data points.
 
