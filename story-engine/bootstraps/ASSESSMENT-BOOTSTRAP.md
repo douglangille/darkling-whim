@@ -10,6 +10,28 @@
 
 ---
 
+## Model Selection Guidance
+
+💡 **ASSESSMENT is primarily an analytical task.** Consider using models optimized for deep reasoning and critical analysis:
+
+**Recommended Models by Phase**:
+- **Phase 1 (Initial Analysis)**: Gemini (excellent for pattern recognition and analytical reasoning)
+- **Phase 2 (Scope Analysis)**: Gemini or Claude with extended thinking (best for weighing trade-offs)
+- **Phase 3 (Path Recommendation)**: Any model (straightforward planning)
+
+**General Model Strengths** (for reference across all bootstraps):
+- **Gemini**: Analysis, pattern recognition, critical thinking, scope assessment
+- **Claude**: Prose refinement, dialogue, voice consistency, literary critique
+- **GPT**: Ideation, brainstorming, plot generation, structural solutions
+- **"Best" mode**: Usually auto-selects appropriately, but manual selection may improve results
+
+**How to switch models in Perplexity**:
+1. Look for model selector in the interface
+2. Choose the model best suited to the current phase
+3. You can change models mid-session as tasks shift
+
+---
+
 ## When to Use This Bootstrap
 
 Use ASSESSMENT when you have already-published work and want to determine:
@@ -26,6 +48,8 @@ Do NOT use for unpublished drafts - those should use REVISION or DRAFTING bootst
 
 ### Phase 1: INITIAL ANALYSIS
 **Goal**: Deep read and core identification
+
+**Recommended Model**: Gemini (analytical reasoning)
 
 **Tasks**:
 1. **Read the published story multiple times**:
@@ -75,6 +99,8 @@ Do NOT use for unpublished drafts - those should use REVISION or DRAFTING bootst
 ### Phase 2: SCOPE ANALYSIS
 **Goal**: Determine if current scope serves the story
 
+**Recommended Model**: Gemini or Claude with extended thinking (trade-off analysis)
+
 **Tasks**:
 1. **Evaluate current scope**:
    - Word count: [actual]
@@ -97,7 +123,13 @@ Do NOT use for unpublished drafts - those should use REVISION or DRAFTING bootst
    - What scenes would you love to write but couldn't fit?
    - What character moments got cut for space?
 
-4. **Scope recommendation**:
+4. **Critical thinking** (consider using extended reasoning mode):
+   - Question the expansion candidates - would they truly improve the story?
+   - Test whether the story is "cramped" (needs space) vs "compressed" (deliberately tight)
+   - Consider what expansion might cost (dilution, pacing, voice sustainability)
+   - Distinguish between "could be expanded" and "should be expanded"
+
+5. **Scope recommendation**:
    - **POLISH**: Story works at current scope, refine it
    - **EXPAND**: Story is cramped, needs room to breathe
    - **REBOOT**: Core is good but execution needs complete rebuild
@@ -111,6 +143,8 @@ Do NOT use for unpublished drafts - those should use REVISION or DRAFTING bootst
 
 ### Phase 3: PATH RECOMMENDATION
 **Goal**: Determine next steps and create actionable plan
+
+**Recommended Model**: Any (straightforward planning task)
 
 **Tasks**:
 1. **If recommending POLISH (REVISION path)**:
@@ -321,6 +355,10 @@ Report current phase and resume.
 
 8. **Watch for causality shifts**: Don't accidentally change accidental discoveries into planned missions during expansion.
 
+9. **Use extended reasoning for scope decisions**: Phase 2 benefits from deep critical thinking about trade-offs.
+
+10. **Question your first instinct**: "Could expand" ≠ "Should expand". Test expansion against what might be lost.
+
 ---
 
 ## What Can Go Wrong
@@ -337,15 +375,29 @@ Report current phase and resume.
 **Problem**: Original is published, worried about changing it
 **Solution**: Revised version becomes separate work. Original stays published. You're creating v2.0.
 
+**Problem**: First instinct says expand, but deeper analysis suggests polish
+**Solution**: Trust the deeper analysis. Extended reasoning often reveals the right answer.
+
 ---
 
-**Bootstrap Version**: 1.1  
+**Bootstrap Version**: 1.2  
 **Created**: December 23, 2025  
-**Last Updated**: December 29, 2025  
+**Last Updated**: January 14, 2026  
 **Author**: Douglas Langille  
 **Repository**: github.com/douglangille/Workbench
 
-**Changelog v1.1** (December 29, 2025):
+**Changelog**:
+
+**v1.2** (January 14, 2026):
+- Added model selection guidance section at top
+- Added recommended models for each phase
+- Added general model strengths reference
+- Added tip about using extended reasoning for scope decisions
+- Added tip about questioning first instincts
+- Added "what can go wrong" entry about instinct vs. analysis
+- Updated "Critical thinking" task in Phase 2 to encourage extended reasoning
+
+**v1.1** (December 29, 2025):
 - Added causality and character agency analysis to Phase 1
 - Added expansion considerations for serendipity vs. intent
 - Updated assessment template with causality section
