@@ -53,8 +53,7 @@ layout: default
       </section>
       
 {% capture email_subject_raw %}Marks left: {{ page.title }}{% endcapture %}
-{% capture email_body_raw %}One-sentence reaction:
-
+{% capture email_body_raw %}One-line reaction:
 (Write here)
 
 Story link: {{ page.url | absolute_url }}{% endcapture %}
@@ -66,20 +65,18 @@ Story link: {{ page.url | absolute_url }}{% endcapture %}
   <div class="text-center">
     <span style="display:flex; gap:0.75rem; justify-content:center; flex-wrap:wrap;">
       <a class="btn btn--success"
-         href="mailto:{{ site.email }}?subject={{ email_subject }}&amp;body={{ email_body }}">
+        href="mailto:{{ site.email }}?subject={{ email_subject }}&amp;body={{ email_body }}">
         Left a mark (or a scar)? Tell me.
       </a>
 
       <a class="btn btn--primary"
-         href="https://feedrabbit.com/?url=https://douglangille.ca/feed.xml"
-         target="_blank" rel="noopener">
+        href="https://feedrabbit.com/?url=https://douglangille.ca/feed.xml"
+        target="_blank" rel="noopener">
         Subscribe for new stories.
       </a>
     </span>
   </div>
 </div>
-
-
       
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}

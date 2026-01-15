@@ -4,10 +4,11 @@
 title                     : "On a Darkling Whim"
 subtitle                  : "Untethered tales, scattered thoughts."
 name                      : "Doug Langille"
-description               : "Doug Langille’s hub for fiction, stories, and musings—a place where imagination wanders and ideas run untethered."
+description               : "Stories and poems by Doug Langille: dark around the edges, wonder with teeth."
 url                       : "https://douglangille.ca"
 baseurl                   : "/" 
 repository                : "douglangille/website"
+email                     : "me@douglangille.ca"
 locale                    : "en-CA"
 timezone                  : "America/Halifax"
 
