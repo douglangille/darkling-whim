@@ -26,7 +26,7 @@ I photograph the branch. Through the viewfinder, the shadow falls three degrees 
 
 My hands are steady. They're always steady when I'm shooting.
 
-Between the two root systems, there's a shape that resolves into a body when I frame it. I don't understand why I didn't see it before. It's right there, curled in a position that. The spine shouldn't curve like that. The ribs expand. Slow. The eyelids move, tracking something in the canopy, and the fingers rest against the bark with no tension, like the hand's forgotten it's supposed to hold itself.
+Between the two root systems, there's a shape that resolves into a body when I frame it. I don't understand why I didn't see it before. It's right there, curled in a position that... The spine shouldn't curve like that. The ribs expand. Slow. The eyelids move, tracking something in the canopy, and the fingers rest against the bark with no tension, like the hand's forgotten it's supposed to hold itself.
 
 I take the shot. The shutter sounds too loud.
 
