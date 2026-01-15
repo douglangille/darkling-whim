@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/generated-image.png
 categories: 
   - writings
-tags: [flash-fiction, thriller, literary]
+tags: [flash-fiction, horror, literary]
 excerpt: "Every shot taken draws the forest closer."
 ---
 
