@@ -18,11 +18,11 @@ The script produces Jekyll posts that:
 - Use one category: `digital-doug` (no tags).
 - Promote the first image in the post body to the post’s “feature image” and remove it from the body.
 - Write feature image keys in Minimal Mistakes-style front matter (`image`, `header.teaser`, `header.overlay_image`).
-- Download/relocate post images to a local assets folder and rewrite image URLs to site-root-relative paths like `/assets/images/...` (recommended for Jekyll sites). [web:88]
+- Download/relocate post images to a local assets folder and rewrite image URLs to site-root-relative paths like `/assets/images/...` (recommended for Jekyll sites).
 
 ## Prereqs
 
-Create and activate a virtual environment (recommended) and install dependencies:
+Create and activate a **local** virtual environment (not committed to git) and install dependencies:
 
 ```bash
 cd /Users/W0001680/Workbench/_digital-doug
@@ -72,10 +72,11 @@ python substack_to_jekyll.py \
 
 1. Export your Substack archive.
 2. Put `posts.csv` and the HTML `posts/` directory into this folder (or adjust flags accordingly).
-3. Activate the venv and run the command above.
-4. Review `_digital-doug/_posts/` for correctness.
+3. Create/activate `.venv` locally and install deps.
+4. Run the command above.
+5. Review `_digital-doug/_posts/` for correctness.
 
 ## Notes / gotchas
 
 - The first `<img>` in the HTML becomes the feature image; if Substack ever adds tracking/pixel images ahead of the real “hero”, the script may need a small heuristic tweak.
-- Consider keeping `.venv/` out of Git commits (it’s machine-specific and can be large).
+- `.venv/` is intentionally not part of this repo; it should be created locally as needed.
