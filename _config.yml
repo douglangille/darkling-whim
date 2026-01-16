@@ -73,6 +73,7 @@ exclude:
   # Writing Studio / Private PARA Folders
   - /__inbox
   - /_books
+  - /_digital_doug
   - /_farm
   - /_life
   - /_plan
