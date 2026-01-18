@@ -1,8 +1,0 @@
-{
-  "2025-03-25": {"type": "bloodwork", "provider": "Peter Massaro", "note": "Hormone panel showed high testosterone"},
-  "2025-09-10": {"type": "bloodwork", "provider": "Shikhi Sharma", "note": "Baseline metabolic panel - prediabetes identified"},
-  "2025-11-22": {"type": "medication", "item": "Testosterone Enanthate dispensed"},
-  "2025-12-29": {"type": "bloodwork", "provider": "Shikhi Sharma", "note": "Worsening HbA1c and microalbuminuria"},
-  "2026-01-09": {"type": "medications", "count": 5, "note": "Comprehensive medication regimen initiated"},
-  "2026-01-12": {"type": "milestone", "event": "First Ozempic injection"}
-}
