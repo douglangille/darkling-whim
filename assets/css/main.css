@@ -4236,6 +4236,13 @@ h1, h2, h3, .metadata {
   font-size: 0.85rem;
   letter-spacing: 0.05em; }
 
+/* Hero overlay text shadow for readability on light backgrounds */
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__lead,
+.page__hero--overlay .page__meta,
+.page__hero--overlay .comment__date {
+  text-shadow: 0 2px 8px black, 0 0 30px rgba(0, 0, 0, 0.9), 0 0 10px rgba(0, 0, 0, 0.8); }
+
 /* teaser images in archive grid */
 .archive__item-teaser img, .half img {
   object-fit: cover;
