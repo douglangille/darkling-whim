@@ -11,6 +11,8 @@ pagination:
     category: writings
 ---
 
+<p class="notice">Prefer to read a series from the beginning? <a href="/haleys-war/">Haley's War</a> is an unfinished chaotic fever dream, but it's a helluva ride.</p>
+
 {% assign alltags = site.tags | sort %}
 <ul class="taxonomy__index">
   {% for tag in alltags %}
@@ -21,7 +23,6 @@ pagination:
     </li>
   {% endfor %}
 </ul>
-<p class="notice">Prefer to read a series from the beginning? <a href="/haleys-war/">Haley's War</a> is an unfinished chaotic fever dream, but it's a helluva ride.</p>
 
 <div class="entries-{{ page.entries_layout }}">
 {% for post in paginator.posts %}
