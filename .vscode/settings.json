@@ -1,8 +1,0 @@
-{
-    "gitdoc.enabled": false,
-    "markdown.copyFiles.destination": {
-    "**/*": "/assets/images/${fileName}" 
-    },
-    "markdown.copyFiles.name": "${datetime}-pasted-image",
-    "typewriterScrollMode.enable": true
-}
