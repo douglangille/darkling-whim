@@ -3,7 +3,7 @@ title: "Stories & Poems"
 layout: archive
 author_profile: true
 classes: wide
-permalink: /writings/
+permalink: /writings2/
 entries_layout: grid
 search: false
 pagination:
