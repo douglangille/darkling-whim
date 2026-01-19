@@ -24,6 +24,9 @@ classes: wide
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{% if page.autopages %}{{page.autopages.display_name|capitalize}}{% endif %}</h1>
     {% endunless %}
+    
+    {{ content }}
+    
     {% assign posts = paginator.posts | default: page.posts %}
     <div class="entries-{{ page.entries_layout }}">
     {% for post in posts %}
