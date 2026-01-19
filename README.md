@@ -71,13 +71,6 @@ Site settings are in `_config.yml`, including:
 - Theme customization
 - Pagination and archive settings
 
-## Writing Studio Integration
-
-This repository serves as both the public site and a personal writing workbench. Private PARA folders (excluded from builds) include:
-- Draft management (`_drafts/`)
-- Story development (`_writing/`, `story-engine/`)
-- Research and reference materials
-
 ## License
 
 © 2013-2026 Doug Langille. Content rights reserved. Theme licensed under MIT.
