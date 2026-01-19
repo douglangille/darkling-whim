@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomy
+layout: archive-writings
 title: Stories & Poems
 permalink: /writings/
 taxonomy: writings
@@ -7,8 +7,6 @@ entries_layout: grid
 search: false
 classes: wide
 author_profile: true
-autopages:
-    display_name: Stories & Poems
 pagination:
     enabled: true
     category: writings
