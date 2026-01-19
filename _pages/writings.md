@@ -16,7 +16,7 @@ pagination:
   {% assign tag_posts = tag[1] | where_exp: "post", "post.categories contains 'writings'" %}
   {% if tag_posts.size > 0 %}
   <li>
-    <a href="{{ site.baseurl }}/{{ tag[0] | slugify }}/">
+    <a href="/{{ tag[0] | slugify }}/">
       <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag_posts.size }}</span>
     </a>
   </li>
