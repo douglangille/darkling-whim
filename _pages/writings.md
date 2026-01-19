@@ -1,6 +1,6 @@
 ---
 title: "Stories & Poems"
-layout: archive
+layout: archive-writings
 author_profile: true
 classes: wide
 permalink: /writings/
@@ -10,8 +10,6 @@ pagination:
     enabled: true
     category: writings
 ---
-
-<p class="notice">Prefer to read a series from the beginning? <a href="/haleys-war/">Haley's War</a> is an unfinished chaotic fever dream, but it's a helluva ride.</p>
 
 {% assign alltags = site.tags | sort %}
 <ul class="taxonomy__index">
@@ -24,10 +22,4 @@ pagination:
   {% endfor %}
 </ul>
 
-<div class="entries-{{ page.entries_layout }}">
-{% for post in paginator.posts %}
-  {% include archive-single.html type=page.entries_layout %}
-{% endfor %}
-</div>
-
-{% include paginator.html %}
+<p class="notice">Prefer to read a series from the beginning? <a href="/haleys-war/">Haley's War</a> is an unfinished chaotic fever dream, but it's a helluva ride.</p>
