@@ -14,9 +14,13 @@ Published works span multiple genres and formats, including an interconnected st
 
 ## The Approach
 
-All stories on this site are drafted entirely by hand with **no AI involvement in the creative process**. This deliberate restriction keeps the craft sharp—every sentence earned, every character choice intentional.
+Stories are built through collaboration between human vision and AI assistance. I design the structure, generate the creative direction, and own every word through extensive voice revision. AI handles mechanical drafting based on my story bibles and frameworks, then I tear through it, making it mine.
 
-AI serves as a line editor for spelling and grammar, and occasionally as a critic for craft development. Whether those opinions get followed is another matter entirely.
+Every sentence published here reflects my authorial decisions, distinctive voice, and creative control. The process serves the work, not romantic notions of solitary genius or some bullshit purity test.
+
+AI keeps me moving through the mechanical phases where I'd otherwise stall out and lose my goddamned mind. It maintains structure and momentum so I can focus creative energy where it matters: voice, emotional truth, craft decisions. A finished story that connects with readers beats seventeen thousand half-cooked ideas and shitty abandoned drafts.
+
+The work gets done. The work gets better. That's the only contract that fucking matters.
 
 ## The Author
 
