@@ -107,12 +107,6 @@ var store = [{
         "url": "/falling-star/",
         "teaser": "/assets/images/4949129334_4de1a73374_b_falling-star.jpg"
       },{
-        "title": "On Taking Criticism",
-        "excerpt":"A writer’s heart is an untamed beast. Tho from his quill flows a reader’s feast, Not all words are diamonds written. Sometimes the author’s ego’s bitten. The critic, the cynic, the bottom-feeder! Lest we forget the lazy-reader! Fickle or fair, it matters little. It’s time to write and show your...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/on-taking-criticism/",
-        "teaser": "/assets/images/ee34b80e2ff01c3e81584d04ee44408be273e7d71eb8184290f8_640_writer.jpg"
-      },{
         "title": "The Gypsy Tent",
         "excerpt":"I wandered through the county fair, With plenty of coin and time to spare. Carnies barking to and fro, ‘Spin the wheel’ and ‘enjoy the show.’ Neither bearded ladies nor muscle men, No golden goose, no ribboned hen. Not magic tricks with hands so sly. Nothing really caught my eye....","categories": ["writings"],
         "tags": ["poem","horror"],
@@ -269,24 +263,6 @@ var store = [{
         "url": "/jonas/",
         "teaser": "/assets/images/3967195917_8eca6e26f0_b.jpg"
       },{
-        "title": "Write It Down or Annie Wilkes Will Break Your Legs",
-        "excerpt":"Why write? Good question. I have no idea. Perhaps, the answer for me is also a line of inquiry. Why not? Why not just pack it in and give up on any dreams of becoming a famous author, bathing in a bathtub of dollar bills. Well, I’m Canadian, so they’d...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/write-it-down-or-annie-wilkes-will-break-your-legs/",
-        "teaser": "/assets/images/Misery_Kathy_Bates.jpg"
-      },{
-        "title": "Essential Jack Whyte",
-        "excerpt":"Do you love historical adventure sagas that span the centuries? Can the Arthur legends be true? What’s the real story behind the Knights Templar? Is there more to William Wallace than just a warrior prince? Do you wish Louis L’Amour wrote stories set in the first millennia? If your answer...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/essential-jack-whyte/",
-        "teaser": "/assets/images/1929922013_3f6b5e33dc_king-arthur.jpg"
-      },{
-        "title": "Genres in a Nutshell",
-        "excerpt":"Walk in to any bookstore or library and we are confronted by the ‘Genre Beast’. There are many ways to categorize books and genre is but one. Bookstores are notorious for mashing everything together, it’s the dark art known as ‘marketing’ that drives the bus. It’s maddening. So, in an...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/genres-in-a-nutshell/",
-        "teaser": "/assets/images/e835b60a29f2033ecd0b470de7444e90fe76e6d01db5124296f1c5_640_bookstore.jpg"
-      },{
         "title": "A Promise Kept",
         "excerpt":"“Damn,” Marnie said as she pulled over onto the icy soft-shoulder and got out, leaving the car running but the door ajar. The beep-beeping cut through me like knives. I watched as my sister grabbed a handful of frozen snow and washed the road salt from the windshield. Satisfied, she...","categories": ["writings"],
         "tags": ["vignette","horror","literary"],
@@ -305,18 +281,6 @@ var store = [{
         "url": "/snow-day/",
         "teaser": "/assets/images/12730406603_526cfc6a9a_b_snow-window.jpg"
       },{
-        "title": "How to Read for Enjoyment",
-        "excerpt":"The pursuit of happiness is not a fool’s errand, but what makes people happy? Consider the moment when you’re completely lost in the plot of a good book, on the edge of your seat with the action of a great movie, or even elbows-deep in your favourite hobby. There is...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/how-to-read-for-enjoyment/",
-        "teaser": "/assets/images/tumblr_inline_n08wr00O4J1srt9b2.jpg"
-      },{
-        "title": "(Not So) Definitive Guide to Romance Novels",
-        "excerpt":"So, when I opted to write this article on romance novels, my first thought was that I had to ask for help. When I did so, I was swiftly told to hand in my ‘Man Card’. Uh-oh. What had I gotten myself into? Curiously, one of the first responses I...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/not-so-definitive-guide-to-romance-novels/",
-        "teaser": "/assets/images/tumblr_inline_n063y7BEVe1srt9b2.jpg"
-      },{
         "title": "Second Chances",
         "excerpt":"Archie winced and swallowed. The beer tasted watery and flat. Ever since Pop died, this place wasn’t the same. Jug tried hard, but he didn’t have the mind for business. “Sorry ‘bout that, Arch. Listen, this one is on the house.” Jughead set a tumbler reeking of bad rum in...","categories": ["writings"],
         "tags": ["flash-fiction","literary","romance"],
@@ -334,12 +298,6 @@ var store = [{
         "tags": ["vignette","literary","romance"],
         "url": "/unreal-world/",
         "teaser": "/assets/images/holding_hands_by_xperianceART.jpg"
-      },{
-        "title": "Doug and Tim on Slaying the Writers Block Dragon",
-        "excerpt":"Your brave knight has journeyed over mountains, fought hordes of orcs and resisted the wiles of a sea-witch. He’s arrived at last to the mouth of a darkened cave, sword drawn with sanguine rage boiling his blood, and…. …and… ..a..n…d….. Nothing. Nada. Zip. Ziltch (scratches head, consults thesaurus) Naught. Nullity....","categories": ["perspectives"],
-        "tags": [],
-        "url": "/doug-and-tim-on-slaying-the-writers-block-dragon/",
-        "teaser": "/assets/images/Writers_Block_by_Silvercharmed.jpg"
       },{
         "title": "Lies",
         "excerpt":"Hugh pressed the ‘check mail’ button again and the little closed envelop popped up, taunting him with its secrets. ‘Everything you know is a lie,’ read the subject line. He popped his head above the cube-farm wall and saw nothing but the tops of heads; the rats were all busy...","categories": ["writings"],
@@ -371,12 +329,6 @@ var store = [{
         "url": "/burnout/",
         "teaser": "/assets/images/lazyboy_by_soul_imagery.jpg"
       },{
-        "title": "From Book to Screen: Bitten",
-        "excerpt":"When announced that Kelley Armstrong’s first book, ‘Bitten’, was headed for the small screen, fans were pretty darned stoked. Laura Vandervoort’s casting was perfect. Some were initially concerned that the series would feature werewolves only and not the rest of Kelley’s rich universe in the full Women of the Otherworld...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/from-book-to-screen-bitten/",
-        "teaser": "/assets/images/tumblr_inline_n1gvn5XgT41srt9b2.jpg"
-      },{
         "title": "Hold the Phone",
         "excerpt":"“Is this Douglas Langille?” “Yes, it is. How did you know? I called you?” “Good. We’ve been expecting your call. Pack a small bag. You have 15 minutes.” “What the hell is going on?” “The agents will explain. Hurry, Mr. Langille. You’re in danger.” “I will do no such thing....","categories": ["writings"],
         "tags": ["flash-fiction","thriller"],
@@ -395,29 +347,11 @@ var store = [{
         "url": "/moon-and-badge/",
         "teaser": "/assets/images/7136114679_82420e7ff5_b.jpg"
       },{
-        "title": "Reading at the Speed of Light",
-        "excerpt":"“The more that you read, the more things you will know. The more that you learn, the more places you’ll go.” — Dr. Seuss First up, when reading for pleasure, do it slowly. Don’t try to read faster. Enjoy the experience. If you immerse yourself in the book, you’ll likely...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/reading-at-the-speed-of-light/",
-        "teaser": "/assets/images/tumblr_inline_n1grve3ymH1srt9b2.jpg"
-      },{
         "title": "The Hand",
         "excerpt":"My hand’s all numbers so what the heck? I drew a card from atop the deck, My palms were wet and my cheeks a-fire A chip and a chair with stakes ne’er higher. My fortunes rose and I watched ‘em fall, As the ‘Old Man with the Axe’ takes all....","categories": ["writings"],
         "tags": ["poem","literary"],
         "url": "/the-hand/",
         "teaser": "/assets/images/6318315435_21f4f55c51_king-diamonds.jpg"
-      },{
-        "title": "The Men That Don&#39;t Fit In",
-        "excerpt":"Some of the best memories of my grandfather are of Robert W. Service. Gramp would, at every opportunity, recite from memory any number of poems. We’d goad him to keep going, verse after verse, sometimes for hours. With the cadence and ease of a master storyteller, he’d entertain and love...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/the-men-that-dont-fit-in/",
-        "teaser": "/assets/images/tumblr_inline_n1kskavW0g1srt9b2.jpg"
-      },{
-        "title": "Words to Kill",
-        "excerpt":"Part of the self-editing process (you do self-edit, right?) is to clean-up passive voice, needless adverbs and filler words. This is typically done in a pass that doesn’t pass any judgement on the content itself. It’s a mechanical exercise. So, why not use the awesome power of your computer to...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/words-to-kill/",
-        "teaser": "/assets/images/wordstokill.jpg"
       },{
         "title": "Fletcher Returns",
         "excerpt":"Carol Bannister placed the breakfast tray in front of her Aunt Jessica and stood staring out the window at the autumn leaves swirling about the grounds. “My, it’s fixin’ to be a blustery time of it, Auntie. The colors are spectacular.” Jessica remained silent as she had been since the...","categories": ["writings"],
@@ -431,12 +365,6 @@ var store = [{
         "url": "/panic/",
         "teaser": "/assets/images/elevator_by_onedecadelater.jpg"
       },{
-        "title": "All About Using Images",
-        "excerpt":"So, you’ve lovingly tapped out ‘The End’ at the bottom of your masterpiece. Huffing a breath of relief that you’ve done it: your word baby is born and you want to release it to the world. Pass out the cigars. Post it to Writer’s Carnival for review! Submit it to...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/all-about-using-images/",
-        "teaser": "/assets/images/beef_steak_by_past1978-d4ptw25.jpg"
-      },{
         "title": "Helter Swelter",
         "excerpt":"LEVERAGE Stuart fidgeted with his tie in a fit of discomfort and boredom. He looked around the sweltering room. Yup. He didn’t suffer in solitude. Larry stood in the corner by the door, eager for an escape. Jimmy was opposite, holding up a wall, wearing his lady-killer sunglasses, probably sleeping....","categories": ["writings"],
         "tags": ["vignette","fantasy","thriller"],
@@ -448,12 +376,6 @@ var store = [{
         "tags": ["poem","literary"],
         "url": "/high-seas-laundry/",
         "teaser": "/assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png"
-      },{
-        "title": "How Important is Plot Anyway?",
-        "excerpt":"Let’s start with a serviceable definition of plot: A plot is the event or events that are used to insure that you get your story and characters from point A to point Z. In the sense that all stories move a character along a journey, be it emotional or physical,...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/how-important-is-plot-anyway/",
-        "teaser": "/assets/images/Freytags_pyramid.svg_.jpg"
       },{
         "title": "Ballroom Dreams",
         "excerpt":"I entered the ballroom and searched for her in a sea of gowns and tuxedo. I had to find her, to touch her. All these masks! The ladies looked like angels floating across the floor like visions of light and color. The men pranced around in their feathered cowls, displaying...","categories": ["writings"],
@@ -563,29 +485,11 @@ var store = [{
         "url": "/xanarax/",
         "teaser": "/assets/images/9479163572_bbbaab6234_sax.jpg"
       },{
-        "title": "How Do You Choose Your Characters Names?",
-        "excerpt":"Here’s a wide open topic: Do you choose a character’s name because it just sounds right or does it have to have meaning? Is a strongman named Sampson and a betrayer named Cain? Do you grab the nearest baby-names book, put on a blindfold and stabby-stab with your pudgy finger?...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/how-do-you-choose-your-characters-names/",
-        "teaser": "/assets/images/IMG_20140326_200542.jpg"
-      },{
-        "title": "Book to Big Screen: Divergent",
-        "excerpt":"I’ve always been a fan of dystopian fiction. I remember one of my first experiences was with John Wyndham’s ‘The Chyrsalids’. From that point on, I was hooked. I’m also a fan of young adult fiction. Some of the most inventive genre-bending plots and characters come from these stories. Still,...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/book-to-big-screen-divergent/",
-        "teaser": "/assets/images/tumblr_inline_n39pzheZq31srt9b2.jpg"
-      },{
         "title": "Scrambled",
         "excerpt":"“I hate to bother you, but I have something important to ask,” said the new waitress, setting down my plate of scrambled eggs. “Sure, what is it…” I glanced at her modest bosom and read the name tag. “…Ginny?” Not suffering a blistering hangover for a change left me in...","categories": ["writings"],
         "tags": ["flash-fiction","thriller","romance"],
         "url": "/scrambled/",
         "teaser": "/assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg"
-      },{
-        "title": "Writing Software and Tools",
-        "excerpt":"Writers, like many artisans, love to talk about the tools and techniques of their trade. Honing and tweaking their systems becomes a near-obsession in itself. I asked a number of writers their opinions on what they use and received no shortage of information. The tools used roughly fall into three...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/writing-software-and-tools/",
-        "teaser": "/assets/images/IMG_20140408_195258.jpg"
       },{
         "title": "Random",
         "excerpt":"“Goddam it,” Rita O’Neill said as she let the curtains slide back into place. She stomped out of the kitchen and met Rodney in the driveway, her nails biting into her palms. “Hey, baby,” he slurred then stumbled. Rodney reached to Rita to catch his balance but she stepped aside,...","categories": ["writings"],
@@ -593,41 +497,17 @@ var store = [{
         "url": "/random/",
         "teaser": "/assets/images/ed31b10b21fc1c3e81584d04ee44408be273e7d61db3104396f8_640_abuse.jpg"
       },{
-        "title": "How I Rebooted My Love of Writing",
-        "excerpt":"Way back in January of 2013, I made a promise to myself to pick up my quill and start writing creatively again. In high school and university, I took to crafting stories, poems and plays with gusto, but had no intention of pursuit past leisurely escape. Life happened, and like...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/how-i-rebooted-my-love-of-writing/",
-        "teaser": "/assets/images/Writing_by_after_the_party.jpg"
-      },{
-        "title": "Writing Rituals",
-        "excerpt":"Last week, I posed the following to my fellow writers: I do most of my creative writing soaking in a hot bath with my head immersed and my editing listening to metal dubstep trance. What are other people’s writing rituals? What gets you in contact with your muse? What helps...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/writing-rituals/",
-        "teaser": "/assets/images/bath_time_rubber_ducky_by_CAPTAIN_VIOLENCE.jpg"
-      },{
         "title": "Dead Inside",
         "excerpt":"Eunice sat on the edge of her daughter’s bed and stared out the window, the rustling of leaves muted by glass. Spotting a flash of motion to her left, she snapped her arm out and clamped her hand shut. The knuckles of her trembling hand turned from white to pink...","categories": ["writings"],
         "tags": ["vignette","literary"],
         "url": "/dead-inside/",
         "teaser": "/assets/images/2539093647_fb775f496b_b.jpg"
       },{
-        "title": "For Love of the Short Story",
-        "excerpt":"Grok walked into the cave, tired and hungry. Today’s hunt bore little bounty and dusk quickly advanced into night. A solitary rabbit for his tribe would keep them alive one more day through this long winter. Grok grinned despite their tenuous state; he’d spied a glimpse of hope in a...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/for-love-of-the-short-story/",
-        "teaser": "/assets/images/tumblr_inline_n3u1ewsHr91srt9b2.jpg"
-      },{
         "title": "Justin Takes Control",
         "excerpt":"Agent Justin Cayse left the bordello from the rear, having escaped his captor. Ava Longleggs, always the most generous of hosts, enjoyed Mister Cayse’s visits immensely, often more than once. To be sure, the restraints were optional. “Do come again, Justin,” she said as she played with a lock of...","categories": ["writings"],
         "tags": ["flash-fiction","thriller"],
         "url": "/justin-takes-control/",
         "teaser": "/assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg"
-      },{
-        "title": "Does TV Rot the Writer&#39;s Brain?",
-        "excerpt":"Hello, fellow quill-bearers! For your mind-bending pleasure, here is another open-ended dilly of a question: We’re often told that to be great writers, we must read voraciously. Does the same hold true for television and film? Are there different writing lessons to be learned from watching sitcoms, dramas, and their...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/does-tv-rot-the-writers-brain/",
-        "teaser": "/assets/images/television_by_zero_.jpg"
       },{
         "title": "Good Boy, Jake",
         "excerpt":"Rod in hand, I went to the lake, To fish for trout with my dog Jake. I cast my line, it went plop-plop. We waited for nature’s wat’ry crop. The sun grew high and I began to doze, Then I felt my friend’s cold nose. The line grew taught and...","categories": ["writings"],
@@ -658,12 +538,6 @@ var store = [{
         "tags": ["flash-fiction","horror","thriller"],
         "url": "/wendells-solution/",
         "teaser": "/assets/images/249752730_c02409b9ca_o.jpg"
-      },{
-        "title": "Romance Versus Erotica",
-        "excerpt":"Oh, this is going to be fun! A couple of months ago I wrote ‘The (Not So) Definitive Guide to Romance Novels’ for Reader’s Carnival . It got me to thinking (I know, a dangerous thing): What is the difference between a romance novel, erotica and outright porn? Is it...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/romance-versus-erotica/",
-        "teaser": "/assets/images/IMG_20140521_174907_hdr.jpg"
       },{
         "title": "The Toy",
         "excerpt":"pretty little thing,  won’t you spin and dance and sing?  mend your broken spring.   Photo by Alex of Gothenburg   ","categories": ["writings"],
@@ -700,12 +574,6 @@ var store = [{
         "tags": ["flash-fiction","horror","fantasy","thriller"],
         "url": "/shardik/",
         "teaser": "/assets/images/8600401885_5807ef0b33_o1.jpg"
-      },{
-        "title": "A Quick Tour of Social Media for Writers",
-        "excerpt":"Part of the writing game is marketing (talking about your work) and publicity (getting others to talk about your work). And that generally means using social media tools such as Facebook, Twitter, Google+ and their ilk. Establishing an ‘author platform’ are bons mots du jour. So which network do you...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/a-quick-tour-of-social-media-for-writers/",
-        "teaser": "/assets/images/social-media-explained-for-indie-writers.jpg"
       },{
         "title": "What&#39;s a Dwaithelord?",
         "excerpt":"Dwaithelord — an honorific for the tribal leader of a coven of dwarven wraith soul stealers. Traditionally male, Dwaithelords are honor-bound to defend their their subjects to the point of True Death if necessary. Dwaithelord B’lain embedded his magicked axe in the skull of the Ctalte’en beast. Photo by garlandcannon...","categories": ["writings"],
@@ -749,12 +617,6 @@ var store = [{
         "url": "/strange-love/",
         "teaser": "/assets/images/white500x300.jpg"
       },{
-        "title": "10 Ways to Make Your Blog Posts Better",
-        "excerpt":"Part of the whole writing gig is, well, writing. It’s pretty much a given that authors build a platform to market and promote their word-babies to the masses. Building your network with social media is great, but many opt to also use a blog as their home on the Interwebs....","categories": ["perspectives"],
-        "tags": [],
-        "url": "/10-ways-to-make-your-blog-posts-better/",
-        "teaser": "/assets/images/fdb426a449a1eb21_1280_blog-blogging-leave.jpg"
-      },{
         "title": "In the Eye of the Sandstorm",
         "excerpt":"A gust of wind stirred up the dust of the deserted street. It stung the stranger’s face as he led his burro into town. He brought his free arm across his face to protect his eyes and he gritted his teeth. The howling sandstorm drowned all other sound in its...","categories": ["writings"],
         "tags": ["vignette","fantasy"],
@@ -778,12 +640,6 @@ var store = [{
         "tags": ["flash-fiction","literary"],
         "url": "/the-hike/",
         "teaser": "/assets/images/7320882.jpg"
-      },{
-        "title": "Plot, Premise and Story",
-        "excerpt":"We’ve all been there: staring at the screen or notebook wondering how to write the middle of your story. You’ve built a wonderful world and crafted some deep characters. You might even have done a great job at setting the stage and have a great idea on where you want...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/plot-premise-and-story/",
-        "teaser": "/assets/images/7318739b107b8fcc_1280_navigation-compass.jpg"
       },{
         "title": "Alpha Dreams",
         "excerpt":"Dawn’s dim light glows in the porch windows. I sidle up to my girl and nuzzle her neck. She wakes and looks at me, her whiskers twitching. She smells it too. Another pup died in the night. She whimpers and groans as she rises to her feet to check on...","categories": ["writings"],
@@ -827,18 +683,6 @@ var store = [{
         "url": "/eddies-decision/",
         "teaser": "/assets/images/2659024416_ee3d2e1a87_b.jpg"
       },{
-        "title": "Finding Inspiration in Nature",
-        "excerpt":"Creating art is a curious and beautiful synthesis of observation and imagination. Too often, we focus on what what happens within our brain-case. The common saw that one should ‘write what you know’ is clearly suspect. If I did that, I’d write some terribly boring stories. I think it should...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/finding-inspiration-in-nature/",
-        "teaser": "/assets/images/tumblr_inline_n9mwd5FDVB1srt9b2.jpg"
-      },{
-        "title": "On Heroes and Villains",
-        "excerpt":"When I was in Grade Ten, I performed in a one act play. I can’t, for the life of me, remember what it was called. Checks Google. It was called ‘He Done Her Wrong’ by Anita Bell. Thank you, Google. All hail. Anyway, it was a melodrama full of all...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/on-heroes-and-villains/",
-        "teaser": "/assets/images/922864_10151667671914602_1694026713_n_1.jpg"
-      },{
         "title": "Haley Burning",
         "excerpt":"I knew I was playing with fire, but since when had that stopped me? I couldn’t turn it off even if I wanted to. “Hi, Ben,” I said, loosening my grip on the knife. Friend or foe, the guy was still my brother. “What brings you here?” The corner of...","categories": ["writings"],
         "tags": ["flash-fiction","horror","fantasy","haley"],
@@ -851,23 +695,11 @@ var store = [{
         "url": "/the-nighthawk/",
         "teaser": "/assets/images/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg"
       },{
-        "title": "Fear of Failure or Rejection?",
-        "excerpt":"What keeps you from writing the story that’s been tumbling in your head forever? What keeps you from posting here? What keeps you from pressing that dreaded submit button on a contest or a submissions call? Call it nervousness, apprehension or straight-up fear. Name it, claim it, and then conquer...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/fear-of-failure-or-rejection/",
-        "teaser": "/assets/images/d4a0bb19f48dc30f_1280_town-sign-shield.jpg"
-      },{
         "title": "Lost in the Rain",
         "excerpt":"rain in late summer the boy walks along the street following a boat Tommy stomps in puddles wearing his new red boots as his paper craft sails the stormy gutter. Swirling ever closer to the drain, it disappears inside. He bends over in his yellow slicker to look inside the...","categories": ["writings"],
         "tags": ["poem","literary"],
         "url": "/lost-in-the-rain/",
         "teaser": "/assets/images/Storm_Drain.jpg"
-      },{
-        "title": "The Plain Text Rebellion",
-        "excerpt":"Let me tell you a story. When I was in high school, I remember when typewriters became computers and document processing a la touch typing became the darling-do. Yes, I dated myself there. Cope and deal. I did a long time ago, you whipper-snappers. It could be worse: I could...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/the-plain-text-rebellion/",
-        "teaser": "/assets/images/cb9ac1c059da795c_640_typewriter.png"
       },{
         "title": "Fortification",
         "excerpt":"David’s hand trembled as he poured the Ballantines over the ice. He drank it in a single pull and refilled his glass, wincing at the burning fortification. David ignored Melanie’s lifeless eyes staring at him and picked up the shovel.   Photo by fishbulb9  ","categories": ["writings"],
@@ -892,12 +724,6 @@ var store = [{
         "tags": ["flash-fiction","romance"],
         "url": "/playing-with-fire/",
         "teaser": "/assets/images/ef32b80a2bfd1c3e81584d04ee44408be273e7d61fb910429df3_640_lighter-flame.jpg"
-      },{
-        "title": "5 Things I Learned During the 3 Day Novel Contest",
-        "excerpt":"My friend Anisa hinted, prodded, poked, goaded and shamed me into entering the 3 Day Novel Contest back on Labour Day weekend. It was her second time and I surmise she wanted to share the experience. You know, pay it forward and all that jazz. So I did. I read...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/5-things-i-learned-during-the-3-day-novel-contest/",
-        "teaser": "/assets/images/skittles1.jpg"
       },{
         "title": "Last Glimpse",
         "excerpt":"I found the perfect spot, for us to share a final gaze Of cosmic wonder, before the end of days The stars winked brightly, and the moon rose high Worlds left uncharted, above the cloudless sky And then the lights went out, it was just you and I We cuddled...","categories": ["writings"],
@@ -940,18 +766,6 @@ var store = [{
         "tags": ["vignette","literary","fantasy"],
         "url": "/agutas-trek/",
         "teaser": "/assets/images/2303495178_2be7a54eda_arctic-tundra.jpg"
-      },{
-        "title": "Lovecraft&#8217;s Legacy",
-        "excerpt":"The impact of H.P. Lovecraft on modern genre fiction is astounding. While Edgar Allan Poe spun yarns of gothic horror and laid the groundwork for detective mysteries, Lovecraft explored the cosmic horror of the unknown. His vivid imaginings adhere to the dark corners of our memory. Lovecraft idolized Poe and...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/lovecrafts-legacy/",
-        "teaser": "/assets/images/necronomicon_2_nook_cover_finished_by_dogzillalives-d5ogcnb.jpg"
-      },{
-        "title": "Writing Motivation",
-        "excerpt":"I don’t want to write this post. I don’t feel like it. Actually, I don’t feel like writing a cotton-pickin’ thing. Surely, there is something on TV? Nope. Damn. Well, there’s always YouTube. Cats playing pianos. Totally cool. Ahem. Where was I? They keep saying that writers write. That it’s...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/writing-motivation/",
-        "teaser": "/assets/images/262375086_e1b3d215a4_b_piano-cat.jpg"
       },{
         "title": "Iced Up",
         "excerpt":"Jamie slammed his hand against the dash of the car and the heater fan rattled to life. The sun glared through the crystallized windshield as he waited for the little oval of visibility slowly grew in front of him. He looked down to the gas gauge and wondered if he’d...","categories": ["writings"],
@@ -1067,23 +881,11 @@ var store = [{
         "url": "/the-last-ride/",
         "teaser": "/assets/images/5807577702_2b25ec5d7a_bicycle-wheel.jpg"
       },{
-        "title": "Foodbanks in a Nutshell",
-        "excerpt":"Hunger and food insecurity in the western world is not a new problem. Colonialism and the indentured servitude required of the working poor to feed themselves became one of many pressures for American independence. Later, the advent of industrialism challenged the productivity of smaller farmers, forcing many of them into...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/foodbanks-in-a-nutshell/",
-        "teaser": "/assets/images/donation-517123_12801.jpg"
-      },{
         "title": "Full Circle",
         "excerpt":"“A strange thing happened on the way to the bus stop,” I said, taking a plate from the rack and wiping it. Well-worn, these wedding gift dishes stood the test of time. “What’s that, sweetheart?” Heather rinsed a wine goblet and set it with its mate in the strainer. Third...","categories": ["writings"],
         "tags": ["vignette","literary","romance"],
         "url": "/full-circle/",
         "teaser": "/assets/images/bus-stop-72171.jpg"
-      },{
-        "title": "How Do You Respond to a Writing Challenge?",
-        "excerpt":"It’s easy to burn yourself out creatively when meeting writing deadlines or undertaking insanity projects like NaNoWriMo. Sometimes, it’s just mood and the chaos of life that locks your muse in a wooden crate wrapped in chains buried in your cellar. Don’t look there. Please excuse the bodies. One way...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/how-do-you-respond-to-a-writing-challenge/",
-        "teaser": "/assets/images/800px-Stipula_fountain_pen.jpg"
       },{
         "title": "Lemony Rain",
         "excerpt":"I constructed my lair from the choicest rock candy, not dollar store seconds. The emerald green ribbon glowed deep within the rot of my heart. Shielded from the lemony rains, I would finally be free. Free to liberate Candytown from its chocolatey oppressors. Too long have the goody-good cocoa-dolts ruled...","categories": ["writings"],
@@ -1109,12 +911,6 @@ var store = [{
         "url": "/newly-freed/",
         "teaser": "/assets/images/16679994001_e322a3ab83_b.jpg"
       },{
-        "title": "How Not to Be a Jerk Online",
-        "excerpt":"It goes without saying that being active on the Internet requires a thick skin. With social media tools like Facebook, we now all create content whether we recognize it or not. Our opinions are open for criticism. In times of war, the enemy is dehumanized and even demonized. Part of...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/how-not-to-be-a-jerk-online/",
-        "teaser": "/assets/images/0f7eafd6f519319a_1280_bird-wire.jpg"
-      },{
         "title": "Backroom Elves",
         "excerpt":"“Blinky, put that wrench down and get over here. I need a hand.” “What’s up, Stinky? Can’t reach the top shelf?” “It’s not my fault I’m short.” “You’re an elf. You’re supposed to be short.” “Yeah, but a dwarf elf? That’s just mean.” “Sure, but think of your unique perspective.”...","categories": ["writings"],
         "tags": ["flash-fiction","humour","fantasy"],
@@ -1139,12 +935,6 @@ var store = [{
         "url": "/barbecue/",
         "teaser": "/assets/images/barbecue-386602.jpg"
       },{
-        "title": "How Do You Create Your Characters?",
-        "excerpt":"Over the holidays, I was asked about the many characters in my stories and how I come up with them. I wasn’t able to provide a very good answer because I tend not to create them on purpose. I ‘back-engineer’ my creations’ backstories and traits after I’m well into writing...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/how-do-you-create-your-characters/",
-        "teaser": "/assets/images/ac-bbt.jpg"
-      },{
         "title": "Resolve",
         "excerpt":"“Happy New Year!” yelled Bernie to the drunken debauchery that his buddy Vince’s party had become. Amy sang Auld Lang Syne in the same style Marilyn Monroe sang Happy Birthday. Jenny wandered about the room, using a banana as a microphone, interviewing people on their resolutions. Bernie slurred his oath....","categories": ["writings"],
         "tags": ["flash-fiction","literary","humour"],
@@ -1162,12 +952,6 @@ var store = [{
         "tags": ["vignette","literary","fantasy"],
         "url": "/what-am-i/",
         "teaser": "/assets/images/40bc987f9f699023_640_twins.jpg"
-      },{
-        "title": "A Return to Longhand?",
-        "excerpt":"I spend a lot of time reflecting on my process: what works, what doesn’t. That kind of thing. Such naval-gazing is a wonderful alternative to actual writing. Ahem. Sometimes I write the scene in my head as I see it and other times I put down all the dialog first...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/a-return-to-longhand/",
-        "teaser": "/assets/images/ea6eba4230f63778_1280_letters-handwriting.jpg"
       },{
         "title": "The Sentinel",
         "excerpt":"My name is Gracie and I am the Sentinel. I sit on the back of the Alpha’s throne and keep watch. His territory is vast and I must be vigilant. The rear courtyard is fenced by a metal and wire palisade, yet I patrol it regularly, leaving my scent as...","categories": ["writings"],
@@ -1229,12 +1013,6 @@ var store = [{
         "url": "/cruising/",
         "teaser": "/assets/images/16273496076_cc0ebc635f_b_redlight.jpg"
       },{
-        "title": "Learning from Binge Watching TV",
-        "excerpt":"So, I have to admit something. I enjoy binge watching TV shows. There is nothing better than curling up on the couch with my best girl on a stormy weekend and blasting through a season of our favourite series as if it was one long epic movie. We’ve been know...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/learning-from-binge-watching-tv/",
-        "teaser": "/assets/images/grimm1.jpg"
-      },{
         "title": "Blind Dining",
         "excerpt":"“Eyes up, soldier,” she said and I did. The corner of her mouth was turned up in a smirk, eyes sparkling. I sat back in my chair and pressed my two index fingers together, watching the tips turn white. “Busted,” I said and returned her smile. “It’s alright, Greg.” She...","categories": ["writings"],
         "tags": ["flash-fiction","thriller","literary"],
@@ -1265,12 +1043,6 @@ var store = [{
         "url": "/waiting/",
         "teaser": "/assets/images/17150746928_976705aa17_b_nervous.jpg"
       },{
-        "title": "Snowflake Method?",
-        "excerpt":"I love writing scenes and flash pieces from writing prompts. In fact, I’ve written hundreds of them. Pantsing out 750 words at a time is downright exhilarating and many have become my favourite pieces. I always end up with great premises and compelling characters. But not necessarily a story. For...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/snowflake-method/",
-        "teaser": "/assets/images/Rubenvent11.jpg"
-      },{
         "title": "Compassion",
         "excerpt":"Eunice set the picture of their Caribbean vacation on the side table as quietly as she could, trying not to wake him. She brought her fingers to her lips, kissed them and touched them to the photograph before looking at the bed. He lay there silent and frozen, the machines...","categories": ["writings"],
         "tags": ["vignette","literary","romance"],
@@ -1294,18 +1066,6 @@ var store = [{
         "tags": ["flash-fiction","thriller"],
         "url": "/i-shovel-dirt/",
         "teaser": "/assets/images/man-80101_1920.jpg"
-      },{
-        "title": "Self-publishing in a Nutshell",
-        "excerpt":"Okay, you’ve written a beautiful novel and wish to unleash your wordbaby on the world. There’s no doubt about it: traditional publishing is a long game. Agents, editors, publishers, and umpteen million pairs of eyeballs and opinions. For the right book for the right market at the right time, this...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/self-publishing-in-a-nutshell/",
-        "teaser": "/assets/images/e635952350046b43_1280_tools-hammer.jpg"
-      },{
-        "title": "Genre Bending",
-        "excerpt":"I don’t have a favourite genre. Not to read. Not to write. Well, that’s not entirely true. Because if ‘dark’ was a genre, then I guess that’d be what you’d call it. That is, if you need a label and all the crap that goes with it. It’s a weird...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/genre-bending/",
-        "teaser": "/assets/images/letters-390186_640.jpg"
       },{
         "title": "Bad Bedtime Bacon",
         "excerpt":"Waking up thirsty, I stumbled to the kitchen and flicked on the light. My son Benny’s stupid frog sat on the counter wearing a tophat and tails. I cocked my head to wonder why he was there when he started singing: “Hello, My Honey. Hello, My Darlin’”. Well you know...","categories": ["writings"],
@@ -1396,12 +1156,6 @@ var store = [{
         "tags": ["flash-fiction","thriller","haley"],
         "url": "/haley-dreams/",
         "teaser": "/assets/images/apocalypse-371947_1280.jpg"
-      },{
-        "title": "Sea Shanties, Nautical Verse and Maritime Ballads",
-        "excerpt":"I live in Nova Scotia and have most of my life. It’s a smallish province, nearly surrounded by the Atlantic. At any given point, wherever we are in the province, the ocean is an hour or so away. Even inland, the salty air can tickle our noses if the wind...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/sea-shanties-nautical-verse-and-maritime-ballads/",
-        "teaser": "/assets/images/Halyards.jpg"
       },{
         "title": "Pink Tint",
         "excerpt":"So much blood. My joints crack as I stand from scrubbing the plank floor and my head swims. The chlorine vapours sting my eyes and I breathe shallowly, careful to avoid another coughing fit. I walk to the bay window of the stilt-house and look out at the ocean’s horizon,...","categories": ["writings"],
@@ -1511,12 +1265,6 @@ var store = [{
         "url": "/kitchen-tools/",
         "teaser": "/assets/images/9464995143_626fb980cd_b.jpg"
       },{
-        "title": "Little Green Men: A Tour of Mars in Fiction",
-        "excerpt":"Mars is the fourth planet from the sun and the second smallest. It is named after the Roman god of war. Then again, so is Tuesday. Known as the ‘Red Planet’ because of the prevalence of iron oxide on its surface, Mars has enjoyed a prominent place in our collective...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/little-green-men-a-tour-of-mars-in-fiction/",
-        "teaser": "/assets/images/war_of_the_worlds_by_jaime_jones.jpg"
-      },{
         "title": "How to Get Ahead",
         "excerpt":"Water dripped from high above. Perseus gripped the hilt tightly and bounced lightly on the balls of his feet. He hated waiting. A growl. Finally. The sword whistled through the murky air as he pivoted to the sound, eyes closed. Athena’s words guided him. Trust your instincts. Blistering heat threatened...","categories": ["writings"],
         "tags": ["flash-fiction","thriller","romance"],
@@ -1618,24 +1366,6 @@ var store = [{
         "tags": ["vignette","fantasy"],
         "url": "/before-dinner/",
         "teaser": "/assets/images/ee34b20728e91c72d252440dee4a5b97e771e6d518b2134394_1280_dinner.jpg"
-      },{
-        "title": "Focus Your Muse with Music",
-        "excerpt":"“Okay, it’s time to write now.” Ten minutes later… “I wonder what’s happening on Facebook…?” We’ve become quite busy in our lives with all the beeps and blips of modern life. We’re driven to get as much done as possible in the shortest amount of time. We squeeze as much...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/focus-your-muse-with-music/",
-        "teaser": "/assets/images/bokeh-2595838_1920.jpg"
-      },{
-        "title": "NaNoWriMo",
-        "excerpt":"One piece of oft-spoken writing advice is to write every day. Every. Single. Day. Perfecting the craft of grand wordsmithery is not unlike anything else. If you want to master a skill, you have to practice. Period. Doesn’t matter if it’s decorative pastry art, weight lifting, or transanal endoscopic microsurgery....","categories": ["perspectives"],
-        "tags": [],
-        "url": "/nanowrimo/",
-        "teaser": "/assets/images/typewriter-1245894_1920.jpg"
-      },{
-        "title": "Your Story Needs an Audience",
-        "excerpt":"Art is an interestingly human form of expression. Somewhere between the amygdala and the cortex, our brains can conjure the most amazing things. Artists and artisans alike craft wondrous paintings and creations, vivid with colour and texture. Musicians can bend the ear and evoke such passion in one that it’s...","categories": ["perspectives"],
-        "tags": [],
-        "url": "/your-story-needs-an-audience/",
-        "teaser": "/assets/images/alice-in-wonderland-30130_960_720.png"
       },{
         "title": "Lies",
         "excerpt":"“Why are you late?” she asked through gritted teeth, wincing and relaxing again. Such a simple question. Why was I late? Did it even matter? I was here now. That was what was important. That’s all. Are you sure about that? The nurse’s gloved hand crossed my field of vision....","categories": ["writings"],
