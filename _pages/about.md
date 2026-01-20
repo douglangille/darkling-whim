@@ -8,15 +8,15 @@ Doug Langille writes dark speculative fiction with teeth.
 
 ## The Work
 
-His stories live at the intersection of cosmic horror, dark fantasy, and psychological unease. Flash fiction serves as his creative workout—short, sharp pieces that explore character under pressure, worlds slightly off-kilter, and the strange made stranger.
+Stories at the intersection of cosmic horror, dark fantasy, and psychological unease. Flash fiction serves as the creative workout—short, sharp pieces exploring character under pressure, worlds slightly off-kilter, and the strange made stranger.
 
-Published works include stories across multiple genres and formats, with an interconnected story universe (the "Haley-verse") currently in development.
+Published works span multiple genres and formats, including an interconnected story universe (the "Haley-verse") exploring cosmic horror, power dynamics, and survival at the edges.
 
 ## The Approach
 
-Stories on this site are drafted entirely by hand with no AI involvement in the creative process. This deliberate restriction keeps the craft sharp—every sentence earned, every character choice intentional.
+All stories on this site are drafted entirely by hand with **no AI involvement in the creative process**. This deliberate restriction keeps the craft sharp—every sentence earned, every character choice intentional.
 
-AI serves as a line editor for spelling and grammar, and occasionally as a critic. Whether those opinions get followed is another matter entirely.
+AI serves as a line editor for spelling and grammar, and occasionally as a critic for craft development. Whether those opinions get followed is another matter entirely.
 
 ## The Author
 
@@ -32,4 +32,4 @@ By day, he wrangles technology and innovation at Nova Scotia Community College. 
 
 ---
 
-For current creative projects and what's next, see [Now](/now/).
+For current creative projects and reading list, see [Now](/now/).
