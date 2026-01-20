@@ -1,53 +1,42 @@
 ---
 layout: single
 permalink: /now/
-title: "Now (Late 2025)"
-search: false
+title: "Now"
 redirect_from:
   - /what-is-a-doug/
   - /home/
-  - /about/
 ---
-This page tracks my current creative and technology focus. It's a snapshot of where my energy is going, what I'm learning, and what's next.
 
-Current Creative Focus
-----------------------
+This page tracks my current creative focus and what's actively in progress. Updated as projects shift.
 
-For 2026, I am committed to publishing a piece of short fiction every week. Sometimes this will be new work; other times, it will be a revisit of an older piece with a red pen and fresh eyes.
+## Current Creative Focus
 
-My short fiction, the pieces I publish on this site, remains my creative "workout." These stories are drafted entirely by hand, with **no AI involvement**. This deliberate restriction is essential to my craft; it gives me the reps I need in story structure, voice, and pacing, keeping my creative muscles sharp.
+For 2026, I'm committed to publishing a piece of short fiction every week. Sometimes new work; other times, revisiting older pieces with fresh eyes and a red pen.
 
-I do use AI for spelling and grammar line-edits, as well as for critiques to help hone my skills.
+**The Haley-verse** continues to expand—an interconnected story universe exploring cosmic horror, dark fantasy, and characters under extreme pressure.
+
+## Writing Practice
+
+My short fiction remains my creative workout. These stories are drafted entirely by hand with **no AI involvement in the creative process**. This deliberate restriction is essential—it gives me the reps I need in story structure, voice, and pacing.
+
+AI serves as a line editor for spelling and grammar, and occasionally as a critic for craft development.
 
 I may or may not listen to its opinions.
 
-Technical & Workflow Experiments
---------------------------------
+## What I'm Reading
 
-> I think stuff up and write it down.
+Deep into three very different archives:
 
-Scratching my nerd-itch, my time is focused on learning where **AI makes sense in the creative process**. The core experiment is understanding how to leverage the technology for efficiency while ensuring the human element---the spark of original thought and empathy---remains firmly in the loop. It's all about supporting, not replacing, human creativity.
+- **Jack Whyte's *Dream of Eagles* series** – Revisiting the complete historical fiction cycle for scope and character study
+- **Robert Service's collected poetry** – Studying rhythm and narrative power in verse (from my grandfather's copy)
+- **Clive Barker's *Imajica*** – Preparing for a deep dive into epic world-building
 
-I'm writing a lot about AI, emerging technology, and digital productivity on the [Digital Doug](https://substack.douglangille.ca) substack. Usually some new brain dropping there every Wednesday.
+## Technical Experiments
 
-What I'm Reading
-----------------
+On the tech side, I'm exploring how AI fits into creative workflows without replacing the human spark. Writing regularly about this at [Digital Doug](https://digital.douglangille.ca).
 
-I'm deep into three very different, but equally inspiring, archives right now:
+---
 
--   **Jack Whyte's** ***Dream of Eagles*** **series**: I'm revisiting the entire historical fiction cycle that reimagines Arthurian legend. It's fantastic study material for scope and character development.
+*Last updated: January 2026*
 
--   **Collected Works of Robert Service**: I'm spending a lot of time with my grandfather's copy of Service's poetry, specifically the rhythm and narrative power of his Yukon verse.
-
--  **Clive Barker's** ***Imajica***: Preparing for a revisit of this epic work, studying its scope and intricate world-building.
-
-About Doug Langille
-----------------
-
-Doug Langille is a writer and shameless technophile living the good life in Nova Scotia.
-
-He bravely leads Digital Innovation & Development at the NSCC.
-
-Doug doesn't usually talk about himself in the third-person.
-
-But when he does, he tends to bend the truth.
+For static bio and contact info, see [About](/about/).
