@@ -8,7 +8,6 @@ entries_layout: grid
 search: false
 pagination:
     enabled: true
-    category: writings
 ---
 
 {% assign alltags = site.tags | sort %}
