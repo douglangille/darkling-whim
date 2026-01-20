@@ -85,9 +85,11 @@ Site settings are in `_config.yml`, including:
 - Tag-based archives (categories disabled)
 - Pagination settings (12 posts per page)
 
-## Writing Philosophy
+## Writing Approach
 
-All stories on this site are drafted entirely by hand with no AI involvement in the creative process. AI serves only as a line editor for spelling and grammar, and occasionally as a critic for craft development.
+Stories are built through collaboration between human vision and AI assistance. AI handles mechanical drafting based on structured frameworks, which are then extensively revised for voice and craft. Every story published reflects authorial decisions, distinctive voice, and creative control.
+
+See the [About page](https://douglangille.ca/about/) for full disclosure on writing process and philosophy.
 
 ## License
 
