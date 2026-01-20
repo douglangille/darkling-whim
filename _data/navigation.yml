@@ -1,6 +1,8 @@
 main: 
   - title: "Stories & Poems"
     url: /writings/
+  - title: "About"
+    url: /about/
   - title: "Now"
     url: /now/
 #  - title: "Search"
