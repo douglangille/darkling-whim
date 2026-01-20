@@ -6,10 +6,6 @@ title: ""
 entries_layout: grid
 ---
 
-<head>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</head>
-
 {% assign featured = site.posts | sort: 'date' | reverse | first %}
 
 {% capture overlay_img_path %}{{ featured.header.overlay_image | relative_url }}{% endcapture %}
