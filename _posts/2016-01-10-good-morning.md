@@ -4,7 +4,6 @@ title: Good Morning
 header:
  teaser: /assets/images/breakfast-439058_640.jpg
  overlay_image: /assets/images/breakfast-439058_640.jpg
- overlay_filter: .5
 categories:
   - writings
 tags: [flash-fiction, humour, romance]

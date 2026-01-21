@@ -3,7 +3,6 @@ title: Who Gardens the Gardeners?
 header:
   teaser: /assets/images/pexels-photo-38136.jpeg
   overlay_image: /assets/images/pexels-photo-38136.jpeg
-  overlay_filter: 0.4
 categories: 
   - writings
 tags: [short-story, scifi, horror]

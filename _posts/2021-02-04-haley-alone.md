@@ -4,7 +4,6 @@ image: /assets/images/img_0014.jpg
 header: 
   teaser: /assets/images/img_0014.jpg
   overlay_image: /assets/images/img_0014.jpg
-  overlay_filter: 0.4
 categories: 
   - writings
 tags: [flash-fiction, horror, haley]
