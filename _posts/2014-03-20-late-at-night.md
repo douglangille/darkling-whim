@@ -1,20 +1,11 @@
 ---
-
-
-
-
-
 title: Late at Night
 header:
- teaser: /assets/images/Hospital_by_sheisviolence.jpg
-categories:
-  - writings
-tags: [poem, literary]
-
-
-
-
-
+  teaser: /assets/images/Hospital_by_sheisviolence.jpg
+categories: []
+tags:
+  - poem
+  - literary
 ---
 <img src="/assets/images/Hospital_by_sheisviolence.jpg">I opened my eyes and could not see.  
  Nothing but black in front of me.  

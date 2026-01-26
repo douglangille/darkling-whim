@@ -1,11 +1,12 @@
 ---
 title: Timmy Calls Wish Fulfillement
 header:
- teaser: /assets/images/7091212300ecb41f_1280_telephone.jpg
-categories:
-  - writings
-tags: [flash-fiction, horror, fantasy]
-
+  teaser: /assets/images/7091212300ecb41f_1280_telephone.jpg
+categories: []
+tags:
+  - flash-fiction
+  - horror
+  - fantasy
 ---
 <img src="/assets/images/7091212300ecb41f_1280_telephone.jpg">"Hello. Wish Fulfillment Department, a division of Hopes and Dreams Incorporated. Welcome to our Customer Care Centre. Please listen carefully to the following options so that we may best direct your call."
 

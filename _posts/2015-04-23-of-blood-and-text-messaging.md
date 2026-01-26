@@ -1,11 +1,11 @@
 ---
-
 title: Of Blood and Text Messaging
 header:
- teaser: /assets/images/smartphone-593318.jpg
-categories:
-  - writings
-tags: [flash-fiction, thriller]
+  teaser: /assets/images/smartphone-593318.jpg
+categories: []
+tags:
+  - flash-fiction
+  - thriller
 ---
 <img src="/assets/images/smartphone-593318.jpg">Detective Arnie Chalmers dropped his finished cigarette to the asphalt, ground it with his heel, and waited for his partner to catch up. "Ready, Steve?"
 

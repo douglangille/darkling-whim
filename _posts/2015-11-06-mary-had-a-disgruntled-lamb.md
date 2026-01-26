@@ -1,11 +1,12 @@
 ---
-
 title: Mary Had a Disgruntled Lamb
 header:
- teaser: /assets/images/Disgruntled-Lamb.jpg
-categories:
-  - writings
-tags: [poem, literary, humour]
+  teaser: /assets/images/Disgruntled-Lamb.jpg
+categories: []
+tags:
+  - poem
+  - literary
+  - humour
 ---
 
 <img src="/assets/images/Disgruntled-Lamb.jpg">Mary had a disgruntled little lamb,  

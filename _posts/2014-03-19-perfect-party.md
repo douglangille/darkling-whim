@@ -1,20 +1,11 @@
 ---
-
-
-
-
-
 title: Perfect Party
 header:
- teaser: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
-categories:
-  - writings
-tags: [poem, literary]
-
-
-
-
-
+  teaser: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
+categories: []
+tags:
+  - poem
+  - literary
 ---
 <img src="/assets/images/4037536134_4d07ce228f_feathered-hat.jpg">Doug is dressed in his party best,  
  In a feathered hat and a sequined vest.  

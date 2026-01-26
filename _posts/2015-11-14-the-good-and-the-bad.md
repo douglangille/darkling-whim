@@ -1,13 +1,13 @@
 ---
-
 title: The Good and the Bad
 excerpt: I relish the fine minutia of perfection.
-categories:
-  - writings
-tags: [vignette, thriller, literary]
+categories: []
+tags:
+  - vignette
+  - thriller
+  - literary
 header:
   teaser: /assets/images/7609192892_575d60d41b_brass-knuckles.jpg
-
 ---
 
 {%include figure image_path="/assets/images/7609192892_575d60d41b_brass-knuckles.jpg"%}{: .align-right}

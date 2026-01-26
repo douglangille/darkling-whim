@@ -1,14 +1,13 @@
 ---
-
 title: Before Dinner
 header:
- teaser: /assets/images/ee34b20728e91c72d252440dee4a5b97e771e6d518b2134394_1280_dinner.jpg
- overlay_image: /assets/images/ee34b20728e91c72d252440dee4a5b97e771e6d518b2134394_1280_dinner.jpg
- caption: "Photo credit: PublicDomainPictures"
-categories:
- - writings
-tags: [vignette, fantasy]
-
+  teaser: /assets/images/ee34b20728e91c72d252440dee4a5b97e771e6d518b2134394_1280_dinner.jpg
+  overlay_image: /assets/images/ee34b20728e91c72d252440dee4a5b97e771e6d518b2134394_1280_dinner.jpg
+  caption: "Photo credit: PublicDomainPictures"
+categories: []
+tags:
+  - vignette
+  - fantasy
 ---
 'Tonight will be perfect', she thought, snipping an errant shoot and placing the bonsai tree on the table's centre. *I will be perfect.* 
 

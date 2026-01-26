@@ -3,10 +3,12 @@ title: Who Gardens the Gardeners?
 header:
   teaser: /assets/images/pexels-photo-38136.jpeg
   overlay_image: /assets/images/pexels-photo-38136.jpeg
-categories: 
-  - writings
-tags: [short-story, scifi, horror]
-excerpt: "It started as a joke, really. Betsy dared me."
+categories: []
+tags:
+  - short-story
+  - scifi
+  - horror
+excerpt: It started as a joke, really. Betsy dared me.
 ---
 
 > Hello, said Tree. I’m in you and you’re in me.  

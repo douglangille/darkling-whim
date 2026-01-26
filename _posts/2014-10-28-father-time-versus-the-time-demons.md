@@ -1,10 +1,12 @@
 ---
 title: Father Time Versus the Time Demons
 header:
- teaser: /assets/images/20141022_003057000_iOS.jpg
-categories:
-  - writings
-tags: [short-story, fantasy, humour]
+  teaser: /assets/images/20141022_003057000_iOS.jpg
+categories: []
+tags:
+  - short-story
+  - fantasy
+  - humour
 ---
 <img src="/assets/images/20141022_003057000_iOS.jpg">"Wake up, you idiot."
 

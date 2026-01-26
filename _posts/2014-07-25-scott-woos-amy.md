@@ -1,10 +1,11 @@
 ---
 title: Scott Woos Amy
 header:
- teaser: /assets/images/ec33b10820f71c3e81584d04ee44408be273e7d61db212449cf2_640_moon.jpg
-categories:
-  - writings
-tags: [vignette, romance]
+  teaser: /assets/images/ec33b10820f71c3e81584d04ee44408be273e7d61db212449cf2_640_moon.jpg
+categories: []
+tags:
+  - vignette
+  - romance
 ---
 <img src="/assets/images/ec33b10820f71c3e81584d04ee44408be273e7d61db212449cf2_640_moon.jpg">"I would give you the moon, babe."
 

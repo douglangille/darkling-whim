@@ -3,9 +3,11 @@ title: The Gators of Mars
 header:
   teaser: /assets/images/teeth-471546_1280.jpg
   overlay_image: /assets/images/teeth-471546_1280.jpg
-categories:
-  - writings
-tags: [flash-fiction, scifi, thriller]
+categories: []
+tags:
+  - flash-fiction
+  - scifi
+  - thriller
 ---
 
 So, who the fiddler's flying fig decided Mars needed alligators?

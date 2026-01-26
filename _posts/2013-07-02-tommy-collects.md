@@ -1,12 +1,11 @@
 ---
 title: Tommy Collects
 header:
- teaser: /assets/images/4298179061_d2402b6ded_b.jpg
-categories:
-  - writings
-tags: [vignette, fantasy]
-  
-
+  teaser: /assets/images/4298179061_d2402b6ded_b.jpg
+categories: []
+tags:
+  - vignette
+  - fantasy
 ---
 <img src="/assets/images/4298179061_d2402b6ded_b.jpg">Tommy Andolini was a brute. That simple fact, coupled with an adversarial disposition, made him well-suited to his profession. In truth, he loved his job. Working for the Gambones had its rewards for a guy like Tommy. Any chance to work out his aggressions was a good day. Today was going to be a great day.
 

@@ -1,20 +1,11 @@
 ---
-
-
-
-
-
 title: The Nighthawk
 header:
- teaser: /assets/images/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
-categories:
-  - writings
-tags: [poem, literary]
-
-
-
-
-
+  teaser: /assets/images/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
+categories: []
+tags:
+  - poem
+  - literary
 ---
 <img src="/assets/images/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg">I stare at my winged reflection  
  as I glide silently along  

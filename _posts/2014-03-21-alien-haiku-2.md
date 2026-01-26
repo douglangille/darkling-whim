@@ -1,20 +1,11 @@
 ---
-
-
-
-
-
 title: Alien Haiku
 header:
- teaser: /assets/images/4162377148_3c7621df54_b.jpg
-categories:
-  - writings
-tags: [poem, scifi]
-
-
-
-
-
+  teaser: /assets/images/4162377148_3c7621df54_b.jpg
+categories: []
+tags:
+  - poem
+  - scifi
 ---
 <img src="/assets/images/4162377148_3c7621df54_b.jpg">spinning flying orb  
  your lasers burned my house down  

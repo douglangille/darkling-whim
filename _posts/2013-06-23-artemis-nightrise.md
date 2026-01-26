@@ -1,12 +1,14 @@
 ---
 title: Artemis Nightrise
 date: 2013-06-23
-categories:
-  - writings
-tags: [vignette, horror, scifi]
+categories: []
+tags:
+  - vignette
+  - horror
+  - scifi
 header:
   teaser: /assets/images/flickr-6620255181-original.jpg
-  overlay_image: /assets/images/flickr-6620255181-original.jpg 
+  overlay_image: /assets/images/flickr-6620255181-original.jpg
 ---
 
 Evie had a problem. She was overwhelmed. The coven hadn't assembled like this in more than two-hundred years. She was unsure how many of the Night-seekers were even left. The ship's beacon had gone off on her watch. She verified the scans twice, then three times, to convince herself that their long journey was about to end. Finally, a whole new world. She was so thirsty. One thing at a time.

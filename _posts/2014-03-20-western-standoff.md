@@ -1,11 +1,13 @@
 ---
 title: Western Standoff
 header:
- teaser: /assets/images/2227797968_278063879c_six-shooter.jpg
- overlay_image: /assets/images/2227797968_278063879c_six-shooter.jpg
-categories:
-  - writings
-tags: [vignette, literary, humour]
+  teaser: /assets/images/2227797968_278063879c_six-shooter.jpg
+  overlay_image: /assets/images/2227797968_278063879c_six-shooter.jpg
+categories: []
+tags:
+  - vignette
+  - literary
+  - humour
 ---
   Billy: Ya rascally varmit, git back here!  
  Davey: Who's gonna make me?  

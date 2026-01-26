@@ -1,13 +1,11 @@
 ---
-
 title: Ballroom Dreams
 header:
- teaser: /assets/images/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png
-categories:
-  - writings
-tags: [flash-fiction, romance]
-  
-
+  teaser: /assets/images/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png
+categories: []
+tags:
+  - flash-fiction
+  - romance
 ---
 <img src="/assets/images/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png">I entered the ballroom and searched for her in a sea of gowns and tuxedo. I had to find her, to touch her. All these masks! The ladies looked like angels floating across the floor like visions of light and color. The men pranced around in their feathered cowls, displaying their plumage.
 

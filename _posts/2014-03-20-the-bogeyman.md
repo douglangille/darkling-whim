@@ -1,15 +1,15 @@
 ---
-
 title: The Bogeyman
 header:
- teaser: /assets/images/RSS006.jpg
- overlay_image: /assets/images/RSS006.jpg
- overlay_filter: 0.4
+  teaser: /assets/images/RSS006.jpg
+  overlay_image: /assets/images/RSS006.jpg
+  overlay_filter: 0.4
 excerpt: Amen.
-categories:
-  - writings
-tags: [poem, horror, thriller]
-
+categories: []
+tags:
+  - poem
+  - horror
+  - thriller
 ---
 Daddy says it's time to sleep,  
  To go to bed with naught a peep.  

@@ -1,12 +1,12 @@
 ---
-
 title: Scrambled
 header:
- teaser: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
-categories:
-  - writings
-tags: [flash-fiction, thriller, romance]
-
+  teaser: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
+categories: []
+tags:
+  - flash-fiction
+  - thriller
+  - romance
 ---
 <img src="/assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg">"I hate to bother you, but I have something important to ask," said the new waitress, setting down my plate of scrambled eggs.
 

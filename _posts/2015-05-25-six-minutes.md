@@ -1,15 +1,11 @@
 ---
-
-
-
-
-
 title: Six Minutes
 header:
- teaser: /assets/images/earth-244238_1280.jpg
-categories:
-  - writings
-tags: [poem, literary]
+  teaser: /assets/images/earth-244238_1280.jpg
+categories: []
+tags:
+  - poem
+  - literary
 ---
 <img src="/assets/images/earth-244238_1280.jpg" />
 

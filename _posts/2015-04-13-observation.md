@@ -1,10 +1,11 @@
 ---
-
 title: Observation
 header:
- teaser: /assets/images/starbucks-569062_1280.jpg
-categories:
-  - writings
-tags: [vignette, thriller, literary]
+  teaser: /assets/images/starbucks-569062_1280.jpg
+categories: []
+tags:
+  - vignette
+  - thriller
+  - literary
 ---
 <img src="/assets/images/starbucks-569062_1280.jpg">I watch as she sits on the park bench, tucking a wisp of hair behind her ear, and quietly sips her coffee. She never sees me and I jot down the precise time in my notebook. This is not her usual routine and it excites me.

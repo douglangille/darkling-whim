@@ -1,12 +1,11 @@
 ---
-
 title: Alone on Tazin Lake
 header:
- teaser: /assets/images/IMG-20121020-00007.jpg
-categories:
-  - writings
-tags: [flash-fiction, literary]
-
+  teaser: /assets/images/IMG-20121020-00007.jpg
+categories: []
+tags:
+  - flash-fiction
+  - literary
 ---
 <img src="/assets/images/IMG-20121020-00007.jpg">The Cessna's wings clipped the tops off several jack pine as it thundered through the brush on its way down. When it finally slammed to a stop, Gus unbuckled and clambered forward to check on Darren in the pilot's seat. His neck hung at a queer angle, but the tree branch protruding from his chest told the tale. His brother was dead.
 

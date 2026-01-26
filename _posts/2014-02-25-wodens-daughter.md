@@ -1,13 +1,12 @@
 ---
-
-title: 'Woden&#39;s Daughter'
+title: Woden&#39;s Daughter
 header:
- teaser: /assets/images/precipice_by_machelko.jpg
-categories:
-  - writings
-tags: [vignette, fantasy, romance]
-  
-
+  teaser: /assets/images/precipice_by_machelko.jpg
+categories: []
+tags:
+  - vignette
+  - fantasy
+  - romance
 ---
 <img src="/assets/images/precipice_by_machelko.jpg">The Allfather's daughter, shame of Asgard, fled the Great Hall and made her way through the wood to the cliff-side. There, she gathered her furs about her shoulders and waited.  Brynhildr wiped her tears away and closed her eyes to the wind off the sea. He would come, she thought. Loki always did.
 

@@ -1,22 +1,11 @@
 ---
-
-
-
-
-
-
 title: Confession
 header:
- teaser: /assets/images/8683286803_197ea2417f_sea-siren.jpg
-categories:
-  - writings
-tags: [poem, fantasy]
-
-
-
-
-
-
+  teaser: /assets/images/8683286803_197ea2417f_sea-siren.jpg
+categories: []
+tags:
+  - poem
+  - fantasy
 ---
 <img src="/assets/images/8683286803_197ea2417f_sea-siren.jpg">Murderer! Murderer! I thought I would ne'er hear that word.  
  But to my woe, you now bestow that label --- many times have I heard.  

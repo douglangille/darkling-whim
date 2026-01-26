@@ -1,13 +1,12 @@
 ---
-
 title: Thoughtful Magic
 header:
- teaser: /assets/images/1deb57f5e4789aa4_1280_mask.jpg
-categories:
-  - writings
-tags: [vignette, scifi, humour]
-  
-
+  teaser: /assets/images/1deb57f5e4789aa4_1280_mask.jpg
+categories: []
+tags:
+  - vignette
+  - scifi
+  - humour
 ---
 <img src="/assets/images/1deb57f5e4789aa4_1280_mask.jpg">The life of a super-villainess was burdensome to Amy and when her fembot henchman, Stacey, suggested a vacation in her winter-lair on the Caribbean, she jumped at the opportunity and hopped on her jet.
 

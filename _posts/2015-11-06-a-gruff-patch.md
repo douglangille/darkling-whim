@@ -1,11 +1,12 @@
 ---
-
 title: A Gruff Patch
 header:
- teaser: /assets/images/Three-Goats.jpg
-categories:
-  - writings
-tags: [flash-fiction, scifi, fantasy]
+  teaser: /assets/images/Three-Goats.jpg
+categories: []
+tags:
+  - flash-fiction
+  - scifi
+  - fantasy
 ---
 
 <img src="/assets/images/Three-Goats.jpg">Bruno Gruff scratched his flea-bitten crotch and stared out the window. His brothers, Barney and Buford, bickered over the last patch of swamp grass. He sniffed his hoof and winced before heading out the door.

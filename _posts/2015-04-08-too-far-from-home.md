@@ -1,10 +1,12 @@
 ---
 title: Too Far from Home
 header:
- teaser: /assets/images/target-659025.jpg
-categories:
-  - writings
-tags: [flash-fiction, thriller, literary]
+  teaser: /assets/images/target-659025.jpg
+categories: []
+tags:
+  - flash-fiction
+  - thriller
+  - literary
 ---
 <img src="/assets/images/target-659025.jpg">Melanie closed one eye and focused on the board. After the last pitcher, her vision wasn't much to be trusted. *Come on', Mel. Three darts and we finish this. Need the rest of Jimbo's wad. Girl's gotta eat.* She pulled her hand back to her ear and flicked the dart. *Dammit. Effin' trip-one.*
 

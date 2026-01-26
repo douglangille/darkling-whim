@@ -1,16 +1,12 @@
 ---
-
-
-
-
-
 title: Last Glimpse
 header:
- teaser: /assets/images/armagedon-6.jpg
-categories:
-  - writings
-tags: [poem, scifi, romance]
-
+  teaser: /assets/images/armagedon-6.jpg
+categories: []
+tags:
+  - poem
+  - scifi
+  - romance
 ---
 <img src="/assets/images/armagedon-6.jpg">I found the perfect spot, for us to share a final gaze  
  Of cosmic wonder, before the end of days

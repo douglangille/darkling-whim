@@ -1,13 +1,11 @@
 ---
-
 title: Thanksgiving
 header:
- teaser: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
-categories:
-  - writings
-tags: [vignette, humour]
-  
-
+  teaser: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
+categories: []
+tags:
+  - vignette
+  - humour
 ---
 <img src="/assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg">"Good man, where might I find your nearest mooring dock?"
 

@@ -1,15 +1,11 @@
 ---
-
-
-
-
-
 title: Bat Geriatrics
 header:
- teaser: /assets/images/batman-532919_1280.jpg
-categories:
-  - writings
-tags: [poem, humour]
+  teaser: /assets/images/batman-532919_1280.jpg
+categories: []
+tags:
+  - poem
+  - humour
 ---
 <img src="/assets/images/batman-532919_1280.jpg">"Alfred! Get me my cowl."
 

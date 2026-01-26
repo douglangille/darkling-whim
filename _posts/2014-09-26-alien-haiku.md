@@ -1,16 +1,11 @@
 ---
-
-
-
-
-
 title: Alien Haiku
 header:
- teaser: /assets/images/9153767970_5a8cbf4f18_b.jpg
-categories:
-  - writings
-tags: [poem, scifi]
-
+  teaser: /assets/images/9153767970_5a8cbf4f18_b.jpg
+categories: []
+tags:
+  - poem
+  - scifi
 ---
 <img src="/assets/images/9153767970_5a8cbf4f18_b.jpg">Driving late at night  
  Bright green lights whirling above  

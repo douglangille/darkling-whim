@@ -1,11 +1,12 @@
 ---
-
 title: Blind Dining
 header:
- teaser: /assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg
-categories:
-  - writings
-tags: [flash-fiction, thriller, literary]
+  teaser: /assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg
+categories: []
+tags:
+  - flash-fiction
+  - thriller
+  - literary
 ---
 <img src="/assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg">"Eyes up, soldier," she said and I did. The corner of her mouth was turned up in a smirk, eyes sparkling.
 

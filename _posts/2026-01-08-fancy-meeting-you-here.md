@@ -1,13 +1,15 @@
 ---
-title: "Fancy Meeting You Here"
+title: Fancy Meeting You Here
 image: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
-header: 
+header:
   teaser: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
   overlay_image: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
-categories: 
-  - writings
-tags: [flash-fiction, thriller, romance]
-excerpt: "Vanilla musk. She never changes."
+categories: []
+tags:
+  - flash-fiction
+  - thriller
+  - romance
+excerpt: Vanilla musk. She never changes.
 ---
 Elliot sighted carefully, took aim, and flicked the peanut shell across the bar into a glass of stale beer. It landed with a satisfying plop. He smirked to himself, shrugged his shoulders and straightened on his stool, before bringing his own glass to his lips.
 

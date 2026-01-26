@@ -1,17 +1,12 @@
 ---
-
-
-
-
-
 title: Trick or Treat
 header:
- overlay_image: /assets/images/ec3cb80a2af51c3e81584d04ee44408be273e7d119b3174792f8_640_baking.jpg
- teaser: /assets/images/ec3cb80a2af51c3e81584d04ee44408be273e7d119b3174792f8_640_baking.jpg
-categories:
-  - writings
-tags: [poem, horror]
-
+  overlay_image: /assets/images/ec3cb80a2af51c3e81584d04ee44408be273e7d119b3174792f8_640_baking.jpg
+  teaser: /assets/images/ec3cb80a2af51c3e81584d04ee44408be273e7d119b3174792f8_640_baking.jpg
+categories: []
+tags:
+  - poem
+  - horror
 ---
 Moldy sugar and weevily flour,  
  Some rancid butter at the Witching Hour.  

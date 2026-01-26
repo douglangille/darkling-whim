@@ -1,12 +1,11 @@
 ---
-
 title: Riding the Train
 header:
- teaser: /assets/images/subway_car_by_paupah.jpg
-categories:
-  - writings
-tags: [vignette, literary]
-
+  teaser: /assets/images/subway_car_by_paupah.jpg
+categories: []
+tags:
+  - vignette
+  - literary
 ---
 <img src="/assets/images/subway_car_by_paupah.jpg">Riding the hover train this time of night always made me sleepy. The route passed through seedier parts of the city, so I took to people-watching to stay alert. I didn't want to be one of the statistics that we heard nightly on the newsfeeds.
 

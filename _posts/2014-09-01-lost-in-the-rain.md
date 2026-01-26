@@ -1,20 +1,11 @@
 ---
-
-
-
-
-
 title: Lost in the Rain
 header:
- teaser: /assets/images/Storm_Drain.jpg
-categories:
-  - writings
-tags: [poem, literary]
-
-
-
-
-
+  teaser: /assets/images/Storm_Drain.jpg
+categories: []
+tags:
+  - poem
+  - literary
 ---
 <img src="/assets/images/Storm_Drain.jpg">rain in late summer  
  the boy walks along the street  

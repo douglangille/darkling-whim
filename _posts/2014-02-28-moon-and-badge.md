@@ -1,21 +1,12 @@
 ---
-
-
-
-
-
 title: Moon and Badge
 header:
- teaser: /assets/images/7136114679_82420e7ff5_b.jpg
-categories:
-  - writings
-tags: [poem, literary, thriller]
-  
-
-
-
-
-
+  teaser: /assets/images/7136114679_82420e7ff5_b.jpg
+categories: []
+tags:
+  - poem
+  - literary
+  - thriller
 ---
 <img src="/assets/images/7136114679_82420e7ff5_b.jpg">"What seems to be the problem, Officer?" I ask.
 

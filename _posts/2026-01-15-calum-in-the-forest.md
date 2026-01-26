@@ -1,13 +1,15 @@
 ---
 title: Calum in the Forest
 image: /assets/images/generated-image.png
-header: 
+header:
   teaser: /assets/images/generated-image.png
   overlay_image: /assets/images/generated-image.png
-categories: 
-  - writings
-tags: [flash-fiction, horror, literary]
-excerpt: "Every shot taken draws the forest closer."
+categories: []
+tags:
+  - flash-fiction
+  - horror
+  - literary
+excerpt: Every shot taken draws the forest closer.
 ---
 
 The moss is darker where I kneel. Not wet-dark. Something else. I frame it, check the aperture twice, breathe through my nose the way I'm supposed to. Three-point-five, ISO 400, the light's doing that thing again where it pools instead of filters. I take the shot. 

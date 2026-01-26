@@ -1,10 +1,11 @@
 ---
 title: Down the Hill
 header:
- teaser: /assets/images/24719250735_3cfb5af0f8_toboggan.jpg
-categories:
-  - writings
-tags: [vignette, literary]
+  teaser: /assets/images/24719250735_3cfb5af0f8_toboggan.jpg
+categories: []
+tags:
+  - vignette
+  - literary
 ---
 <img src="/assets/images/24719250735_3cfb5af0f8_toboggan.jpg">"You wax the flyer? It's all shiny."
 

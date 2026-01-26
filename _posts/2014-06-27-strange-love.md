@@ -1,18 +1,9 @@
 ---
-
-
-
-
-
 title: Strange Love
-categories:
-  - writings
-tags: [poem, humour]
-
-
-
-
-
+categories: []
+tags:
+  - poem
+  - humour
 ---
 <img src="/assets/images/2535792133_23d929a8a7_b.jpg">There once was a lady, hailing from the circus  
  Whose beard was so long, she would curse it  

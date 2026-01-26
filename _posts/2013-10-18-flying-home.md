@@ -1,12 +1,11 @@
 ---
-
 title: Flying Home
 header:
- teaser: /assets/images/14870589051_81e9103ce2_b.jpg
-categories:
-  - writings
-tags: [poem, romance]
-
+  teaser: /assets/images/14870589051_81e9103ce2_b.jpg
+categories: []
+tags:
+  - poem
+  - romance
 ---
 <img src="/assets/images/14870589051_81e9103ce2_b.jpg">I watched the sun set and the moon rise,  
  As we flew, high in the skies.  

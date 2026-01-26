@@ -1,12 +1,12 @@
 ---
 title: Grace Under Fire
 header:
- teaser: /assets/images/e835b3062bf0013ecd0b470de7444e90fe76e6d01bb711429cf2c1_640_lab.jpg
-categories:
-  - writings
-tags: [vignette, scifi, thriller]
-  
-
+  teaser: /assets/images/e835b3062bf0013ecd0b470de7444e90fe76e6d01bb711429cf2c1_640_lab.jpg
+categories: []
+tags:
+  - vignette
+  - scifi
+  - thriller
 ---
 <img src="/assets/images/e835b3062bf0013ecd0b470de7444e90fe76e6d01bb711429cf2c1_640_lab.jpg">Grace raced to the emergency pull station on the other side of the room. There wasn't much room for debate and doubt on this one. They fucked up. The quarantine alarm blasted its clarion as the medical grade doors sealed them into the research bay.
 

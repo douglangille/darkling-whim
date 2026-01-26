@@ -1,12 +1,14 @@
 ---
-title: "Eddie Zero"
+title: Eddie Zero
 date: 2013-10-13
-tags: [short-story, horror, haley]
-categories: 
-    - writings
+tags:
+  - short-story
+  - horror
+  - haley
+categories: []
 header:
-    teaser: /assets/images/eddie-zero.png
-    overlay_image: /assets/images/eddie-zero.png
+  teaser: /assets/images/eddie-zero.png
+  overlay_image: /assets/images/eddie-zero.png
 ---
 
 I didn't kill him. He was already dead.

@@ -1,13 +1,12 @@
 ---
-
 title: Unreal World
 header:
- teaser: /assets/images/holding_hands_by_xperianceART.jpg
-categories:
-  - writings
-tags: [vignette, literary, romance]
-  
-
+  teaser: /assets/images/holding_hands_by_xperianceART.jpg
+categories: []
+tags:
+  - vignette
+  - literary
+  - romance
 ---
 <img src="/assets/images/holding_hands_by_xperianceART.jpg">School wasn't working for me. Three years in and I crashed and burned, my high school ambitions laid to waste. Despite my so-called potential, I wasn't cut out to be a doctor. My heart wasn't in it and I was lazy. In many ways, I still am.
 

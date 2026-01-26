@@ -1,11 +1,12 @@
 ---
-
 title: Scare Tactics
 header:
- teaser: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
-categories:
-  - writings
-tags: [flash-fiction, horror, romance]
+  teaser: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
+categories: []
+tags:
+  - flash-fiction
+  - horror
+  - romance
 ---
 <img src="/assets/images/8117718787_218466fc67_ghost-sheet.jpg">"Why don't you try poking out your eyes?"
 

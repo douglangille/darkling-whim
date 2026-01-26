@@ -1,12 +1,12 @@
 ---
-
 title: Cowboy Games
 header:
- teaser: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
-categories:
-  - writings
-tags: [flash-fiction, scifi, fantasy]
-
+  teaser: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
+categories: []
+tags:
+  - flash-fiction
+  - scifi
+  - fantasy
 ---
 <img src="/assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg">The Cedarwood Home for the Elderly stood at the end of a dead-end street in a rotting borough of a dying town, an apt image not lost on the staff and residents--- well, some of them anyway. The arrivals came in minivans full of harried and frenzied families. The departures left in black station-wagons where the back seats were always quiet. The visitors' lots grew weeds from disuse.
 

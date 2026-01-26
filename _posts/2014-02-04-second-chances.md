@@ -1,13 +1,12 @@
 ---
-
 title: Second Chances
 header:
- teaser: /assets/images/bar_by_zeitweilig.jpg
-categories:
-  - writings
-tags: [flash-fiction, literary, romance]
-  
-
+  teaser: /assets/images/bar_by_zeitweilig.jpg
+categories: []
+tags:
+  - flash-fiction
+  - literary
+  - romance
 ---
 <img src="/assets/images/bar_by_zeitweilig.jpg">Archie winced and swallowed. The beer tasted watery and flat. Ever since Pop died, this place wasn't the same. Jug tried hard, but he didn't have the mind for business.
 

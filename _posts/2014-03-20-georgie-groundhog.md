@@ -1,12 +1,12 @@
 ---
-
 title: Georgie Groundhog
 header:
- teaser: /assets/images/7420708952_0c90eb0fea_b.jpg
-categories:
-  - writings
-tags: [flash-fiction, fantasy, romance]
-
+  teaser: /assets/images/7420708952_0c90eb0fea_b.jpg
+categories: []
+tags:
+  - flash-fiction
+  - fantasy
+  - romance
 ---
 <img src="/assets/images/7420708952_0c90eb0fea_b.jpg">"Oh dear, oh dear! I'm late, so terribly late," muttered Georgie Groundhog to himself as he dressed for the storm outside.
 

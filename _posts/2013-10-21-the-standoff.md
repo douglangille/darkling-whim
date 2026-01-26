@@ -2,9 +2,10 @@
 title: The Standoff
 header:
   teaser: /assets/images/5923105171_90007ff833_cat-mouse.jpg
-categories:
-  - writings
-tags: [flash-fiction, fantasy]
+categories: []
+tags:
+  - flash-fiction
+  - fantasy
 ---
 <img src="/assets/images/5923105171_90007ff833_cat-mouse.jpg">Missy's moon shadow cast long, tail twitching in anticipation; the taste of freshly killed squirrel electrified her whiskers. She named her quarry Nemesis.
 

@@ -1,12 +1,11 @@
 ---
-
 title: Good Boy, Jake
 header:
- teaser: /assets/images/32221740_530a3d192c_b.jpg
-categories:
-  - writings
-tags: [poem, literary]
-
+  teaser: /assets/images/32221740_530a3d192c_b.jpg
+categories: []
+tags:
+  - poem
+  - literary
 ---
 <img src="/assets/images/32221740_530a3d192c_b.jpg">Rod in hand, I went to the lake,  
  To fish for trout with my dog Jake.  

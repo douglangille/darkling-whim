@@ -1,11 +1,12 @@
 ---
-
 title: Full Circle
 header:
- teaser: /assets/images/bus-stop-72171.jpg
-categories:
-  - writings
-tags: [vignette, literary, romance]
+  teaser: /assets/images/bus-stop-72171.jpg
+categories: []
+tags:
+  - vignette
+  - literary
+  - romance
 ---
 <img src="/assets/images/bus-stop-72171.jpg">"A strange thing happened on the way to the bus stop," I said, taking a plate from the rack and wiping it. Well-worn, these wedding gift dishes stood the test of time.
 

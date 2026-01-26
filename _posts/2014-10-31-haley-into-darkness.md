@@ -1,16 +1,14 @@
 ---
-
-
-
-
-
 title: Haley Into Darkness
 header:
- teaser: /assets/images/5e4b3b460f6e1ab4_640_closet.jpg
- overlay_image: /assets/images/5e4b3b460f6e1ab4_640_closet.jpg
-categories:
-  - writings
-tags: [flash-fiction, horror, fantasy, haley]
+  teaser: /assets/images/5e4b3b460f6e1ab4_640_closet.jpg
+  overlay_image: /assets/images/5e4b3b460f6e1ab4_640_closet.jpg
+categories: []
+tags:
+  - flash-fiction
+  - horror
+  - fantasy
+  - haley
 ---
 
 

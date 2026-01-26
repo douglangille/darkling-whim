@@ -1,15 +1,12 @@
 ---
-
-
-
-
-
 title: Judgement Dogs
 header:
- teaser: /assets/images/door-689874_1280.jpg
-categories:
-  - writings
-tags: [poem, humour, fantasy]
+  teaser: /assets/images/door-689874_1280.jpg
+categories: []
+tags:
+  - poem
+  - humour
+  - fantasy
 ---
 <img src="/assets/images/door-689874_1280.jpg">"Pansy, did you see what that meathead did?"
 

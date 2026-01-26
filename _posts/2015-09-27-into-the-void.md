@@ -1,11 +1,12 @@
 ---
-
 title: Into the Void
 header:
- teaser: /assets/images/6336363394_213bd59a9b_b.jpg
-categories:
-  - writings
-tags: [flash-fiction, fantasy, scifi]
+  teaser: /assets/images/6336363394_213bd59a9b_b.jpg
+categories: []
+tags:
+  - flash-fiction
+  - fantasy
+  - scifi
 ---
 
 <img src="/assets/images/6336363394_213bd59a9b_b.jpg">***Date: September 27, 1491 SCE  

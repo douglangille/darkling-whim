@@ -1,10 +1,11 @@
 ---
-title: 'Maggie&#39;s Secret'
+title: Maggie&#39;s Secret
 header:
- teaser: /assets/images/4577104544_a4f06dc810_b.jpg
-categories:
-  - writings
-tags: [vignette, romance]
+  teaser: /assets/images/4577104544_a4f06dc810_b.jpg
+categories: []
+tags:
+  - vignette
+  - romance
 ---
 <img src="/assets/images/4577104544_a4f06dc810_b.jpg">"So, I know something you don't know."
 
