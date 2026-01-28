@@ -10,7 +10,7 @@ Doug Langille writes dark speculative fiction with teeth.
 
 Stories at the intersection of cosmic horror, dark fantasy, and psychological unease. Flash fiction serves as the creative workout—short, sharp pieces exploring character under pressure, worlds slightly off-kilter, and the strange made stranger.
 
-Published works span multiple genres and formats, including an interconnected story universe (the "Haley-verse") exploring cosmic horror, power dynamics, and survival at the edges.
+Published works span multiple genres and formats, including an interconnected story universe (the "Haley-verse") exploring cosmic zombie horror, power dynamics, and survival at the edges.
 
 ## The Approach
 
@@ -24,7 +24,7 @@ The work gets done. The work gets better. That's the only contract that fucking 
 
 ## The Author
 
-Doug lives in Nova Scotia with too many books, not enough time, and a deep appreciation for coffee and whiskey (though rarely together).
+Doug lives in Nova Scotia with too many animals, not enough time, and a deep appreciation for coffee.
 
 By day, he wrangles technology and innovation at Nova Scotia Community College. By night, he writes stories that leave marks.
 
