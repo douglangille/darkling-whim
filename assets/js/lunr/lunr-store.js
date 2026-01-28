@@ -1402,4 +1402,10 @@ var store = [{
         "tags": ["flash-fiction","scifi","thriller","literary"],
         "url": "/the-acknowledgement/",
         "teaser": "/assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png"
+      },{
+        "title": "Red Dot",
+        "excerpt":"The phone’s red dot is already on. My hands are too small for the wheel. Dad says, from the back seat, “Don’t stop.” I’m supposed to say it steady. “Time: 9:47 p.m. Street: I don’t know. I’m driving. I’m eleven. I’m recording because Dad told me to.” The car’s nose...","categories": [],
+        "tags": ["flash-fiction","literary","thriller"],
+        "url": "/red-dot/",
+        "teaser": "/assets/images/IMG_0631.jpeg"
       }]
