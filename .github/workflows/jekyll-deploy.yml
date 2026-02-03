@@ -2,7 +2,8 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: [main]
+    branches: ["main"]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -11,7 +12,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -25,9 +26,13 @@ jobs:
         with:
           ruby-version: '3.3'
           bundler-cache: true
-          
+      
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+      
       - name: Build with Jekyll
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
           
