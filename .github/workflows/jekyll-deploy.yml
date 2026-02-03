@@ -1,55 +1,46 @@
-name: Build and deploy Jekyll site
+name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-
+        
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1
+          ruby-version: '3.3'
+          bundler-cache: true
+          
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+          
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
 
-      - name: Cache Ruby gems
-        uses: actions/cache@v4
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-
-      - name: Install dependencies
-        run: |
-          gem install bundler --no-document
-          if [ -f Gemfile ]; then
-            bundle config path vendor/bundle
-            bundle install --jobs 4 --retry 3
-          else
-            gem install jekyll --no-document
-          fi
-
-      - name: Build site with Jekyll
-        run: |
-          mkdir -p ./_site
-          if [ -f Gemfile ]; then
-            bundle exec jekyll build --destination ./_site
-          else
-            jekyll build --destination ./_site
-          fi
-
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: ./_site
-          cname: douglangille.ca
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
