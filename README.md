@@ -10,7 +10,7 @@ On a Darkling Whim is Doug Langille's creative writing portfolio featuring origi
 
 **Description**: Stories and poems by Doug Langille: dark around the edges, wonder with teeth.
 
-This Jekyll site uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme and is deployed via Netlify.
+This Jekyll site uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
 
 ## Site Structure
 
@@ -27,7 +27,7 @@ An interconnected story universe exploring cosmic horror, power dynamics, and su
 
 ### Prerequisites
 
-- Ruby 3.1 or higher
+- Ruby 3.3 or higher
 - Bundler
 
 ### Setup
@@ -46,7 +46,9 @@ An interconnected story universe exploring cosmic horror, power dynamics, and su
 
 ## Deployment
 
-The site automatically deploys to Netlify when changes are pushed to the `main` branch.
+The site automatically builds and deploys to GitHub Pages via GitHub Actions when changes are pushed to the `main` branch.
+
+Custom domain `douglangille.ca` is configured through GitHub Pages settings with DNS managed via Cloudflare.
 
 ## Content Management
 
