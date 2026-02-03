@@ -46,9 +46,13 @@ An interconnected story universe exploring cosmic horror, power dynamics, and su
 
 ## Deployment
 
-The site automatically builds and deploys to GitHub Pages via GitHub Actions when changes are pushed to the `main` branch.
+The site uses **custom Jekyll plugins** (jekyll-paginate-v2, jekyll-archives, jekyll-redirect-from) that require a GitHub Actions workflow for building and deployment.
 
-Custom domain `douglangille.ca` is configured through GitHub Pages settings with DNS managed via Cloudflare.
+**Important**: GitHub Pages must be configured to use "GitHub Actions" as the deployment source (Settings → Pages → Source: GitHub Actions).
+
+The workflow automatically builds and deploys to GitHub Pages when changes are pushed to the `main` branch. Custom domain `douglangille.ca` is configured through GitHub Pages settings with DNS managed via Cloudflare.
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed setup instructions and troubleshooting.
 
 ## Content Management
 
