@@ -81,8 +81,8 @@ Flo sat where the driver must sit. The ground was cold.
 
 The headstone was simple.
 
-Deidre Florence Chisholm
-February 14, 1995 - February 14, 2023
+Deidre Florence Chisholm  
+February 14, 1995 - February 14, 2023  
 Beloved Daughter
 
 Deidre would have turned 31. She'd been 28.
