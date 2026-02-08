@@ -70,9 +70,9 @@ footer:
 comments:
   provider: "giscus"
   giscus:
-    repo_id              : "" 
+    repo_id              : "R_kgDOMo9fOw" 
     category_name        : "General" 
-    category_id          : ""
+    category_id          : "DIC_kwDOMo9fO84C2BMW"
     discussion_term      : "pathname" 
     reactions_enabled    : 1
     theme                : "preferred_color_scheme"
