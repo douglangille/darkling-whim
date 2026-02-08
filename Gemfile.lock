@@ -70,8 +70,6 @@ GEM
       webrick (~> 1.7)
     jekyll-archives (2.3.0)
       jekyll (>= 3.6, < 5.0)
-    jekyll-feed (0.17.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-include-cache (0.2.1)
@@ -107,7 +105,6 @@ GEM
     mercenary (0.4.0)
     minimal-mistakes-jekyll (4.27.3)
       jekyll (>= 3.7, < 5.0)
-      jekyll-feed (~> 0.1)
       jekyll-gist (~> 1.5)
       jekyll-include-cache (~> 0.1)
       jekyll-paginate (~> 1.1)
@@ -157,7 +154,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-archives
-  jekyll-feed
   jekyll-gist
   jekyll-include-cache
   jekyll-paginate-v2
