@@ -18,15 +18,15 @@ Eileen taught grade school for forty years before retiring and within two years 
 
 The last time he came, he sat with his coat on. His phone stayed face-up on the table between them. She talked. He answered. When he stood to leave, his hug was the kind you give a stranger. One arm. Brief. No weight behind it. He said he'd call. She stood in the lobby and watched the automatic door close. Then she went back to her room.
 
-She wished him a happy life, but loneliness crept in to her days. She slept those away and enjoyed the nights instead.
+She wished him a happy life, but loneliness crept into her days. She slept those away and enjoyed the nights instead.
 
-Mister Jameson, three doors down, wandered the halls in the wee hours, sometimes clothed strangely and sometimes not at all. The word on the ward was that syphilis turned his brain into cheese. No one knew about his life before Cedarwood, his tenure longer than everyone else including the staff.
+Mister Jameson lived three doors down. No one knew his life before Cedarwood. His tenure there was longer than anyone's, staff included. He wandered the halls in the wee hours, sometimes clothed strangely and sometimes not at all.
 
-He dresses before midnight. Boots laced, hat on. He moves through the corridor with his hands loose, not touching the walls. Unhurried. A man who has learned to move through dark spaces without waking anyone. At the window at the end of the hall he stands a moment, looks out at the parking lot. Then he keeps walking.
+He dressed before midnight most nights. Boots laced, hat on. He moved through the corridor with his hands loose, not touching the walls. Unhurried. A man who had learned to move through dark spaces without waking anyone. At the window at the end of the hall he'd stand a moment, look out at the parking lot. Then he'd keep walking.
 
-One night, Eileen's mood wasn't the best. She conned one of the orderlies into fetching her some brandy, an easy enough task for a woman not afraid to peddle her charms. The liquor burned her throat but made the time more tolerable.
+Eileen's mood wasn't the best that night. She conned one of the orderlies into fetching her some brandy, an easy enough task for a woman not afraid to peddle her charms. The liquor burned her throat but made the time more tolerable.
 
-She considered the length of the tie on her house coat and wondered if the wall sconce light would hold her weight, assuming her courage held. A noisy hooting and hollering from the hallways interrupted her pondering. When there was a loud knock on her door, she startled and stuffed the fuzzy would-be noose under the mattress.
+She considered the length of the tie on her house coat and wondered if the wall sconce light would hold her weight, assuming her courage held. A noisy hooting and hollering from the hallway interrupted her pondering. When there was a loud knock on her door, she startled and shoved it under the mattress without looking at it.
 
 "You in there, Eileen?" said the familiar voice through the door, this time drawling like a cowboy from a bad western movie.
 
@@ -44,4 +44,4 @@ She opened the door.
 
 "Howdy, ma'am. Might I come in for a spell?"
 
-Mister Jameson wore cowboy boots and a felt brimmed hat. He wore no holster, but his pistol looked loaded with lead and ready to fire. She closed the door behind him and let her house coat fall to the floor.
+Mister Jameson wore cowboy boots and a felt brimmed hat. He wore no holster, but his pistol looked loaded with lead and ready to fire.
