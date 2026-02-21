@@ -8,6 +8,8 @@ then updates the front-matter tags accordingly.
 Usage:
     python tag_posts.py                # process all posts
     python tag_posts.py --test 5       # process only first 5 posts
+    python tag_posts.py --logonly      # print tags without writing files
+    python tag_posts.py --test 5 --logonly  # combine both
 """
 
 import argparse
@@ -97,8 +99,8 @@ def categorize(client: anthropic.Anthropic, title: str, content: str) -> dict:
         ) from exc
 
 
-def process_post(client: anthropic.Anthropic, filepath: str) -> None:
-    """Process a single post: categorize and update tags."""
+def process_post(client: anthropic.Anthropic, filepath: str, log_only: bool = False) -> None:
+    """Process a single post: categorize and optionally update tags."""
     front_matter, content, _ = parse_post(filepath)
 
     title = front_matter.get("title", os.path.basename(filepath))
@@ -111,13 +113,13 @@ def process_post(client: anthropic.Anthropic, filepath: str) -> None:
     # Build new tags list: format first (if non-empty), then genres
     new_tags = [t for t in ([fmt] + genres) if t]
 
-    # Replace tags entirely (removing "literary" and old tags)
-    front_matter["tags"] = new_tags
-
-    write_post(filepath, front_matter, content)
-
     genre_str = " + ".join(genres) if genres else "(no genres)"
     print(f"✓ {title} | {fmt or '(no format)'} + {genre_str}")
+
+    if not log_only:
+        # Replace tags entirely (removing "literary" and old tags)
+        front_matter["tags"] = new_tags
+        write_post(filepath, front_matter, content)
 
 
 def main() -> None:
@@ -129,6 +131,11 @@ def main() -> None:
         type=int,
         metavar="N",
         help="Only process the first N files (for validation).",
+    )
+    parser.add_argument(
+        "--logonly",
+        action="store_true",
+        help="Print suggested tags without writing changes to files.",
     )
     args = parser.parse_args()
 
@@ -148,8 +155,11 @@ def main() -> None:
         md_files = md_files[: args.test]
         print(f"--test mode: processing {len(md_files)} file(s)\n")
 
+    if args.logonly:
+        print("--logonly mode: files will NOT be modified\n")
+
     for i, filepath in enumerate(md_files):
-        process_post(client, filepath)
+        process_post(client, filepath, log_only=args.logonly)
         # Rate-limit: 1 request per second (skip sleep after last file)
         if i < len(md_files) - 1:
             time.sleep(1)
