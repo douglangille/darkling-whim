@@ -159,10 +159,12 @@ def main() -> None:
     if args.logonly:
         print("--logonly mode: files will NOT be modified\n")
 
-    for i, filepath in enumerate(md_files):
+    total_files = len(md_files)
+    for idx, filepath in enumerate(md_files, start=1):
+        print(f"Processing {idx}/{total_files}: {os.path.basename(filepath)}")
         process_post(client, filepath, log_only=args.logonly)
         # Rate-limit: 1 request per second (skip sleep after last file)
-        if i < len(md_files) - 1:
+        if idx < total_files:
             time.sleep(1)
 
 
