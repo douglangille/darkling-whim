@@ -1,13 +1,16 @@
 ---
 title: The Last Mercy
 header:
-  teaser: 
+  teaser: /assets/images/Faded-beauty-on-cracked-pavement.jpg
 categories: []
 tags:
   - flash-fiction
   - horror
+  - dark-fiction
   - literary
+  - post-apocalyptic
 ---
+<img src="/assets/images/Faded-beauty-on-cracked-pavement.jpg">
 
 The static hit her three blocks out. White noise at the edge of her skull, pitched like a minor key nobody was playing. Haley knew the feeling now. Knew it intimately. Her feet changed direction before her mind caught up.
 
