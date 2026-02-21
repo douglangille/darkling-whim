@@ -86,8 +86,9 @@ def categorize(client: anthropic.Anthropic, title: str, content: str) -> dict:
     message = client.messages.create(
         model="claude-haiku-4-5",
         max_tokens=256,
+        system=SYSTEM_PROMPT,
         messages=[
-            {"role": "user", "content": SYSTEM_PROMPT + "\n" + user_prompt}
+            {"role": "user", "content": user_prompt}
         ],
     )
     response_text = message.content[0].text.strip()
