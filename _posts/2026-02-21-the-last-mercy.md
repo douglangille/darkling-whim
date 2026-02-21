@@ -1,9 +1,9 @@
 ---
 title: The Last Mercy
 header:
-  teaser: "/assets/images/Faded-beauty-on-cracked-pavement.jpg"
-  overlay_image: "/assets/images/Faded-beauty-on-cracked-pavement.jpg"
-categories: []
+  teaser: "/assets/images/Faded beauty on cracked pavement.png"
+  overlay_image: "/assets/images/Faded beauty on cracked pavement.png"
+excerpt: "Three flowers, a knife, and the burden of knowing what mercy costs."
 tags:
   - flash-fiction
   - horror
