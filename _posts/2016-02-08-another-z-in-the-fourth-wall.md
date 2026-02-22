@@ -5,9 +5,10 @@ header:
 title: Another Z in the Fourth Wall
 categories: []
 tags:
-  - flash-fiction
-  - horror
-  - haley
+- haley
+- flash
+- horror
+- humour
 ---
 
 Eddie's fist connected with a satisfying crunch and Haley couldn't keep from smiling. The zombie's newly-detached lower jaw sailed through the air, flicking bits of rot as it spun, ricocheted off a bench and finally splattered flatly on the stylishly overpriced industrial carpet. She instinctively held her breath and closed her eyes, remembering that kid who swallowed some zombie meat and bam: Insta-Z.

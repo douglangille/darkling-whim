@@ -4,10 +4,10 @@ header:
   teaser: /assets/images/door-689874_1280.jpg
 categories: []
 tags:
-  - poem
-  - humour
-  - fantasy
+- flash
+- humour
 ---
+
 <img src="/assets/images/door-689874_1280.jpg">"Pansy, did you see what that meathead did?"
 
 "No, Gracie, what?"

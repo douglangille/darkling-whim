@@ -4,9 +4,10 @@ header:
   teaser: /assets/images/24719250735_3cfb5af0f8_toboggan.jpg
 categories: []
 tags:
-  - vignette
-  - literary
+- flash
+- humour
 ---
+
 <img src="/assets/images/24719250735_3cfb5af0f8_toboggan.jpg">"You wax the flyer? It's all shiny."
 
 "Yuppers. Cooking oil this time. What about you?"

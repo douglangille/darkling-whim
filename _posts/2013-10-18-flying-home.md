@@ -4,9 +4,10 @@ header:
   teaser: /assets/images/14870589051_81e9103ce2_b.jpg
 categories: []
 tags:
-  - poem
-  - romance
+- poetry
+- drama
 ---
+
 <img src="/assets/images/14870589051_81e9103ce2_b.jpg">I watched the sun set and the moon rise,  
  As we flew, high in the skies.  
  The clouds below, so milky white,  

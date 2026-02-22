@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/5297560931_2107f4287a_christmas-elf.jpg
 categories: []
 tags:
-  - flash-fiction
-  - humour
-  - fantasy
+- flash
+- humour
+- fantasy
 ---
+
 <img src="/assets/images/5297560931_2107f4287a_christmas-elf.jpg">"Blinky, put that wrench down and get over here. I need a hand."
 
 "What's up, Stinky? Can't reach the top shelf?"

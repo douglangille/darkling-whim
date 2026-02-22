@@ -6,9 +6,10 @@ header:
   overlay_image: /assets/images/img_0014.jpg
 categories: []
 tags:
-  - flash-fiction
-  - horror
-  - haley
+- haley
+- flash
+- horror
+- thriller
 excerpt: Nothing but a trail of broken bone and rotten flesh.
 ---
 

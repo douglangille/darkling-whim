@@ -4,9 +4,11 @@ header:
   teaser: /assets/images/3057385436_c407aa8e3e_b.jpg
 categories: []
 tags:
-  - flash-fiction
-  - literary
+- flash
+- horror
+- fantasy
 ---
+
 <img src="/assets/images/3057385436_c407aa8e3e_b.jpg">Young Mary laced my bodice tight and helped me into my skirts. Dinner with the Captain required me to look my best. We'd been at sea for several months, and even the most chaste of ladies would be getting restless.
 
 I wasn't so chaste and Captain Reynolds would sate my hunger just fine.

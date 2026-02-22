@@ -6,10 +6,11 @@ header:
   teaser: /assets/images/IMG_0342.jpg
 categories: []
 tags:
-  - vignette
-  - literary
-  - humour
+- flash
+- drama
+- humour
 ---
+
 Elvis has left the building.
 
 That's what they say every time the ambulance shows up without lights and sirens. Of course, no one but Larry and me know who the King even was let alone get the joke.

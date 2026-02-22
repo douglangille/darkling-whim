@@ -6,11 +6,12 @@ header:
   overlay_image: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
 categories: []
 tags:
-  - flash-fiction
-  - thriller
-  - romance
+- flash
+- thriller
+- drama
 excerpt: Vanilla musk. She never changes.
 ---
+
 Elliot sighted carefully, took aim, and flicked the peanut shell across the bar into a glass of stale beer. It landed with a satisfying plop. He smirked to himself, shrugged his shoulders and straightened on his stool, before bringing his own glass to his lips.
 
 He closed his eyes as the door opened behind him. A rattle of bells and a blast of January chill made the hair on the back of his neck perk up. Or maybe it was her. He smelled her perfume. Vanilla musk. She never changes. Eternal.

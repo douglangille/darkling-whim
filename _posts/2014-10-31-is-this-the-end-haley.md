@@ -5,10 +5,12 @@ header:
   overlay_image: /assets/images/c7eae012190627c8_1280_night-birds.jpg
 categories: []
 tags:
-  - flash-fiction
-  - horror
-  - haley
+- haley
+- flash
+- horror
+- thriller
 ---
+
 Jimmy drove too fast for my liking, but under the circumstances, I didn't argue even if we didn't use headlights. Ben was in the front with him acting as navigator, leaving us two girls in the back. They'd been trading shift driving for hours. It felt like morning would never come.
 
 Trees whizzed by in the moonlit dark as we flew down the highway. Eunice cuddled up to me under the car blanket Ben kept in his truck. She snored lightly as she slept. None of us slept much these day. Being sick, she hit her wall. I was a little bit jealous; I couldn't shut it off. My mind kept racing through the last few days.

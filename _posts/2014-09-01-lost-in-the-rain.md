@@ -4,9 +4,10 @@ header:
   teaser: /assets/images/Storm_Drain.jpg
 categories: []
 tags:
-  - poem
-  - literary
+- poetry
+- horror
 ---
+
 <img src="/assets/images/Storm_Drain.jpg">rain in late summer  
  the boy walks along the street  
  following a boat

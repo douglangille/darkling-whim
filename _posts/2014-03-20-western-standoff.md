@@ -5,10 +5,10 @@ header:
   overlay_image: /assets/images/2227797968_278063879c_six-shooter.jpg
 categories: []
 tags:
-  - vignette
-  - literary
-  - humour
+- flash
+- humour
 ---
+
   Billy: Ya rascally varmit, git back here!  
  Davey: Who's gonna make me?  
  Tommy: That'd be me.  

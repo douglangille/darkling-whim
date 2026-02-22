@@ -4,9 +4,11 @@ header:
   teaser: /assets/images/Hospital_by_sheisviolence.jpg
 categories: []
 tags:
-  - poem
-  - literary
+- poetry
+- drama
+- horror
 ---
+
 <img src="/assets/images/Hospital_by_sheisviolence.jpg">I opened my eyes and could not see.  
  Nothing but black in front of me.  
  I lay supine upon this bed,  

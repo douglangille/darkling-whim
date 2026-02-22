@@ -1,14 +1,14 @@
 ---
 title: The Last Mercy
 header:
-  teaser: "/assets/images/Faded beauty on cracked pavement.png"
-  overlay_image: "/assets/images/Faded beauty on cracked pavement.png"
-excerpt: "Three flowers, a knife, and the burden of knowing what mercy costs."
+  teaser: /assets/images/Faded beauty on cracked pavement.png
+  overlay_image: /assets/images/Faded beauty on cracked pavement.png
+excerpt: Three flowers, a knife, and the burden of knowing what mercy costs.
 tags:
-  - flash-fiction
-  - horror
-  - drama
-  - haley
+- haley
+- flash
+- horror
+- drama
 ---
 
 The static hit her three blocks out. White noise at the edge of her skull, pitched like a minor key nobody was playing. Haley knew the feeling now. Knew it intimately. Her feet changed direction before her mind caught up.

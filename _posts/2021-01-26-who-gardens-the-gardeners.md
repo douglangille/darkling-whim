@@ -5,9 +5,9 @@ header:
   overlay_image: /assets/images/pexels-photo-38136.jpeg
 categories: []
 tags:
-  - short-story
-  - scifi
-  - horror
+- short-story
+- horror
+- drama
 excerpt: It started as a joke, really. Betsy dared me.
 ---
 

@@ -5,9 +5,10 @@ header:
   overlay_image: /assets/images/16679994001_e322a3ab83_b.jpg
 categories: []
 tags:
-  - poem
-  - literary
+- poetry
+- drama
 ---
+
 thin glaze on puddles  
  little girls giggle and stomp  
  ice crunches under foot

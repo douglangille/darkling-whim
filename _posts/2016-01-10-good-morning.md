@@ -5,9 +5,9 @@ header:
   overlay_image: /assets/images/breakfast-439058_640.jpg
 categories: []
 tags:
-  - flash-fiction
-  - humour
-  - romance
+- flash
+- humour
+- drama
 ---
 
 Let's get the moral of the story up front, shall we? Never try to hypnotize a gypsy. Never host a bachelor party the night before the nuptials. Oh, and never invite your ex. Got that? Good.

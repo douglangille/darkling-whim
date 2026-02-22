@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
 categories: []
 tags:
-  - flash-fiction
-  - horror
-  - romance
+- flash
+- horror
+- humour
 ---
+
 <img src="/assets/images/8117718787_218466fc67_ghost-sheet.jpg">"Why don't you try poking out your eyes?"
 
 "And put them on my fingers again? Nah, that just made the last group laugh?"

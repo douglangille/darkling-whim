@@ -4,9 +4,11 @@ header:
   teaser: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 categories: []
 tags:
-  - poem
-  - horror
+- poetry
+- fantasy
+- horror
 ---
+
 <img src="/assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg">I wandered through the county fair,  
  With plenty of coin and time to spare.  
  Carnies barking to and fro,  

@@ -5,9 +5,10 @@ header:
   teaser: /assets/images/5416221717_35b9fcf7be_b.jpg
 categories: []
 tags:
-  - poem
-  - romance
+- poetry
+- drama
 ---
+
 warm oil on your back  
  my hands exploring your curves  
  teasing fingertips

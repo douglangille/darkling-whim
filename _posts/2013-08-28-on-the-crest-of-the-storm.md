@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
 categories: []
 tags:
-  - poem
-  - horror
-  - thriller
+- poetry
+- horror
+- thriller
 ---
+
 <img src="/assets/images/a1bc99068ab8b46b_1280_lightning.jpg">thunderous dark skies  
  running through the autumn grass  
  into the dark wood

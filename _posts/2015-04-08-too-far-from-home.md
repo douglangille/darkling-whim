@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/target-659025.jpg
 categories: []
 tags:
-  - flash-fiction
-  - thriller
-  - literary
+- flash
+- drama
+- thriller
 ---
+
 <img src="/assets/images/target-659025.jpg">Melanie closed one eye and focused on the board. After the last pitcher, her vision wasn't much to be trusted. *Come on', Mel. Three darts and we finish this. Need the rest of Jimbo's wad. Girl's gotta eat.* She pulled her hand back to her ear and flicked the dart. *Dammit. Effin' trip-one.*
 
 "Not your night, eh Mel?" asked Jimbo, as he waddled to the line and waited for Melanie to pluck her dart from the board. He made no attempt to hide his ogling of her behind.

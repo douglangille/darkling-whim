@@ -5,9 +5,11 @@ header:
   overlay_image: /assets/images/8b973b71609dfded_640.jog
 categories: []
 tags:
-  - vignette
-  - fantasy
+- flash
+- fantasy
+- horror
 ---
+
 And as quickly begun, it was finished. *White magic. My little sister. Gone.*
 
 The girl rose and stood in the centre of the overgrown boxwood Maze, no longer sure of anything. Her bed, back home, felt real. Felt like this horror was the dream instead of reality. Birdsong floated from high above.

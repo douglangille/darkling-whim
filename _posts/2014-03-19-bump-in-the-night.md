@@ -4,10 +4,10 @@ header:
   teaser: /assets/images/4125927607_0aa78d3a4f_b.jpg
 categories: []
 tags:
-  - poem
-  - horror
-  - thriller
+- poetry
+- horror
 ---
+
 <img src="/assets/images/4125927607_0aa78d3a4f_b.jpg">Matted-hair and rotted teeth,  
  what evil danger lurks beneath?  
  Pointed talons and razor claw,  

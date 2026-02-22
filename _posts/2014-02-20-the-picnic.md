@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/Hole_y_Tree_by_flurrynight.jpg
 categories: []
 tags:
-  - poem
-  - horror
-  - humour
+- short-story
+- horror
+- humour
 ---
+
 <img src="/assets/images/Hole_y_Tree_by_flurrynight.jpg">*If you go down in the woods today, you're sure of a big surprise.*  
  *If you go down in the woods today, you'd better go in disguise.*
 

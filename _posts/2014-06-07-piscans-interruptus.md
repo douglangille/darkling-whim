@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/Fishing-spinning-reel.jpg
 categories: []
 tags:
-  - flash-fiction
-  - scifi
-  - thriller
+- flash
+- scifi
+- thriller
 ---
+
 <img src="/assets/images/Fishing-spinning-reel.jpg">Captain Nestor breathed a sigh of relief as his yacht left the hanger bay of the Vindictus. *Finally, some alone time.* It'd been too long since he'd taken holiday. The conflict with the Faradur took much longer to resolve than necessary. Piracy, even light-years away, still stood as a dangerous and violent game. But they'd finally had some success brokering a deal. Funny what pandering to greed can accomplish.
 
 "Computer, how long until we reach the tether?"

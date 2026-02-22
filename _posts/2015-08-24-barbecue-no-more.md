@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/14407329792_5240b7ed7a_b.jpg
 categories: []
 tags:
-  - flash-fiction
-  - scifi
-  - humour
+- flash
+- fantasy
+- humour
 ---
+
 <img src="/assets/images/14407329792_5240b7ed7a_b.jpg">Steak was supposed to be on sale.
 
 Beef had been so expensive lately that my gal and me were subsisting on less than choice cuts of pork-much to the dismay of the broader Pig community. If they had their way, we'd all be eating fish.

@@ -2,9 +2,10 @@
 title: Eddie Zero
 date: 2013-10-13
 tags:
-  - short-story
-  - horror
-  - haley
+- haley
+- short-story
+- horror
+- thriller
 categories: []
 header:
   teaser: /assets/images/eddie-zero.png

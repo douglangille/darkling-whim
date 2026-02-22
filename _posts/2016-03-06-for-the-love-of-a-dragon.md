@@ -7,9 +7,9 @@ categories: []
 published: true
 excerpt: She's a smoke show.
 tags:
-  - short-story
-  - fantasy
-  - romance
+- flash
+- fantasy
+- drama
 ---
 
 "Should anyone here present know of any reason that this couple should not be joined in holy matrimony, speak now or forever hold your peace."  

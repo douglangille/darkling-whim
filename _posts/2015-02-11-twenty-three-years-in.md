@@ -5,10 +5,10 @@ header:
   overlay_image: /assets/images/458439328_3f09c74cfa_bed-night.jpg
 categories: []
 tags:
-  - poem
-  - romance
-  - thriller
+- poetry
+- drama
 ---
+
 It's late at night and we lie in bed  
  Lost in thought, alone in mind  
  The heat of passion cooling soft  

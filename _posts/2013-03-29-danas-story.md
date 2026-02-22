@@ -4,9 +4,9 @@ header:
   teaser: /assets/images/63224608_b2dd0efea4_b_campfire.jpg
 categories: []
 tags:
-  - short-story
-  - horror
-  - scifi
+- short-story
+- horror
+- thriller
 ---
 
 <img src="/assets/images/63224608_b2dd0efea4_b_campfire.jpg">**PRIM**

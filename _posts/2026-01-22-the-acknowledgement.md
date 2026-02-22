@@ -1,10 +1,13 @@
 ---
-title: "The Acknowledgement"
+title: The Acknowledgement
 header:
-    overlay_image: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
-    teaser: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
-excerpt: "Between panes of glass, choice slips away."
-tags: [flash-fiction, scifi, thriller, literary]
+  overlay_image: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
+  teaser: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
+excerpt: Between panes of glass, choice slips away.
+tags:
+- flash
+- scifi
+- drama
 ---
 
 The house has sealed itself. Ethan stands on the porch he built, but the doorframe belongs to someone else now, corporate foam in every seam, hazard lights pulsing yellow against the siding. A Weyland-Yutani sticker on the frame: AUTHORIZED PERSONNEL ONLY. The vial, red through the frost, is cold in his hand.

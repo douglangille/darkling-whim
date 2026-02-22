@@ -3,9 +3,9 @@ title: Once Upon a Crayon
 excerpt: Once upon a time, there was a beautiful kingdom.
 categories: []
 tags:
-  - flash-fiction
-  - fantasy
-  - romance
+- short-story
+- fantasy
+- humour
 header:
   teaser: /assets/images/9403909030_1557ce54bd_crayon.jpg
 ---

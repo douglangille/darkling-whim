@@ -4,9 +4,9 @@ header:
   teaser: /assets/images/Disgruntled-Lamb.jpg
 categories: []
 tags:
-  - poem
-  - literary
-  - humour
+- poetry
+- humour
+- horror
 ---
 
 <img src="/assets/images/Disgruntled-Lamb.jpg">Mary had a disgruntled little lamb,  

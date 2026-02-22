@@ -5,9 +5,9 @@ header:
   overlay_image: /assets/images/teeth-471546_1280.jpg
 categories: []
 tags:
-  - flash-fiction
-  - scifi
-  - thriller
+- flash
+- scifi
+- humour
 ---
 
 So, who the fiddler's flying fig decided Mars needed alligators?

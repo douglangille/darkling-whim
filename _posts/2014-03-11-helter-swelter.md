@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
 categories: []
 tags:
-  - vignette
-  - fantasy
-  - thriller
+- short-story
+- drama
+- humour
 ---
+
 <img src="/assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg" alt="" />
 
 **LEVERAGE**

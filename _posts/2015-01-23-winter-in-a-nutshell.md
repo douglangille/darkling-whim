@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/4161390356_05ca3774fc_b.jpg
 categories: []
 tags:
-  - poem
-  - humour
-  - literary
+- flash
+- humour
+- drama
 ---
+
 <img src="/assets/images/4161390356_05ca3774fc_b.jpg">You don't have to shovel rain.  
  I don't ski.
 

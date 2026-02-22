@@ -5,10 +5,9 @@ header:
   overlay_image: /assets/images/Forest_Glade.jpg
 categories: []
 tags:
-  - vignette
-  - horror
-  - scifi
-  - fantasy
+- flash
+- fantasy
+- horror
 ---
 
 Legato and Mezzo flew as if their wings were aflame, knocking baskets of gathered berries to the forest floor far below. The twins corkscrewed their way up and around the ancient tree to the canopy of the Glade. They landed on the Great Chamber's platform at a sprint. Chancellor Fortissima of the Faie waited for her couriers to catch their breath.

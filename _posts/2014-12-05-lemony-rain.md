@@ -4,9 +4,9 @@ header:
   teaser: /assets/images/lemon-364274.jpg
 categories: []
 tags:
-  - flash-fiction
-  - fantasy
-  - thriller
+- flash
+- fantasy
+- humour
 ---
 
 ![](/assets/images/lemon-364274.jpg)

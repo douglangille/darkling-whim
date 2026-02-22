@@ -5,10 +5,12 @@ header:
   overlay_image: /assets/images/9464995143_626fb980cd_b.jpg
 categories: []
 tags:
-  - vignette
-  - thriller
-  - haley
+- haley
+- flash
+- horror
+- humour
 ---
+
 "But what if I hold it like this?" asked Eunice.
 
 "Try it," I said. There was only one way to learn. Our lives depended on it.

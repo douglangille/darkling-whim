@@ -4,9 +4,11 @@ header:
   teaser: /assets/images/batman-532919_1280.jpg
 categories: []
 tags:
-  - poem
-  - humour
+- flash
+- drama
+- humour
 ---
+
 <img src="/assets/images/batman-532919_1280.jpg">"Alfred! Get me my cowl."
 
 "But, Master Bruce. You donated that to the museum years ago."

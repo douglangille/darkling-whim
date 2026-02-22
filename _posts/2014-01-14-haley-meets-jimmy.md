@@ -5,10 +5,12 @@ header:
   overlay_image: /assets/images/cd2aae9125f56d89_640_bar-beer.jpg
 categories: []
 tags:
-  - flash-fiction
-  - thriller
-  - haley
+- haley
+- flash
+- thriller
+- drama
 ---
+
 I should have trusted my instincts. The girl, calling herself Haley, possessed a wild look about her. Despite the frame of a teenage girl, Haley put out the vibe that she was no kid.
 
 The town where my van finally gave up the ghost wasn't much of a town at all: one street with a gas station on each end. I asked the mechanic what kept people here. He said, "pulp mill". That was it. No details. He was that kinda guy.

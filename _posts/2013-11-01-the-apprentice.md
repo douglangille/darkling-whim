@@ -4,10 +4,11 @@ header:
   teaser: /assets/images/8362770480_565fda5a56_b.jpg
 categories: []
 tags:
-  - flash-fiction
-  - horror
-  - thriller
+- flash
+- horror
+- fantasy
 ---
+
 <img src="/assets/images/8362770480_565fda5a56_b.jpg">She wakes up groggy, and I watch from behind her eyes as she senses my invasion. I drink from her panic, revelling in its energy, so vibrant and alive.
 
 Life, even this one, burning bright, only has so much. *Tick tock*. She stares at me in the mirror, glass still foggy from the shower. Oh, how I would love to give her a glimpse! One fleck of ember in her eye, a smouldering fire of ruin.

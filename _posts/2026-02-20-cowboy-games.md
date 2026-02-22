@@ -3,11 +3,11 @@ title: Cowboy Games
 header:
   teaser: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
   overlay_image: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
-excerpt: "The Cedarwood Home for the Elderly stood at the end of a dead-end street in a rotting borough of a dying town."
+excerpt: The Cedarwood Home for the Elderly stood at the end of a dead-end street
+  in a rotting borough of a dying town.
 tags:
-  - flash-fiction
-  - romance
-  - literary
+- flash
+- drama
 ---
 
 *Originally published March 20, 2014. Revised February 2026.*

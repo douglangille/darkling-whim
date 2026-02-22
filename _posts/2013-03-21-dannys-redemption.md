@@ -1,11 +1,15 @@
 ---
-title: "Danny's Redemption"
+title: Danny's Redemption
 header:
- teaser: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
-category: 
-    - writings
-tags: [vignette, horror, thriller]
+  teaser: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
+category:
+- writings
+tags:
+- short-story
+- thriller
+- drama
 ---
+
 <img src="/assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg">A sharp breeze stirred up the gutter dirt as Danny crossed the otherwise motionless street. It stung his face, both the sandy debris and the cold air. He pulled his collar up around his face in an attempt at comfort.
 
 He was nervous.

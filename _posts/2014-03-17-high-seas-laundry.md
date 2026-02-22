@@ -4,9 +4,10 @@ header:
   teaser: /assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png
 categories: []
 tags:
-  - poem
-  - literary
+- poetry
+- humour
 ---
+
 <img src="/assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png">Captain Hook, he climbed the deck,  
  Lookin' for Smee, to give him heck.
 

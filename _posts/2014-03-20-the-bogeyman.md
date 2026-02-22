@@ -7,10 +7,10 @@ header:
 excerpt: Amen.
 categories: []
 tags:
-  - poem
-  - horror
-  - thriller
+- poetry
+- horror
 ---
+
 Daddy says it's time to sleep,  
  To go to bed with naught a peep.  
  The clock winds down, the hour late.  

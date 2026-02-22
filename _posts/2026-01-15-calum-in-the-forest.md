@@ -6,9 +6,8 @@ header:
   overlay_image: /assets/images/generated-image.png
 categories: []
 tags:
-  - flash-fiction
-  - horror
-  - literary
+- flash
+- horror
 excerpt: Every shot taken draws the forest closer.
 ---
 
