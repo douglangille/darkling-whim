@@ -63,20 +63,7 @@ footer:
     - label               : "LinkedIn"
       icon                : "fa-brands fa-square-linkedin"
       url                 : "https://www.linkedin.com/in/douglangille/"
-
-# -----------------------------------------------------------------------------
-# Comments
-# -----------------------------------------------------------------------------
-comments:
-  provider: "giscus"
-  giscus:
-    repo_id              : "R_kgDOMo9fOw" 
-    category_name        : "General" 
-    category_id          : "DIC_kwDOMo9fO84C2BMW"
-    discussion_term      : "pathname" 
-    reactions_enabled    : 1
-    theme                : "preferred_color_scheme"
-    
+  
 # -----------------------------------------------------------------------------
 # Build & Formatting
 # -----------------------------------------------------------------------------
