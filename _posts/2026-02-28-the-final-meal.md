@@ -9,11 +9,13 @@ tags:
 excerpt: "Nobody was supposed to taste it. Until now."
 ---
 
-The room is cold. A hospital cold that lives in the walls. But he's burning-- sweat darkening the collar of his borrowed shirt, fever mapping his temples in wet heat. The smell of him fights the smell of her pasta: garlic and butter and something dark that reduction brings, tangling with the medicinal undertone of whatever drips into his arm.
+The room is cold. A hospital cold that lives in the walls. But he's burning. Sweat darkening the collar of his borrowed shirt, fever mapping his temples in wet heat. The smell of him fights the smell of her pasta: garlic and butter and something dark that reduction brings, tangling with the medicinal undertone of whatever drips into his arm.
 
 She sets the bowl down and steps back. Not far. Just far enough to watch.
 
-The fork is too heavy in his hand. She sees this-- the small tremor, the way he has to anchor his elbow on the tray to lift it. Her jaw tightens. She doesn't move.
+The fork is too heavy in his hand. She sees this. The small tremor, the way he has to anchor his elbow on the tray to lift it. 
+
+Her jaw tightens. She doesn't move.
 
 She made it alone, eight years ago. At three in the morning. Too much garlic, too much heat-- the kind of pasta you cook when you're trying to burn something out of yourself. Nobody was supposed to taste it. Nobody did. Until now.
 
