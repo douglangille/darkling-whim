@@ -23,7 +23,7 @@ He brings the fork to his mouth. The steam from the bowl has fogged his glasses.
 
 The medical equipment hums. Steady. Indifferent. His breathing doesn't change.
 
-He eats mechanically, deliberately, as if the work of eating is the only thing that matters. Halfway through, he pauses. His hand hovers over the bowl. She thinks he's going to stop, that the fever or the medication or just the effort will break him. But he continues. Continues until the bowl is nearly empty, until he has to scrape the spoon along the bottom, gathering what's left.
+He eats mechanically, deliberately, as if the work of eating is the only thing that matters. Halfway through, he pauses. His hand hovers over the bowl. She thinks he's going to stop, that the fever or the medication or just the effort will break him. But he continues. Continues until the bowl is nearly empty, until he has to scrape along the bottom, gathering what's left.
 
 When he sets the fork down, his hand is shaking worse than before.
 
