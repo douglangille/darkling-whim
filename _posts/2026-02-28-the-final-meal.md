@@ -31,7 +31,7 @@ When he sets the fork down, his hand is shaking worse than before.
 
 She doesn't answer.
 
-He looks up at her. For a moment she thinks he'll say something else—an apology, an admission, something that closes the circle. Instead: "I'd like another bowl."
+He looks up at her. For a moment she thinks he'll say something else: an apology, an admission, something that closes the circle. Instead: "I'd like another bowl."
 
 She leaves the room without acknowledging the request. In the kitchen, the pasta water is still warm. She hasn't cleaned the pot. The garlic goes in first. The heat rises.
 
