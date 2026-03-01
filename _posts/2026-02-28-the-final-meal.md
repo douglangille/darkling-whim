@@ -41,6 +41,6 @@ He eats it the same way. Blind. Deliberate. Like he's trying to solve something 
 
 Halfway through, she looks away.
 
-She takes the empty bowl. Waits. But there's nothing more. Just the hum of the machines and the sick sweet smell of him cooling under the hospital blanket and the ghost of garlic in the cold air between them.
+She takes the empty bowl. Waits. But there's nothing more. Just the hum of the machines and the ghost of garlic in the cold air between them.
 
 She doesn't make a third bowl.
