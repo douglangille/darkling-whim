@@ -1,5 +1,5 @@
 ---
-title: "The Final Meal"
+title: "The Chef and the Critic"
 header:
   overlay_image: /assets/images/generated-image-3.png
   teaser: /assets/images/generated-image-3.png
