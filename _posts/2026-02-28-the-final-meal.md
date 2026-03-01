@@ -17,7 +17,7 @@ The fork is too heavy in his hand. She sees this. The small tremor, the way he h
 
 Her jaw tightens. She doesn't move.
 
-She made it alone, eight years ago. At three in the morning. Too much garlic, too much heat-- the kind of pasta you cook when you're trying to burn something out of yourself. Nobody was supposed to taste it. Nobody did. Until now.
+She made it alone, eight years ago. At three in the morning. Too much garlic, too much heat. The kind of pasta you cook when you're trying to burn something out of yourself. Nobody was supposed to taste it. Nobody did. Until now.
 
 He brings the fork to his mouth. The steam from the bowl has fogged his glasses. He doesn't remove them. He eats blind and deliberate, and she watches the small collapse at the corner of his mouth. Recognition. The way you taste something and your body knows it before your mind catches up.
 
