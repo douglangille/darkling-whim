@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/generated-image-3.png
 tags:
   - flash
-  - horror
+  - drama
 excerpt: "Nobody was supposed to taste it. Until now."
 ---
 
@@ -19,7 +19,7 @@ Her jaw tightens. She doesn't move.
 
 She made it alone, eight years ago. At three in the morning. Too much garlic, too much heat-- the kind of pasta you cook when you're trying to burn something out of yourself. Nobody was supposed to taste it. Nobody did. Until now.
 
-He brings the fork to his mouth. The steam from the bowl has fogged his glasses. He doesn't remove them. He eats blind and deliberate, and she watches the small collapse at the corner of his mouth-- not quite pleasure, not quite pain. Recognition, maybe. The way you taste something and your body knows it before your mind catches up.
+He brings the fork to his mouth. The steam from the bowl has fogged his glasses. He doesn't remove them. He eats blind and deliberate, and she watches the small collapse at the corner of his mouth. Not quite pleasure, not quite pain. Recognition. The way you taste something and your body knows it before your mind catches up.
 
 The medical equipment hums. Steady. Indifferent. His breathing doesn't change.
 
