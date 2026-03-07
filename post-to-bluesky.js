@@ -71,15 +71,15 @@ async function postToBluesky(story) {
     password: BLUESKY_PASSWORD,
   });
 
-  // Build text: title + tags as hashtags
+  // Build text: tags only
+  // Link card carries the story (title, excerpt, image)
   const tagString = story.tags.length
-    ? ` ${story.tags.map((tag) => `#${tag}`).join(" ")}`
-    : "";
-  const text = story.title + tagString;
+    ? story.tags.map((tag) => `#${tag}`).join(" ")
+    : ".";
 
   // Prepare embed with link card
   const record = {
-    text: text,
+    text: tagString,
     createdAt: new Date().toISOString(),
     facets: [],
     embed: null,
