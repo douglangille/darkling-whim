@@ -74,9 +74,9 @@ async function postToBluesky(story) {
   // Build text: tags only
   // Link card carries the story (title, excerpt, image)
   const tagString = story.tags.length
-    ? story.tags.map((tag) => `#${tag}`).join(" ")
+    ? story.tags.map((tag) => `#${tag === "flash" ? "flashfiction" : tag}`).join(" ")
     : ".";
-
+  
   // Prepare embed with link card
   const record = {
     text: tagString,
