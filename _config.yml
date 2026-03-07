@@ -36,7 +36,7 @@ author:
   bio                     : "hack writer & shameless technophile"
   links:
     - label               : "Nova Scotia"
-      icon                : "fa-regular fa-location-dot"
+      icon                : "fa-regular fa-compass"
       url                 : "https://en.wikipedia.org/wiki/Nova_Scotia"
     - label               : "Digital Doug"
       icon                : "fa-regular fa-newspaper"
