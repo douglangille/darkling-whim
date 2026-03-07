@@ -30,10 +30,6 @@ async function fetchFeed() {
   // Get the latest (first) item
   const latest = items[0];
 
-  // Debug: log the raw item structure
-  console.log("DEBUG - latest item keys:", Object.keys(latest));
-  console.log("DEBUG - category field:", latest.category);
-
   // Extract image URL from media:content or enclosure
   let imageUrl = null;
   if (latest["media:content"] && latest["media:content"][0]) {
@@ -50,8 +46,8 @@ async function fetchFeed() {
     imageUrl: imageUrl,
     tags: latest.category
       ? (Array.isArray(latest.category)
-          ? latest.category.map((c) => c._)
-          : [latest.category._])
+          ? latest.category
+          : [latest.category])
       : [],
   };
 }
