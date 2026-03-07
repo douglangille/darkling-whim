@@ -16,7 +16,10 @@ if (!BLUESKY_HANDLE || !BLUESKY_PASSWORD) {
 async function fetchFeed() {
   const response = await fetch(FEED_URL);
   const xml = await response.text();
-  const parsed = await parseStringPromise(xml);
+  const parsed = await parseStringPromise(xml, {
+    explicitArray: true,
+    mergeAttrs: false,
+  });
 
   // Jekyll RSS structure: items in channel > item
   const items = parsed.rss.channel[0].item;
@@ -38,11 +41,24 @@ async function fetchFeed() {
   return {
     title: latest.title[0],
     link: latest.link[0],
-    excerpt: latest.description[0],
+    excerpt: decodeHtmlEntities(latest.description[0]),
     pubDate: latest.pubDate[0],
     imageUrl: imageUrl,
-    tags: latest.category ? latest.category.map((c) => c._) : [],
+    tags: latest.category
+      ? (Array.isArray(latest.category)
+          ? latest.category.map((c) => c._)
+          : [latest.category._])
+      : [],
   };
+}
+
+function decodeHtmlEntities(text) {
+  return text
+    .replace(/&#39;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">");
 }
 
 async function postToBluesky(story) {
