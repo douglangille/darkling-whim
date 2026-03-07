@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-import { AtpAgent } from “@atproto/api”;
-import fetch from “node-fetch”;
-import { parseStringPromise } from “xml2js”;
+const { AtpAgent } = require(”@atproto/api”);
+const fetch = require(“node-fetch”);
+const { parseStringPromise } = require(“xml2js”);
 
 const FEED_URL = “https://douglangille.ca/feed.xml”;
 const BLUESKY_HANDLE = process.env.BLUESKY_HANDLE;
@@ -21,16 +21,13 @@ explicitArray: true,
 mergeAttrs: false,
 });
 
-// Jekyll RSS structure: items in channel > item
 const items = parsed.rss.channel[0].item;
 if (!items || items.length === 0) {
 throw new Error(“No items in feed”);
 }
 
-// Get the latest (first) item
 const latest = items[0];
 
-// Extract image URL from media:content or enclosure
 let imageUrl = null;
 if (latest[“media:content”] && latest[“media:content”][0]) {
 imageUrl = latest[“media:content”][0].$.url;
@@ -71,8 +68,6 @@ identifier: BLUESKY_HANDLE,
 password: BLUESKY_PASSWORD,
 });
 
-// Build text: tags only, with mapping for Bluesky communities
-// Map ‘flash’ to ‘flashfiction’ for Bluesky’s #flashfiction community
 const bskyTags = story.tags.map((tag) =>
 tag === “flash” ? “flashfiction” : tag
 );
@@ -80,7 +75,6 @@ const tagString = bskyTags.length
 ? bskyTags.map((tag) => `#${tag}`).join(” “)
 : “.”;
 
-// Prepare embed with link card
 const record = {
 text: tagString,
 createdAt: new Date().toISOString(),
@@ -88,7 +82,6 @@ facets: [],
 embed: null,
 };
 
-// Add external embed (link card) with image from feed
 record.embed = {
 $type: “app.bsky.embed.external”,
 external: {
@@ -101,7 +94,6 @@ thumb: story.imageUrl
 },
 };
 
-// Create the post
 const response = await agent.post(record);
 console.log(`Posted to Bluesky: ${response.uri}`);
 }
@@ -109,10 +101,10 @@ console.log(`Posted to Bluesky: ${response.uri}`);
 async function uploadImage(agent, imageUrl) {
 try {
 const response = await fetch(imageUrl);
-const buffer = await response.arrayBuffer();
+const buffer = await response.buffer();
 
 ```
-const uploaded = await agent.uploadBlob(new Uint8Array(buffer), {
+const uploaded = await agent.uploadBlob(buffer, {
   encoding: "image/jpeg",
 });
 
