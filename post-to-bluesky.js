@@ -109,10 +109,10 @@ console.log(`Posted to Bluesky: ${response.uri}`);
 async function uploadImage(agent, imageUrl) {
 try {
 const response = await fetch(imageUrl);
-const buffer = await response.buffer();
+const buffer = await response.arrayBuffer();
 
 ```
-const uploaded = await agent.uploadBlob(buffer, {
+const uploaded = await agent.uploadBlob(new Uint8Array(buffer), {
   encoding: "image/jpeg",
 });
 
