@@ -13,11 +13,13 @@ pagination:
 {% assign alltags = site.tags | sort %}
 <ul class="taxonomy__index">
   {% for tag in alltags %}
+      {% unless tag[0] == "haley" %}
     <li>
       <a href="{{ site.baseurl }}/{{ tag[0] | slugify }}/">
         <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
       </a>
     </li>
+        {% endunless %}
   {% endfor %}
 </ul>
 
