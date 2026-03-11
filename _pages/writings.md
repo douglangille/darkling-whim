@@ -11,15 +11,16 @@ pagination:
 ---
 
 {% assign alltags = site.tags | sort %}
+{% assign excluded_tags = "haley" | split: "," %}
 <ul class="taxonomy__index">
   {% for tag in alltags %}
-      {% unless tag[0] == "haley" %}
+    {% unless excluded_tags contains tag[0] %}
     <li>
       <a href="{{ site.baseurl }}/{{ tag[0] | slugify }}/">
         <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
       </a>
     </li>
-        {% endunless %}
+    {% endunless %}
   {% endfor %}
 </ul>
 
