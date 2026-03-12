@@ -79,6 +79,12 @@ Story link: {{ page.url | absolute_url }}{% endcapture %}
       </a>
       
       <a class="btn btn--primary"
+         href="https://feedrabbit.com/?url={{ site.url }}/rss"
+         target="_blank" rel="noopener">
+        Email updates (RSS).
+      </a>
+      
+      <a class="btn btn--primary"
          href="mailto:{{ site.email }}?subject={{ email_subject }}&amp;body={{ email_body }}">
         Thoughts or ideas? Tell me.
       </a>
