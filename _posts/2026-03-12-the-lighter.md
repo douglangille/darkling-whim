@@ -2,7 +2,7 @@
 title: "The Lighter"
 excerpt: "She watches the blue at the root of the flame."
 tags: 
-    -flash
+    - flash
     - drama
 header:
     teaser: "/assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png"
