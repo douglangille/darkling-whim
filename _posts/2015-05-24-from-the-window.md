@@ -2,9 +2,8 @@
 title: From the Window
 header:
   overlay_image: /assets/images/IMG_0342.jpg
-  overlay_filter: 0.25
   teaser: /assets/images/IMG_0342.jpg
-categories: []
+excerpt: "Elvis had left the building."
 tags:
 - flash
 - drama
