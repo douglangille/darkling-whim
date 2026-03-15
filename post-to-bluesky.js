@@ -73,6 +73,7 @@ async function postToBluesky(story) {
 
   // Build text: tags only
   // Link card carries the story (title, excerpt, image)
+  const bskyTags = story.tags || [];
   const tagString = bskyTags.length
     ? `New story\n\n${bskyTags.map((tag) => `#${tag}`).join(" ")}`
     : "New story";
