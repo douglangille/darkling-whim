@@ -111,6 +111,22 @@ async function postToBluesky(story) {
 async function uploadImage(agent, imageUrl) {
   try {
     const response = await fetch(imageUrl);
+
+    if (!response.ok) {
+      console.warn(
+        `Failed to download image: HTTP ${response.status} ${response.statusText}`
+      );
+      return null;
+    }
+
+    const contentType = response.headers.get("content-type") || "";
+    if (!contentType.toLowerCase().startsWith("image/")) {
+      console.warn(
+        `Downloaded content is not an image (content-type: "${contentType}")`
+      );
+      return null;
+    }
+
     const arrayBuffer = await response.arrayBuffer();
     const rawBuffer = Buffer.from(arrayBuffer);
 
