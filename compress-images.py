@@ -66,6 +66,15 @@ def compress_image(image_path):
         return False
 
 def main():
+    # If a specific file path is provided, compress just that file
+    if len(sys.argv) > 1:
+        image_path = Path(sys.argv[1])
+        if not image_path.exists():
+            print(f"Error: {image_path} not found")
+            sys.exit(1)
+        compress_image(image_path)
+        return
+
     if not ASSETS_DIR.exists():
         print(f"Error: {ASSETS_DIR} directory not found")
         sys.exit(1)

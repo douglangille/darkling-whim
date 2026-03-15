@@ -3,6 +3,10 @@
 import { AtpAgent } from "@atproto/api";
 import fetch from "node-fetch";
 import { parseStringPromise } from "xml2js";
+import { execFileSync } from "child_process";
+import { writeFileSync, readFileSync, unlinkSync } from "fs";
+import { tmpdir } from "os";
+import { join } from "path";
 
 const FEED_URL = "https://douglangille.ca/feed.xml";
 const BLUESKY_HANDLE = process.env.BLUESKY_HANDLE;
@@ -105,25 +109,30 @@ async function postToBluesky(story) {
 }
 
 async function uploadImage(agent, imageUrl) {
-  const BLUESKY_IMAGE_SIZE_LIMIT = 1_000_000; // ~976.56 KiB (1MB), Bluesky's maximum blob size
-
   try {
     const response = await fetch(imageUrl);
     const arrayBuffer = await response.arrayBuffer();
-    const buffer = Buffer.from(arrayBuffer);
+    const rawBuffer = Buffer.from(arrayBuffer);
 
-    if (buffer.length > BLUESKY_IMAGE_SIZE_LIMIT) {
-      console.warn(
-        `Image too large to upload (${(buffer.length / 1024).toFixed(1)}KB > ${(BLUESKY_IMAGE_SIZE_LIMIT / 1024).toFixed(1)}KB), skipping image.`
-      );
-      return null;
+    // Write to a temp file, compress via compress-images.py, then read back
+    const tmpFile = join(tmpdir(), `bluesky-upload-${Date.now()}.jpg`);
+    writeFileSync(tmpFile, rawBuffer);
+    try {
+      execFileSync("python3", ["compress-images.py", tmpFile], {
+        stdio: "inherit",
+      });
+      const compressedBuffer = readFileSync(tmpFile);
+      const uploaded = await agent.uploadBlob(compressedBuffer, {
+        encoding: "image/jpeg",
+      });
+      return uploaded.data.blob;
+    } finally {
+      try {
+        unlinkSync(tmpFile);
+      } catch (cleanupError) {
+        console.warn("Failed to remove temp file:", cleanupError.message);
+      }
     }
-
-    const uploaded = await agent.uploadBlob(buffer, {
-      encoding: "image/jpeg",
-    });
-
-    return uploaded.data.blob;
   } catch (error) {
     console.warn("Failed to upload image:", error.message);
     return null;
