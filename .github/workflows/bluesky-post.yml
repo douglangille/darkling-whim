@@ -19,6 +19,14 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: python -m pip install Pillow==12.1.1
+
       - name: Install dependencies
         run: npm install @atproto/api xml2js node-fetch
 

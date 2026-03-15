@@ -15,12 +15,25 @@ TARGET_SIZE = 976 * 1024  # 976KB in bytes
 QUALITY = 85  # JPEG quality (1-100)
 MAX_WIDTH = 1200  # Max pixel width
 
+# Status codes for compression outcomes
+STATUS_ALREADY_SMALL = "already-small"
+STATUS_COMPRESSED = "compressed"
+STATUS_STILL_TOO_LARGE = "still-too-large"
+STATUS_FAILED = "failed"
+
 def get_size_mb(size_bytes):
     """Convert bytes to MB string."""
     return f"{size_bytes / (1024 * 1024):.2f}MB"
 
 def compress_image(image_path):
-    """Compress a single image file."""
+    """Compress a single image file.
+
+    Returns one of:
+      - STATUS_ALREADY_SMALL
+      - STATUS_COMPRESSED
+      - STATUS_STILL_TOO_LARGE
+      - STATUS_FAILED
+    """
     try:
         img = Image.open(image_path)
         original_size = os.path.getsize(image_path)
@@ -28,7 +41,7 @@ def compress_image(image_path):
         # Skip if already small
         if original_size < TARGET_SIZE:
             print(f"  ✓ {image_path.name} ({get_size_mb(original_size)}) - already small")
-            return False
+            return STATUS_ALREADY_SMALL
         
         # Convert RGBA to RGB for JPEG
         if img.mode in ("RGBA", "LA", "P"):
@@ -51,7 +64,7 @@ def compress_image(image_path):
             if new_size < TARGET_SIZE:
                 reduction = ((original_size - new_size) / original_size) * 100
                 print(f"  ✓ {image_path.name}: {get_size_mb(original_size)} → {get_size_mb(new_size)} (-{reduction:.1f}%)")
-                return True
+                return STATUS_COMPRESSED
             
             quality -= 5
         
@@ -59,13 +72,24 @@ def compress_image(image_path):
         new_size = os.path.getsize(image_path)
         reduction = ((original_size - new_size) / original_size) * 100
         print(f"  ⚠ {image_path.name}: {get_size_mb(original_size)} → {get_size_mb(new_size)} (-{reduction:.1f}%) [still large]")
-        return True
+        return STATUS_STILL_TOO_LARGE
         
     except Exception as e:
         print(f"  ✗ {image_path.name}: {str(e)}")
-        return False
+        return STATUS_FAILED
 
 def main():
+    # If a specific file path is provided, compress just that file
+    if len(sys.argv) > 1:
+        image_path = Path(sys.argv[1])
+        if not image_path.exists():
+            print(f"Error: {image_path} not found")
+            sys.exit(1)
+        status = compress_image(image_path)
+        if status in (STATUS_FAILED, STATUS_STILL_TOO_LARGE):
+            sys.exit(1)
+        sys.exit(0)
+
     if not ASSETS_DIR.exists():
         print(f"Error: {ASSETS_DIR} directory not found")
         sys.exit(1)
@@ -83,7 +107,8 @@ def main():
     
     compressed = 0
     for img_path in sorted(images):
-        if compress_image(img_path):
+        status = compress_image(img_path)
+        if status in (STATUS_COMPRESSED, STATUS_STILL_TOO_LARGE):
             compressed += 1
     
     print(f"\nCompressed {compressed}/{len(images)} images")

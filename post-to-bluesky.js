@@ -3,6 +3,10 @@
 import { AtpAgent } from "@atproto/api";
 import fetch from "node-fetch";
 import { parseStringPromise } from "xml2js";
+import { execFileSync } from "child_process";
+import { writeFileSync, readFileSync, unlinkSync } from "fs";
+import { tmpdir } from "os";
+import { join } from "path";
 
 const FEED_URL = "https://douglangille.ca/feed.xml";
 const BLUESKY_HANDLE = process.env.BLUESKY_HANDLE;
@@ -73,6 +77,7 @@ async function postToBluesky(story) {
 
   // Build text: tags only
   // Link card carries the story (title, excerpt, image)
+  const bskyTags = story.tags || [];
   const tagString = bskyTags.length
     ? `New story\n\n${bskyTags.map((tag) => `#${tag}`).join(" ")}`
     : "New story";
@@ -106,13 +111,44 @@ async function postToBluesky(story) {
 async function uploadImage(agent, imageUrl) {
   try {
     const response = await fetch(imageUrl);
-    const buffer = await response.buffer();
 
-    const uploaded = await agent.uploadBlob(buffer, {
-      encoding: "image/jpeg",
-    });
+    if (!response.ok) {
+      console.warn(
+        `Failed to download image: HTTP ${response.status} ${response.statusText}`
+      );
+      return null;
+    }
 
-    return uploaded.data.blob;
+    const contentType = response.headers.get("content-type") || "";
+    if (!contentType.toLowerCase().startsWith("image/")) {
+      console.warn(
+        `Downloaded content is not an image (content-type: "${contentType}")`
+      );
+      return null;
+    }
+
+    const arrayBuffer = await response.arrayBuffer();
+    const rawBuffer = Buffer.from(arrayBuffer);
+
+    // Write to a temp file, compress via compress-images.py, then read back
+    const tmpFile = join(tmpdir(), `bluesky-upload-${Date.now()}.jpg`);
+    writeFileSync(tmpFile, rawBuffer);
+    try {
+      execFileSync("python3", ["compress-images.py", tmpFile], {
+        stdio: "inherit",
+      });
+      const compressedBuffer = readFileSync(tmpFile);
+      const uploaded = await agent.uploadBlob(compressedBuffer, {
+        encoding: "image/jpeg",
+      });
+      return uploaded.data.blob;
+    } finally {
+      try {
+        unlinkSync(tmpFile);
+      } catch (cleanupError) {
+        console.warn("Failed to remove temp file:", cleanupError.message);
+      }
+    }
   } catch (error) {
     console.warn("Failed to upload image:", error.message);
     return null;
