@@ -105,9 +105,19 @@ async function postToBluesky(story) {
 }
 
 async function uploadImage(agent, imageUrl) {
+  const BLUESKY_IMAGE_SIZE_LIMIT = 1_000_000; // ~976.56 KiB (1MB), Bluesky's maximum blob size
+
   try {
     const response = await fetch(imageUrl);
-    const buffer = await response.buffer();
+    const arrayBuffer = await response.arrayBuffer();
+    const buffer = Buffer.from(arrayBuffer);
+
+    if (buffer.length > BLUESKY_IMAGE_SIZE_LIMIT) {
+      console.warn(
+        `Image too large to upload (${(buffer.length / 1024).toFixed(1)}KB > ${(BLUESKY_IMAGE_SIZE_LIMIT / 1024).toFixed(1)}KB), skipping image.`
+      );
+      return null;
+    }
 
     const uploaded = await agent.uploadBlob(buffer, {
       encoding: "image/jpeg",
