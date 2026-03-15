@@ -17,7 +17,7 @@ I use AI in my writing process. This is how.
 
 - **Create the vision**: premise, POV, tone, genre rules, story constraints
 - **Make all creative decisions**: what works, what doesn't, what direction we're heading
-- **Revise for voice**: Every published sentence is me tearing through AI drafts and making them mine. This is where the story becomes distinctively *mine*—compressed, rhythmically precise, carrying the weight of intentional craft.
+- **Revise for voice**: Every published sentence is me tearing through AI drafts and making them mine. This is where the story becomes distinctively *mine*-- compressed, rhythmically precise, carrying the weight of intentional craft.
 - **Take responsibility**: Every story published here is under my name. I own it completely.
 
 ## Why This Works for Me
@@ -30,7 +30,7 @@ AI lets me move through the mechanical phases at a pace that sustains momentum, 
 
 ## The Craft Foundation
 
-I've spent decades practicing and publishing my craft without AI. That foundation—understanding story structure, recognizing what works and what doesn't, the muscle memory of revision—is what allows me to strategically use AI tools and maintain human authorship. Not make slop.
+I've spent decades practicing and publishing my craft without AI. That foundation -- understanding story structure, recognizing what works and what doesn't, the muscle memory of revision -- is what allows me to strategically use AI tools and maintain human authorship. Not make slop.
 
 AI doesn't give me taste or judgment. It gives me speed through the mechanical phases. The taste and judgment are mine, built over years of work.
 
