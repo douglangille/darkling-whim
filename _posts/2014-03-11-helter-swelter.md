@@ -4,10 +4,8 @@ header:
   teaser: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
   overlay_image: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
 excerpt: "Caveat Emptor."
-tags: [ short-story, drama, humour ]
+tags: [ short-story, drama, humour, revised ]
 ---
-
-*Revised April 2026*
 
 ## LEVERAGE
 
@@ -153,3 +151,4 @@ A grin opened on Stuart's face. Not the grin he'd worn all day -- the one he'd p
 
 "What about her?" She didn't look back. "I'm sure she'll land on her feet. Girls like her always do. I plan to be a little more 'hands-on' around here." She turned back to Andy, still holding his hand. "Let's call Big Daddy."
 
+*Revised April 2026*
