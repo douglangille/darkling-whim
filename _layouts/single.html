@@ -104,12 +104,6 @@ Story link: {{ page.url | absolute_url }}{% endcapture %}
         {% endif %}
         {% include page__taxonomy.html %}
         {% include page__date.html %}
-
-{% assign locale = include.locale | default: site.locale %}
-{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-{% if page.revised %}
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Revised:</strong> <time class="dt-updated" datetime="{{ page.revised | date: "%Y-%m-%d" }}">{{ page.revised | date: date_format }}</time></p>
-{% endif %}     
         
       </footer>
 
