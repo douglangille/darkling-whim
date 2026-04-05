@@ -8,9 +8,9 @@ excerpt: The Cedarwood Home for the Elderly stood at the end of a dead-end stree
 tags:
 - flash
 - drama
+- revised
+revised: 2026-02-20
 ---
-
-*Originally published March 20, 2014. Revised February 2026.*
 
 The Cedarwood Home for the Elderly stood at the end of a dead-end street in a rotting borough of a dying town, an apt image not lost on the staff and residents. Well, some of them anyway. The arrivals came in minivans full of harried and frenzied families. The departures left in black station-wagons where the back seats were always quiet. The visitors' lots grew weeds from disuse.
 
