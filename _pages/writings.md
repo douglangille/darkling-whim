@@ -24,10 +24,11 @@ pagination:
   {% endfor %}
 </ul>
 
-<p class="notice">I gave some old stories a little love and polish. <a href="/recently-revised/">Find them here</a>.</p>
+<p class="notice">I gave some old stories a little love and polish. <a href="/recently-revised/">Find them here</a>. They are my personal favourites.</p>
 
+<!--
 <p class="notice">Prefer to read a series from the beginning? <a href="/haleys-war/">Haley's War</a> is an unfinished chaotic fever dream, but it's a helluva ride.</p>
-
+-->
 
 <div class="entries-{{ page.entries_layout }}">
 {% for post in paginator.posts %}
