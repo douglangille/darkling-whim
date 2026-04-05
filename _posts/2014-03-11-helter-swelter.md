@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
 excerpt: "Caveat Emptor."
 tags: [ short-story, drama, humour, revised ]
+revised: 2026-04-03
 ---
 
 ## LEVERAGE
@@ -150,5 +151,3 @@ Stuart stopped her with his hand on her arm. Gladys turned and kissed him deeply
 A grin opened on Stuart's face. Not the grin he'd worn all day -- the one he'd practiced. This one surprised him. "What about Missy, Gladys?"
 
 "What about her?" She didn't look back. "I'm sure she'll land on her feet. Girls like her always do. I plan to be a little more 'hands-on' around here." She turned back to Andy, still holding his hand. "Let's call Big Daddy."
-
-*Revised April 2026*
