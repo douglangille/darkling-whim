@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Recently Revised"
-permalink: /revised/
+permalink: /recently-revised/
 entries_layout: grid
 classes: wide
 author_profile: true
