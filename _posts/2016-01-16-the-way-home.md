@@ -7,7 +7,7 @@ excerpt: "The white line on the highway blurred and steadied."
 tags: [flash, thriller]
 ---
 
-*Originally published January 14, 2016. Revised March 2026.*
+*Revised March 2026.*
 
 Gwen barely could focus on the oncoming traffic as she headed for home.
 
