@@ -6,6 +6,6 @@
   <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[locale].date_label | default: "Updated:" }}</strong> <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time>
 {% endif %}
 {% if page.revised %}
-  <span> - Revised:</strong> <time class="dt-updated" datetime="{{ page.revised | date: "%Y-%m-%d" }}">{{ page.revised | date: date_format }}</time></span>
+  <span> - <strong>Revised:</strong> <time class="dt-updated" datetime="{{ page.revised | date: "%Y-%m-%d" }}">{{ page.revised | date: date_format }}</time></span>
 {% endif %}     
 </p>
