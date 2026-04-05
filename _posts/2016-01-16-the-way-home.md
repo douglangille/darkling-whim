@@ -4,10 +4,8 @@ header:
  teaser: /assets/images/eb31b40d20f11c3e81584d04ee44408be273e7d71eb9134396f5_640_winter-driving.jpg
  overlay_image: /assets/images/eb31b40d20f11c3e81584d04ee44408be273e7d71eb9134396f5_640_winter-driving.jpg
 excerpt: "The white line on the highway blurred and steadied."
-tags: [flash, thriller]
+tags: [flash, thriller, revised]
 ---
-
-*Revised March 2026.*
 
 Gwen barely could focus on the oncoming traffic as she headed for home.
 
@@ -50,3 +48,5 @@ She looked at her left hand, feeling the nakedness of her ring finger. *I can do
 Gwen cracked the window. Turned on the radio. Pulled into traffic, toward home.
 
 Almost.
+
+*Revised March 2026*
