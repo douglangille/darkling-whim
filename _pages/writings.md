@@ -11,7 +11,7 @@ pagination:
 ---
 
 {% assign alltags = site.tags | sort %}
-{% assign excluded_tags = "haley" | split: "," %}
+{% assign excluded_tags = "haley,revised" | split: "," %}
 <ul class="taxonomy__index">
   {% for tag in alltags %}
     {% unless excluded_tags contains tag[0] %}
@@ -24,7 +24,10 @@ pagination:
   {% endfor %}
 </ul>
 
+<p class="notice">I gave some old stories a little love and polish. <a href="/recently-revised/">Find them here</a>.</p>
+
 <p class="notice">Prefer to read a series from the beginning? <a href="/haleys-war/">Haley's War</a> is an unfinished chaotic fever dream, but it's a helluva ride.</p>
+
 
 <div class="entries-{{ page.entries_layout }}">
 {% for post in paginator.posts %}
