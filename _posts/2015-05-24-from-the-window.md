@@ -4,7 +4,7 @@ header:
   overlay_image: /assets/images/IMG_0342.jpg
   teaser: /assets/images/IMG_0342.jpg
 excerpt: "Elvis had left the building."
-revise: 2026-03-14
+revised: 2026-03-14
 tags:
 - flash
 - drama
