@@ -3,6 +3,7 @@ title: A Gruff Patch
 date: 2015-11-06 08:00:00 -0400
 header:
   teaser: /assets/images/Three-Goats.jpg
+  overlay_image: "/assets/images/Three-Goats.jpg"
 categories: []
 tags:
 - short-story
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/Three-Goats.jpg">Bruno Gruff scratched his flea-bitten crotch and stared out the window. His brothers, Barney and Buford, bickered over the last patch of swamp grass. He sniffed his hoof and winced before heading out the door.
+Bruno Gruff scratched his flea-bitten crotch and stared out the window. His brothers, Barney and Buford, bickered over the last patch of swamp grass. He sniffed his hoof and winced before heading out the door.
 
 "Hey, idjits!" he said and threw a rock in their general direction. It bounced off Buford's head.
 

@@ -3,6 +3,7 @@ title: Georgie Groundhog
 date: 2014-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/7420708952_0c90eb0fea_b.jpg
+  overlay_image: "/assets/images/7420708952_0c90eb0fea_b.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/7420708952_0c90eb0fea_b.jpg">"Oh dear, oh dear! I'm late, so terribly late," muttered Georgie Groundhog to himself as he dressed for the storm outside.
+"Oh dear, oh dear! I'm late, so terribly late," muttered Georgie Groundhog to himself as he dressed for the storm outside.
 
 "I've slept too long. Spring will never come. It's Valentines and I haven't given the Tree Princess her card! Oh dear, oh dear!"
 

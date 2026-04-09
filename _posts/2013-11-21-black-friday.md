@@ -3,13 +3,14 @@ title: Black Friday
 date: 2013-11-21 08:00:00 -0400
 header:
   teaser: /assets/images/15709773049_55712386fe_b.jpg
+  overlay_image: "/assets/images/15709773049_55712386fe_b.jpg"
 categories: []
 tags:
 - poetry
 - humour
 ---
 
-<img src="/assets/images/15709773049_55712386fe_b.jpg">I tried, I tried, with all my might,  
+I tried, I tried, with all my might,  
  To get the toy, I'd have to fight.  
  Through shopping hoards, it was in my sight.  
  I clambered over, jumped and took flight.

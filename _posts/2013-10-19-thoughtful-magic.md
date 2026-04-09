@@ -3,6 +3,7 @@ title: Thoughtful Magic
 date: 2013-10-19 08:00:00 -0400
 header:
   teaser: /assets/images/1deb57f5e4789aa4_1280_mask.jpg
+  overlay_image: "/assets/images/1deb57f5e4789aa4_1280_mask.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/1deb57f5e4789aa4_1280_mask.jpg">The life of a super-villainess was burdensome to Amy and when her fembot henchman, Stacey, suggested a vacation in her winter-lair on the Caribbean, she jumped at the opportunity and hopped on her jet.
+The life of a super-villainess was burdensome to Amy and when her fembot henchman, Stacey, suggested a vacation in her winter-lair on the Caribbean, she jumped at the opportunity and hopped on her jet.
 
 Free of the trials and tribulations of the super-rich and mega-evil, Amy discarded her mask, cleaned her face of dramatic makeup and let loose her fiery braid from bondage. The evening tropical breeze blew her hair behind her as 'Her Royal Badness' felt the sea mist tickle her nose.
 

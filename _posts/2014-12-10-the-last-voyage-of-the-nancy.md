@@ -3,6 +3,7 @@ title: The Last Voyage of the Nancy
 date: 2014-12-10 08:00:00 -0400
 header:
   teaser: /assets/images/3057385436_c407aa8e3e_b.jpg
+  overlay_image: "/assets/images/3057385436_c407aa8e3e_b.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - fantasy
 ---
 
-<img src="/assets/images/3057385436_c407aa8e3e_b.jpg">Young Mary laced my bodice tight and helped me into my skirts. Dinner with the Captain required me to look my best. We'd been at sea for several months, and even the most chaste of ladies would be getting restless.
+Young Mary laced my bodice tight and helped me into my skirts. Dinner with the Captain required me to look my best. We'd been at sea for several months, and even the most chaste of ladies would be getting restless.
 
 I wasn't so chaste and Captain Reynolds would sate my hunger just fine.
 

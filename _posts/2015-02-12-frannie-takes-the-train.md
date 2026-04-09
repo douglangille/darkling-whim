@@ -3,6 +3,7 @@ title: Frannie Takes the Train
 date: 2015-02-12 08:00:00 -0400
 header:
   teaser: /assets/images/handcuffs-219261.jpg
+  overlay_image: "/assets/images/handcuffs-219261.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - drama
 ---
 
-<img src="/assets/images/handcuffs-219261.jpg">The rattle and rumble of the train on its tracks persisted in their pursuit of my sleep. I fought the fatigue despite being awake for the last thirty hours. Only one more stop to go and this nightmare would be over. I rubbed my wrist, now raw from the handcuffs. The attached suitcase fell over again, snapping my arm away. I winced at the sudden pull on my shoulder and cursed the case's missing rubber feet.
+The rattle and rumble of the train on its tracks persisted in their pursuit of my sleep. I fought the fatigue despite being awake for the last thirty hours. Only one more stop to go and this nightmare would be over. I rubbed my wrist, now raw from the handcuffs. The attached suitcase fell over again, snapping my arm away. I winced at the sudden pull on my shoulder and cursed the case's missing rubber feet.
 
 "Relax, Frannie," said the man sitting across from me in the cabin. "You'll need your wits about you."
 

@@ -3,6 +3,7 @@ title: Scrambled
 date: 2014-03-31 08:00:00 -0400
 header:
   teaser: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
+  overlay_image: "/assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg"
 categories: []
 tags:
 - short-story
@@ -10,7 +11,7 @@ tags:
 - drama
 ---
 
-<img src="/assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg">"I hate to bother you, but I have something important to ask," said the new waitress, setting down my plate of scrambled eggs.
+"I hate to bother you, but I have something important to ask," said the new waitress, setting down my plate of scrambled eggs.
 
 "Sure, what is it..." I glanced at her modest bosom and read the name tag. "...Ginny?" Not suffering a blistering hangover for a change left me in gracious disposition. I looked at my cooling breakfast then to her pretty face. Far too young, old-timer. She could be your daughter. Hell, maybe she is.
 

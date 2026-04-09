@@ -3,13 +3,14 @@ title: Newsworthy
 date: 2013-09-03 08:00:00 -0400
 header:
   teaser: /assets/images/3810416462_ac86d2645b_newsroom.jpg
+  overlay_image: "/assets/images/3810416462_ac86d2645b_newsroom.jpg"
 categories: []
 tags:
 - flash
 - drama
 ---
 
-<img src="/assets/images/3810416462_ac86d2645b_newsroom.jpg">David Pemberton leaned into the mirror and fussed over the crow's feet starting to creep into his face. He liked the look he was cultivating. While Janice suffered the ravages of age, being a man gave him the edge. His face was one of trust and integrity, all wrapped up in salt-and-pepper hair and white teeth. He smiled at his image and it smiled back. This was good.
+David Pemberton leaned into the mirror and fussed over the crow's feet starting to creep into his face. He liked the look he was cultivating. While Janice suffered the ravages of age, being a man gave him the edge. His face was one of trust and integrity, all wrapped up in salt-and-pepper hair and white teeth. He smiled at his image and it smiled back. This was good.
 
 "You look like a predator, Davey," came the slightly nasally voice from behind him. David was startled and annoyed.
 

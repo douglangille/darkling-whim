@@ -3,6 +3,7 @@ title: Herb's Bad Week
 date: 2013-07-20 08:00:00 -0400
 header:
   teaser: /assets/images/5767025075_409bb987e0_b_noose.jpg
+  overlay_image: "/assets/images/5767025075_409bb987e0_b_noose.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - thriller
 ---
 
-<img src="/assets/images/5767025075_409bb987e0_b_noose.jpg">Herb was delusional. He fancied himself a ladies man and a friend to all his peers in the office. He was his boss's trusted lieutenant and the only one who was 'Getting Things Done'. His car was the first to arrive and the last to leave. He should know. He checked with regularity. The laughter in the breakroom always stopped when he entered. All eyes were either on him or downcast in deference to his power. He was a force that demanded recognition. He worked hard to 'Awaken the Giant Within.' Ah, yes, Herb was a spectacle of awesomeness. Every trip to the staff bathroom had its mirror to remind him.
+Herb was delusional. He fancied himself a ladies man and a friend to all his peers in the office. He was his boss's trusted lieutenant and the only one who was 'Getting Things Done'. His car was the first to arrive and the last to leave. He should know. He checked with regularity. The laughter in the breakroom always stopped when he entered. All eyes were either on him or downcast in deference to his power. He was a force that demanded recognition. He worked hard to 'Awaken the Giant Within.' Ah, yes, Herb was a spectacle of awesomeness. Every trip to the staff bathroom had its mirror to remind him.
 
 So, it was to his great surprise and torment to see the note on his chair on a Monday morning. 'WHY DID YOU DO IT?' it read. He picked it up gingerly by the corner and popped his head outside his cubicle. He looked left, then right. He was the only one here. Herb put it a folder and wrote 'Evidence' across the top. He was weird like that.
 

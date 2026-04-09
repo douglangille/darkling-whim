@@ -3,6 +3,7 @@ title: Tommy Collects
 date: 2013-07-02 08:00:00 -0400
 header:
   teaser: /assets/images/4298179061_d2402b6ded_b.jpg
+  overlay_image: "/assets/images/4298179061_d2402b6ded_b.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - drama
 ---
 
-<img src="/assets/images/4298179061_d2402b6ded_b.jpg">Tommy Andolini was a brute. That simple fact, coupled with an adversarial disposition, made him well-suited to his profession. In truth, he loved his job. Working for the Gambones had its rewards for a guy like Tommy. Any chance to work out his aggressions was a good day. Today was going to be a great day.
+Tommy Andolini was a brute. That simple fact, coupled with an adversarial disposition, made him well-suited to his profession. In truth, he loved his job. Working for the Gambones had its rewards for a guy like Tommy. Any chance to work out his aggressions was a good day. Today was going to be a great day.
 
 You see, Tommy hated the Irish. No reason. Maybe it was their tendency for sarcasm. Maybe it was just that he didn't like gingers. What's important was that an Irishman named Marty O'Brien liked to gamble. It didn't matter if it was ponies or sports. He'd gamble on the weather if there were any takers. Poor Marty's problems were two-fold. One was that he wasn't very good at picking winners. The other was that he wouldn't, or couldn't, stop.
 

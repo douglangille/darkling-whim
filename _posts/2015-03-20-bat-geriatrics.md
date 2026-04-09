@@ -3,6 +3,7 @@ title: Bat Geriatrics
 date: 2015-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/batman-532919_1280.jpg
+  overlay_image: "/assets/images/batman-532919_1280.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/batman-532919_1280.jpg">"Alfred! Get me my cowl."
+"Alfred! Get me my cowl."
 
 "But, Master Bruce. You donated that to the museum years ago."
 

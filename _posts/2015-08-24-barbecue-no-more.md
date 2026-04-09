@@ -3,6 +3,7 @@ title: Barbecue No More
 date: 2015-08-24 08:00:00 -0400
 header:
   teaser: /assets/images/14407329792_5240b7ed7a_b.jpg
+  overlay_image: "/assets/images/14407329792_5240b7ed7a_b.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/14407329792_5240b7ed7a_b.jpg">Steak was supposed to be on sale.
+Steak was supposed to be on sale.
 
 Beef had been so expensive lately that my gal and me were subsisting on less than choice cuts of pork-much to the dismay of the broader Pig community. If they had their way, we'd all be eating fish.
 

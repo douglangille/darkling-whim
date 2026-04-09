@@ -6,6 +6,7 @@ excerpt: I took the cool can and placed it on my chest, letting the condensation
 categories: []
 header:
   teaser: /assets/images/legs-434918_1280.jpg
+  overlay_image: "/assets/images/legs-434918_1280.jpg"
 published: true
 tags:
 - flash

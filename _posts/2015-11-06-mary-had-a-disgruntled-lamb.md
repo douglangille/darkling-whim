@@ -3,6 +3,7 @@ title: Mary Had a Disgruntled Lamb
 date: 2015-11-06 08:00:00 -0400
 header:
   teaser: /assets/images/Disgruntled-Lamb.jpg
+  overlay_image: "/assets/images/Disgruntled-Lamb.jpg"
 categories: []
 tags:
 - poetry
@@ -10,7 +11,7 @@ tags:
 - horror
 ---
 
-<img src="/assets/images/Disgruntled-Lamb.jpg">Mary had a disgruntled little lamb,  
+Mary had a disgruntled little lamb,  
  Whose fleece was greasy and matted  
  And everywhere that Mary went,  
  It rudely belched and farted.

@@ -3,6 +3,7 @@ title: Good Boy, Jake
 date: 2014-05-09 08:00:00 -0400
 header:
   teaser: /assets/images/32221740_530a3d192c_b.jpg
+  overlay_image: "/assets/images/32221740_530a3d192c_b.jpg"
 categories: []
 tags:
 - poetry
@@ -10,7 +11,7 @@ tags:
 - fantasy
 ---
 
-<img src="/assets/images/32221740_530a3d192c_b.jpg">Rod in hand, I went to the lake,  
+Rod in hand, I went to the lake,  
  To fish for trout with my dog Jake.  
  I cast my line, it went plop-plop.  
  We waited for nature's wat'ry crop.

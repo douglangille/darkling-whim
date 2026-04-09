@@ -3,6 +3,7 @@ title: Father Time Versus the Time Demons
 date: 2014-10-28 08:00:00 -0400
 header:
   teaser: /assets/images/20141022_003057000_iOS.jpg
+  overlay_image: "/assets/images/20141022_003057000_iOS.jpg"
 categories: []
 tags:
 - short-story
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/20141022_003057000_iOS.jpg">"Wake up, you idiot."
+"Wake up, you idiot."
 
 I opened my eyes to see the same old man glaring at me under bushy eyebrows, his nostrils flaring in his equally bushy nose. I squeezed my eyes tightly, gripped my pillow and tried to ignore him.
 

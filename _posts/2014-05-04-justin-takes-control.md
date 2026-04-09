@@ -3,6 +3,7 @@ title: Justin Takes Control
 date: 2014-05-04 08:00:00 -0400
 header:
   teaser: /assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg
+  overlay_image: "/assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg"
 categories: []
 tags:
 - short-story
@@ -10,7 +11,7 @@ tags:
 - drama
 ---
 
-<img src="/assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg">Agent Justin Cayse left the bordello from the rear, having escaped his captor. Ava Longleggs, always the most generous of hosts, enjoyed Mister Cayse's visits immensely, often more than once. To be sure, the restraints were optional.
+Agent Justin Cayse left the bordello from the rear, having escaped his captor. Ava Longleggs, always the most generous of hosts, enjoyed Mister Cayse's visits immensely, often more than once. To be sure, the restraints were optional.
 
 "Do come again, Justin," she said as she played with a lock of her auburn hair.
 

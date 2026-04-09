@@ -3,13 +3,14 @@ title: Lost in the Rain
 date: 2014-09-01 08:00:00 -0400
 header:
   teaser: /assets/images/Storm_Drain.jpg
+  overlay_image: "/assets/images/Storm_Drain.jpg"
 categories: []
 tags:
 - poetry
 - horror
 ---
 
-<img src="/assets/images/Storm_Drain.jpg">rain in late summer  
+rain in late summer  
  the boy walks along the street  
  following a boat
 

@@ -3,6 +3,7 @@ title: Alien Haiku
 date: 2014-03-21 08:00:00 -0400
 header:
   teaser: /assets/images/4162377148_3c7621df54_b.jpg
+  overlay_image: "/assets/images/4162377148_3c7621df54_b.jpg"
 categories: []
 tags:
 - poetry
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/4162377148_3c7621df54_b.jpg">spinning flying orb  
+spinning flying orb  
  your lasers burned my house down  
  take me up with you
 

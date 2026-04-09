@@ -3,6 +3,7 @@ title: Deus Ex Machina
 date: 2013-06-18 08:00:00 -0400
 header:
   teaser: /assets/images/1b5b1dfcb4aa9054_1280_detective1.jpg
+  overlay_image: "/assets/images/1b5b1dfcb4aa9054_1280_detective1.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - thriller
 ---
 
-<img src="/assets/images/1b5b1dfcb4aa9054_1280_detective1.jpg">"Where's my son?" Luthur Pinderton slammed  his large hand against the cinder-block that framed the window of the interrogation room. Inside, Detective Goran was getting the run-around from his quarry. Merle Cambridge, the Magnificent if you prefer, was proving to be as mysterious as his shtick would have his patrons believe.
+"Where's my son?" Luthur Pinderton slammed  his large hand against the cinder-block that framed the window of the interrogation room. Inside, Detective Goran was getting the run-around from his quarry. Merle Cambridge, the Magnificent if you prefer, was proving to be as mysterious as his shtick would have his patrons believe.
 
 Elaine was Luthur's wife of twenty long years and mother of the missing young Artie. She vacillated between a hand-wringing pacing and and a bawling collapse. Goran's partner, Eames was trying desperately to get the distraught woman's statement. The look on the detective's face was one of practised patience masking futility's exasperation.
 

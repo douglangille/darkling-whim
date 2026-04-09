@@ -3,13 +3,14 @@ title: Down the Hill
 date: 2015-01-23 08:00:00 -0400
 header:
   teaser: /assets/images/24719250735_3cfb5af0f8_toboggan.jpg
+  overlay_image: "/assets/images/24719250735_3cfb5af0f8_toboggan.jpg"
 categories: []
 tags:
 - flash
 - humour
 ---
 
-<img src="/assets/images/24719250735_3cfb5af0f8_toboggan.jpg">"You wax the flyer? It's all shiny."
+"You wax the flyer? It's all shiny."
 
 "Yuppers. Cooking oil this time. What about you?"
 

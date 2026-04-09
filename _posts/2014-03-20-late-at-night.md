@@ -3,6 +3,7 @@ title: Late at Night
 date: 2014-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/Hospital_by_sheisviolence.jpg
+  overlay_image: "/assets/images/Hospital_by_sheisviolence.jpg"
 categories: []
 tags:
 - poetry
@@ -10,7 +11,7 @@ tags:
 - horror
 ---
 
-<img src="/assets/images/Hospital_by_sheisviolence.jpg">I opened my eyes and could not see.  
+I opened my eyes and could not see.  
  Nothing but black in front of me.  
  I lay supine upon this bed,  
  Thinking I'd be better dead.

@@ -3,13 +3,14 @@ title: Unreal World
 date: 2014-02-12 08:00:00 -0400
 header:
   teaser: /assets/images/holding_hands_by_xperianceART.jpg
+  overlay_image: "/assets/images/holding_hands_by_xperianceART.jpg"
 categories: []
 tags:
 - flash
 - drama
 ---
 
-<img src="/assets/images/holding_hands_by_xperianceART.jpg">School wasn't working for me. Three years in and I crashed and burned, my high school ambitions laid to waste. Despite my so-called potential, I wasn't cut out to be a doctor. My heart wasn't in it and I was lazy. In many ways, I still am.
+School wasn't working for me. Three years in and I crashed and burned, my high school ambitions laid to waste. Despite my so-called potential, I wasn't cut out to be a doctor. My heart wasn't in it and I was lazy. In many ways, I still am.
 
 Back home, the prospects were grim. That small town held nothing for me. Forced to take a year off from school and work for Dad should have been enough. It wasn't. Something was wrong.
 

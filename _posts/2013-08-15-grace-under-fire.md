@@ -3,6 +3,7 @@ title: Grace Under Fire
 date: 2013-08-15 08:00:00 -0400
 header:
   teaser: /assets/images/e835b3062bf0013ecd0b470de7444e90fe76e6d01bb711429cf2c1_640_lab.jpg
+  overlay_image: "/assets/images/e835b3062bf0013ecd0b470de7444e90fe76e6d01bb711429cf2c1_640_lab.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - horror
 ---
 
-<img src="/assets/images/e835b3062bf0013ecd0b470de7444e90fe76e6d01bb711429cf2c1_640_lab.jpg">Grace raced to the emergency pull station on the other side of the room. There wasn't much room for debate and doubt on this one. They fucked up. The quarantine alarm blasted its clarion as the medical grade doors sealed them into the research bay.
+Grace raced to the emergency pull station on the other side of the room. There wasn't much room for debate and doubt on this one. They fucked up. The quarantine alarm blasted its clarion as the medical grade doors sealed them into the research bay.
 
 "Michael!" she yelled over the din. He stood looking at his hands in front of him, dumbfounded in disbelief. Oxygen rescue masks dropped from the ceiling. The countdown started. Shit. There'd only be a few seconds before the halide gas filled the room, displacing the oxygen. She started waving her arms. "Michael!" He looked up to see Grace put on the mask. He understood and followed suit. They both dropped and tucked their exposed skin as best they could. The gas burns would heal and scar, but the numbness of the nerve damage would never leave.
 

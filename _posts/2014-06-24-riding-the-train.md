@@ -3,6 +3,7 @@ title: Riding the Train
 date: 2014-06-24 08:00:00 -0400
 header:
   teaser: /assets/images/subway_car_by_paupah.jpg
+  overlay_image: "/assets/images/subway_car_by_paupah.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - scifi
 ---
 
-<img src="/assets/images/subway_car_by_paupah.jpg">Riding the hover train this time of night always made me sleepy. The route passed through seedier parts of the city, so I took to people-watching to stay alert. I didn't want to be one of the statistics that we heard nightly on the newsfeeds.
+Riding the hover train this time of night always made me sleepy. The route passed through seedier parts of the city, so I took to people-watching to stay alert. I didn't want to be one of the statistics that we heard nightly on the newsfeeds.
 
 The Authority talked a good game and things were indeed better. The city walls kept us safe and the Authority kept the machinery of government working. But their reach didn't extend to the inner boroughs. If you didn't work for the Authority, you had to live where designated. 'Surviving' described it better.
 

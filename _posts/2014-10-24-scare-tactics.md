@@ -3,6 +3,7 @@ title: Scare Tactics
 date: 2014-10-24 08:00:00 -0400
 header:
   teaser: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
+  overlay_image: "/assets/images/8117718787_218466fc67_ghost-sheet.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/8117718787_218466fc67_ghost-sheet.jpg">"Why don't you try poking out your eyes?"
+"Why don't you try poking out your eyes?"
 
 "And put them on my fingers again? Nah, that just made the last group laugh?"
 

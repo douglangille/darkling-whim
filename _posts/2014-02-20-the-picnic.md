@@ -3,6 +3,7 @@ title: The Picnic
 date: 2014-02-20 08:00:00 -0400
 header:
   teaser: /assets/images/Hole_y_Tree_by_flurrynight.jpg
+  overlay_image: "/assets/images/Hole_y_Tree_by_flurrynight.jpg"
 categories: []
 tags:
 - short-story
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/Hole_y_Tree_by_flurrynight.jpg">*If you go down in the woods today, you're sure of a big surprise.*  
+*If you go down in the woods today, you're sure of a big surprise.*  
  *If you go down in the woods today, you'd better go in disguise.*
 
 'Cause me and Pete play hide-and-seek, happy and fancy-free.  

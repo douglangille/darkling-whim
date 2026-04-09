@@ -3,6 +3,7 @@ title: The Gypsy Tent
 date: 2013-08-10 08:00:00 -0400
 header:
   teaser: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
+  overlay_image: "/assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg"
 categories: []
 tags:
 - poetry
@@ -10,7 +11,7 @@ tags:
 - horror
 ---
 
-<img src="/assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg">I wandered through the county fair,  
+I wandered through the county fair,  
  With plenty of coin and time to spare.  
  Carnies barking to and fro,  
  'Spin the wheel' and 'enjoy the show.'

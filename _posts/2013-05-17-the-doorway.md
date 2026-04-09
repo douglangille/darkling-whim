@@ -3,6 +3,7 @@ title: The Doorway
 date: 2013-05-17 08:00:00 -0400
 header:
   teaser: /assets/images/19413383176_76321090c1_b_doorway.jpg
+  overlay_image: "/assets/images/19413383176_76321090c1_b_doorway.jpg"
 categories: []
 tags:
 - short-story
@@ -10,7 +11,7 @@ tags:
 - drama
 ---
 
-<img src="/assets/images/19413383176_76321090c1_b_doorway.jpg">I climbed the back staircase of my grandparent's old house. The layers upon layers of white paint adorned the railing and casings. They were only slightly dulled by a thin layer of dust that was everywhere. The oil range in the parlor room and the unpaved driveway made the fight against grime a losing battle.
+I climbed the back staircase of my grandparent's old house. The layers upon layers of white paint adorned the railing and casings. They were only slightly dulled by a thin layer of dust that was everywhere. The oil range in the parlor room and the unpaved driveway made the fight against grime a losing battle.
 
 I'd been up and down these stairs countless times. We used to spend summers here back when Gramma and Grampa were alive. I remember the smell of paint and wallpaper paste, mingled with a hint of mold. The aged smells of an elderly home made the air thick with memory.
 

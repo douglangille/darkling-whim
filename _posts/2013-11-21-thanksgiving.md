@@ -3,6 +3,7 @@ title: Thanksgiving
 date: 2013-11-21 08:00:00 -0400
 header:
   teaser: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
+  overlay_image: "/assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - humour
 ---
 
-<img src="/assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg">"Good man, where might I find your nearest mooring dock?"
+"Good man, where might I find your nearest mooring dock?"
 
 "No mooring dock."
 

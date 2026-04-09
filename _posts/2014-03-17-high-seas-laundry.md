@@ -3,13 +3,14 @@ title: High Seas Laundry
 date: 2014-03-17 08:00:00 -0400
 header:
   teaser: /assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png
+  overlay_image: "/assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png"
 categories: []
 tags:
 - poetry
 - humour
 ---
 
-<img src="/assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png">Captain Hook, he climbed the deck,  
+Captain Hook, he climbed the deck,  
  Lookin' for Smee, to give him heck.
 
 His eyes, they blazed, all full of fire.  

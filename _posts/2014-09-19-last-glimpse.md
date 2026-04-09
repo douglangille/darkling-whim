@@ -3,6 +3,7 @@ title: Last Glimpse
 date: 2014-09-19 08:00:00 -0400
 header:
   teaser: /assets/images/armagedon-6.jpg
+  overlay_image: "/assets/images/armagedon-6.jpg"
 categories: []
 tags:
 - poetry
@@ -10,7 +11,7 @@ tags:
 - scifi
 ---
 
-<img src="/assets/images/armagedon-6.jpg">I found the perfect spot, for us to share a final gaze  
+I found the perfect spot, for us to share a final gaze  
  Of cosmic wonder, before the end of days
 
 The stars winked brightly, and the moon rose high  

@@ -3,6 +3,7 @@ title: The Craftsman
 date: 2013-10-08 08:00:00 -0400
 header:
   teaser: /assets/images/Collecting-Knives.jpg
+  overlay_image: "/assets/images/Collecting-Knives.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - thriller
 ---
 
-<img src="/assets/images/Collecting-Knives.jpg">"You see, Detective, I have a little problem with knives. I collect them, large and small. Not swords, mind you, or anything garish like that. Just a simple blade will do, thank you very much."
+"You see, Detective, I have a little problem with knives. I collect them, large and small. Not swords, mind you, or anything garish like that. Just a simple blade will do, thank you very much."
 
 "Folding pocket knives are particularly useful. They're easy to handle and I rarely cut myself. I insist on a locking blade. It's very important to keep one handy, in your pocket, for the little jobs such as cutting a length of rope or duct tape. Serrated the first third, I prefer the business-end bevelled and sharp to the point. I always grind an edge on the back as well; it can make all the difference in a pinch."
 

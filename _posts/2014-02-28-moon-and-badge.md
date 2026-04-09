@@ -3,13 +3,14 @@ title: Moon and Badge
 date: 2014-02-28 08:00:00 -0400
 header:
   teaser: /assets/images/7136114679_82420e7ff5_b.jpg
+  overlay_image: "/assets/images/7136114679_82420e7ff5_b.jpg"
 categories: []
 tags:
 - flash
 - horror
 ---
 
-<img src="/assets/images/7136114679_82420e7ff5_b.jpg">"What seems to be the problem, Officer?" I ask.
+"What seems to be the problem, Officer?" I ask.
 
 "License and registration, sir," he grumbles.
 

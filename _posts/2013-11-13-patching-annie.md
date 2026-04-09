@@ -3,6 +3,7 @@ title: Patching Annie
 date: 2013-11-13 08:00:00 -0400
 header:
   teaser: /assets/images/6164022668_e6a611ccfe_b.jpg
+  overlay_image: "/assets/images/6164022668_e6a611ccfe_b.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - fantasy
 ---
 
-<img src="/assets/images/6164022668_e6a611ccfe_b.jpg">Walking by my daughter's room with an armload of laundry, I pause to listen at the door. It's always closed these days with Becky's preteen need for privacy and I see no reason to invade now.
+Walking by my daughter's room with an armload of laundry, I pause to listen at the door. It's always closed these days with Becky's preteen need for privacy and I see no reason to invade now.
 
 I hear nothing, as usual.
 

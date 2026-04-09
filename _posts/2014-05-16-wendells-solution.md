@@ -3,6 +3,7 @@ title: Wendell&#39;s Solution
 date: 2014-05-16 08:00:00 -0400
 header:
   teaser: /assets/images/249752730_c02409b9ca_o.jpg
+  overlay_image: "/assets/images/249752730_c02409b9ca_o.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - thriller
 ---
 
-<img src="/assets/images/249752730_c02409b9ca_o.jpg">'How the Hell did he get up there?' thought Tony as he looked up the rampart wall of the prison's exercise yard. Wendell held what could only be a shiv to the narrow throat of their beloved Warden Thomas H. Macey.
+'How the Hell did he get up there?' thought Tony as he looked up the rampart wall of the prison's exercise yard. Wendell held what could only be a shiv to the narrow throat of their beloved Warden Thomas H. Macey.
 
 He'd been lined up to head inside for chow time when the goon squad thundered behind them. Tony heard one of them yell "Fucking, Wendy" and dropped back. He and the kid were pretty close. Sometimes, in a place like this, the strong are obliged to take the weak under wing. They were friends, but a stretch in the dark changes a man.
 

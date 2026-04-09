@@ -3,6 +3,7 @@ title: Danny's Redemption
 date: 2013-03-21 08:00:00 -0400
 header:
   teaser: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
+  overlay_image: "/assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg"
 category:
 - writings
 tags:
@@ -11,7 +12,7 @@ tags:
 - drama
 ---
 
-<img src="/assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg">A sharp breeze stirred up the gutter dirt as Danny crossed the otherwise motionless street. It stung his face, both the sandy debris and the cold air. He pulled his collar up around his face in an attempt at comfort.
+A sharp breeze stirred up the gutter dirt as Danny crossed the otherwise motionless street. It stung his face, both the sandy debris and the cold air. He pulled his collar up around his face in an attempt at comfort.
 
 He was nervous.
 

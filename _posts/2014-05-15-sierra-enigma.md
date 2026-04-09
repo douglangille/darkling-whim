@@ -3,6 +3,7 @@ title: Sierra Enigma
 date: 2014-05-15 08:00:00 -0400
 header:
   teaser: /assets/images/PartialHeterochromia.jpg
+  overlay_image: "/assets/images/PartialHeterochromia.jpg"
 categories: []
 tags:
 - short-story
@@ -10,7 +11,6 @@ tags:
 - thriller
 ---
 
-<img src="/assets/images/PartialHeterochromia.jpg">
 It's never been easy working in the same place where Mom died. The university's sprawling campus occupied most of the peninsula, and the hospital sat at its edge. The medical school annually stamped out young doctors and nurses, and the hospital kept the research facility well-stocked with human suffering and corpses. All in all, it was a fair trade and not all that atypical. From the study of death comes the hope of life.
 
 Mom didn't like being a doctor, but she loved research. I always liked solving puzzles and riddles growing up; the shared thirst for truth kept us together despite her long hours in the lab. Without many friends, I spent a lot of time by myself. As an adult, I still do.

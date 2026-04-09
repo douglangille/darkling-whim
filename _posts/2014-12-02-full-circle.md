@@ -3,13 +3,14 @@ title: Full Circle
 date: 2014-12-02 08:00:00 -0400
 header:
   teaser: /assets/images/bus-stop-72171.jpg
+  overlay_image: "/assets/images/bus-stop-72171.jpg"
 categories: []
 tags:
 - flash
 - drama
 ---
 
-<img src="/assets/images/bus-stop-72171.jpg">"A strange thing happened on the way to the bus stop," I said, taking a plate from the rack and wiping it. Well-worn, these wedding gift dishes stood the test of time.
+"A strange thing happened on the way to the bus stop," I said, taking a plate from the rack and wiping it. Well-worn, these wedding gift dishes stood the test of time.
 
 "What's that, sweetheart?" Heather rinsed a wine goblet and set it with its mate in the strainer. Third anniversary. Our first good year.
 

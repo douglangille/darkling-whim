@@ -3,6 +3,7 @@ title: The Standoff
 date: 2013-10-21 08:00:00 -0400
 header:
   teaser: /assets/images/5923105171_90007ff833_cat-mouse.jpg
+  overlay_image: "/assets/images/5923105171_90007ff833_cat-mouse.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - thriller
 ---
 
-<img src="/assets/images/5923105171_90007ff833_cat-mouse.jpg">Missy's moon shadow cast long, tail twitching in anticipation; the taste of freshly killed squirrel electrified her whiskers. She named her quarry Nemesis.
+Missy's moon shadow cast long, tail twitching in anticipation; the taste of freshly killed squirrel electrified her whiskers. She named her quarry Nemesis.
 
 He crouched under the garden marigolds. The cat locked her radar on him, sharpened front toes splayed and hind quarters raised. Carmilla played witness from her web.
 

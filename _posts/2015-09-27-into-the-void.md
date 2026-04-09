@@ -3,6 +3,7 @@ title: Into the Void
 date: 2015-09-27 08:00:00 -0400
 header:
   teaser: /assets/images/6336363394_213bd59a9b_b.jpg
+  overlay_image: "/assets/images/6336363394_213bd59a9b_b.jpg"
 categories: []
 tags:
 - short-story
@@ -10,7 +11,7 @@ tags:
 - drama
 ---
 
-<img src="/assets/images/6336363394_213bd59a9b_b.jpg">***Date: September 27, 1491 SCE  
+***Date: September 27, 1491 SCE  
  (Second Current Era)***
 
 "Sky Captain," said Willem. He'd been a stellar First Mate. *How long have we been a-flight? Four, no, five years?*

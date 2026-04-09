@@ -3,6 +3,7 @@ title: Of Blood and Text Messaging
 date: 2015-04-23 08:00:00 -0400
 header:
   teaser: /assets/images/smartphone-593318.jpg
+  overlay_image: "/assets/images/smartphone-593318.jpg"
 categories: []
 tags:
 - flash
@@ -10,7 +11,7 @@ tags:
 - drama
 ---
 
-<img src="/assets/images/smartphone-593318.jpg">Detective Arnie Chalmers dropped his finished cigarette to the asphalt, ground it with his heel, and waited for his partner to catch up. "Ready, Steve?"
+Detective Arnie Chalmers dropped his finished cigarette to the asphalt, ground it with his heel, and waited for his partner to catch up. "Ready, Steve?"
 
 Stephen Morris picked up the butt, dropped it into his coffee cup, and stuffed it into his coat pocket. "What do we got?"
 
