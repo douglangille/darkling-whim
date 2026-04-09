@@ -1,7 +1,7 @@
 ---
 title: Alien Haiku
 date: 2014-03-21 08:00:00 -0400
-excerpt: "spinning flying orb"http://www."
+excerpt: "spinning flying orb"
 header:
   teaser: /assets/images/4162377148_3c7621df54_b.jpg
   overlay_image: "/assets/images/4162377148_3c7621df54_b.jpg"
