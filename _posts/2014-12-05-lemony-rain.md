@@ -1,6 +1,7 @@
 ---
 title: Lemony Rain
 date: 2014-12-05 08:00:00 -0400
+excerpt: "!"
 header:
   teaser: /assets/images/lemon-364274.jpg
   overlay_image: "/assets/images/lemon-364274.jpg"

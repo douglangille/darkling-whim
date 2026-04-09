@@ -1,6 +1,7 @@
 ---
 title: Falling Star
 date: 2013-07-22 08:00:00 -0400
+excerpt: "Martha woke from her terrible dream with the chills."
 header:
   teaser: /assets/images/4949129334_4de1a73374_b_falling-star.jpg
   overlay_image: "/assets/images/4949129334_4de1a73374_b_falling-star.jpg"

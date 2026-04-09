@@ -1,6 +1,7 @@
 ---
 title: The Dark Pool of Lamia
 date: 2015-01-26 08:00:00 -0400
+excerpt: "Lamia wrapped the mottled scarf around her light frame, enjoying the silky sensation as the soft cool hide hugged her contours."
 header:
   teaser: /assets/images/water-drop-173751.jpg
   overlay_image: /assets/images/water-drop-173751.jpg

@@ -1,6 +1,7 @@
 ---
 title: Frannie Takes the Train
 date: 2015-02-12 08:00:00 -0400
+excerpt: "The rattle and rumble of the train on its tracks persisted in their pursuit of my sleep."
 header:
   teaser: /assets/images/handcuffs-219261.jpg
   overlay_image: "/assets/images/handcuffs-219261.jpg"

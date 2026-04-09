@@ -1,6 +1,7 @@
 ---
 title: Stormy Night
 date: 2013-03-14 08:00:00 -0400
+excerpt: "It was a dark and stormy night."
 header:
   teaser: /assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg
   overlay_image: "/assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg"

@@ -1,6 +1,7 @@
 ---
 title: Strange Love
 date: 2014-06-27 08:00:00 -0400
+excerpt: "There once was a lady, hailing from the circus Whose beard was so long, she would curse it But there was something about her I was smitten, her lover I'd braid it but her girth made me nervous Photo by <a href=\"http://www."
 categories: []
 tags:
 - poetry

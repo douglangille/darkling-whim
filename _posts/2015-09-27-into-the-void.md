@@ -1,6 +1,7 @@
 ---
 title: Into the Void
 date: 2015-09-27 08:00:00 -0400
+excerpt: " \"Sky Captain,\" said Willem."
 header:
   teaser: /assets/images/6336363394_213bd59a9b_b.jpg
   overlay_image: "/assets/images/6336363394_213bd59a9b_b.jpg"

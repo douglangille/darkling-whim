@@ -1,6 +1,7 @@
 ---
 title: How to Get Ahead
 date: 2015-10-03 08:00:00 -0400
+excerpt: "Water dripped from high above."
 header:
   teaser: /assets/images/ed3cb80d28f01c3e81584d04ee44408be273e7d71fb818499cf5_640_medusa.jpg
   overlay_image: "/assets/images/ed3cb80d28f01c3e81584d04ee44408be273e7d71fb818499cf5_640_medusa.jpg"

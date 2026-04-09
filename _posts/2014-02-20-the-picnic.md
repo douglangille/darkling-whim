@@ -1,6 +1,7 @@
 ---
 title: The Picnic
 date: 2014-02-20 08:00:00 -0400
+excerpt: "*If you go down in the woods today, you're sure of a big surprise."
 header:
   teaser: /assets/images/Hole_y_Tree_by_flurrynight.jpg
   overlay_image: "/assets/images/Hole_y_Tree_by_flurrynight.jpg"

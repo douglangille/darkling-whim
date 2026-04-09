@@ -1,6 +1,7 @@
 ---
 title: Thoughtful Magic
 date: 2013-10-19 08:00:00 -0400
+excerpt: "The life of a super-villainess was burdensome to Amy and when her fembot henchman, Stacey, suggested a vacation in her winter-lair on the Caribbean, she jumped at the opportunity and hopped on her jet."
 header:
   teaser: /assets/images/1deb57f5e4789aa4_1280_mask.jpg
   overlay_image: "/assets/images/1deb57f5e4789aa4_1280_mask.jpg"

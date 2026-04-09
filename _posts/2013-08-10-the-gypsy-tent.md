@@ -1,6 +1,7 @@
 ---
 title: The Gypsy Tent
 date: 2013-08-10 08:00:00 -0400
+excerpt: "I wandered through the county fair, With plenty of coin and time to spare."
 header:
   teaser: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
   overlay_image: "/assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg"

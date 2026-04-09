@@ -1,6 +1,7 @@
 ---
 title: In the Eye of the Sandstorm
 date: 2014-06-30 08:00:00 -0400
+excerpt: "A gust of wind stirred up the dust of the deserted street."
 header:
   teaser: /assets/images/Desert_Storm_by_Araken_Starway.jpg
   overlay_image: "/assets/images/Desert_Storm_by_Araken_Starway.jpg"

@@ -1,6 +1,7 @@
 ---
 title: Unreal World
 date: 2014-02-12 08:00:00 -0400
+excerpt: "School wasn't working for me."
 header:
   teaser: /assets/images/holding_hands_by_xperianceART.jpg
   overlay_image: "/assets/images/holding_hands_by_xperianceART.jpg"

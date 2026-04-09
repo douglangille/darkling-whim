@@ -1,6 +1,7 @@
 ---
 title: The Doorway
 date: 2013-05-17 08:00:00 -0400
+excerpt: "I climbed the back staircase of my grandparent's old house."
 header:
   teaser: /assets/images/19413383176_76321090c1_b_doorway.jpg
   overlay_image: "/assets/images/19413383176_76321090c1_b_doorway.jpg"

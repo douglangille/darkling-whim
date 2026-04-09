@@ -1,6 +1,7 @@
 ---
 title: Fletcher Returns
 date: 2014-03-04 08:00:00 -0400
+excerpt: "Carol Bannister placed the breakfast tray in front of her Aunt Jessica and stood staring out the window at the autumn leaves swirling about the grounds."
 categories: []
 tags:
 - flash

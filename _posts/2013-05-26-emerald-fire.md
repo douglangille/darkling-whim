@@ -1,6 +1,7 @@
 ---
 title: Emerald Fire
 date: 2013-05-26 08:00:00 -0400
+excerpt: "I had just parked my car and pressed the lock button when I noticed her."
 header:
   teaser: /assets/images/4877453831_9016c0ac98_b.jpg
   overlay_image: "/assets/images/4877453831_9016c0ac98_b.jpg"

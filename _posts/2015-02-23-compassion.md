@@ -1,6 +1,7 @@
 ---
 title: Compassion
 date: 2015-02-23 08:00:00 -0400
+excerpt: "Eunice set the picture of their Caribbean vacation on the side table as quietly as she could, trying not to wake him."
 header:
   teaser: /assets/images/3529592370_568f8f0490_hospital-machine.jpg
   overlay_image: "/assets/images/3529592370_568f8f0490_hospital-machine.jpg"

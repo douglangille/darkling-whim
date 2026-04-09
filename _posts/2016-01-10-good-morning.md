@@ -1,6 +1,7 @@
 ---
 title: Good Morning
 date: 2016-01-10 08:00:00 -0400
+excerpt: "Let's get the moral of the story up front, shall we?"
 header:
   teaser: /assets/images/breakfast-439058_640.jpg
   overlay_image: /assets/images/breakfast-439058_640.jpg

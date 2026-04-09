@@ -1,6 +1,7 @@
 ---
 title: One Last Letter
 date: 2015-01-08 08:00:00 -0400
+excerpt: "Ricky checked his mailbox everyday at just before noon, rain or shine."
 header:
   teaser: /assets/images/nj-321381.jpg
   overlay_image: "/assets/images/nj-321381.jpg"

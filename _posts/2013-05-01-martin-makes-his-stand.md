@@ -1,6 +1,7 @@
 ---
 title: Martin Makes His Stand
 date: 2013-05-01 08:00:00 -0400
+excerpt: "Martin slipped his battered old pickup into neutral and turned the engine off."
 header:
   teaser: /assets/images/3840887124_0908c40ecf_blueberry-rake.jpg
   overlay_image: "/assets/images/3840887124_0908c40ecf_blueberry-rake.jpg"

@@ -1,6 +1,7 @@
 ---
 title: Fortification
 date: 2014-09-08 08:00:00 -0400
+excerpt: "David's hand trembled as he poured the Ballantines over the ice."
 header:
   teaser: /assets/images/3928159274_ce53125700_whiskey-glass.jpg
   overlay_image: "/assets/images/3928159274_ce53125700_whiskey-glass.jpg"

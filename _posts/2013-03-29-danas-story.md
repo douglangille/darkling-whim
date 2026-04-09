@@ -1,6 +1,7 @@
 ---
 title: Dana's Story
 date: 2013-03-29 08:00:00 -0400
+excerpt: "**PRIM** \"I have something to tell you\", said Dana quietly, barely audible."
 header:
   teaser: /assets/images/63224608_b2dd0efea4_b_campfire.jpg
   overlay_image: "/assets/images/63224608_b2dd0efea4_b_campfire.jpg"

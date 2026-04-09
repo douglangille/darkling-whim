@@ -1,6 +1,7 @@
 ---
 title: Cut and Run
 date: 2015-02-27 08:00:00 -0400
+excerpt: "Amy hung sloppily off the arm of Scott."
 header:
   teaser: /assets/images/sun-19814.jpg
   overlay_image: "/assets/images/sun-19814.jpg"

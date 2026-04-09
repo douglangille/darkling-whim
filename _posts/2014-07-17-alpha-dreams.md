@@ -1,6 +1,7 @@
 ---
 title: Alpha Dreams
 date: 2014-07-17 08:00:00 -0400
+excerpt: "Dawn's dim light glows in the porch windows."
 header:
   teaser: /assets/images/Pug_portrait.jpg
   overlay_image: "/assets/images/Pug_portrait.jpg"

@@ -1,6 +1,7 @@
 ---
 title: Judgement Dogs
 date: 2015-03-19 08:00:00 -0400
+excerpt: "\"Pansy, did you see what that meathead did?"
 header:
   teaser: /assets/images/door-689874_1280.jpg
   overlay_image: "/assets/images/door-689874_1280.jpg"

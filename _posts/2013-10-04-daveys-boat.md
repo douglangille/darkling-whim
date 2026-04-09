@@ -1,6 +1,7 @@
 ---
 title: Davey's Boat
 date: 2013-10-04 08:00:00 -0400
+excerpt: "There was only one bus in town and I missed the last run, its taillights taunting me with the faint spray from the wet wheels."
 header:
   teaser: /assets/images/7c12253e0cafcd77_640_rain-street.jpg
   overlay_image: "/assets/images/7c12253e0cafcd77_640_rain-street.jpg"

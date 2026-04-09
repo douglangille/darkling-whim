@@ -1,6 +1,7 @@
 ---
 title: Eddie&#039;s Decision
 date: 2014-07-28 08:00:00 -0400
+excerpt: "*No one fucks with Eddie."
 header:
   teaser: /assets/images/2659024416_ee3d2e1a87_b.jpg
   overlay_image: /assets/images/2659024416_ee3d2e1a87_b.jpg

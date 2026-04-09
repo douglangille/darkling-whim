@@ -1,6 +1,7 @@
 ---
 title: Aguta&#39;s Trek
 date: 2014-09-29 08:00:00 -0400
+excerpt: "Nanuk the Bear stood on his hind legs and sniffed the icy air."
 header:
   teaser: /assets/images/2303495178_2be7a54eda_arctic-tundra.jpg
   overlay_image: "/assets/images/2303495178_2be7a54eda_arctic-tundra.jpg"

@@ -1,6 +1,7 @@
 ---
 title: Haley on a Plane
 date: 2014-11-09 08:00:00 -0400
+excerpt: "I grabbed the first aid kit off the cabin wall and a jug of water."
 header:
   teaser: /assets/images/10632832054_b9b2130677_b.jpg
   overlay_image: /assets/images/10632832054_b9b2130677_b.jpg

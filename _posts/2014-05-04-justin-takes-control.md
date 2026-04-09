@@ -1,6 +1,7 @@
 ---
 title: Justin Takes Control
 date: 2014-05-04 08:00:00 -0400
+excerpt: "Agent Justin Cayse left the bordello from the rear, having escaped his captor."
 header:
   teaser: /assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg
   overlay_image: "/assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg"

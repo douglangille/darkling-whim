@@ -1,6 +1,7 @@
 ---
 title: A Love, Darkly
 date: 2013-10-13
+excerpt: "Alice gave me a furtive glance as she handed me a glass of lemonade."
 header:
   teaser: /assets/images/a-love-darkly.png
   overlay_image: /assets/images/a-love-darkly.png

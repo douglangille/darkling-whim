@@ -1,6 +1,7 @@
 ---
 title: Confession
 date: 2013-07-22 08:00:00 -0400
+excerpt: "Murderer!"
 header:
   teaser: /assets/images/8683286803_197ea2417f_sea-siren.jpg
   overlay_image: "/assets/images/8683286803_197ea2417f_sea-siren.jpg"

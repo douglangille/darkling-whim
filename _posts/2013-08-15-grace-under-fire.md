@@ -1,6 +1,7 @@
 ---
 title: Grace Under Fire
 date: 2013-08-15 08:00:00 -0400
+excerpt: "Grace raced to the emergency pull station on the other side of the room."
 header:
   teaser: /assets/images/e835b3062bf0013ecd0b470de7444e90fe76e6d01bb711429cf2c1_640_lab.jpg
   overlay_image: "/assets/images/e835b3062bf0013ecd0b470de7444e90fe76e6d01bb711429cf2c1_640_lab.jpg"
