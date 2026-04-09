@@ -1,5 +1,6 @@
 ---
 title: Six Minutes
+date: 2015-05-25 08:00:00 -0400
 header:
   teaser: /assets/images/earth-244238_1280.jpg
 categories: []

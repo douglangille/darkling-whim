@@ -1,5 +1,6 @@
 ---
 title: Piscans Interruptus
+date: 2014-06-07 08:00:00 -0400
 header:
   teaser: /assets/images/Fishing-spinning-reel.jpg
 categories: []

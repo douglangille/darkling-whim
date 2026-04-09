@@ -1,5 +1,6 @@
 ---
 title: Haley on a Plane
+date: 2014-11-09 08:00:00 -0400
 header:
   teaser: /assets/images/10632832054_b9b2130677_b.jpg
   overlay_image: /assets/images/10632832054_b9b2130677_b.jpg

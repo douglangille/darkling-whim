@@ -1,5 +1,6 @@
 ---
 title: "The Lighter"
+date: 2026-03-12 08:00:00 -0400
 excerpt: "She watches the blue at the root of the flame."
 tags: 
     - flash

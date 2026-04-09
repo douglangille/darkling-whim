@@ -1,5 +1,6 @@
 ---
 title: Ballroom Dreams
+date: 2014-03-19 08:00:00 -0400
 header:
   teaser: /assets/images/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: Let the Chips Fall
+date: 2013-06-04 08:00:00 -0400
 header:
   teaser: /assets/images/3648773666_35714d3792_b.jpg
   overlay_image: /assets/images/3648773666_35714d3792_b.jpg

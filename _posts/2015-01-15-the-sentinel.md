@@ -1,5 +1,6 @@
 ---
 title: The Sentinel
+date: 2015-01-15 08:00:00 -0400
 header:
   teaser: /assets/images/20140313-090105.jpg
 categories: []

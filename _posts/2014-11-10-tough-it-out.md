@@ -1,5 +1,6 @@
 ---
 title: Tough It Out
+date: 2014-11-10 08:00:00 -0400
 header:
   teaser: /assets/images/3789200908_9dbf327800_scrape.jpg
 categories: []

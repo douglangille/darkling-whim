@@ -1,5 +1,6 @@
 ---
 title: The Gators of Mars
+date: 2016-02-28 08:00:00 -0400
 header:
   teaser: /assets/images/teeth-471546_1280.jpg
   overlay_image: /assets/images/teeth-471546_1280.jpg

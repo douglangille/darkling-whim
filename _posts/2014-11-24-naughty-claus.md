@@ -1,5 +1,6 @@
 ---
 title: Naughty Claus
+date: 2014-11-24 08:00:00 -0400
 header:
   teaser: /assets/images/e835b90729fc023ecd0b470de7444e90fe76e6d01db1124293f7c4_640_online-shopping.jpg
   overlay_image: /assets/images/e835b90729fc023ecd0b470de7444e90fe76e6d01db1124293f7c4_640_online-shopping.jpg

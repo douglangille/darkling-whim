@@ -1,5 +1,6 @@
 ---
 title: The Interview
+date: 2015-04-20 08:00:00 -0400
 header:
   teaser: /assets/images/digital-388075_1280.jpg
 categories: []

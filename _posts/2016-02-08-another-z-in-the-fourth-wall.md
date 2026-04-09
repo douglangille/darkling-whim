@@ -3,6 +3,7 @@ header:
   overlay_image: /assets/images/crime-64067_640.jpg
   teaser: /assets/images/crime-64067_640.jpg
 title: Another Z in the Fourth Wall
+date: 2016-02-08 08:00:00 -0400
 categories: []
 tags:
 - haley

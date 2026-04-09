@@ -1,5 +1,6 @@
 ---
 title: Haley Alone
+date: 2021-02-04 08:00:00 -0400
 image: /assets/images/img_0014.jpg
 header:
   teaser: /assets/images/img_0014.jpg

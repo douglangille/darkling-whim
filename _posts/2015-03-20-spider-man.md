@@ -1,5 +1,6 @@
 ---
 title: Spider Man
+date: 2015-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/cobweb-449911_1280.jpg
 categories: []

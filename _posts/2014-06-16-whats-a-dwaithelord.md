@@ -1,5 +1,6 @@
 ---
 title: What&#39;s a Dwaithelord?
+date: 2014-06-16 08:00:00 -0400
 header:
   teaser: /assets/images/5416798747_0095e81ffe_evil-fairy.jpg
 categories: []

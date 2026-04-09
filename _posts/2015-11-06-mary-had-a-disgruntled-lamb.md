@@ -1,5 +1,6 @@
 ---
 title: Mary Had a Disgruntled Lamb
+date: 2015-11-06 08:00:00 -0400
 header:
   teaser: /assets/images/Disgruntled-Lamb.jpg
 categories: []

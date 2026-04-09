@@ -1,5 +1,6 @@
 ---
 title: Blind Dining
+date: 2015-02-06 08:00:00 -0400
 header:
   teaser: /assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg
 categories: []

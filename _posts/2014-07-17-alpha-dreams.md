@@ -1,5 +1,6 @@
 ---
 title: Alpha Dreams
+date: 2014-07-17 08:00:00 -0400
 header:
   teaser: /assets/images/Pug_portrait.jpg
 categories: []

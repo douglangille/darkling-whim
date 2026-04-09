@@ -1,5 +1,6 @@
 ---
 title: Observation
+date: 2015-04-13 08:00:00 -0400
 header:
   teaser: /assets/images/starbucks-569062_1280.jpg
 categories: []

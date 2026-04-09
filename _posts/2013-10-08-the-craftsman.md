@@ -1,5 +1,6 @@
 ---
 title: The Craftsman
+date: 2013-10-08 08:00:00 -0400
 header:
   teaser: /assets/images/Collecting-Knives.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: The Apprentice
+date: 2013-11-01 08:00:00 -0400
 header:
   teaser: /assets/images/8362770480_565fda5a56_b.jpg
 categories: []

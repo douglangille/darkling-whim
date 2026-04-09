@@ -1,5 +1,6 @@
 ---
 title: Moon and Badge
+date: 2014-02-28 08:00:00 -0400
 header:
   teaser: /assets/images/7136114679_82420e7ff5_b.jpg
 categories: []

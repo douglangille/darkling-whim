@@ -1,5 +1,6 @@
 ---
 title: Strange Love
+date: 2014-06-27 08:00:00 -0400
 categories: []
 tags:
 - poetry

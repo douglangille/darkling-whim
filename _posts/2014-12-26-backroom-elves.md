@@ -1,5 +1,6 @@
 ---
 title: Backroom Elves
+date: 2014-12-26 08:00:00 -0400
 header:
   teaser: /assets/images/5297560931_2107f4287a_christmas-elf.jpg
 categories: []

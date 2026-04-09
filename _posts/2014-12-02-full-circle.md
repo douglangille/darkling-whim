@@ -1,5 +1,6 @@
 ---
 title: Full Circle
+date: 2014-12-02 08:00:00 -0400
 header:
   teaser: /assets/images/bus-stop-72171.jpg
 categories: []

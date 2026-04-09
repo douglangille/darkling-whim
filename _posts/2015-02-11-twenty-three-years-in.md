@@ -1,5 +1,6 @@
 ---
 title: Twenty-Three Years In
+date: 2015-02-11 08:00:00 -0400
 header:
   teaser: /assets/images/458439328_3f09c74cfa_bed-night.jpg
   overlay_image: /assets/images/458439328_3f09c74cfa_bed-night.jpg

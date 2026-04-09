@@ -1,5 +1,6 @@
 ---
 title: Bat Geriatrics
+date: 2015-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/batman-532919_1280.jpg
 categories: []

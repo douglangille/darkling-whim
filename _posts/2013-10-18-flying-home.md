@@ -1,5 +1,6 @@
 ---
 title: Flying Home
+date: 2013-10-18 08:00:00 -0400
 header:
   teaser: /assets/images/14870589051_81e9103ce2_b.jpg
 categories: []

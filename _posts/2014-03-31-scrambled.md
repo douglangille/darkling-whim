@@ -1,5 +1,6 @@
 ---
 title: Scrambled
+date: 2014-03-31 08:00:00 -0400
 header:
   teaser: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
 categories: []

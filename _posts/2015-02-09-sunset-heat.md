@@ -1,5 +1,6 @@
 ---
 title: Sunset Heat
+date: 2015-02-09 08:00:00 -0400
 header:
   teaser: /assets/images/end-of-the-day.jpg
 categories: []

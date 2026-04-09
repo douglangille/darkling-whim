@@ -1,5 +1,6 @@
 ---
 title: From the Window
+date: 2015-05-24 08:00:00 -0400
 header:
   overlay_image: /assets/images/IMG_0342.jpg
   teaser: /assets/images/IMG_0342.jpg

@@ -1,5 +1,6 @@
 ---
 title: One Last Letter
+date: 2015-01-08 08:00:00 -0400
 header:
   teaser: /assets/images/nj-321381.jpg
 categories: []

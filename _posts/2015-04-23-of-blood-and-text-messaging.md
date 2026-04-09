@@ -1,5 +1,6 @@
 ---
 title: Of Blood and Text Messaging
+date: 2015-04-23 08:00:00 -0400
 header:
   teaser: /assets/images/smartphone-593318.jpg
 categories: []

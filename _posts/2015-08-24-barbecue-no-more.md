@@ -1,5 +1,6 @@
 ---
 title: Barbecue No More
+date: 2015-08-24 08:00:00 -0400
 header:
   teaser: /assets/images/14407329792_5240b7ed7a_b.jpg
 categories: []

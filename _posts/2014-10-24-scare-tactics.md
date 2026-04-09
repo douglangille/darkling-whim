@@ -1,5 +1,6 @@
 ---
 title: Scare Tactics
+date: 2014-10-24 08:00:00 -0400
 header:
   teaser: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
 categories: []

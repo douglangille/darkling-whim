@@ -1,5 +1,6 @@
 ---
 title: A Gruff Patch
+date: 2015-11-06 08:00:00 -0400
 header:
   teaser: /assets/images/Three-Goats.jpg
 categories: []

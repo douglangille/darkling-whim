@@ -1,5 +1,6 @@
 ---
 title: First Change
+date: 2014-09-26 08:00:00 -0400
 header:
   teaser: /assets/images/2493604415_230048038b_b_werewolf.jpg
 categories: []

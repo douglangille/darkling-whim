@@ -1,5 +1,6 @@
 ---
 title: Intention
+date: 2013-09-19 08:00:00 -0400
 header:
   teaser: /assets/images/3445269852_bca2f85d3c_b-1.jpg
 categories: []

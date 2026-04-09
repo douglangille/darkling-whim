@@ -1,5 +1,6 @@
 ---
 title: Nightfall in the Glade
+date: 2014-07-27 08:00:00 -0400
 header:
   teaser: /assets/images/Forest_Glade.jpg
   overlay_image: /assets/images/Forest_Glade.jpg

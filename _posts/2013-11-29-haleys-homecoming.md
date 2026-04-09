@@ -1,5 +1,6 @@
 ---
 title: Haley's Homecoming
+date: 2013-11-29 08:00:00 -0400
 header:
   teaser: /assets/images/7593788900_3eb3e6e0f7_small-town.jpg
   overlay_image: /assets/images/7593788900_3eb3e6e0f7_small-town.jpg

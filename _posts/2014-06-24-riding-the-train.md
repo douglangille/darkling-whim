@@ -1,5 +1,6 @@
 ---
 title: Riding the Train
+date: 2014-06-24 08:00:00 -0400
 header:
   teaser: /assets/images/subway_car_by_paupah.jpg
 categories: []

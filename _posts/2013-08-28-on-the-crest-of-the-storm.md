@@ -1,5 +1,6 @@
 ---
 title: On the Crest of the Storm
+date: 2013-08-28 08:00:00 -0400
 header:
   teaser: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
 categories: []

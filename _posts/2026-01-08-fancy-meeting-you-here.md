@@ -1,5 +1,6 @@
 ---
 title: Fancy Meeting You Here
+date: 2026-01-08 08:00:00 -0400
 image: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
 header:
   teaser: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png

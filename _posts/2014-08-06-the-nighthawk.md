@@ -1,5 +1,6 @@
 ---
 title: The Nighthawk
+date: 2014-08-06 08:00:00 -0400
 header:
   teaser: /assets/images/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
 categories: []

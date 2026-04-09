@@ -1,5 +1,6 @@
 ---
 title: The Bonded
+date: 2014-12-09 08:00:00 -0400
 header:
   teaser: /assets/images/sky-404060.jpg
 categories: []

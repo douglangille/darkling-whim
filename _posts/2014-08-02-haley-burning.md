@@ -1,5 +1,6 @@
 ---
 title: Haley Burning
+date: 2014-08-02 08:00:00 -0400
 header:
   teaser: /assets/images/match-268526.jpg
   overlay_image: /assets/images/match-268526.jpg

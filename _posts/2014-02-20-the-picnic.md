@@ -1,5 +1,6 @@
 ---
 title: The Picnic
+date: 2014-02-20 08:00:00 -0400
 header:
   teaser: /assets/images/Hole_y_Tree_by_flurrynight.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: Last Glimpse
+date: 2014-09-19 08:00:00 -0400
 header:
   teaser: /assets/images/armagedon-6.jpg
 categories: []

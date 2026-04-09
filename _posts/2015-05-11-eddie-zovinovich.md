@@ -1,5 +1,6 @@
 ---
 title: Eddie Zovinovich
+date: 2015-05-11 08:00:00 -0400
 header:
   teaser: /assets/images/chewing-gum-115162_1280.jpg
   overlay_image: /assets/images/chewing-gum-115162_1280.jpg

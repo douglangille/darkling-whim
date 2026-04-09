@@ -1,5 +1,6 @@
 ---
 title: Judgement Dogs
+date: 2015-03-19 08:00:00 -0400
 header:
   teaser: /assets/images/door-689874_1280.jpg
 categories: []

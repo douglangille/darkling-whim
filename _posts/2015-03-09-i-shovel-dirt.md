@@ -1,5 +1,6 @@
 ---
 title: I Shovel Dirt
+date: 2015-03-09 08:00:00 -0400
 header:
   teaser: /assets/images/man-80101_1920.jpg
 categories: []

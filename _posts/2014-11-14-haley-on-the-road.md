@@ -1,5 +1,6 @@
 ---
 title: Haley on the Road
+date: 2014-11-14 08:00:00 -0400
 header:
   teaser: /assets/images/road-166543.jpg
   overlay_image: /assets/images/road-166543.jpg

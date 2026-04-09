@@ -1,5 +1,6 @@
 ---
 title: The Standoff
+date: 2013-10-21 08:00:00 -0400
 header:
   teaser: /assets/images/5923105171_90007ff833_cat-mouse.jpg
 categories: []

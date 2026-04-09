@@ -1,5 +1,6 @@
 ---
 title: Buckethead
+date: 2015-05-13 08:00:00 -0400
 header:
   teaser: /assets/images/stethoscope-448614_1280.jpg
 categories: []

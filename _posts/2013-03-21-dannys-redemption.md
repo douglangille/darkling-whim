@@ -1,5 +1,6 @@
 ---
 title: Danny's Redemption
+date: 2013-03-21 08:00:00 -0400
 header:
   teaser: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
 category:

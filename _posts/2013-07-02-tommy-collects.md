@@ -1,5 +1,6 @@
 ---
 title: Tommy Collects
+date: 2013-07-02 08:00:00 -0400
 header:
   teaser: /assets/images/4298179061_d2402b6ded_b.jpg
 categories: []

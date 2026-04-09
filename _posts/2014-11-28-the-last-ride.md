@@ -1,5 +1,6 @@
 ---
 title: The Last Ride
+date: 2014-11-28 08:00:00 -0400
 header:
   teaser: /assets/images/5807577702_2b25ec5d7a_bicycle-wheel.jpg
   overlay_image: /assets/images/5807577702_2b25ec5d7a_bicycle-wheel.jpg

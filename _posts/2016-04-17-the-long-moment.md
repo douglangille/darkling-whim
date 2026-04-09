@@ -1,5 +1,6 @@
 ---
 title: The Long Moment
+date: 2016-04-17 08:00:00 -0400
 header:
   teaser: /assets/images/e837b8062df4063ecd0b470de7444e90fe76e6d31db110409df2c7_1280_kiss.png
   overlay_image: /assets/images/e837b8062df4063ecd0b470de7444e90fe76e6d31db110409df2c7_1280_kiss.png

@@ -1,5 +1,6 @@
 ---
 title: It's All About the Cornbread
+date: 2015-09-22 08:00:00 -0400
 header:
   teaser: /assets/images/2205670531_8e595a7a0a_b.jpg
   overlay_image: /assets/images/2205670531_8e595a7a0a_b.jpg

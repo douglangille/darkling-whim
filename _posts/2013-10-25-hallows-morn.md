@@ -1,5 +1,6 @@
 ---
 title: Hallow's Morn
+date: 2013-10-25 08:00:00 -0400
 header:
   teaser: /assets/images/15763329850_bb142a25a4_b.jpg
 categories: []

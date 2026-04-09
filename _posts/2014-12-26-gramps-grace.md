@@ -1,5 +1,6 @@
 ---
 title: Gramp&#8217;s Grace
+date: 2014-12-26 08:00:00 -0400
 header:
   teaser: /assets/images/3265179981_eb3397913f_dinner-grace.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: Bad Bedtime Bacon
+date: 2015-03-19 08:00:00 -0400
 header:
   teaser: /assets/images/bacon-575334_1280.jpg
 categories: []

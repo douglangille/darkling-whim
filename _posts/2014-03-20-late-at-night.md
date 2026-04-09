@@ -1,5 +1,6 @@
 ---
 title: Late at Night
+date: 2014-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/Hospital_by_sheisviolence.jpg
 categories: []

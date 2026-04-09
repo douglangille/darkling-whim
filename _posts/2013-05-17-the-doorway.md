@@ -1,5 +1,6 @@
 ---
 title: The Doorway
+date: 2013-05-17 08:00:00 -0400
 header:
   teaser: /assets/images/19413383176_76321090c1_b_doorway.jpg
 categories: []

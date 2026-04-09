@@ -1,5 +1,6 @@
 ---
 title: Wendell&#39;s Solution
+date: 2014-05-16 08:00:00 -0400
 header:
   teaser: /assets/images/249752730_c02409b9ca_o.jpg
 categories: []

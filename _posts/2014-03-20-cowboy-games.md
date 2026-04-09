@@ -1,5 +1,6 @@
 ---
 title: Cowboy Games
+date: 2014-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
   overlay_image: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg

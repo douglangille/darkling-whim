@@ -1,5 +1,6 @@
 ---
 title: Woden&#39;s Daughter
+date: 2014-02-25 08:00:00 -0400
 header:
   teaser: /assets/images/precipice_by_machelko.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: Georgie Groundhog
+date: 2014-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/7420708952_0c90eb0fea_b.jpg
 categories: []

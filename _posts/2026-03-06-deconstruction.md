@@ -1,5 +1,6 @@
 ---
 title: "Deconstruction"
+date: 2026-03-06 08:00:00 -0400
 header:
   overlay_image: /assets/images/ideogram-v3.0_A_cinematic_overhead_shot_looking_straight_down_at_a_worn_institutional_work_tab-0.jpg
   teaser: /assets/images/ideogram-v3.0_A_cinematic_overhead_shot_looking_straight_down_at_a_worn_institutional_work_tab-0.jpg

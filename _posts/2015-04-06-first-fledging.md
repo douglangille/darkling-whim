@@ -1,5 +1,6 @@
 ---
 title: First Fledging
+date: 2015-04-06 08:00:00 -0400
 header:
   teaser: /assets/images/sky-15198_1280.jpg
 categories: []

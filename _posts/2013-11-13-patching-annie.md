@@ -1,5 +1,6 @@
 ---
 title: Patching Annie
+date: 2013-11-13 08:00:00 -0400
 header:
   teaser: /assets/images/6164022668_e6a611ccfe_b.jpg
 categories: []

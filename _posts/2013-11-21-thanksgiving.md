@@ -1,5 +1,6 @@
 ---
 title: Thanksgiving
+date: 2013-11-21 08:00:00 -0400
 header:
   teaser: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
 categories: []

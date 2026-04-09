@@ -1,5 +1,6 @@
 ---
 title: The Dark Pool of Lamia
+date: 2015-01-26 08:00:00 -0400
 header:
   teaser: /assets/images/water-drop-173751.jpg
   overlay_image: /assets/images/water-drop-173751.jpg

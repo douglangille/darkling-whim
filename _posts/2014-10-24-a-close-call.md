@@ -1,5 +1,6 @@
 ---
 title: A Close Call
+date: 2014-10-24 08:00:00 -0400
 header:
   teaser: /assets/images/4597461278_a5c993ccc1_b.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: "Station Seven"
+date: 2026-03-26 08:00:00 -0400
 excerpt: "The air tastes like ammonia and bleach and something underneath both."
 tags: [flash, horror]
 header:

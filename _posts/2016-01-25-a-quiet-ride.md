@@ -1,5 +1,6 @@
 ---
 title: A Quiet Ride
+date: 2016-01-25 08:00:00 -0400
 header:
   teaser: /assets/images/14831550395_83c957fbd8_tire-gravel.jpg
   overlay_image: /assets/images/14831550395_83c957fbd8_tire-gravel.jpg

@@ -1,5 +1,6 @@
 ---
 title: Good Boy, Jake
+date: 2014-05-09 08:00:00 -0400
 header:
   teaser: /assets/images/32221740_530a3d192c_b.jpg
 categories: []

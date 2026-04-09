@@ -1,5 +1,6 @@
 ---
 title: Tommy and Jamie
+date: 2014-09-26 08:00:00 -0400
 header:
   teaser: /assets/images/4229023687_dde8b6962e_b_mittens.jpg
 categories: []

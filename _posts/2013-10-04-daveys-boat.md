@@ -1,5 +1,6 @@
 ---
 title: Davey's Boat
+date: 2013-10-04 08:00:00 -0400
 header:
   teaser: /assets/images/7c12253e0cafcd77_640_rain-street.jpg
 categories: []

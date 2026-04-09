@@ -1,5 +1,6 @@
 ---
 title: The Bogeyman
+date: 2014-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/RSS006.jpg
   overlay_image: /assets/images/RSS006.jpg

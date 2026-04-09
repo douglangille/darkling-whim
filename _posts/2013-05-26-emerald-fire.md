@@ -1,5 +1,6 @@
 ---
 title: Emerald Fire
+date: 2013-05-26 08:00:00 -0400
 header:
   teaser: /assets/images/4877453831_9016c0ac98_b.jpg
 categories: []

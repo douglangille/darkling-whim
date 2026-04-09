@@ -1,5 +1,6 @@
 ---
 title: Lost in the Rain
+date: 2014-09-01 08:00:00 -0400
 header:
   teaser: /assets/images/Storm_Drain.jpg
 categories: []

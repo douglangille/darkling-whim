@@ -1,5 +1,6 @@
 ---
 title: A Beginning&#8230;
+date: 2015-01-19 08:00:00 -0400
 header:
   teaser: /assets/images/4023271489_298888916d_blood-drop.jpg
 categories: []

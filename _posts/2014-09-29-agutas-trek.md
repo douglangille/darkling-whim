@@ -1,5 +1,6 @@
 ---
 title: Aguta&#39;s Trek
+date: 2014-09-29 08:00:00 -0400
 header:
   teaser: /assets/images/2303495178_2be7a54eda_arctic-tundra.jpg
 categories: []

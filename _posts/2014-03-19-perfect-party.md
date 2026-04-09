@@ -1,5 +1,6 @@
 ---
 title: Perfect Party
+date: 2014-03-19 08:00:00 -0400
 header:
   teaser: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
 categories: []

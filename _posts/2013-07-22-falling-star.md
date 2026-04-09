@@ -1,5 +1,6 @@
 ---
 title: Falling Star
+date: 2013-07-22 08:00:00 -0400
 header:
   teaser: /assets/images/4949129334_4de1a73374_b_falling-star.jpg
 categories: []

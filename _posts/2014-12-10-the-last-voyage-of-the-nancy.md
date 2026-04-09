@@ -1,5 +1,6 @@
 ---
 title: The Last Voyage of the Nancy
+date: 2014-12-10 08:00:00 -0400
 header:
   teaser: /assets/images/3057385436_c407aa8e3e_b.jpg
 categories: []

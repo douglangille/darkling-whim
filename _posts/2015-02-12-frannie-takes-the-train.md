@@ -1,5 +1,6 @@
 ---
 title: Frannie Takes the Train
+date: 2015-02-12 08:00:00 -0400
 header:
   teaser: /assets/images/handcuffs-219261.jpg
 categories: []

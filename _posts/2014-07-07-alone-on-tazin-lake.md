@@ -1,5 +1,6 @@
 ---
 title: Alone on Tazin Lake
+date: 2014-07-07 08:00:00 -0400
 header:
   teaser: /assets/images/IMG-20121020-00007.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: Black Ice Heart
+date: 2014-11-12 08:00:00 -0400
 header:
   overlay_image: /assets/images/2904993736_e42f8ec487_z.jpg
   teaser: /assets/images/2904993736_e42f8ec487_z.jpg

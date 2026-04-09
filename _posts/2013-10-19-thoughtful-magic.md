@@ -1,5 +1,6 @@
 ---
 title: Thoughtful Magic
+date: 2013-10-19 08:00:00 -0400
 header:
   teaser: /assets/images/1deb57f5e4789aa4_1280_mask.jpg
 categories: []

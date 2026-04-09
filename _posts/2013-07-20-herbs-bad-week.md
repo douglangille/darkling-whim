@@ -1,5 +1,6 @@
 ---
 title: Herb's Bad Week
+date: 2013-07-20 08:00:00 -0400
 header:
   teaser: /assets/images/5767025075_409bb987e0_b_noose.jpg
 categories: []

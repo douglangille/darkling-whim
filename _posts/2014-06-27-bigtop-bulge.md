@@ -1,5 +1,6 @@
 ---
 title: Bigtop Bulge
+date: 2014-06-27 08:00:00 -0400
 header:
   teaser: /assets/images/8019720146_bd87339614_b.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: The Gypsy Tent
+date: 2013-08-10 08:00:00 -0400
 header:
   teaser: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 categories: []

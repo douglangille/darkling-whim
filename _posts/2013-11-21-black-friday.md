@@ -1,5 +1,6 @@
 ---
 title: Black Friday
+date: 2013-11-21 08:00:00 -0400
 header:
   teaser: /assets/images/15709773049_55712386fe_b.jpg
 categories: []

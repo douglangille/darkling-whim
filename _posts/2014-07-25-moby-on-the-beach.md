@@ -1,5 +1,6 @@
 ---
 title: Moby on the Beach
+date: 2014-07-25 08:00:00 -0400
 header:
   teaser: /assets/images/1196478322_fec1df88ce_b.jpg
 categories: []

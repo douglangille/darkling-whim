@@ -1,5 +1,6 @@
 ---
 title: Alien Haiku
+date: 2014-09-26 08:00:00 -0400
 header:
   teaser: /assets/images/9153767970_5a8cbf4f18_b.jpg
 categories: []

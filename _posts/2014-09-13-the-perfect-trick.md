@@ -1,5 +1,6 @@
 ---
 title: The Perfect Trick
+date: 2014-09-13 08:00:00 -0400
 header:
   teaser: /assets/images/12-magic-tricks-rescan1.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: Too Far from Home
+date: 2015-04-08 08:00:00 -0400
 header:
   teaser: /assets/images/target-659025.jpg
 categories: []

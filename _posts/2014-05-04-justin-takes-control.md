@@ -1,5 +1,6 @@
 ---
 title: Justin Takes Control
+date: 2014-05-04 08:00:00 -0400
 header:
   teaser: /assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg
 categories: []

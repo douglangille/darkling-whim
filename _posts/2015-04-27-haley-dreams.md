@@ -1,5 +1,6 @@
 ---
 title: Haley Dreams
+date: 2015-04-27 08:00:00 -0400
 header:
   teaser: /assets/images/apocalypse-371947_1280.jpg
   overlay_image: /assets/images/apocalypse-371947_1280.jpg

@@ -1,5 +1,6 @@
 ---
 title: Calum in the Forest
+date: 2026-01-15 08:00:00 -0400
 image: /assets/images/generated-image.png
 header:
   teaser: /assets/images/generated-image.png

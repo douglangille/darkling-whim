@@ -1,5 +1,6 @@
 ---
 title: Time to Write
+date: 2015-12-12 08:00:00 -0400
 header:
   teaser: /assets/images/hourglass-620397_640.jpg
   categories: perspectives

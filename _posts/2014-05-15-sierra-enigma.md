@@ -1,5 +1,6 @@
 ---
 title: Sierra Enigma
+date: 2014-05-15 08:00:00 -0400
 header:
   teaser: /assets/images/PartialHeterochromia.jpg
 categories: []

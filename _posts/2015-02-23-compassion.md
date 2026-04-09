@@ -1,5 +1,6 @@
 ---
 title: Compassion
+date: 2015-02-23 08:00:00 -0400
 header:
   teaser: /assets/images/3529592370_568f8f0490_hospital-machine.jpg
 categories: []

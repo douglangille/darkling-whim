@@ -1,5 +1,6 @@
 ---
 title: Is this the End, Haley?
+date: 2014-10-31 08:00:00 -0400
 header:
   teaser: /assets/images/c7eae012190627c8_1280_night-birds.jpg
   overlay_image: /assets/images/c7eae012190627c8_1280_night-birds.jpg

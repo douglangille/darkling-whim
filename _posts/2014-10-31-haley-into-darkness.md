@@ -1,5 +1,6 @@
 ---
 title: Haley Into Darkness
+date: 2014-10-31 08:00:00 -0400
 header:
   teaser: /assets/images/5e4b3b460f6e1ab4_640_closet.jpg
   overlay_image: /assets/images/5e4b3b460f6e1ab4_640_closet.jpg

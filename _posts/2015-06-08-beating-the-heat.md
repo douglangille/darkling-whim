@@ -1,5 +1,6 @@
 ---
 title: Beating the Heat
+date: 2015-06-08 08:00:00 -0400
 excerpt: I took the cool can and placed it on my chest, letting the condensation drip
   between my breasts.
 categories: []

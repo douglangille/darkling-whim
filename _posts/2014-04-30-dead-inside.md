@@ -1,5 +1,6 @@
 ---
 title: Dead Inside
+date: 2014-04-30 08:00:00 -0400
 header:
   teaser: /assets/images/2539093647_fb775f496b_b.jpg
 categories: []

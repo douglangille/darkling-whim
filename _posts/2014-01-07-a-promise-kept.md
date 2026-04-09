@@ -1,5 +1,6 @@
 ---
 title: A Promise Kept
+date: 2014-01-07 08:00:00 -0400
 header:
   teaser: /assets/images/4297653599_5d435cf261_b_peggy-cove.jpg
 categories: []

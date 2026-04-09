@@ -1,5 +1,6 @@
 ---
 title: The Last Mercy
+date: 2026-02-21 08:00:00 -0400
 header:
   teaser: /assets/images/Faded beauty on cracked pavement.png
   overlay_image: /assets/images/Faded beauty on cracked pavement.png

@@ -1,5 +1,6 @@
 ---
 title: Newly Freed
+date: 2014-12-15 08:00:00 -0400
 header:
   teaser: /assets/images/16679994001_e322a3ab83_b.jpg
   overlay_image: /assets/images/16679994001_e322a3ab83_b.jpg

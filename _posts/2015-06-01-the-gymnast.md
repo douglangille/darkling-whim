@@ -1,5 +1,6 @@
 ---
 title: The Gymnast
+date: 2015-06-01 08:00:00 -0400
 header:
   teaser: /assets/images/rhythm-78387_1280.jpg
 categories: []

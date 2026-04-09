@@ -1,5 +1,6 @@
 ---
 title: Mouse Caper
+date: 2015-03-19 08:00:00 -0400
 header:
   teaser: /assets/images/food-bowl-281978_1280.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: The Last Days of the Marcy Bell
+date: 2014-05-10 08:00:00 -0400
 header:
   teaser: /assets/images/3375982065_d2b7a3b27b_o.jpg
 categories: []

@@ -1,5 +1,6 @@
 ---
 title: At the Mall
+date: 2015-03-20 08:00:00 -0400
 header:
   teaser: /assets/images/post-66098_1920.jpg
 categories: []

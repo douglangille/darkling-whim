@@ -1,5 +1,6 @@
 ---
 title: Timmy Calls Wish Fulfillement
+date: 2013-05-08 08:00:00 -0400
 header:
   teaser: /assets/images/7091212300ecb41f_1280_telephone.jpg
 categories: []

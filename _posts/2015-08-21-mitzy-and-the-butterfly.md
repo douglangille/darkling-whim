@@ -1,5 +1,6 @@
 ---
 title: Mitzy and the Butterfly
+date: 2015-08-21 08:00:00 -0400
 header:
   teaser: /assets/images/8b973b71609dfded_640.jpg
   overlay_image: /assets/images/8b973b71609dfded_640.jog

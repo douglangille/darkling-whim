@@ -1,5 +1,6 @@
 ---
 title: Newsworthy
+date: 2013-09-03 08:00:00 -0400
 header:
   teaser: /assets/images/3810416462_ac86d2645b_newsroom.jpg
 categories: []
