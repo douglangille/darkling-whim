@@ -1,7 +1,7 @@
 ---
 title: Perfect Party
 date: 2014-03-19 08:00:00 -0400
-excerpt: "Doug is dressed in his party best, In a feathered hat and a sequined vest."
+excerpt: "Doug is dressed in his party best"
 header:
   teaser: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
   overlay_image: "/assets/images/4037536134_4d07ce228f_feathered-hat.jpg"

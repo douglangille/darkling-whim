@@ -1,7 +1,7 @@
 ---
 title: High Seas Laundry
 date: 2014-03-17 08:00:00 -0400
-excerpt: "Captain Hook, he climbed the deck, Lookin' for Smee, to give him heck."
+excerpt: "Captain Hook, he climbed the deck"
 header:
   teaser: /assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png
   overlay_image: "/assets/images/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png"
