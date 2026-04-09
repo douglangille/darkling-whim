@@ -50,14 +50,22 @@ def fix_post(filepath, dry_run=True):
     # Prepare new front matter
     new_front_matter = front_matter[:insert_point] + new_overlay + front_matter[insert_point:]
 
-    # Try to remove inline <img> tag if it matches the teaser
+    # Try to remove inline <img> or markdown ![...] if it matches the teaser
     new_body = body
-    img_pattern = rf'<img[^>]*src="?{re.escape(teaser_path)}"?[^>]*>\s*'
-    if re.search(img_pattern, new_body):
-        new_body = re.sub(img_pattern, '', new_body, count=1)
+    img_removed = False
+
+    # Try HTML <img> tag first
+    html_img_pattern = rf'<img[^>]*src="?{re.escape(teaser_path)}"?[^>]*>\s*'
+    if re.search(html_img_pattern, new_body):
+        new_body = re.sub(html_img_pattern, '', new_body, count=1)
         img_removed = True
-    else:
-        img_removed = False
+
+    # Try markdown ![...](path) format
+    if not img_removed:
+        md_img_pattern = rf'!\[\]\({re.escape(teaser_path)}\)\s*'
+        if re.search(md_img_pattern, new_body):
+            new_body = re.sub(md_img_pattern, '', new_body, count=1)
+            img_removed = True
 
     new_content = f"---{new_front_matter}---{new_body}"
 

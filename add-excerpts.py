@@ -11,24 +11,33 @@ from pathlib import Path
 def extract_first_sentence(text):
     """
     Extract the first complete sentence from text.
-    Skips HTML tags and returns first sentence ending with . ! or ?
+    Skips HTML tags and markdown images, returns first sentence ending with . ! or ?
     """
+    clean_text = text.strip()
+
     # Remove leading HTML tags
-    clean_text = re.sub(r'^<[^>]+>\s*', '', text.strip())
+    clean_text = re.sub(r'^<[^>]+>\s*', '', clean_text)
+
+    # Remove leading markdown images ![...](...)
+    clean_text = re.sub(r'^!\[[^\]]*\]\([^\)]+\)\s*', '', clean_text)
 
     # Find first sentence (ending with . ! or ?)
-    # Match text up to first sentence terminator
-    match = re.match(r'([^.!?]*[.!?])', clean_text, re.DOTALL)
+    # Match text up to first sentence terminator, but skip . in patterns like "..."
+    match = re.match(r'([^.!?]*?[.!?])(?:\s|$)', clean_text, re.DOTALL)
 
     if match:
         sentence = match.group(1).strip()
+        # Remove ellipsis repetition and clean up
+        sentence = re.sub(r'\.{2,}', '.', sentence)
         # Clean up any remaining HTML or extra whitespace
         sentence = re.sub(r'<[^>]+>', '', sentence)
+        sentence = re.sub(r'!\[[^\]]*\]\([^\)]+\)', '', sentence)
         sentence = re.sub(r'\s+', ' ', sentence).strip()
-        return sentence
+        return sentence if sentence else None
 
     # Fallback: return first ~80 chars if no sentence found
     fallback = re.sub(r'<[^>]+>', '', clean_text)
+    fallback = re.sub(r'!\[[^\]]*\]\([^\)]+\)', '', fallback)
     fallback = re.sub(r'\s+', ' ', fallback).strip()
     if len(fallback) > 80:
         return fallback[:77] + "..."
