@@ -45,7 +45,7 @@ He's still looking at himself. At the spreading stain. His mouth opens.
 
 "You're going to --" He stops. Starts again. "You have no idea. I'll have your --" His hand comes up and he's pointing at me now, finger shaking a little, and the sentence doesn't finish.
 
-I'm already walking. Past the espresso machine. My shoes squeak on the tile. That specific squeak that hurts my teeth and I've been trying to shut out for six months. My feet slow. I keep going. Past the pastry case at my left shoulder. Chappell Roan finishes up.
+I'm already walking. Past the espresso machine. My shoes squeak on the tile. That specific squeak that hurts my teeth and I've been trying to shut it out for six months. My feet slow. I keep going. Past the pastry case at my left shoulder. Chappell Roan finishes up.
 
 I can't find my bag. I check the wrong locker twice. The third one is mine. I stand there for a second with the strap in my hand before I remember I'm leaving.
 
