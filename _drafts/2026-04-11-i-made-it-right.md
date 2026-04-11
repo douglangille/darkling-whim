@@ -1,10 +1,10 @@
 ---
-title: I Made It Right
+title: "I Made It Right"
 tags: [flash, drama, thriller]
 excerpt: "The steam wand hisses."
 header:
-  teaser:
-  overlay_image: 
+  teaser: /assets/images/IMG_0122.jpeg
+  overlay_image: /assets/images/IMG_0122.jpeg
 ---
 
 The steam wand hisses. Pink Pony Club is playing. *Won't make my mama proud, it's gonna cause a scene.* I'm humming it without meaning to, the way that makes the shift speed by.
