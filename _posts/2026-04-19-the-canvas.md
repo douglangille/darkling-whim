@@ -9,7 +9,7 @@ header:
 
 The rock cut through her gloves at the third handhold.
 
-She knew it by the warmth, wet inside the waxed canvas, cold where air hit it. She didn't look. Looking cost time and time cost height. She pressed her cheek against the face instead, breathed through her teeth, and found the next hold by feel.
+She knew it by the warmth, wet inside the waxed duck cloth, cold where air hit it. She didn't look. Looking cost time and time cost height. She pressed her cheek against the face instead, breathed through her teeth, and found the next hold by feel.
 
 The mountain had no name she knew. It had taken four days to reach its base and three more to climb what she'd climbed. The face above her was the same as the face below, pale, dry, crumbling at the edges like old bread. Nothing grew here. Nothing had grown here for a long time, maybe ever.
 
@@ -33,7 +33,7 @@ She looked out for a long time.
 
 Then she opened her pack.
 
-The bag at the bottom was canvas, salt-stained, the drawstring worn smooth. She pulled it out and set it beside her and undid the knot. Inside: a stick of chalk with one flat edge from use, a leather roll of brushes: six, each stamped with a number at the ferrule, the higher numbers barely used, the lower ones worn to stubs, a folding knife with a bone handle and a maker's mark on the blade she'd never bothered to look up, a glass jar stopped with a rubber gasket and something moving inside it. Not moving like alive. Moving like a thought half-finished. And the charges. Twelve of them. Wrapped in cloth, each one the length of her middle finger, cold even through the wrapping.
+The bag at the bottom was salt-stained, the drawstring worn smooth. She pulled it out and set it beside her and undid the knot. Inside: a stick of chalk with one flat edge from use, a leather roll of brushes: six, each stamped with a number at the ferrule, the higher numbers barely used, the lower ones worn to stubs, a folding knife with a bone handle and a maker's mark on the blade she'd never bothered to look up, a glass jar stopped with a rubber gasket and something moving inside it. Not moving like alive. Moving like a thought half-finished. And the charges. Twelve of them. Wrapped in cloth, each one the length of her middle finger, cold even through the wrapping.
 
 She took out a charge and held it between her palms.
 
