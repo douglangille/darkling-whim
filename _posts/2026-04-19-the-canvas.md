@@ -67,8 +67,12 @@ The jar sat there a moment.
 
 Then it tipped.
 
-She watched it fall.
+She watched it fall and waited.
+﻿
+﻿A breath reached her. Alive.
+﻿
+﻿The valley answered.
 
-She turned back to the valley and took out the last six charges and laid them in a row on the stone beside her, and she started again from the north end, working toward the water.
+She took out the last six charges and laid them in a row on the stone beside her, and started again from the north end, working toward the water.
 
 The green line kept moving south.
