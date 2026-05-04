@@ -12,6 +12,9 @@ tags:
 excerpt: Every shot taken draws the forest closer.
 ---
 
+
+# Calum in the Forest
+
 The moss is darker where I kneel. Not wet-dark. Something else. I frame it, check the aperture twice, breathe through my nose the way I'm supposed to. Three-point-five, ISO 400, the light's doing that thing again where it pools instead of filters. I take the shot. 
 
 The rustling to my left. I don't look. Not yet. The moss exhales. I need the composition right first, need the focus points where they're supposed to be, and then I can turn my head and catalog what moved.

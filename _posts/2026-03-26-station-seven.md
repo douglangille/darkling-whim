@@ -8,6 +8,9 @@ header:
     overlay_image: "/assets/images/generated-image-4.png"
 ---
 
+
+# Station Seven
+
 You will arrive at six forty-five. The fluorescent panels will flicker in sequence, a rhythm you stopped noticing three years ago. Or five. Time moves differently here. The light is broken in a way that makes everything look already dead. The air tastes like ammonia and bleach and something underneath both. Something that's been waiting.
 
 You will sit at your station. Station Seven. The number is stamped on the desk in faded letters. The stamp holder sits at a forty-five degree angle, worn smooth where your palm has rested three thousand times. Or five thousand. Or more. You will not remember when you chose this number or if anyone asked. The chair is molded to your shape now. Your shape has become the chair's shape. It holds the cold of the room like bone holds cold. You will adjust the stamp in the metal holder. The stamp will be heavy. Heavier than it should be for its size.

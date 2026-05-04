@@ -13,6 +13,9 @@ tags:
 - drama
 ---
 
+
+# Haley Into Darkness
+
 We huddled in the dark closet for what seemed like forever, our hearts pounding in our chests. The blood washed in my head, a tidal ebb and flow with each beat of endless waiting. My eyes hurt from squeezing them shut. I opened them slowly and all I saw was the darklight static of the room. Flashes and fibers of light noise sparked in the black as my brain struggled to make sense of the dark. It made me dizzy.
 
 My jaw ached from clenching and when I finally let my breath escape, the release flowed through me. I could feel the tingles and aches of muscles held too long in one position. How long were we here, hiding like frightened mice?

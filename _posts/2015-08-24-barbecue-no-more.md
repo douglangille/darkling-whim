@@ -12,6 +12,9 @@ tags:
 - humour
 ---
 
+
+# Barbecue No More
+
 Steak was supposed to be on sale.
 
 Beef had been so expensive lately that my gal and me were subsisting on less than choice cuts of pork-much to the dismay of the broader Pig community. If they had their way, we'd all be eating fish.

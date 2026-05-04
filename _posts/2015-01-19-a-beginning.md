@@ -12,6 +12,9 @@ tags:
 - horror
 ---
 
+
+# A Beginning&#8230;
+
 Amy wiped the blood from the corner of her mouth and flushed the toilet quickly before her mother asked questions.
 
 <small>Photo by <a href="http://www.flickr.com/photos/11598937@N08/4023271489">Jo Naylor</a></small>

@@ -13,6 +13,9 @@ tags:
 - drama
 ---
 
+
+# For the Love of a Dragon
+
 "Should anyone here present know of any reason that this couple should not be joined in holy matrimony, speak now or forever hold your peace."  
 
 I glanced to the big door at the back of the church. Nothing. She wasn't going to ruin this for me after all. I looked back to the woman whose hands I held. I'd waited so long for this moment.

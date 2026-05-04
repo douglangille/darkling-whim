@@ -13,6 +13,9 @@ tags:
 - revised
 ---
 
+
+# From the Window
+
 Elvis has left the building.
 
 That's what they say every time the ambulance shows up without lights and sirens. Of course, no one but Larry and me know who the King even was let alone get the joke.

@@ -9,6 +9,9 @@ tags: [ short-story, drama, humour, revised ]
 revised: 2026-04-03
 ---
 
+
+# Helter Swelter
+
 ## LEVERAGE
 
 Stuart fidgeted with his tie. The room sweltered. Larry stood by the door, angled toward escape. Jimmy held up the far wall behind his lady-killer sunglasses, probably sleeping. Missy was draped across the leather couch, eyes drifting to the window. Amid this small crew of idiots, Marty spoke from his pulpit. He droned about sales and the poor economy. Peddling used cars stood as a tough gig at the best of times. In the middle of a summer heat wave, even the veterans struggled to make book.

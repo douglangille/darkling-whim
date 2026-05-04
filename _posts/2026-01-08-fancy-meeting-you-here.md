@@ -13,6 +13,9 @@ tags:
 excerpt: Vanilla musk. She never changes.
 ---
 
+
+# Fancy Meeting You Here
+
 Elliot sighted carefully, took aim, and flicked the peanut shell across the bar into a glass of stale beer. It landed with a satisfying plop. He smirked to himself, shrugged his shoulders and straightened on his stool, before bringing his own glass to his lips.
 
 He closed his eyes as the door opened behind him. A rattle of bells and a blast of January chill made the hair on the back of his neck perk up. Or maybe it was her. He smelled her perfume. Vanilla musk. She never changes. Eternal.

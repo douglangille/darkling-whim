@@ -12,6 +12,9 @@ tags:
 - horror
 ---
 
+
+# What&#39;s a Dwaithelord?
+
 Dwaithelord --- an honorific for the tribal leader of a coven of dwarven wraith soul stealers. Traditionally male, Dwaithelords are honor-bound to defend their their subjects to the point of True Death if necessary.
 
 Dwaithelord B'lain embedded his magicked axe in the skull of the Ctalte'en beast.

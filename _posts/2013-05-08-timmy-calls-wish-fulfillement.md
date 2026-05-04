@@ -12,6 +12,9 @@ tags:
 - horror
 ---
 
+
+# Timmy Calls Wish Fulfillement
+
 "Hello. Wish Fulfillment Department, a division of Hopes and Dreams Incorporated. Welcome to our Customer Care Centre. Please listen carefully to the following options so that we may best direct your call."
 
 "If you wish to make a wish, press 1, and you will be transferred to 'Genies and Leprechauns'. If you wish to cancel a wish, press 2, and you will be directed to 'Devil's Bargains'. If you wish to wish for more wishes, you may hang up now."

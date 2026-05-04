@@ -12,6 +12,9 @@ tags:
 - thriller
 ---
 
+
+# Blind Dining
+
 "Eyes up, soldier," she said and I did. The corner of her mouth was turned up in a smirk, eyes sparkling.
 
 I sat back in my chair and pressed my two index fingers together, watching the tips turn white. "Busted," I said and returned her smile.

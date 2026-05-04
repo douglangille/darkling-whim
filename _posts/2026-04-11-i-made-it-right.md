@@ -7,6 +7,9 @@ header:
   overlay_image: /assets/images/IMG_0122.jpeg
 ---
 
+
+# I Made It Right
+
 The steam wand hisses. Pink Pony Club is playing. *Won't make my mama proud, it's gonna cause a scene.* I'm humming it without meaning to, the way that makes the shift speed by.
 
 His hands tremble when he sets the cup down.

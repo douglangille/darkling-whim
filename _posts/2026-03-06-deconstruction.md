@@ -11,6 +11,9 @@ tags:
 excerpt: "The box says forty-two pieces. I've counted three times"
 ---
 
+
+# Deconstruction
+
 The box says forty-two pieces. I've counted three times.
 
 Shredded document 2025-08-14-C, suicide note, archived evidence. "Beginning reconstruction at fourteen-twenty hours. Document appears complete per inventory log."

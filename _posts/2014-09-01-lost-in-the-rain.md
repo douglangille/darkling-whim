@@ -11,6 +11,9 @@ tags:
 - horror
 ---
 
+
+# Lost in the Rain
+
 rain in late summer  
  the boy walks along the street  
  following a boat

@@ -11,6 +11,9 @@ tags:
 - humour
 ---
 
+
+# High Seas Laundry
+
 Captain Hook, he climbed the deck,  
  Lookin' for Smee, to give him heck.
 

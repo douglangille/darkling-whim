@@ -12,6 +12,9 @@ tags:
 - thriller
 ---
 
+
+# Deus Ex Machina
+
 "Where's my son?" Luthur Pinderton slammed  his large hand against the cinder-block that framed the window of the interrogation room. Inside, Detective Goran was getting the run-around from his quarry. Merle Cambridge, the Magnificent if you prefer, was proving to be as mysterious as his shtick would have his patrons believe.
 
 Elaine was Luthur's wife of twenty long years and mother of the missing young Artie. She vacillated between a hand-wringing pacing and and a bawling collapse. Goran's partner, Eames was trying desperately to get the distraught woman's statement. The look on the detective's face was one of practised patience masking futility's exasperation.

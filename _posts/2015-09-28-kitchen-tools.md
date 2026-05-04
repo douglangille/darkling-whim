@@ -13,6 +13,9 @@ tags:
 - humour
 ---
 
+
+# Kitchen Tools
+
 "But what if I hold it like this?" asked Eunice.
 
 "Try it," I said. There was only one way to learn. Our lives depended on it.

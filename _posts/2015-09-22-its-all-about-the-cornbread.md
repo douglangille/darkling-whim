@@ -13,6 +13,9 @@ tags:
 - fantasy
 ---
 
+
+# It's All About the Cornbread
+
 Ya see, us here wolves got a bad rap. We ain't so bad. I tell ya, most of us would rather drop in to Joe's Diner than trounce through the Woods looking for some eats.
 
 Sure, we got these pointy chompers and a nose that won't quit-it ain't all roses, folks, if ya know what I mean-but none of that measures up much against a bowl of stew and cornbread. Fresh. With maple syrup. Man, I can't stop drooling just thinking about. How 'bouts we continue this little chat over some grub?

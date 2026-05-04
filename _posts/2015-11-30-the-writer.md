@@ -14,6 +14,9 @@ excerpt: Doug leans back in his Lazyboy and stretches his arms over his head wit
   laced fingers.
 ---
 
+
+# The Writer
+
 Doug leans back in his Lazyboy and stretches his arms over his head with laced fingers. Gracie seizes the opportunity and slinks on to his lap, circles twice (counter-clockwise) before curing up in a ball with a satisfied sigh. 
 
 The story isn't finished yet. It probably won't be. Damnable November. 

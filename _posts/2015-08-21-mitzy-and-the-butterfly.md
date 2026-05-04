@@ -12,6 +12,9 @@ tags:
 - horror
 ---
 
+
+# Mitzy and the Butterfly
+
 And as quickly begun, it was finished. *White magic. My little sister. Gone.*
 
 The girl rose and stood in the centre of the overgrown boxwood Maze, no longer sure of anything. Her bed, back home, felt real. Felt like this horror was the dream instead of reality. Birdsong floated from high above.

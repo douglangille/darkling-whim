@@ -12,6 +12,9 @@ tags:
 - horror
 ---
 
+
+# The Bonded
+
 Not every Fayre could be trusted. I learned that lesson early on. But for every million of the flittering little freaks that infested the planet, there was one who didn't fill our minds with saccharine bullshit. No, these rare breeds cast aside their masks.
 
 Glit was my Companion. "What's wrong, Nathan?" she asked. I swatted at her but she dodged easily, her wings buzzing in complaint. "I'm not going anywhere. We're bonded."

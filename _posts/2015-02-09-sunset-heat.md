@@ -11,6 +11,9 @@ tags:
 - drama
 ---
 
+
+# Sunset Heat
+
 I put the rest of the tools in the trunk and wheeled it over to the tie-downs. The sweat poured off my head despite the cooling salt air. It was a hot day and I pretty damn happy for sunset and a little downtime. I looked out at the orange glow of the ocean. Big sky.
 
 Chief Petty Office Williams' silhouette reminded me of why were were way the Hell out here. I stopped him before he could leave. "What's the L.T. have in store us tonight, Chief."

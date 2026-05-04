@@ -9,6 +9,9 @@ tags: [flash, thriller, revised]
 revised: 2026-03-15
 ---
 
+
+# The Way Home
+
 Gwen barely could focus on the oncoming traffic as she headed for home.
 
 The white line on the highway blurred and steadied, blurred and steadied. Her eyelids dragged down with each mile.

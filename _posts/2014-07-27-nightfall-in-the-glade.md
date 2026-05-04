@@ -12,6 +12,9 @@ tags:
 - horror
 ---
 
+
+# Nightfall in the Glade
+
 Legato and Mezzo flew as if their wings were aflame, knocking baskets of gathered berries to the forest floor far below. The twins corkscrewed their way up and around the ancient tree to the canopy of the Glade. They landed on the Great Chamber's platform at a sprint. Chancellor Fortissima of the Faie waited for her couriers to catch their breath.
 
 "But Milady, we have to share these foul tidings," insisted Mezzo.

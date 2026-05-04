@@ -12,6 +12,9 @@ tags:
 - drama
 ---
 
+
+# Good Morning
+
 Let's get the moral of the story up front, shall we? Never try to hypnotize a gypsy. Never host a bachelor party the night before the nuptials. Oh, and never invite your ex. Got that? Good.
 
 I heard the commotion as I walked down the hallway and gripped the bag of groceries even tighter. Barking. Glass breaking. A man crying.

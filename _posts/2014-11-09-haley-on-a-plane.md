@@ -13,6 +13,9 @@ tags:
 - thriller
 ---
 
+
+# Haley on a Plane
+
 I grabbed the first aid kit off the cabin wall and a jug of water. Eunice lay unconscious on the floor of the cabin. It was spacious. More cargo space than seating for this bird. I pulled up her sweater and took the first good look at the bite on her abdomen in nearly a day. Where the teeth had broken the skin was black and oozing puss. The skin around it was hot and an angry red. She hadn't turned so this may have just been infection. I remember seeing on the Internet that the human mouth was a dirty place. Something about septicemia.
 
 Keep it clean, keep it dry and treat the fever. That's all I remembered. Strange the factoids that stick and the ones that don't. Maybe it's just recall. Who knows? I washed the bite and the water foamed. I washed it again and dried it with some gauze before putting on a bandage and taping it into place.

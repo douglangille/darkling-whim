@@ -12,6 +12,9 @@ tags:
 - drama
 ---
 
+
+# The Last Mercy
+
 The static hit her three blocks out. White noise at the edge of her skull, pitched like a minor key nobody was playing. Haley knew the feeling now. Knew it intimately. Her feet changed direction before her mind caught up.
 
 The flowers were sorted into piles when she found her.

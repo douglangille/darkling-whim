@@ -14,6 +14,9 @@ tags:
 excerpt: Nothing but a trail of broken bone and rotten flesh.
 ---
 
+
+# Haley Alone
+
 The knife hit bone and Haley pushed it through into the soft cranial tissue. Red flowed around her hand, then grey, and then finally, black. She pulled back with a wet resistance and a weird plop. She cleaned the blade on her well-worn jeans and returned it to its sheath, strapped to her thigh. A place for everything and a thing for every place.
 
 Simple. Mechanical. Instinct. Survival. How many times has she performed this sequence? Dozens? Hundreds? She’d lost track of the trappings of civilized time. There were neither weeks nor years. It was just days, nights and seasons.

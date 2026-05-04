@@ -11,6 +11,9 @@ tags:
 - humour
 ---
 
+
+# Black Friday
+
 I tried, I tried, with all my might,  
  To get the toy, I'd have to fight.  
  Through shopping hoards, it was in my sight.  

@@ -11,6 +11,9 @@ tags:
 - drama
 ---
 
+
+# Ballroom Dreams
+
 I entered the ballroom and searched for her in a sea of gowns and tuxedo. I had to find her, to touch her. All these masks! The ladies looked like angels floating across the floor like visions of light and color. The men pranced around in their feathered cowls, displaying their plumage.
 
 A tray of champagne appeared; I gathered two glasses as I spied my heaven-sent. She glanced my way and I say her eyes sparkle as she winked before replacing her mask.

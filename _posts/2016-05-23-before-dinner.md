@@ -12,6 +12,9 @@ tags:
 - drama
 ---
 
+
+# Before Dinner
+
 'Tonight will be perfect', she thought, snipping an errant shoot and placing the bonsai tree on the table's centre. *I will be perfect.* 
 
 She moved gracefully in her crimson kimono, the dragon emblazoned on its back seemingly in flight. *Where are my shoes?* 

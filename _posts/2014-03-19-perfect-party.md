@@ -11,6 +11,9 @@ tags:
 - humour
 ---
 
+
+# Perfect Party
+
 Doug is dressed in his party best,  
  In a feathered hat and a sequined vest.  
  With an icy beer in each hand,  

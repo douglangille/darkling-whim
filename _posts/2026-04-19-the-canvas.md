@@ -7,6 +7,9 @@ header:
   overlay_image: "/assets/images/IMG_0126.jpeg"
 ---
 
+
+# The Canvas
+
 The rock cut through her gloves at the third handhold.
 
 She knew it by the warmth, wet inside the waxed duck cloth, cold where air hit it. She didn't look. Looking cost time and time cost height. She pressed her cheek against the face instead, breathed through her teeth, and found the next hold by feel.

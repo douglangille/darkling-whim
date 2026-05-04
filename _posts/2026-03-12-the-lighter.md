@@ -10,6 +10,9 @@ header:
     overlay_image: "/assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png"
 ---
 
+
+# The Lighter
+
 The sugar canister is cool to her touch.
 
 She finds it in her mother's kitchen. The lighter, nested where the sweetness collects in corners. Her fingers know this place. She's reached here a thousand times for something she didn't need, just to move through the space where he moves. The metal is still warm. Not from the kitchen. From use.

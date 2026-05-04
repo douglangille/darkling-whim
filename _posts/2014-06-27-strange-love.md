@@ -11,6 +11,9 @@ tags:
 - humour
 ---
 
+
+# Strange Love
+
 There once was a lady, hailing from the circus  
  Whose beard was so long, she would curse it  
  But there was something about her  

@@ -8,6 +8,9 @@ header:
     overlay_image: "/assets/images/thorn-apple.png"
 ---
 
+
+# Thorn Apple
+
 The room costs what it costs. Ruthanne stopped apologizing years ago.
 
 She lies on her back, the table cool beneath her. A rolled towel under her knees, the sheet pulled taut to her collarbone. Glennis moves like a woman who owns the space. No sound, no hesitation. Her hands are warm before they land, fingers pressing into Ruthanne's skin with the weight of intention. Sixty dollars an hour. Ruthanne lets the heat seep in. The low murmur of water. The sharp green scent of something expensive. She knows how to take.

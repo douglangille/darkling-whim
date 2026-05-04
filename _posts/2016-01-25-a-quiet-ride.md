@@ -13,6 +13,9 @@ tags:
 - drama
 ---
 
+
+# A Quiet Ride
+
 "I'd love to, babe, but my phone's just about out of juice!"
 
 Vince pressed the red button on the cell and held it up for her to see. Sweat seeped from his palm as he gripped, afraid to drop his last bit of hope.

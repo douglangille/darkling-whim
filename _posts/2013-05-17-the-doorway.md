@@ -12,6 +12,9 @@ tags:
 - drama
 ---
 
+
+# The Doorway
+
 I climbed the back staircase of my grandparent's old house. The layers upon layers of white paint adorned the railing and casings. They were only slightly dulled by a thin layer of dust that was everywhere. The oil range in the parlor room and the unpaved driveway made the fight against grime a losing battle.
 
 I'd been up and down these stairs countless times. We used to spend summers here back when Gramma and Grampa were alive. I remember the smell of paint and wallpaper paste, mingled with a hint of mold. The aged smells of an elderly home made the air thick with memory.

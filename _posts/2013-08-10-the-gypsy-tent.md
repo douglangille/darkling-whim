@@ -12,6 +12,9 @@ tags:
 - horror
 ---
 
+
+# The Gypsy Tent
+
 I wandered through the county fair,  
  With plenty of coin and time to spare.  
  Carnies barking to and fro,  

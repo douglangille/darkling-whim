@@ -12,4 +12,7 @@ tags:
 - drama
 ---
 
+
+# The Long Moment
+
 Lucy trembled as Ricky's fingers moved down the small of her back---not quite touching, but her skin reacting in electric anticipation. She kissed him deeply.

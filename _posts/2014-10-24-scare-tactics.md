@@ -12,6 +12,9 @@ tags:
 - humour
 ---
 
+
+# Scare Tactics
+
 "Why don't you try poking out your eyes?"
 
 "And put them on my fingers again? Nah, that just made the last group laugh?"

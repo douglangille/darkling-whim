@@ -12,6 +12,9 @@ tags:
 - drama
 ---
 
+
+# Of Blood and Text Messaging
+
 Detective Arnie Chalmers dropped his finished cigarette to the asphalt, ground it with his heel, and waited for his partner to catch up. "Ready, Steve?"
 
 Stephen Morris picked up the butt, dropped it into his coffee cup, and stuffed it into his coat pocket. "What do we got?"
