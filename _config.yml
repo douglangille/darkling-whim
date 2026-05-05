@@ -5,7 +5,7 @@ title                     : "Darkling Whim"
 subtitle                  : "Untethered tales, beautifully scarred"
 name                      : "Doug Langille"
 description               : "Stories and poems by Doug Langille: dark around the edges, wonder with teeth."
-baseurl                   : "" 
+baseurl                   : ""
 url                       : "https://douglangille.ca"
 repository                : "douglangille/darkling-whim"
 email                     : "me@douglangille.ca"
@@ -17,7 +17,7 @@ timezone                  : "America/Halifax"
 # -----------------------------------------------------------------------------
 theme                     : "minimal-mistakes-jekyll"
 minimal_mistakes_skin     : "default"
-logo                      : 
+logo                      :
 teaser                    : "/assets/images/white500x300.jpg"
 og_image                  : "/assets/images/og-darkling-whim.png"
 title_separator           : "-"
@@ -63,7 +63,7 @@ footer:
     - label               : "LinkedIn"
       icon                : "fa-brands fa-square-linkedin"
       url                 : "https://www.linkedin.com/in/douglangille/"
-  
+
 # -----------------------------------------------------------------------------
 # Build & Formatting
 # -----------------------------------------------------------------------------
@@ -113,10 +113,10 @@ plugins:
 
 category_archive:
   type                    : jekyll-archives
-  path                    : /
+  path                    : /category/
 tag_archive:
   type                    : jekyll-archives
-  path                    : /
+  path                    : /tag/
 pagination:
   enabled                 : true
   collection              : 'posts'
@@ -126,7 +126,7 @@ pagination:
   sort_reverse            : true
   trail:
       before              : 2
-      after               : 2  
+      after               : 2
 
 autopages:
   enabled                 : true
@@ -136,17 +136,17 @@ autopages:
     enabled               : false
   tags:
     enabled               : true
-    layouts               : 
+    layouts               :
       - 'archive-taxonomy.html'
-    permalink             : '/:tag/'
+    permalink             : '/tag/:tag/'
 
 # -----------------------------------------------------------------------------
 # Related Posts (Theme Logic)
 # -----------------------------------------------------------------------------
-related_by                : tags or categories 
-related_limit             : 4            
-related_categories        : 1       
-related_tags              : 1    
+related_by                : tags or categories
+related_limit             : 4
+related_categories        : 1
+related_tags              : 1
 related_template          : archive-single.html
 related_layout            : grid
 
@@ -155,19 +155,19 @@ related_layout            : grid
 # -----------------------------------------------------------------------------
 defaults:
   - scope:
-      path                : "" 
+      path                : ""
     values:
       layout              : "single"
       author_profile      : true
       read_time           : true
       share               : false
       comments            : false
-      classes             : wide 
+      classes             : wide
   - scope:
       path                : "_posts"
       type                : "posts"
     values:
-      comments            : true  
+      comments            : true
       layout              : "single"
       author_profile      : true
       read_time           : true
