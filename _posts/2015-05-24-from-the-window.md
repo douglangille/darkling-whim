@@ -8,8 +8,9 @@ excerpt: Elvis had left the building.
 revised: 2026-03-14
 tags:
 - flash
-- melancholy
-- horror
+- drama
+- humour
+- revised
 - dark-intimate
 ---
 

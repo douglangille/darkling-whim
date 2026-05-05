@@ -10,6 +10,8 @@ tags:
 - short-story
 - fantasy
 - humour
+- flash
+- melancholy
 ---
 
 

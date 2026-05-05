@@ -12,6 +12,8 @@ tags:
 - short-story
 - thriller
 - drama
+- loss
+- identity
 ---
 
 

@@ -9,9 +9,10 @@ header:
 categories: []
 tags:
 - flash
+- fantasy
 - horror
+- loss
 - melancholy
-- dark-intimate
 ---
 
 

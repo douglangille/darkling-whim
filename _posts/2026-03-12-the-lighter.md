@@ -5,8 +5,9 @@ excerpt: She watches the blue at the root of the flame.
 tags:
 - flash
 - drama
-- obsession
 - dark-intimate
+- melancholy
+- scifi
 header:
   teaser: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png
   overlay_image: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png

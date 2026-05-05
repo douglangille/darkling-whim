@@ -10,6 +10,8 @@ tags:
 - flash
 - fantasy
 - horror
+- loss
+- melancholy
 ---
 
 

@@ -8,6 +8,9 @@ excerpt: Forever now. Somehow that made it matter less.
 tags:
 - flash
 - drama
+- domestic-noir
+- redemption
+- obsession
 ---
 
 

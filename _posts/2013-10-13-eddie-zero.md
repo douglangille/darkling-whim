@@ -7,6 +7,7 @@ tags:
 - short-story
 - horror
 - thriller
+- trauma
 categories: []
 header:
   teaser: /assets/images/eddie-zero.png

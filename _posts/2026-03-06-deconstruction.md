@@ -8,7 +8,8 @@ tags:
 - flash
 - horror
 - thriller
-- dark-intimate
+- nonlinear
+- loss
 excerpt: The box says forty-two pieces. I've counted three times
 ---
 

@@ -10,6 +10,8 @@ tags:
 - flash
 - drama
 - horror
+- trauma
+- loss
 ---
 
 

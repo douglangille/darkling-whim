@@ -11,6 +11,8 @@ tags:
 - short-story
 - thriller
 - drama
+- loss
+- melancholy
 ---
 
 

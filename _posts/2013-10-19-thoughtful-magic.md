@@ -12,6 +12,8 @@ tags:
 - flash
 - drama
 - humour
+- paranormal
+- trauma
 ---
 
 

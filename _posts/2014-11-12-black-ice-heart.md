@@ -7,10 +7,10 @@ header:
   teaser: /assets/images/2904993736_e42f8ec487_z.jpg
 categories: []
 tags:
+- poetry
+- drama
+- dark-intimate
 - flash
-- melancholy
-- humour
-- loss
 ---
 
 

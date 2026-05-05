@@ -5,6 +5,8 @@ tags:
 - flash
 - drama
 - scifi
+- horror
+- loss
 excerpt: She whispered it aloud. Her voice. Lower, gruffer.
 header:
   teaser: /assets/images/b738ae1d-861b-4a27-aa8d-1a4fc387d975.jpg

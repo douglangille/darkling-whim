@@ -10,6 +10,8 @@ tags:
 - flash
 - horror
 - fantasy
+- dark-intimate
+- domestic-noir
 ---
 
 

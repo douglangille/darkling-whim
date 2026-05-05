@@ -10,6 +10,8 @@ tags:
 - poetry
 - fantasy
 - horror
+- paranormal
+- obsession
 ---
 
 

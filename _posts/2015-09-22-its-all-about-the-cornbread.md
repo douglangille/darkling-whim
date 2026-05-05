@@ -11,6 +11,8 @@ tags:
 - short-story
 - humour
 - fantasy
+- transformation
+- noir
 ---
 
 

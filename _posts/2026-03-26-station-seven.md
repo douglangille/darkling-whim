@@ -5,6 +5,9 @@ excerpt: The air tastes like ammonia and bleach and something underneath both.
 tags:
 - flash
 - horror
+- dark-intimate
+- trauma
+- transformation
 header:
   teaser: /assets/images/generated-image-4.png
   overlay_image: /assets/images/generated-image-4.png

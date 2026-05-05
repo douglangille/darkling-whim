@@ -10,6 +10,9 @@ categories: []
 tags:
 - poetry
 - horror
+- flash
+- loss
+- noir
 ---
 
 

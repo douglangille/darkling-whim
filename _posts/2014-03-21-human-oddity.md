@@ -10,6 +10,8 @@ tags:
 - flash
 - scifi
 - humour
+- betrayal
+- unreliable-narrator
 ---
 
 

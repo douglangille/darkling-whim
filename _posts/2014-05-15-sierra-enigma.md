@@ -10,6 +10,8 @@ tags:
 - short-story
 - drama
 - thriller
+- loss
+- domestic-noir
 ---
 
 

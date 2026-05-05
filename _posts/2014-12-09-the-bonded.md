@@ -8,9 +8,10 @@ header:
 categories: []
 tags:
 - flash
-- thriller
-- melancholy
-- dark-intimate
+- scifi
+- horror
+- paranormal
+- loss
 ---
 
 

@@ -7,9 +7,11 @@ header:
   overlay_image: /assets/images/armagedon-6.jpg
 categories: []
 tags:
-- flash
+- poetry
+- drama
 - scifi
-- loss
+- flash
+- trauma
 ---
 
 

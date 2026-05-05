@@ -11,6 +11,8 @@ tags:
 - flash
 - fantasy
 - horror
+- loss
+- paranormal
 ---
 
 

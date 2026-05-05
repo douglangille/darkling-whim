@@ -9,6 +9,8 @@ categories: []
 tags:
 - poetry
 - humour
+- flash
+- nonlinear
 ---
 
 

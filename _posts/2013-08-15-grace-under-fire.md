@@ -10,6 +10,8 @@ tags:
 - flash
 - scifi
 - horror
+- trauma
+- loss
 ---
 
 

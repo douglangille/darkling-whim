@@ -11,6 +11,7 @@ tags:
 - flash
 - horror
 - thriller
+- loss
 excerpt: Nothing but a trail of broken bone and rotten flesh.
 ---
 

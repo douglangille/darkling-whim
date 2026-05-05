@@ -9,9 +9,9 @@ header:
 categories: []
 tags:
 - flash
-- horror
+- thriller
+- domestic-noir
 - small-town
-- loss
 ---
 
 

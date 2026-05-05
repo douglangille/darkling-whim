@@ -5,7 +5,12 @@ header:
   teaser: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
   overlay_image: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
 excerpt: Caveat Emptor.
-tags: []
+tags:
+- short-story
+- drama
+- humour
+- revised
+- dark-intimate
 revised: 2026-04-03
 ---
 

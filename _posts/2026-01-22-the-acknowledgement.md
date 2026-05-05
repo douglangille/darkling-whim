@@ -9,6 +9,8 @@ tags:
 - flash
 - scifi
 - drama
+- loss
+- redemption
 ---
 
 

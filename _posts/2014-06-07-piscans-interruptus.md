@@ -11,6 +11,8 @@ tags:
 - flash
 - scifi
 - thriller
+- betrayal
+- loss
 ---
 
 

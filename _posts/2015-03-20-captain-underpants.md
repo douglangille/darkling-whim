@@ -7,8 +7,9 @@ header:
   overlay_image: /assets/images/man-147613_1280.jpg
 categories: []
 tags:
+- poetry
+- humour
 - flash
-- scifi
 ---
 
 

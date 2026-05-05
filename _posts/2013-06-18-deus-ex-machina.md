@@ -10,6 +10,8 @@ tags:
 - flash
 - fantasy
 - thriller
+- dark-intimate
+- noir
 ---
 
 

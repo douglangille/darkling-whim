@@ -10,6 +10,7 @@ tags:
 - poetry
 - humour
 - horror
+- flash
 ---
 
 

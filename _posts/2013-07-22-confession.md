@@ -10,6 +10,8 @@ tags:
 - poetry
 - fantasy
 - drama
+- paranormal
+- loss
 ---
 
 

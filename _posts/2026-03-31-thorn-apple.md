@@ -6,6 +6,8 @@ tags:
 - flash
 - fantasy
 - drama
+- betrayal
+- melancholy
 header:
   teaser: /assets/images/thorn-apple.png
   overlay_image: /assets/images/thorn-apple.png

@@ -7,6 +7,8 @@ header:
 tags:
 - flash
 - horror
+- humour
+- trauma
 excerpt: ''
 ---
 

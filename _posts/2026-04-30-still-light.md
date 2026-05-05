@@ -6,6 +6,8 @@ tags:
 - flash
 - drama
 - horror
+- dark-intimate
+- post-apocalyptic
 header:
   teaser: /assets/images/ChatGPT Image Apr 30, 2026 at 10_24_55 AM.png
   overlay_image: /assets/images/ChatGPT Image Apr 30, 2026 at 10_24_55 AM.png

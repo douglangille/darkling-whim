@@ -9,6 +9,8 @@ tags:
 - short-story
 - horror
 - drama
+- melancholy
+- domestic-noir
 excerpt: It started as a joke, really. Betsy dared me.
 ---
 

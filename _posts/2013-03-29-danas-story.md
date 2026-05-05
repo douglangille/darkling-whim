@@ -10,6 +10,8 @@ tags:
 - short-story
 - horror
 - thriller
+- domestic-noir
+- melancholy
 ---
 
 

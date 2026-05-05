@@ -7,10 +7,11 @@ header:
   overlay_image: /assets/images/sun-19814.jpg
 categories: []
 tags:
+- short-story
+- thriller
+- drama
+- betrayal
 - flash
-- horror
-- melancholy
-- dark-intimate
 ---
 
 

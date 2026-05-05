@@ -10,6 +10,8 @@ tags:
 - poetry
 - horror
 - thriller
+- flash
+- domestic-noir
 ---
 
 

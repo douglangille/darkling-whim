@@ -7,6 +7,8 @@ tags:
 - flash
 - scifi
 - horror
+- domestic-noir
+- loss
 header:
   teaser: /assets/images/flickr-6620255181-original.jpg
   overlay_image: /assets/images/flickr-6620255181-original.jpg

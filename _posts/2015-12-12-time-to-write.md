@@ -9,6 +9,9 @@ header:
 tags:
 - short-story
 - humour
+- flash
+- post-apocalyptic
+- melancholy
 ---
 
 

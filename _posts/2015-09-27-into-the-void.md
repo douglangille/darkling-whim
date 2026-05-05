@@ -10,6 +10,8 @@ tags:
 - short-story
 - fantasy
 - drama
+- flash
+- redemption
 ---
 
 

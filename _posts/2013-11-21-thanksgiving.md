@@ -10,6 +10,8 @@ tags:
 - flash
 - horror
 - humour
+- domestic-noir
+- paranormal
 ---
 
 
