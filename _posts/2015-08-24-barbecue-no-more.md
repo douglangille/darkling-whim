@@ -1,10 +1,10 @@
 ---
 title: Barbecue No More
 date: 2015-08-24 08:00:00 -0400
-excerpt: "Steak was supposed to be on sale."
+excerpt: Steak was supposed to be on sale.
 header:
   teaser: /assets/images/14407329792_5240b7ed7a_b.jpg
-  overlay_image: "/assets/images/14407329792_5240b7ed7a_b.jpg"
+  overlay_image: /assets/images/14407329792_5240b7ed7a_b.jpg
 categories: []
 tags:
 - flash

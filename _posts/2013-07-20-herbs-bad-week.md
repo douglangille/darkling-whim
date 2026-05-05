@@ -1,10 +1,10 @@
 ---
 title: Herb's Bad Week
 date: 2013-07-20 08:00:00 -0400
-excerpt: "Herb was delusional."
+excerpt: Herb was delusional.
 header:
   teaser: /assets/images/5767025075_409bb987e0_b_noose.jpg
-  overlay_image: "/assets/images/5767025075_409bb987e0_b_noose.jpg"
+  overlay_image: /assets/images/5767025075_409bb987e0_b_noose.jpg
 categories: []
 tags:
 - flash

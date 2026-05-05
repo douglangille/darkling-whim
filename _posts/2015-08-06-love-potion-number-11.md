@@ -1,10 +1,10 @@
 ---
 title: Love Potion Number 11
 date: 2015-08-06 08:00:00 -0400
-excerpt: "The world stuttered in a queer slant as I sat up."
+excerpt: The world stuttered in a queer slant as I sat up.
 header:
   teaser: /assets/images/5239029540_639e0a2139_b.jpg
-  overlay_image: "/assets/images/5239029540_639e0a2139_b.jpg"
+  overlay_image: /assets/images/5239029540_639e0a2139_b.jpg
 categories: []
 tags:
 - flash

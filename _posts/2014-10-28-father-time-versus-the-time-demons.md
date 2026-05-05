@@ -1,14 +1,15 @@
 ---
 title: Father Time Versus the Time Demons
 date: 2014-10-28 08:00:00 -0400
-excerpt: "\"Wake up, you idiot."
+excerpt: '"Wake up, you idiot.'
 header:
   teaser: /assets/images/20141022_003057000_iOS.jpg
-  overlay_image: "/assets/images/20141022_003057000_iOS.jpg"
+  overlay_image: /assets/images/20141022_003057000_iOS.jpg
 categories: []
 tags:
 - short-story
-- fantasy
+- melancholy
+- dark-intimate
 - humour
 ---
 

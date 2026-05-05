@@ -1,7 +1,7 @@
 ---
 title: Haley Meets Jimmy
 date: 2014-01-14 08:00:00 -0400
-excerpt: "I should have trusted my instincts."
+excerpt: I should have trusted my instincts.
 header:
   teaser: /assets/images/cd2aae9125f56d89_640_bar-beer.jpg
   overlay_image: /assets/images/cd2aae9125f56d89_640_bar-beer.jpg

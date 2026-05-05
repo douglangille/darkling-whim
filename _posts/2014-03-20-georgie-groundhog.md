@@ -1,10 +1,10 @@
 ---
 title: Georgie Groundhog
 date: 2014-03-20 08:00:00 -0400
-excerpt: "\"Oh dear, oh dear!"
+excerpt: '"Oh dear, oh dear!'
 header:
   teaser: /assets/images/7420708952_0c90eb0fea_b.jpg
-  overlay_image: "/assets/images/7420708952_0c90eb0fea_b.jpg"
+  overlay_image: /assets/images/7420708952_0c90eb0fea_b.jpg
 categories: []
 tags:
 - flash

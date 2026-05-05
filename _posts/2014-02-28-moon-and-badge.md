@@ -1,10 +1,10 @@
 ---
 title: Moon and Badge
 date: 2014-02-28 08:00:00 -0400
-excerpt: "\"What seems to be the problem, Officer?"
+excerpt: '"What seems to be the problem, Officer?'
 header:
   teaser: /assets/images/7136114679_82420e7ff5_b.jpg
-  overlay_image: "/assets/images/7136114679_82420e7ff5_b.jpg"
+  overlay_image: /assets/images/7136114679_82420e7ff5_b.jpg
 categories: []
 tags:
 - flash

@@ -1,10 +1,10 @@
 ---
 title: The Craftsman
 date: 2013-10-08 08:00:00 -0400
-excerpt: "\"You see, Detective, I have a little problem with knives."
+excerpt: '"You see, Detective, I have a little problem with knives.'
 header:
   teaser: /assets/images/Collecting-Knives.jpg
-  overlay_image: "/assets/images/Collecting-Knives.jpg"
+  overlay_image: /assets/images/Collecting-Knives.jpg
 categories: []
 tags:
 - flash

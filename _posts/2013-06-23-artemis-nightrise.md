@@ -1,7 +1,7 @@
 ---
 title: Artemis Nightrise
 date: 2013-06-23
-excerpt: "Evie had a problem."
+excerpt: Evie had a problem.
 categories: []
 tags:
 - flash

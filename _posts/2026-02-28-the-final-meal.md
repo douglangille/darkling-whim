@@ -1,13 +1,13 @@
 ---
-title: "The Final Meal"
+title: The Final Meal
 date: 2026-02-28 08:00:00 -0400
 header:
   overlay_image: /assets/images/generated-image-3.png
   teaser: /assets/images/generated-image-3.png
 tags:
-  - flash
-  - drama
-excerpt: "The room is cold. A hospital cold that lives in the walls."
+- flash
+- drama
+excerpt: The room is cold. A hospital cold that lives in the walls.
 ---
 
 

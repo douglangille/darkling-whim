@@ -1,15 +1,16 @@
 ---
 title: Blind Dining
 date: 2015-02-06 08:00:00 -0400
-excerpt: "\"Eyes up, soldier,\" she said and I did."
+excerpt: '"Eyes up, soldier," she said and I did.'
 header:
   teaser: /assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg
-  overlay_image: "/assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg"
+  overlay_image: /assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg
 categories: []
 tags:
 - flash
-- drama
-- thriller
+- melancholy
+- dark-intimate
+- humour
 ---
 
 

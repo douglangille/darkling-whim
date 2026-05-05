@@ -1,11 +1,14 @@
 ---
-title: "Thorn Apple"
+title: Thorn Apple
 date: 2026-03-31 08:00:00 -0400
-excerpt: "Ruthanne stopped apologizing years ago."
-tags: [flash, fantasy, drama]
+excerpt: Ruthanne stopped apologizing years ago.
+tags:
+- flash
+- fantasy
+- drama
 header:
-    teaser: "/assets/images/thorn-apple.png"
-    overlay_image: "/assets/images/thorn-apple.png"
+  teaser: /assets/images/thorn-apple.png
+  overlay_image: /assets/images/thorn-apple.png
 ---
 
 

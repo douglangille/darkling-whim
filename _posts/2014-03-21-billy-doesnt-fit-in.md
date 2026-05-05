@@ -1,10 +1,10 @@
 ---
 title: Billy Doesn&#39;t Fit In
 date: 2014-03-21 08:00:00 -0400
-excerpt: "Billy hated being an alien."
+excerpt: Billy hated being an alien.
 header:
   teaser: /assets/images/4406503559_12acb8f4f3_alien-kid.jpg
-  overlay_image: "/assets/images/4406503559_12acb8f4f3_alien-kid.jpg"
+  overlay_image: /assets/images/4406503559_12acb8f4f3_alien-kid.jpg
 categories: []
 tags:
 - flash

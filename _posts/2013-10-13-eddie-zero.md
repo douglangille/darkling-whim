@@ -1,7 +1,7 @@
 ---
 title: Eddie Zero
 date: 2013-10-13
-excerpt: "I didn't kill him."
+excerpt: I didn't kill him.
 tags:
 - haley
 - short-story

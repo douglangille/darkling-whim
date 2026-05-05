@@ -1,15 +1,16 @@
 ---
 title: At the Mall
 date: 2015-03-20 08:00:00 -0400
-excerpt: "So, yeah, it all started when Mikey dared me to put my tongue on the cold post outside the mall entrance."
+excerpt: So, yeah, it all started when Mikey dared me to put my tongue on the cold
+  post outside the mall entrance.
 header:
   teaser: /assets/images/post-66098_1920.jpg
-  overlay_image: "/assets/images/post-66098_1920.jpg"
+  overlay_image: /assets/images/post-66098_1920.jpg
 categories: []
 tags:
 - flash
-- drama
 - humour
+- loss
 ---
 
 

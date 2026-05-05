@@ -1,10 +1,10 @@
 ---
 title: Riding the Train
 date: 2014-06-24 08:00:00 -0400
-excerpt: "Riding the hover train this time of night always made me sleepy."
+excerpt: Riding the hover train this time of night always made me sleepy.
 header:
   teaser: /assets/images/subway_car_by_paupah.jpg
-  overlay_image: "/assets/images/subway_car_by_paupah.jpg"
+  overlay_image: /assets/images/subway_car_by_paupah.jpg
 categories: []
 tags:
 - flash

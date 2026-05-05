@@ -5,9 +5,9 @@ header:
   overlay_image: /assets/images/generated-image-2.png
   teaser: /assets/images/generated-image-2.png
 tags:
-  - flash
-  - horror
-excerpt: ""
+- flash
+- horror
+excerpt: ''
 ---
 
 

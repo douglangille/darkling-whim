@@ -1,15 +1,16 @@
 ---
 title: The Bonded
 date: 2014-12-09 08:00:00 -0400
-excerpt: "Not every Fayre could be trusted."
+excerpt: Not every Fayre could be trusted.
 header:
   teaser: /assets/images/sky-404060.jpg
-  overlay_image: "/assets/images/sky-404060.jpg"
+  overlay_image: /assets/images/sky-404060.jpg
 categories: []
 tags:
 - flash
-- scifi
-- horror
+- thriller
+- melancholy
+- dark-intimate
 ---
 
 

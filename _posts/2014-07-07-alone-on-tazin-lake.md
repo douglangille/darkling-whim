@@ -1,14 +1,16 @@
 ---
 title: Alone on Tazin Lake
 date: 2014-07-07 08:00:00 -0400
-excerpt: "The Cessna's wings clipped the tops off several jack pine as it thundered through the brush on its way down."
+excerpt: The Cessna's wings clipped the tops off several jack pine as it thundered
+  through the brush on its way down.
 header:
   teaser: /assets/images/IMG-20121020-00007.jpg
-  overlay_image: "/assets/images/IMG-20121020-00007.jpg"
+  overlay_image: /assets/images/IMG-20121020-00007.jpg
 categories: []
 tags:
 - flash
-- drama
+- melancholy
+- dark-intimate
 - horror
 ---
 

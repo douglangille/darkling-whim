@@ -1,15 +1,15 @@
 ---
 title: Observation
 date: 2015-04-13 08:00:00 -0400
-excerpt: "I watch as she sits on the park bench, tucking a wisp of hair behind her ear, and quietly sips her coffee."
+excerpt: I watch as she sits on the park bench, tucking a wisp of hair behind her
+  ear, and quietly sips her coffee.
 header:
   teaser: /assets/images/starbucks-569062_1280.jpg
-  overlay_image: "/assets/images/starbucks-569062_1280.jpg"
+  overlay_image: /assets/images/starbucks-569062_1280.jpg
 categories: []
 tags:
 - flash
-- thriller
-- horror
+- scifi
 ---
 
 

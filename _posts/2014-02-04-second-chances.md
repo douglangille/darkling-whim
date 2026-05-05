@@ -1,10 +1,10 @@
 ---
 title: Second Chances
 date: 2014-02-04 08:00:00 -0400
-excerpt: "Archie winced and swallowed."
+excerpt: Archie winced and swallowed.
 header:
   teaser: /assets/images/bar_by_zeitweilig.jpg
-  overlay_image: "/assets/images/bar_by_zeitweilig.jpg"
+  overlay_image: /assets/images/bar_by_zeitweilig.jpg
 categories: []
 tags:
 - flash

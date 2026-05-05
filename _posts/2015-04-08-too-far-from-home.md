@@ -1,15 +1,16 @@
 ---
 title: Too Far from Home
 date: 2015-04-08 08:00:00 -0400
-excerpt: "Melanie closed one eye and focused on the board."
+excerpt: Melanie closed one eye and focused on the board.
 header:
   teaser: /assets/images/target-659025.jpg
-  overlay_image: "/assets/images/target-659025.jpg"
+  overlay_image: /assets/images/target-659025.jpg
 categories: []
 tags:
 - flash
-- drama
-- thriller
+- melancholy
+- dark-intimate
+- humour
 ---
 
 

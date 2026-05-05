@@ -4,13 +4,13 @@ date: 2015-05-24 08:00:00 -0400
 header:
   overlay_image: /assets/images/IMG_0342.jpg
   teaser: /assets/images/IMG_0342.jpg
-excerpt: "Elvis had left the building."
+excerpt: Elvis had left the building.
 revised: 2026-03-14
 tags:
 - flash
-- drama
-- humour
-- revised
+- melancholy
+- horror
+- dark-intimate
 ---
 
 

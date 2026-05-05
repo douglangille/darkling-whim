@@ -1,10 +1,10 @@
 ---
 title: The Apprentice
 date: 2013-11-01 08:00:00 -0400
-excerpt: "She wakes up groggy, and I watch from behind her eyes as she senses my invasion."
+excerpt: She wakes up groggy, and I watch from behind her eyes as she senses my invasion.
 header:
   teaser: /assets/images/8362770480_565fda5a56_b.jpg
-  overlay_image: "/assets/images/8362770480_565fda5a56_b.jpg"
+  overlay_image: /assets/images/8362770480_565fda5a56_b.jpg
 categories: []
 tags:
 - flash

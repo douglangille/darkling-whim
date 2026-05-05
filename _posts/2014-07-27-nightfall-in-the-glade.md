@@ -1,15 +1,17 @@
 ---
 title: Nightfall in the Glade
 date: 2014-07-27 08:00:00 -0400
-excerpt: "Legato and Mezzo flew as if their wings were aflame, knocking baskets of gathered berries to the forest floor far below."
+excerpt: Legato and Mezzo flew as if their wings were aflame, knocking baskets of
+  gathered berries to the forest floor far below.
 header:
   teaser: /assets/images/Forest_Glade.jpg
   overlay_image: /assets/images/Forest_Glade.jpg
 categories: []
 tags:
 - flash
-- fantasy
 - horror
+- melancholy
+- dark-intimate
 ---
 
 

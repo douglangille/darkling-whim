@@ -1,10 +1,11 @@
 ---
 title: A Promise Kept
 date: 2014-01-07 08:00:00 -0400
-excerpt: "\"Damn,\" Marnie said as she pulled over onto the icy soft-shoulder and got out, leaving the car running but the door ajar."
+excerpt: '"Damn," Marnie said as she pulled over onto the icy soft-shoulder and got
+  out, leaving the car running but the door ajar.'
 header:
   teaser: /assets/images/4297653599_5d435cf261_b_peggy-cove.jpg
-  overlay_image: "/assets/images/4297653599_5d435cf261_b_peggy-cove.jpg"
+  overlay_image: /assets/images/4297653599_5d435cf261_b_peggy-cove.jpg
 categories: []
 tags:
 - flash

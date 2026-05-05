@@ -1,11 +1,13 @@
 ---
-title: "Station Seven"
+title: Station Seven
 date: 2026-03-26 08:00:00 -0400
-excerpt: "The air tastes like ammonia and bleach and something underneath both."
-tags: [flash, horror]
+excerpt: The air tastes like ammonia and bleach and something underneath both.
+tags:
+- flash
+- horror
 header:
-    teaser: "/assets/images/generated-image-4.png"
-    overlay_image: "/assets/images/generated-image-4.png"
+  teaser: /assets/images/generated-image-4.png
+  overlay_image: /assets/images/generated-image-4.png
 ---
 
 

@@ -1,13 +1,15 @@
 ---
-title: "The Lighter"
+title: The Lighter
 date: 2026-03-12 08:00:00 -0400
-excerpt: "She watches the blue at the root of the flame."
-tags: 
-    - flash
-    - drama
+excerpt: She watches the blue at the root of the flame.
+tags:
+- flash
+- drama
+- obsession
+- dark-intimate
 header:
-    teaser: "/assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png"
-    overlay_image: "/assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png"
+  teaser: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png
+  overlay_image: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png
 ---
 
 

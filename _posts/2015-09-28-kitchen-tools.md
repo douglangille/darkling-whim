@@ -1,7 +1,7 @@
 ---
 title: Kitchen Tools
 date: 2015-09-28 08:00:00 -0400
-excerpt: "\"But what if I hold it like this?"
+excerpt: '"But what if I hold it like this?'
 header:
   teaser: /assets/images/9464995143_626fb980cd_b.jpg
   overlay_image: /assets/images/9464995143_626fb980cd_b.jpg

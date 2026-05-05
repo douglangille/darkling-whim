@@ -1,10 +1,10 @@
 ---
 title: Black Friday
 date: 2013-11-21 08:00:00 -0400
-excerpt: "I tried, I tried, with all my might"
+excerpt: I tried, I tried, with all my might
 header:
   teaser: /assets/images/15709773049_55712386fe_b.jpg
-  overlay_image: "/assets/images/15709773049_55712386fe_b.jpg"
+  overlay_image: /assets/images/15709773049_55712386fe_b.jpg
 categories: []
 tags:
 - poetry

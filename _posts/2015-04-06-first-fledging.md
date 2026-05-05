@@ -1,14 +1,14 @@
 ---
 title: First Fledging
 date: 2015-04-06 08:00:00 -0400
-excerpt: "I'll never forget the first time I sat behind the yoke of dad's old hovercar by myself, newly minted holo-license carefully filed in my e-wallet."
+excerpt: I'll never forget the first time I sat behind the yoke of dad's old hovercar
+  by myself, newly minted holo-license carefully filed in my e-wallet.
 header:
   teaser: /assets/images/sky-15198_1280.jpg
-  overlay_image: "/assets/images/sky-15198_1280.jpg"
+  overlay_image: /assets/images/sky-15198_1280.jpg
 categories: []
 tags:
 - flash
-- drama
 - scifi
 ---
 

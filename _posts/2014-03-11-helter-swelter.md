@@ -4,8 +4,8 @@ date: 2014-03-11 08:00:00 -0400
 header:
   teaser: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
   overlay_image: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
-excerpt: "Caveat Emptor."
-tags: [ short-story, drama, humour, revised ]
+excerpt: Caveat Emptor.
+tags: []
 revised: 2026-04-03
 ---
 

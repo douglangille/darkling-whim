@@ -1,10 +1,10 @@
 ---
 title: Good Boy, Jake
 date: 2014-05-09 08:00:00 -0400
-excerpt: "Rod in hand, I went to the lake"
+excerpt: Rod in hand, I went to the lake
 header:
   teaser: /assets/images/32221740_530a3d192c_b.jpg
-  overlay_image: "/assets/images/32221740_530a3d192c_b.jpg"
+  overlay_image: /assets/images/32221740_530a3d192c_b.jpg
 categories: []
 tags:
 - poetry

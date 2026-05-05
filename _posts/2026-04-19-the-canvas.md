@@ -1,10 +1,13 @@
 ---
-title: "The Canvas"
-excerpt: "The rock cut through her gloves at the third handhold."
-tags: [flash, scifi, fantasy]
+title: The Canvas
+excerpt: The rock cut through her gloves at the third handhold.
+tags:
+- flash
+- scifi
+- fantasy
 header:
-  teaser: "/assets/images/IMG_0126.jpeg"
-  overlay_image: "/assets/images/IMG_0126.jpeg"
+  teaser: /assets/images/IMG_0126.jpeg
+  overlay_image: /assets/images/IMG_0126.jpeg
 ---
 
 

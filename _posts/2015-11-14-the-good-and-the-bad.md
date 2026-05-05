@@ -9,7 +9,7 @@ tags:
 - thriller
 header:
   teaser: /assets/images/7609192892_575d60d41b_brass-knuckles.jpg
-  overlay_image: "/assets/images/7609192892_575d60d41b_brass-knuckles.jpg"
+  overlay_image: /assets/images/7609192892_575d60d41b_brass-knuckles.jpg
 ---
 
 

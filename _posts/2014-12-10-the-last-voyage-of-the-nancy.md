@@ -1,15 +1,16 @@
 ---
 title: The Last Voyage of the Nancy
 date: 2014-12-10 08:00:00 -0400
-excerpt: "Young Mary laced my bodice tight and helped me into my skirts."
+excerpt: Young Mary laced my bodice tight and helped me into my skirts.
 header:
   teaser: /assets/images/3057385436_c407aa8e3e_b.jpg
-  overlay_image: "/assets/images/3057385436_c407aa8e3e_b.jpg"
+  overlay_image: /assets/images/3057385436_c407aa8e3e_b.jpg
 categories: []
 tags:
 - flash
 - horror
-- fantasy
+- melancholy
+- dark-intimate
 ---
 
 

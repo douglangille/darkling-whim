@@ -1,7 +1,10 @@
 ---
-title: "I Made It Right"
-tags: [flash, drama, thriller]
-excerpt: "The steam wand hisses."
+title: I Made It Right
+tags:
+- flash
+- drama
+- thriller
+excerpt: The steam wand hisses.
 header:
   teaser: /assets/images/IMG_0122.jpeg
   overlay_image: /assets/images/IMG_0122.jpeg

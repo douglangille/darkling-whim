@@ -1,14 +1,16 @@
 ---
 title: Sunset Heat
 date: 2015-02-09 08:00:00 -0400
-excerpt: "I put the rest of the tools in the trunk and wheeled it over to the tie-downs."
+excerpt: I put the rest of the tools in the trunk and wheeled it over to the tie-downs.
 header:
   teaser: /assets/images/end-of-the-day.jpg
-  overlay_image: "/assets/images/end-of-the-day.jpg"
+  overlay_image: /assets/images/end-of-the-day.jpg
 categories: []
 tags:
 - flash
-- drama
+- horror
+- dark-intimate
+- fantasy
 ---
 
 

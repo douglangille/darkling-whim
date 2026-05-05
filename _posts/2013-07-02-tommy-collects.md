@@ -1,10 +1,10 @@
 ---
 title: Tommy Collects
 date: 2013-07-02 08:00:00 -0400
-excerpt: "Tommy Andolini was a brute."
+excerpt: Tommy Andolini was a brute.
 header:
   teaser: /assets/images/4298179061_d2402b6ded_b.jpg
-  overlay_image: "/assets/images/4298179061_d2402b6ded_b.jpg"
+  overlay_image: /assets/images/4298179061_d2402b6ded_b.jpg
 categories: []
 tags:
 - flash

@@ -1,10 +1,10 @@
 ---
 title: Human Oddity
 date: 2014-03-21 08:00:00 -0400
-excerpt: "I smelled the human long before I laid my seventeen eyes on him."
+excerpt: I smelled the human long before I laid my seventeen eyes on him.
 header:
   teaser: /assets/images/3515903269_4ef595b1e7_alien-human.jpg
-  overlay_image: "/assets/images/3515903269_4ef595b1e7_alien-human.jpg"
+  overlay_image: /assets/images/3515903269_4ef595b1e7_alien-human.jpg
 categories: []
 tags:
 - flash

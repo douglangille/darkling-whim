@@ -1,14 +1,16 @@
 ---
 title: The Sentinel
 date: 2015-01-15 08:00:00 -0400
-excerpt: "My name is Gracie and I am the Sentinel."
+excerpt: My name is Gracie and I am the Sentinel.
 header:
   teaser: /assets/images/20140313-090105.jpg
-  overlay_image: "/assets/images/20140313-090105.jpg"
+  overlay_image: /assets/images/20140313-090105.jpg
 categories: []
 tags:
 - flash
-- drama
+- dark-intimate
+- horror
+- thriller
 ---
 
 

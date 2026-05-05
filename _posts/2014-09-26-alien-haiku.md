@@ -1,13 +1,13 @@
 ---
 title: Alien Haiku
 date: 2014-09-26 08:00:00 -0400
-excerpt: "Driving late at night"
+excerpt: Driving late at night
 header:
   teaser: /assets/images/9153767970_5a8cbf4f18_b.jpg
-  overlay_image: "/assets/images/9153767970_5a8cbf4f18_b.jpg"
+  overlay_image: /assets/images/9153767970_5a8cbf4f18_b.jpg
 categories: []
 tags:
-- poetry
+- flash
 - scifi
 ---
 
