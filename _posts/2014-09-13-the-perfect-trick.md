@@ -7,11 +7,10 @@ header:
   overlay_image: /assets/images/12-magic-tricks-rescan1.jpg
 categories: []
 tags:
-- short-story
-- thriller
-- drama
-- paranormal
-- humour
+  - thriller
+  - drama
+  - paranormal
+  - humour
 ---
 
 

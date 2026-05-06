@@ -1,18 +1,16 @@
 ---
 title: Piscans Interruptus
 date: 2014-06-07 08:00:00 -0400
-excerpt: Captain Nestor breathed a sigh of relief as his yacht left the hanger bay
-  of the Vindictus.
+excerpt: Captain Nestor breathed a sigh of relief as his yacht left the hanger bay of the Vindictus.
 header:
   teaser: /assets/images/Fishing-spinning-reel.jpg
   overlay_image: /assets/images/Fishing-spinning-reel.jpg
 categories: []
 tags:
-- flash
-- scifi
-- thriller
-- betrayal
-- loss
+  - scifi
+  - thriller
+  - betrayal
+  - loss
 ---
 
 

@@ -1,17 +1,15 @@
 ---
 title: The Interview
 date: 2015-04-20 08:00:00 -0400
-excerpt: Janine let her hair flop forward on the left, decided against it, and threw
-  her hair up in a clip.
+excerpt: Janine let her hair flop forward on the left, decided against it, and threw her hair up in a clip.
 header:
   teaser: /assets/images/digital-388075_1280.jpg
   overlay_image: /assets/images/digital-388075_1280.jpg
 categories: []
 tags:
-- flash
-- drama
-- thriller
-- trauma
+  - drama
+  - thriller
+  - trauma
 ---
 
 

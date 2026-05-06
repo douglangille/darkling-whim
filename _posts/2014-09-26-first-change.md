@@ -1,17 +1,15 @@
 ---
 title: First Change
 date: 2014-09-26 08:00:00 -0400
-excerpt: Raised by the pack, we didn't know about the Change util it happened to my
-  friend Brown Ear.
+excerpt: Raised by the pack, we didn't know about the Change util it happened to my friend Brown Ear.
 header:
   teaser: /assets/images/2493604415_230048038b_b_werewolf.jpg
   overlay_image: /assets/images/2493604415_230048038b_b_werewolf.jpg
 categories: []
 tags:
-- flash
-- fantasy
-- horror
-- transformation
+  - fantasy
+  - horror
+  - transformation
 ---
 
 

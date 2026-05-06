@@ -7,11 +7,10 @@ header:
   overlay_image: /assets/images/19413383176_76321090c1_b_doorway.jpg
 categories: []
 tags:
-- short-story
-- fantasy
-- drama
-- loss
-- identity
+  - fantasy
+  - drama
+  - loss
+  - identity
 ---
 
 

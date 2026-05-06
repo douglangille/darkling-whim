@@ -6,11 +6,10 @@ header:
   overlay_image: /assets/images/Faded beauty on cracked pavement.png
 excerpt: Three flowers, a knife, and the burden of knowing what mercy costs.
 tags:
-- haley
-- flash
-- horror
-- drama
-- loss
+  - haley
+  - horror
+  - drama
+  - loss
 ---
 
 

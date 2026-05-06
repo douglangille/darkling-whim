@@ -1,18 +1,16 @@
 ---
 title: The Last Days of the Marcy Bell
 date: 2014-05-10 08:00:00 -0400
-excerpt: Officially, the Marcy Bell was a salvage rig, licensed for Canadian and international
-  waters but not American.
+excerpt: Officially, the Marcy Bell was a salvage rig, licensed for Canadian and international waters but not American.
 header:
   teaser: /assets/images/3375982065_d2b7a3b27b_o.jpg
   overlay_image: /assets/images/3375982065_d2b7a3b27b_o.jpg
 categories: []
 tags:
-- flash
-- thriller
-- drama
-- dark-intimate
-- obsession
+  - thriller
+  - drama
+  - dark-intimate
+  - obsession
 ---
 
 

@@ -7,11 +7,10 @@ header:
 excerpt: Everyone was getting bored and a little stir-crazy.
 revised: 2026-03-15
 tags:
-- flash
-- drama
-- thriller
-- revised
-- post-apocalyptic
+  - drama
+  - thriller
+  - revised
+  - post-apocalyptic
 ---
 
 

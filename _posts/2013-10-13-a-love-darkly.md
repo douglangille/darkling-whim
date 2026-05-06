@@ -7,11 +7,10 @@ header:
   overlay_image: /assets/images/a-love-darkly.png
 categories: []
 tags:
-- short-story
-- drama
-- thriller
-- identity
-- guilt
+  - drama
+  - thriller
+  - identity
+  - guilt
 ---
 
 

@@ -6,13 +6,12 @@ header:
   teaser: /assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg
   overlay_image: /assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg
 category:
-- writings
+  - writings
 tags:
-- short-story
-- horror
-- thriller
-- domestic-noir
-- melancholy
+  - horror
+  - thriller
+  - domestic-noir
+  - melancholy
 ---
 
 

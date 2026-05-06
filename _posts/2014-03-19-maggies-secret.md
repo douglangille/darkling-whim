@@ -1,16 +1,15 @@
 ---
 title: Maggie&#39;s Secret
 date: 2014-03-19 08:00:00 -0400
-excerpt: '"So, I know something you don''t know.'
+excerpt: "\"So, I know something you don't know."
 header:
   teaser: /assets/images/4577104544_a4f06dc810_b.jpg
   overlay_image: /assets/images/4577104544_a4f06dc810_b.jpg
 categories: []
 tags:
-- flash
-- drama
-- humour
-- dark-intimate
+  - drama
+  - humour
+  - dark-intimate
 ---
 
 

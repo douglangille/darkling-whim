@@ -7,11 +7,9 @@ header:
   overlay_image: /assets/images/hourglass-620397_640.jpg
   categories: perspectives
 tags:
-- short-story
-- humour
-- flash
-- post-apocalyptic
-- melancholy
+  - humour
+  - post-apocalyptic
+  - melancholy
 ---
 
 

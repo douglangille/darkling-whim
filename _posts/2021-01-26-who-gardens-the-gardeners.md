@@ -6,11 +6,10 @@ header:
   overlay_image: /assets/images/pexels-photo-38136.jpeg
 categories: []
 tags:
-- short-story
-- horror
-- drama
-- melancholy
-- domestic-noir
+  - horror
+  - drama
+  - melancholy
+  - domestic-noir
 excerpt: It started as a joke, really. Betsy dared me.
 ---
 

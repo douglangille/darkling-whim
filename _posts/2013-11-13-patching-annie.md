@@ -1,18 +1,16 @@
 ---
 title: Patching Annie
 date: 2013-11-13 08:00:00 -0400
-excerpt: Walking by my daughter's room with an armload of laundry, I pause to listen
-  at the door.
+excerpt: Walking by my daughter's room with an armload of laundry, I pause to listen at the door.
 header:
   teaser: /assets/images/6164022668_e6a611ccfe_b.jpg
   overlay_image: /assets/images/6164022668_e6a611ccfe_b.jpg
 categories: []
 tags:
-- flash
-- drama
-- fantasy
-- dark-intimate
-- domestic-noir
+  - drama
+  - fantasy
+  - dark-intimate
+  - domestic-noir
 ---
 
 

@@ -7,9 +7,8 @@ header:
   overlay_image: /assets/images/7136114679_82420e7ff5_b.jpg
 categories: []
 tags:
-- flash
-- horror
-- domestic-noir
+  - horror
+  - domestic-noir
 ---
 
 

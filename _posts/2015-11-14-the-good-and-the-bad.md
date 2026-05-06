@@ -4,9 +4,8 @@ date: 2015-11-14 08:00:00 -0400
 excerpt: I relish the fine minutia of perfection.
 categories: []
 tags:
-- flash
-- horror
-- thriller
+  - horror
+  - thriller
 header:
   teaser: /assets/images/7609192892_575d60d41b_brass-knuckles.jpg
   overlay_image: /assets/images/7609192892_575d60d41b_brass-knuckles.jpg

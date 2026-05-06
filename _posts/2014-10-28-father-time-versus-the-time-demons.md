@@ -7,11 +7,10 @@ header:
   overlay_image: /assets/images/20141022_003057000_iOS.jpg
 categories: []
 tags:
-- short-story
-- fantasy
-- humour
-- loss
-- identity
+  - fantasy
+  - humour
+  - loss
+  - identity
 ---
 
 

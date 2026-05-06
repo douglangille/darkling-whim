@@ -7,11 +7,10 @@ header:
   overlay_image: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
 categories: []
 tags:
-- poetry
-- horror
-- thriller
-- flash
-- domestic-noir
+  - poetry
+  - horror
+  - thriller
+  - domestic-noir
 ---
 
 

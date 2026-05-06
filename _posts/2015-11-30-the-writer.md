@@ -2,16 +2,14 @@
 title: The Writer
 date: 2015-11-30 08:00:00 -0400
 header:
-  overlay_filter: '0.5'
+  overlay_filter: "0.5"
   overlay_image: /assets/images/8226570181_e9e2fde4fd_writer.jpg
   teaser: /assets/images/8226570181_e9e2fde4fd_writer.jpg
 categories: []
 tags:
-- flash
-- drama
-- humour
-excerpt: Doug leans back in his Lazyboy and stretches his arms over his head with
-  laced fingers.
+  - drama
+  - humour
+excerpt: Doug leans back in his Lazyboy and stretches his arms over his head with laced fingers.
 ---
 
 

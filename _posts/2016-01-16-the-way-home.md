@@ -6,11 +6,10 @@ header:
   overlay_image: /assets/images/eb31b40d20f11c3e81584d04ee44408be273e7d71eb9134396f5_640_winter-driving.jpg
 excerpt: The white line on the highway blurred and steadied.
 tags:
-- flash
-- thriller
-- revised
-- dark-intimate
-- domestic-noir
+  - thriller
+  - revised
+  - dark-intimate
+  - domestic-noir
 revised: 2026-03-15
 ---
 

@@ -8,11 +8,10 @@ header:
 excerpt: Amen.
 categories: []
 tags:
-- poetry
-- horror
-- flash
-- loss
-- noir
+  - poetry
+  - horror
+  - loss
+  - noir
 ---
 
 

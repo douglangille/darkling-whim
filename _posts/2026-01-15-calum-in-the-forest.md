@@ -7,10 +7,9 @@ header:
   overlay_image: /assets/images/generated-image.png
 categories: []
 tags:
-- flash
-- horror
-- nonlinear
-- transformation
+  - horror
+  - nonlinear
+  - transformation
 excerpt: Every shot taken draws the forest closer.
 ---
 

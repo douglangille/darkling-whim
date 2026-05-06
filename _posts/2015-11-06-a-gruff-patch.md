@@ -7,11 +7,9 @@ header:
   overlay_image: /assets/images/Three-Goats.jpg
 categories: []
 tags:
-- short-story
-- fantasy
-- humour
-- flash
-- melancholy
+  - fantasy
+  - humour
+  - melancholy
 ---
 
 

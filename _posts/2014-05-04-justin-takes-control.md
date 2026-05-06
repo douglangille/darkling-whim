@@ -7,11 +7,10 @@ header:
   overlay_image: /assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg
 categories: []
 tags:
-- short-story
-- thriller
-- drama
-- identity
-- melancholy
+  - thriller
+  - drama
+  - identity
+  - melancholy
 ---
 
 
