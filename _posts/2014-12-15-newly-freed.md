@@ -7,9 +7,9 @@ header:
   overlay_image: /assets/images/16679994001_e322a3ab83_b.jpg
 categories: []
 tags:
-  - poetry
-  - drama
-  - loss
+- poetry
+- drama
+- loss
 ---
 
 

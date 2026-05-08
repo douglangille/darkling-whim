@@ -5,13 +5,13 @@ excerpt: Ya see, us here wolves got a bad rap.
 header:
   teaser: /assets/images/2205670531_8e595a7a0a_b.jpg
   overlay_image: /assets/images/2205670531_8e595a7a0a_b.jpg
-  caption: "[Photo credit: tristanf](http://www.flickr.com/photos/89056504@N00/2205670531)"
+  caption: '[Photo credit: tristanf](http://www.flickr.com/photos/89056504@N00/2205670531)'
 categories: []
 tags:
-  - humour
-  - fantasy
-  - transformation
-  - noir
+- humour
+- fantasy
+- transformation
+- noir
 ---
 
 

@@ -7,9 +7,9 @@ header:
   overlay_image: /assets/images/6336363394_213bd59a9b_b.jpg
 categories: []
 tags:
-  - fantasy
-  - drama
-  - redemption
+- fantasy
+- drama
+- redemption
 ---
 
 

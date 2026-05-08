@@ -7,10 +7,10 @@ header:
 excerpt: Elvis had left the building.
 revised: 2026-03-14
 tags:
-  - drama
-  - humour
-  - revised
-  - dark-intimate
+- drama
+- humour
+- revised
+- dark-intimate
 ---
 
 

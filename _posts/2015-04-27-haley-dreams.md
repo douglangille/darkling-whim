@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/apocalypse-371947_1280.jpg
 categories: []
 tags:
-  - haley
-  - horror
-  - drama
-  - transformation
+- haley
+- horror
+- drama
+- transformation
 ---
 
 

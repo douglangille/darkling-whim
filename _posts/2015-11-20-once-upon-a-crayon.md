@@ -4,10 +4,10 @@ date: 2015-11-20 08:00:00 -0400
 excerpt: Once upon a time, there was a beautiful kingdom.
 categories: []
 tags:
-  - fantasy
-  - humour
-  - melancholy
-  - loss
+- fantasy
+- humour
+- melancholy
+- loss
 header:
   teaser: /assets/images/9403909030_1557ce54bd_crayon.jpg
   overlay_image: /assets/images/9403909030_1557ce54bd_crayon.jpg

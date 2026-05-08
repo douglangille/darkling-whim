@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/chewing-gum-115162_1280.jpg
 categories: []
 tags:
-  - haley
-  - drama
+- haley
+- drama
 ---
 
 

@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/7593788900_3eb3e6e0f7_small-town.jpg
 categories: []
 tags:
-  - haley
-  - horror
-  - thriller
-  - domestic-noir
+- haley
+- horror
+- thriller
+- domestic-noir
 ---
 
 

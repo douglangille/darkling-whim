@@ -1,13 +1,13 @@
 ---
 title: Western Standoff
 date: 2014-03-20 08:00:00 -0400
-excerpt: "Billy: Ya rascally varmit, git back here!"
+excerpt: 'Billy: Ya rascally varmit, git back here!'
 header:
   teaser: /assets/images/2227797968_278063879c_six-shooter.jpg
   overlay_image: /assets/images/2227797968_278063879c_six-shooter.jpg
 categories: []
 tags:
-  - humour
+- humour
 ---
 
   

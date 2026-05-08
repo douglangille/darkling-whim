@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/sky-404060.jpg
 categories: []
 tags:
-  - scifi
-  - horror
-  - paranormal
-  - loss
+- scifi
+- horror
+- paranormal
+- loss
 ---
 
 

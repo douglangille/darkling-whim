@@ -1,16 +1,17 @@
 ---
 title: The Standoff
 date: 2013-10-21 08:00:00 -0400
-excerpt: Missy's moon shadow cast long, tail twitching in anticipation; the taste of freshly killed squirrel electrified her whiskers.
+excerpt: Missy's moon shadow cast long, tail twitching in anticipation; the taste
+  of freshly killed squirrel electrified her whiskers.
 header:
   teaser: /assets/images/5923105171_90007ff833_cat-mouse.jpg
   overlay_image: /assets/images/5923105171_90007ff833_cat-mouse.jpg
 categories: []
 tags:
-  - humour
-  - thriller
-  - redemption
-  - identity
+- humour
+- thriller
+- redemption
+- identity
 ---
 
 

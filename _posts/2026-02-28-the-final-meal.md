@@ -5,10 +5,10 @@ header:
   overlay_image: /assets/images/generated-image-3.png
   teaser: /assets/images/generated-image-3.png
 tags:
-  - drama
-  - horror
-  - transformation
-  - identity
+- drama
+- horror
+- transformation
+- identity
 excerpt: The room is cold. A hospital cold that lives in the walls.
 ---
 

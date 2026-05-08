@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/20140313-090105.jpg
 categories: []
 tags:
-  - drama
-  - scifi
-  - melancholy
-  - betrayal
+- drama
+- scifi
+- melancholy
+- betrayal
 ---
 
 

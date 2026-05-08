@@ -3,10 +3,10 @@ title: Eddie Zero
 date: 2013-10-13
 excerpt: I didn't kill him.
 tags:
-  - haley
-  - horror
-  - thriller
-  - trauma
+- haley
+- horror
+- thriller
+- trauma
 categories: []
 header:
   teaser: /assets/images/eddie-zero.png

@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/3928159274_ce53125700_whiskey-glass.jpg
 categories: []
 tags:
-  - drama
-  - thriller
+- drama
+- thriller
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 title: I Made It Right
 tags:
-  - drama
-  - thriller
-  - post-apocalyptic
-  - identity
+- drama
+- thriller
+- post-apocalyptic
+- identity
 excerpt: The steam wand hisses.
 header:
   teaser: /assets/images/IMG_0122.jpeg

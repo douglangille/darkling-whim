@@ -8,10 +8,10 @@ categories: []
 published: true
 excerpt: She's a smoke show.
 tags:
-  - fantasy
-  - drama
-  - loss
-  - transformation
+- fantasy
+- drama
+- loss
+- transformation
 ---
 
 

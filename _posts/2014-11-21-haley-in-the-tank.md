@@ -1,16 +1,17 @@
 ---
 title: Haley in the Tank
 date: 2014-11-21 08:00:00 -0400
-excerpt: "I sat on the steel cot and stared at the three other people in with me: the chick and two dudes."
+excerpt: 'I sat on the steel cot and stared at the three other people in with me:
+  the chick and two dudes.'
 header:
   teaser: /assets/images/447c7e97ca6778a6_1280_jail.jpg
   overlay_image: /assets/images/447c7e97ca6778a6_1280_jail.jpg
 categories: []
 tags:
-  - haley
-  - horror
-  - thriller
-  - dark-intimate
+- haley
+- horror
+- thriller
+- dark-intimate
 ---
 
 

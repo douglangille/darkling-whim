@@ -5,10 +5,10 @@ header:
   overlay_image: /assets/images/generated-image-2.png
   teaser: /assets/images/generated-image-2.png
 tags:
-  - horror
-  - humour
-  - trauma
-excerpt: ""
+- horror
+- humour
+- trauma
+excerpt: ''
 ---
 
 

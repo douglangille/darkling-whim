@@ -7,9 +7,9 @@ header:
   overlay_image: /assets/images/sun-19814.jpg
 categories: []
 tags:
-  - thriller
-  - drama
-  - betrayal
+- thriller
+- drama
+- betrayal
 ---
 
 

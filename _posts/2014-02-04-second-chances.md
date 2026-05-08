@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/bar_by_zeitweilig.jpg
 categories: []
 tags:
-  - drama
-  - guilt
-  - redemption
-  - thriller
+- drama
+- guilt
+- redemption
+- thriller
 ---
 
 

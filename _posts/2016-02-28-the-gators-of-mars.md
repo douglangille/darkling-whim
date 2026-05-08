@@ -4,13 +4,13 @@ date: 2016-02-28 08:00:00 -0400
 header:
   teaser: /assets/images/teeth-471546_1280.jpg
   overlay_image: /assets/images/teeth-471546_1280.jpg
-excerpt: "So, who the fiddler's flying fig decided Mars needed alligators? "
+excerpt: 'So, who the fiddler''s flying fig decided Mars needed alligators? '
 revised: 2026-03-22
 tags:
-  - scifi
-  - humour
-  - revised
-  - identity
+- scifi
+- humour
+- revised
+- identity
 ---
 
 

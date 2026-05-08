@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/subway_car_by_paupah.jpg
 categories: []
 tags:
-  - drama
-  - scifi
-  - transformation
-  - loss
+- drama
+- scifi
+- transformation
+- loss
 ---
 
 

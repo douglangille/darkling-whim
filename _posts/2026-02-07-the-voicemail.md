@@ -6,10 +6,10 @@ header:
   teaser: /assets/images/ChatGPT Image Feb 7, 2026 at 12_30_15 PM.png
 excerpt: Forever now. Somehow that made it matter less.
 tags:
-  - drama
-  - domestic-noir
-  - redemption
-  - obsession
+- drama
+- domestic-noir
+- redemption
+- obsession
 ---
 
 

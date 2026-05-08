@@ -7,8 +7,8 @@ header:
   teaser: /assets/images/5416221717_35b9fcf7be_b.jpg
 categories: []
 tags:
-  - poetry
-  - drama
+- poetry
+- drama
 ---
 
 

@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/Collecting-Knives.jpg
 categories: []
 tags:
-  - horror
-  - thriller
-  - dark-intimate
-  - noir
+- horror
+- thriller
+- dark-intimate
+- noir
 ---
 
 

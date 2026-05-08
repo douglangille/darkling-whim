@@ -3,10 +3,10 @@ title: Thorn Apple
 date: 2026-03-31 08:00:00 -0400
 excerpt: Ruthanne stopped apologizing years ago.
 tags:
-  - fantasy
-  - drama
-  - betrayal
-  - melancholy
+- fantasy
+- drama
+- betrayal
+- melancholy
 header:
   teaser: /assets/images/thorn-apple.png
   overlay_image: /assets/images/thorn-apple.png

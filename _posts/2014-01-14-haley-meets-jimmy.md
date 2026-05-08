@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/cd2aae9125f56d89_640_bar-beer.jpg
 categories: []
 tags:
-  - haley
-  - thriller
-  - drama
-  - betrayal
+- haley
+- thriller
+- drama
+- betrayal
 ---
 
 

@@ -3,10 +3,10 @@ title: The Lighter
 date: 2026-03-12 08:00:00 -0400
 excerpt: She watches the blue at the root of the flame.
 tags:
-  - drama
-  - dark-intimate
-  - melancholy
-  - scifi
+- drama
+- dark-intimate
+- melancholy
+- scifi
 header:
   teaser: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png
   overlay_image: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png

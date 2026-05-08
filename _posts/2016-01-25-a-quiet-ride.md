@@ -1,17 +1,17 @@
 ---
 title: A Quiet Ride
 date: 2016-01-25 08:00:00 -0400
-excerpt: "\"I'd love to, babe, but my phone's just about out of juice!"
+excerpt: '"I''d love to, babe, but my phone''s just about out of juice!'
 header:
   teaser: /assets/images/14831550395_83c957fbd8_tire-gravel.jpg
   overlay_image: /assets/images/14831550395_83c957fbd8_tire-gravel.jpg
-  caption: "Photo credit: [dave_7](http://www.flickr.com/photos/21612624@N00/14831550395)"
+  caption: 'Photo credit: [dave_7](http://www.flickr.com/photos/21612624@N00/14831550395)'
 categories: []
 tags:
-  - thriller
-  - drama
-  - betrayal
-  - transformation
+- thriller
+- drama
+- betrayal
+- transformation
 ---
 
 

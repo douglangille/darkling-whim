@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/PartialHeterochromia.jpg
 categories: []
 tags:
-  - drama
-  - thriller
-  - loss
-  - domestic-noir
+- drama
+- thriller
+- loss
+- domestic-noir
 ---
 
 

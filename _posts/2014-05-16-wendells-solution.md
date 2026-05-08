@@ -1,16 +1,16 @@
 ---
 title: Wendell&#39;s Solution
 date: 2014-05-16 08:00:00 -0400
-excerpt: "'How the Hell did he get up there?"
+excerpt: '''How the Hell did he get up there?'
 header:
   teaser: /assets/images/249752730_c02409b9ca_o.jpg
   overlay_image: /assets/images/249752730_c02409b9ca_o.jpg
 categories: []
 tags:
-  - drama
-  - thriller
-  - dark-intimate
-  - transformation
+- drama
+- thriller
+- dark-intimate
+- transformation
 ---
 
 

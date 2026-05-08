@@ -1,16 +1,17 @@
 ---
 title: Of Blood and Text Messaging
 date: 2015-04-23 08:00:00 -0400
-excerpt: Detective Arnie Chalmers dropped his finished cigarette to the asphalt, ground it with his heel, and waited for his partner to catch up.
+excerpt: Detective Arnie Chalmers dropped his finished cigarette to the asphalt, ground
+  it with his heel, and waited for his partner to catch up.
 header:
   teaser: /assets/images/smartphone-593318.jpg
   overlay_image: /assets/images/smartphone-593318.jpg
 categories: []
 tags:
-  - thriller
-  - drama
-  - horror
-  - noir
+- thriller
+- drama
+- horror
+- noir
 ---
 
 

@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
 categories: []
 tags:
-  - thriller
-  - drama
-  - trauma
-  - identity
+- thriller
+- drama
+- trauma
+- identity
 excerpt: Vanilla musk. She never changes.
 ---
 

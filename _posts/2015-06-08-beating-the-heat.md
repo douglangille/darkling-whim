@@ -1,14 +1,15 @@
 ---
 title: Beating the Heat
 date: 2015-06-08 08:00:00 -0400
-excerpt: I took the cool can and placed it on my chest, letting the condensation drip between my breasts.
+excerpt: I took the cool can and placed it on my chest, letting the condensation drip
+  between my breasts.
 categories: []
 header:
   teaser: /assets/images/legs-434918_1280.jpg
   overlay_image: /assets/images/legs-434918_1280.jpg
 published: true
 tags:
-  - drama
+- drama
 ---
 
 

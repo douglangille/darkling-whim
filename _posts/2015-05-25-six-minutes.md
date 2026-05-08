@@ -7,9 +7,9 @@ header:
   overlay_image: /assets/images/earth-244238_1280.jpg
 categories: []
 tags:
-  - scifi
-  - horror
-  - loss
+- scifi
+- horror
+- loss
 ---
 
 

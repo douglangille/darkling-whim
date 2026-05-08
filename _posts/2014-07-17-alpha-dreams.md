@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/Pug_portrait.jpg
 categories: []
 tags:
-  - drama
-  - loss
+- drama
+- loss
 ---
 
 

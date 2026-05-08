@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/night-sky-685736.jpg
 categories: []
 tags:
-  - haley
-  - drama
-  - domestic-noir
-  - loss
+- haley
+- drama
+- domestic-noir
+- loss
 ---
 
 

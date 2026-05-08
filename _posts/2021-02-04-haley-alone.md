@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/img_0014.jpg
 categories: []
 tags:
-  - haley
-  - horror
-  - thriller
-  - loss
+- haley
+- horror
+- thriller
+- loss
 excerpt: Nothing but a trail of broken bone and rotten flesh.
 ---
 
