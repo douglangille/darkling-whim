@@ -6,6 +6,9 @@ tags:
   - grounded
   - kith-kin
   - melancholy
+header:
+  teaser: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png
+  overlay_image: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png
 ---
 
 

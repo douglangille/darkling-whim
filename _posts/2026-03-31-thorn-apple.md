@@ -6,6 +6,9 @@ tags:
   - speculative
   - intimacy
   - melancholy
+header:
+  teaser: /assets/images/thorn-apple.png
+  overlay_image: /assets/images/thorn-apple.png
 ---
 
 

@@ -5,6 +5,9 @@ tags:
   - speculative
   - solitude
   - melancholy
+header:
+  teaser: /assets/images/IMG_0126.jpeg
+  overlay_image: /assets/images/IMG_0126.jpeg
 ---
 
 
