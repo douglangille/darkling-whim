@@ -2,14 +2,10 @@
 title: Still Light
 excerpt: The morning started with Donnie eating toast over the sink the way he always
   did
-tags:
-- drama
-- horror
-- dark-intimate
-- post-apocalyptic
-header:
-  teaser: /assets/images/ChatGPT Image Apr 30, 2026 at 10_24_55 AM.png
-  overlay_image: /assets/images/ChatGPT Image Apr 30, 2026 at 10_24_55 AM.png
+tags: 
+  - grounded
+  - intimacy
+  - melancholy
 ---
 
 

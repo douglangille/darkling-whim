@@ -5,11 +5,10 @@ header:
   overlay_image: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
   teaser: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
 excerpt: Between panes of glass, choice slips away.
-tags:
-- scifi
-- drama
-- loss
-- redemption
+tags: 
+  - speculative
+  - intimacy
+  - melancholy
 ---
 
 

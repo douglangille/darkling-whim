@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/breakfast-439058_640.jpg
   overlay_image: /assets/images/breakfast-439058_640.jpg
 categories: []
-tags:
-- humour
-- drama
-- dark-intimate
-- melancholy
+tags: 
+  - grounded
+  - intimacy
+  - wit
 ---
 
 

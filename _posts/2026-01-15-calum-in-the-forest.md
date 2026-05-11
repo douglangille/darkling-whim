@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/generated-image.png
   overlay_image: /assets/images/generated-image.png
 categories: []
-tags:
-- horror
-- nonlinear
-- transformation
-excerpt: Every shot taken draws the forest closer.
+tags: 
+  - speculative
+  - solitude
+  - eerie
 ---
 
 

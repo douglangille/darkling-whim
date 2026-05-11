@@ -5,11 +5,11 @@ header:
   teaser: /assets/images/Faded beauty on cracked pavement.png
   overlay_image: /assets/images/Faded beauty on cracked pavement.png
 excerpt: Three flowers, a knife, and the burden of knowing what mercy costs.
-tags:
-- haley
-- horror
-- drama
-- loss
+tags: 
+  - speculative
+  - intimacy
+  - melancholy
+  - haley
 ---
 
 

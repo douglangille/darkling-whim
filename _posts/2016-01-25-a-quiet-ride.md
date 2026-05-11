@@ -7,11 +7,10 @@ header:
   overlay_image: /assets/images/14831550395_83c957fbd8_tire-gravel.jpg
   caption: 'Photo credit: [dave_7](http://www.flickr.com/photos/21612624@N00/14831550395)'
 categories: []
-tags:
-- thriller
-- drama
-- betrayal
-- transformation
+tags: 
+  - grounded
+  - solitude
+  - tension
 ---
 
 

@@ -7,11 +7,10 @@ header:
 categories: []
 published: true
 excerpt: She's a smoke show.
-tags:
-- fantasy
-- drama
-- loss
-- transformation
+tags: 
+  - speculative
+  - intimacy
+  - melancholy
 ---
 
 

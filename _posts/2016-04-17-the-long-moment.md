@@ -7,8 +7,10 @@ header:
   caption: 'Photo credit: OpenClipartVectors'
 excerpt: Lucy trembled...
 categories: []
-tags:
-- drama
+tags: 
+  - grounded
+  - intimacy
+  - tension
 ---
 
 

@@ -6,11 +6,11 @@ header:
   overlay_image: /assets/images/teeth-471546_1280.jpg
 excerpt: 'So, who the fiddler''s flying fig decided Mars needed alligators? '
 revised: 2026-03-22
-tags:
-- scifi
-- humour
-- revised
-- identity
+tags: 
+  - speculative
+  - solitude
+  - wit
+  - revised
 ---
 
 

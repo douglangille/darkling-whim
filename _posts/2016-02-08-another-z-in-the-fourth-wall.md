@@ -7,11 +7,11 @@ date: 2016-02-08 08:00:00 -0400
 excerpt: Eddie's fist connected with a satisfying crunch and Haley couldn't keep from
   smiling.
 categories: []
-tags:
-- haley
-- horror
-- humour
-- melancholy
+tags: 
+  - speculative
+  - intimacy
+  - wit
+  - haley
 ---
 
 

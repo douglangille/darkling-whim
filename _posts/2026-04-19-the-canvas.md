@@ -1,14 +1,10 @@
 ---
 title: The Canvas
 excerpt: The rock cut through her gloves at the third handhold.
-tags:
-- scifi
-- fantasy
-- noir
-- transformation
-header:
-  teaser: /assets/images/IMG_0126.jpeg
-  overlay_image: /assets/images/IMG_0126.jpeg
+tags: 
+  - speculative
+  - solitude
+  - melancholy
 ---
 
 
