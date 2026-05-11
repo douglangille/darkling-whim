@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/Leaves_on_the_grass_1_by_spoii.jpg
   overlay_image: /assets/images/Leaves_on_the_grass_1_by_spoii.jpg
 categories: []
-tags:
-- thriller
-- drama
-- identity
-- procedural
+tags: 
+  - grounded
+  - kith-kin
+  - tension
 ---
 
 

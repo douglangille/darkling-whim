@@ -7,10 +7,10 @@ header:
   teaser: /assets/images/2539093647_fb775f496b_b.jpg
   overlay_image: /assets/images/2539093647_fb775f496b_b.jpg
 categories: []
-tags:
-- drama
-- fantasy
-- paranormal
+tags: 
+  - grounded
+  - solitude
+  - eerie
 ---
 
 

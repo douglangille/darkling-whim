@@ -6,11 +6,11 @@ header:
   overlay_image: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
 excerpt: The Cedarwood Home for the Elderly stood at the end of a dead-end street
   in a rotting borough of a dying town.
-tags:
-- drama
-- revised
-- fantasy
-- identity
+tags: 
+  - grounded
+  - intimacy
+  - melancholy
+  - revised
 revised: 2026-02-20
 ---
 

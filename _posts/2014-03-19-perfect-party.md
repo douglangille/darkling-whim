@@ -6,9 +6,11 @@ header:
   teaser: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
   overlay_image: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
 categories: []
-tags:
-- poetry
-- humour
+tags: 
+  - grounded
+  - solitude
+  - wit
+  - poetry
 ---
 
 

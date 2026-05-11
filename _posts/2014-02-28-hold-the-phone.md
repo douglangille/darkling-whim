@@ -6,8 +6,10 @@ header:
   teaser: /assets/images/4940893730_ce74d18852_b.jpg
   overlay_image: /assets/images/4940893730_ce74d18852_b.jpg
 categories: []
-tags:
-- thriller
+tags: 
+  - speculative
+  - solitude
+  - tension
 ---
 
 

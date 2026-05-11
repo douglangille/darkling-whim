@@ -6,8 +6,10 @@ header:
   teaser: /assets/images/2227797968_278063879c_six-shooter.jpg
   overlay_image: /assets/images/2227797968_278063879c_six-shooter.jpg
 categories: []
-tags:
-- humour
+tags: 
+  - speculative
+  - kith-kin
+  - wit
 ---
 
   

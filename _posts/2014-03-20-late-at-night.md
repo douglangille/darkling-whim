@@ -6,10 +6,11 @@ header:
   teaser: /assets/images/Hospital_by_sheisviolence.jpg
   overlay_image: /assets/images/Hospital_by_sheisviolence.jpg
 categories: []
-tags:
-- poetry
-- drama
-- horror
+tags: 
+  - grounded
+  - solitude
+  - melancholy
+  - poetry
 ---
 
 

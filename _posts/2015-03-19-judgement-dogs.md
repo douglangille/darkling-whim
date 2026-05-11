@@ -10,8 +10,6 @@ tags:
   - speculative
   - kith-kin
   - wit
-  - gracie
-  - pansy
 ---
 
 

@@ -6,9 +6,10 @@ header:
   teaser: /assets/images/7136114679_82420e7ff5_b.jpg
   overlay_image: /assets/images/7136114679_82420e7ff5_b.jpg
 categories: []
-tags:
-- horror
-- domestic-noir
+tags: 
+  - speculative
+  - solitude
+  - eerie
 ---
 
 

@@ -6,9 +6,11 @@ header:
   teaser: /assets/images/Hole_y_Tree_by_flurrynight.jpg
   overlay_image: /assets/images/Hole_y_Tree_by_flurrynight.jpg
 categories: []
-tags:
-- horror
-- humour
+tags: 
+  - dark
+  - solitude
+  - eerie
+  - poetry
 ---
 
 

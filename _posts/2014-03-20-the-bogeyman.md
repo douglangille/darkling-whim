@@ -7,11 +7,11 @@ header:
   overlay_filter: 0.4
 excerpt: Amen.
 categories: []
-tags:
-- poetry
-- horror
-- loss
-- noir
+tags: 
+  - dark
+  - solitude
+  - eerie
+  - poetry
 ---
 
 

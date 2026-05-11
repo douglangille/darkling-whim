@@ -11,7 +11,6 @@ tags:
   - solitude
   - wit
   - haley
-  - eddie
 ---
 
 

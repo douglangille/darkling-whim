@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
   overlay_image: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
 categories: []
-tags:
-- thriller
-- drama
-- loss
-- melancholy
+tags: 
+  - grounded
+  - solitude
+  - melancholy
 ---
 
 

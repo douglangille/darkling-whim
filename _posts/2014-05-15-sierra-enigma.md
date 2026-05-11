@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/PartialHeterochromia.jpg
   overlay_image: /assets/images/PartialHeterochromia.jpg
 categories: []
-tags:
-- drama
-- thriller
-- loss
-- domestic-noir
+tags: 
+  - grounded
+  - solitude
+  - tension
 ---
 
 

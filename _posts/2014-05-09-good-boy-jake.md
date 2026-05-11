@@ -6,10 +6,11 @@ header:
   teaser: /assets/images/32221740_530a3d192c_b.jpg
   overlay_image: /assets/images/32221740_530a3d192c_b.jpg
 categories: []
-tags:
-- poetry
-- humour
-- fantasy
+tags: 
+  - speculative
+  - kith-kin
+  - wit
+  - poetry
 ---
 
 

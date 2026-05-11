@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/4297653599_5d435cf261_b_peggy-cove.jpg
   overlay_image: /assets/images/4297653599_5d435cf261_b_peggy-cove.jpg
 categories: []
-tags:
-- drama
-- horror
-- loss
-- guilt
+tags: 
+  - grounded
+  - kith-kin
+  - melancholy
 ---
 
 

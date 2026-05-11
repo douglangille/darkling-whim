@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/precipice_by_machelko.jpg
   overlay_image: /assets/images/precipice_by_machelko.jpg
 categories: []
-tags:
-- fantasy
-- drama
-- transformation
-- melancholy
+tags: 
+  - speculative
+  - intimacy
+  - melancholy
 ---
 
 

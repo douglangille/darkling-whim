@@ -6,10 +6,10 @@ header:
   teaser: /assets/images/4577104544_a4f06dc810_b.jpg
   overlay_image: /assets/images/4577104544_a4f06dc810_b.jpg
 categories: []
-tags:
-- drama
-- humour
-- dark-intimate
+tags: 
+  - grounded
+  - intimacy
+  - wit
 ---
 
 

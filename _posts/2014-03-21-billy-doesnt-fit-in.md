@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/4406503559_12acb8f4f3_alien-kid.jpg
   overlay_image: /assets/images/4406503559_12acb8f4f3_alien-kid.jpg
 categories: []
-tags:
-- drama
-- humour
-- betrayal
-- scifi
+tags: 
+  - speculative
+  - solitude
+  - wit
 ---
 
 

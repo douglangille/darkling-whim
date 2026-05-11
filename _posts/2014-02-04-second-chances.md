@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/bar_by_zeitweilig.jpg
   overlay_image: /assets/images/bar_by_zeitweilig.jpg
 categories: []
-tags:
-- drama
-- guilt
-- redemption
-- thriller
+tags: 
+  - grounded
+  - intimacy
+  - wit
 ---
 
 

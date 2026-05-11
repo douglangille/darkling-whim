@@ -6,9 +6,11 @@ header:
   teaser: /assets/images/4125927607_0aa78d3a4f_b.jpg
   overlay_image: /assets/images/4125927607_0aa78d3a4f_b.jpg
 categories: []
-tags:
-- poetry
-- horror
+tags: 
+  - dark
+  - solitude
+  - eerie
+  - poetry
 ---
 
 

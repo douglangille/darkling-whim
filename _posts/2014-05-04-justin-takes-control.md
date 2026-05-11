@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg
   overlay_image: /assets/images/redlight_district_by_neuro_riviera-d2zmr1z.jpg
 categories: []
-tags:
-- thriller
-- drama
-- identity
-- melancholy
+tags: 
+  - grounded
+  - intimacy
+  - wit
 ---
 
 
