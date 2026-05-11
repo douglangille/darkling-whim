@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/1b5b1dfcb4aa9054_1280_detective1.jpg
   overlay_image: /assets/images/1b5b1dfcb4aa9054_1280_detective1.jpg
 categories: []
-tags:
-- fantasy
-- thriller
-- dark-intimate
-- noir
+tags: 
+  - speculative
+  - kith-kin
+  - wit
 ---
 
 

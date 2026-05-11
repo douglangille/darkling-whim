@@ -2,11 +2,11 @@
 title: Eddie Zero
 date: 2013-10-13
 excerpt: I didn't kill him.
-tags:
-- haley
-- horror
-- thriller
-- trauma
+tags: 
+  - dark
+  - kith-kin
+  - tension
+  - haley
 categories: []
 header:
   teaser: /assets/images/eddie-zero.png

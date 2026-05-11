@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/Collecting-Knives.jpg
   overlay_image: /assets/images/Collecting-Knives.jpg
 categories: []
-tags:
-- horror
-- thriller
-- dark-intimate
-- noir
+tags: 
+  - dark
+  - solitude
+  - tension
 ---
 
 

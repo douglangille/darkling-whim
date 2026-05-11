@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/3445269852_bca2f85d3c_b-1.jpg
   overlay_image: /assets/images/3445269852_bca2f85d3c_b-1.jpg
 categories: []
-tags:
-- horror
-- humour
-- betrayal
-- dark-intimate
+tags: 
+  - grounded
+  - solitude
+  - wit
 ---
 
 

@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/3840887124_0908c40ecf_blueberry-rake.jpg
   overlay_image: /assets/images/3840887124_0908c40ecf_blueberry-rake.jpg
 categories: []
-tags:
-- drama
-- thriller
-- melancholy
-- guilt
+tags: 
+  - grounded
+  - solitude
+  - wit
 ---
 
 

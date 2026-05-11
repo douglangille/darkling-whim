@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/5923105171_90007ff833_cat-mouse.jpg
   overlay_image: /assets/images/5923105171_90007ff833_cat-mouse.jpg
 categories: []
-tags:
-- humour
-- thriller
-- redemption
-- identity
+tags: 
+  - grounded
+  - solitude
+  - wit
 ---
 
 

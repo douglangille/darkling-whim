@@ -6,12 +6,11 @@ header:
   teaser: /assets/images/8683286803_197ea2417f_sea-siren.jpg
   overlay_image: /assets/images/8683286803_197ea2417f_sea-siren.jpg
 categories: []
-tags:
-- poetry
-- fantasy
-- drama
-- paranormal
-- loss
+tags: 
+  - speculative
+  - intimacy
+  - melancholy
+  - poetry
 ---
 
 

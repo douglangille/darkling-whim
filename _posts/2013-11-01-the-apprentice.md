@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/8362770480_565fda5a56_b.jpg
   overlay_image: /assets/images/8362770480_565fda5a56_b.jpg
 categories: []
-tags:
-- horror
-- fantasy
-- dark-intimate
-- domestic-noir
+tags: 
+  - dark
+  - solitude
+  - eerie
 ---
 
 

@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/7091212300ecb41f_1280_telephone.jpg
   overlay_image: /assets/images/7091212300ecb41f_1280_telephone.jpg
 categories: []
-tags:
-- drama
-- horror
-- trauma
-- loss
+tags: 
+  - speculative
+  - kith-kin
+  - eerie
 ---
 
 

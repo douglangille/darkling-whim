@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
   overlay_image: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
 categories: []
-tags:
-- horror
-- humour
-- domestic-noir
-- paranormal
+tags: 
+  - dark
+  - solitude
+  - wit
 ---
 
 

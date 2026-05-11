@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/4949129334_4de1a73374_b_falling-star.jpg
   overlay_image: /assets/images/4949129334_4de1a73374_b_falling-star.jpg
 categories: []
-tags:
-- scifi
-- drama
-- melancholy
-- domestic-noir
+tags: 
+  - speculative
+  - intimacy
+  - melancholy
 ---
 
 

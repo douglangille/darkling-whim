@@ -3,11 +3,10 @@ title: Artemis Nightrise
 date: 2013-06-23
 excerpt: Evie had a problem.
 categories: []
-tags:
-- scifi
-- horror
-- domestic-noir
-- loss
+tags: 
+  - dark
+  - kith-kin
+  - tension
 header:
   teaser: /assets/images/flickr-6620255181-original.jpg
   overlay_image: /assets/images/flickr-6620255181-original.jpg

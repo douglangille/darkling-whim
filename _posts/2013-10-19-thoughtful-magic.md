@@ -8,11 +8,11 @@ header:
   teaser: /assets/images/1deb57f5e4789aa4_1280_mask.jpg
   overlay_image: /assets/images/1deb57f5e4789aa4_1280_mask.jpg
 categories: []
-tags:
-- drama
-- humour
-- paranormal
-- trauma
+tags: 
+  - speculative
+  - intimacy
+  - wit
+  - amy
 ---
 
 

@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/63224608_b2dd0efea4_b_campfire.jpg
   overlay_image: /assets/images/63224608_b2dd0efea4_b_campfire.jpg
 categories: []
-tags:
-- horror
-- thriller
-- domestic-noir
-- melancholy
+tags: 
+  - dark
+  - kith-kin
+  - tension
 ---
 
 

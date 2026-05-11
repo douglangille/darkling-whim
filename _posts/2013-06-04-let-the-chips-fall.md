@@ -6,11 +6,11 @@ header:
   overlay_image: /assets/images/3648773666_35714d3792_b.jpg
 excerpt: Everyone was getting bored and a little stir-crazy.
 revised: 2026-03-15
-tags:
-- drama
-- thriller
-- revised
-- post-apocalyptic
+tags: 
+  - grounded
+  - kith-kin
+  - tension
+  - revised
 ---
 
 

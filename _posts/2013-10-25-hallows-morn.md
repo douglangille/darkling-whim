@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/15763329850_bb142a25a4_b.jpg
   overlay_image: /assets/images/15763329850_bb142a25a4_b.jpg
 categories: []
-tags:
-- fantasy
-- horror
-- domestic-noir
-- post-apocalyptic
+tags: 
+  - speculative
+  - kith-kin
+  - wit
 ---
 
 

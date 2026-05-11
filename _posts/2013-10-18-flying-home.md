@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/14870589051_81e9103ce2_b.jpg
   overlay_image: /assets/images/14870589051_81e9103ce2_b.jpg
 categories: []
-tags:
-- poetry
-- drama
-- dark-intimate
-- domestic-noir
+tags: 
+  - grounded
+  - intimacy
+  - melancholy
+  - poetry
 ---
 
 

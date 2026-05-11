@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/5767025075_409bb987e0_b_noose.jpg
   overlay_image: /assets/images/5767025075_409bb987e0_b_noose.jpg
 categories: []
-tags:
-- drama
-- thriller
-- dark-intimate
-- humour
+tags: 
+  - grounded
+  - solitude
+  - wit
 ---
 
 

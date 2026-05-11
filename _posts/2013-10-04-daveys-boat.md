@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/7c12253e0cafcd77_640_rain-street.jpg
   overlay_image: /assets/images/7c12253e0cafcd77_640_rain-street.jpg
 categories: []
-tags:
-- horror
-- thriller
-- dark-intimate
-- melancholy
+tags: 
+  - dark
+  - solitude
+  - tension
 ---
 
 

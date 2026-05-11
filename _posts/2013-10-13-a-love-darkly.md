@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/a-love-darkly.png
   overlay_image: /assets/images/a-love-darkly.png
 categories: []
-tags:
-- drama
-- thriller
-- identity
-- guilt
+tags: 
+  - dark
+  - intimacy
+  - melancholy
 ---
 
 

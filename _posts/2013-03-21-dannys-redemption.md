@@ -8,11 +8,10 @@ header:
   overlay_image: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
 category:
 - writings
-tags:
-- thriller
-- drama
-- loss
-- identity
+tags: 
+  - speculative
+  - intimacy
+  - tension
 ---
 
 

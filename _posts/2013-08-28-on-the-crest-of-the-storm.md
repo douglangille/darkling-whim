@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
   overlay_image: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
 categories: []
-tags:
-- poetry
-- horror
-- thriller
-- domestic-noir
+tags: 
+  - dark
+  - solitude
+  - tension
+  - poetry
 ---
 
 

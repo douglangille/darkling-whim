@@ -6,12 +6,11 @@ header:
   teaser: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
   overlay_image: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 categories: []
-tags:
-- poetry
-- fantasy
-- horror
-- paranormal
-- obsession
+tags: 
+  - speculative
+  - solitude
+  - eerie
+  - poetry
 ---
 
 

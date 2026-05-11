@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/4877453831_9016c0ac98_b.jpg
   overlay_image: /assets/images/4877453831_9016c0ac98_b.jpg
 categories: []
-tags:
-- fantasy
-- drama
-- loss
-- identity
+tags: 
+  - speculative
+  - solitude
+  - eerie
 ---
 
 

@@ -7,11 +7,10 @@ header:
   overlay_image: /assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg
 category:
 - writings
-tags:
-- horror
-- thriller
-- domestic-noir
-- melancholy
+tags: 
+  - grounded
+  - intimacy
+  - eerie
 ---
 
 

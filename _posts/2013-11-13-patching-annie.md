@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/6164022668_e6a611ccfe_b.jpg
   overlay_image: /assets/images/6164022668_e6a611ccfe_b.jpg
 categories: []
-tags:
-- drama
-- fantasy
-- dark-intimate
-- domestic-noir
+tags: 
+  - speculative
+  - intimacy
+  - melancholy
 ---
 
 

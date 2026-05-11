@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/3810416462_ac86d2645b_newsroom.jpg
   overlay_image: /assets/images/3810416462_ac86d2645b_newsroom.jpg
 categories: []
-tags:
-- drama
-- thriller
-- betrayal
-- domestic-noir
+tags: 
+  - grounded
+  - solitude
+  - wit
 ---
 
 
