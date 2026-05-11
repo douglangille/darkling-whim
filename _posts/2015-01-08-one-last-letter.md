@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/nj-321381.jpg
   overlay_image: /assets/images/nj-321381.jpg
 categories: []
-tags:
-- drama
-- dark-intimate
-- domestic-noir
-- loss
+tags: 
+  - grounded
+  - intimacy
+  - melancholy
 ---
 
 

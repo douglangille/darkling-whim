@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/10632832054_b9b2130677_b.jpg
   overlay_image: /assets/images/10632832054_b9b2130677_b.jpg
 categories: []
-tags:
-- haley
-- horror
-- thriller
-- scifi
+tags: 
+  - speculative
+  - kith-kin
+  - tension
+  - haley
 ---
 
 

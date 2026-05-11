@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/apocalypse-371947_1280.jpg
   overlay_image: /assets/images/apocalypse-371947_1280.jpg
 categories: []
-tags:
-- haley
-- horror
-- drama
-- transformation
+tags: 
+  - speculative
+  - solitude
+  - eerie
+  - haley
 ---
 
 

@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/armagedon-6.jpg
   overlay_image: /assets/images/armagedon-6.jpg
 categories: []
-tags:
-- poetry
-- drama
-- scifi
-- trauma
+tags: 
+  - speculative
+  - intimacy
+  - melancholy
+  - poetry
 ---
 
 

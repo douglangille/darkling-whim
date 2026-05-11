@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/night-sky-685736.jpg
   overlay_image: /assets/images/night-sky-685736.jpg
 categories: []
-tags:
-- haley
-- drama
-- domestic-noir
-- loss
+tags: 
+  - grounded
+  - solitude
+  - melancholy
+  - haley
 ---
 
 

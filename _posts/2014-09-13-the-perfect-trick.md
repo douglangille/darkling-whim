@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/12-magic-tricks-rescan1.jpg
   overlay_image: /assets/images/12-magic-tricks-rescan1.jpg
 categories: []
-tags:
-- thriller
-- drama
-- paranormal
-- humour
+tags: 
+  - grounded
+  - kith-kin
+  - wit
 ---
 
 

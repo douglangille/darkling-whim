@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/handcuffs-219261.jpg
   overlay_image: /assets/images/handcuffs-219261.jpg
 categories: []
-tags:
-- thriller
-- drama
-- dark-intimate
-- redemption
+tags: 
+  - grounded
+  - intimacy
+  - tension
 ---
 
 

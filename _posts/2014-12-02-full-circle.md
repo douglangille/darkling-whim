@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/bus-stop-72171.jpg
   overlay_image: /assets/images/bus-stop-72171.jpg
 categories: []
-tags:
-- drama
-- dark-intimate
-- loss
-- thriller
+tags: 
+  - grounded
+  - intimacy
+  - melancholy
 ---
 
 

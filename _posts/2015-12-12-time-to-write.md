@@ -6,10 +6,10 @@ header:
   teaser: /assets/images/hourglass-620397_640.jpg
   overlay_image: /assets/images/hourglass-620397_640.jpg
   categories: perspectives
-tags:
-- humour
-- post-apocalyptic
-- melancholy
+tags: 
+  - grounded
+  - solitude
+  - wit
 ---
 
 

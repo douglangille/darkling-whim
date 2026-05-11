@@ -7,9 +7,10 @@ header:
   teaser: /assets/images/man-80101_1920.jpg
   overlay_image: /assets/images/man-80101_1920.jpg
 categories: []
-tags:
-- drama
-- melancholy
+tags: 
+  - grounded
+  - solitude
+  - melancholy
 ---
 
 

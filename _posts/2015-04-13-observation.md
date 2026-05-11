@@ -7,9 +7,10 @@ header:
   teaser: /assets/images/starbucks-569062_1280.jpg
   overlay_image: /assets/images/starbucks-569062_1280.jpg
 categories: []
-tags:
-- thriller
-- horror
+tags: 
+  - grounded
+  - solitude
+  - eerie
 ---
 
 

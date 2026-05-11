@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
   overlay_image: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
 categories: []
-tags:
-- horror
-- humour
-- trauma
-- melancholy
+tags: 
+  - speculative
+  - intimacy
+  - wit
 ---
 
 

@@ -7,9 +7,10 @@ header:
   teaser: /assets/images/rhythm-78387_1280.jpg
   overlay_image: /assets/images/rhythm-78387_1280.jpg
 categories: []
-tags:
-- fantasy
-- drama
+tags: 
+  - speculative
+  - solitude
+  - wit
 ---
 
 

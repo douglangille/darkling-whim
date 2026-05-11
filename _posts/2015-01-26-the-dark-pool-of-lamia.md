@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/water-drop-173751.jpg
   overlay_image: /assets/images/water-drop-173751.jpg
 categories: []
-tags:
-- fantasy
-- horror
-- trauma
-- identity
+tags: 
+  - speculative
+  - solitude
+  - tension
 ---
 
 

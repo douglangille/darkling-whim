@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/sky-404060.jpg
   overlay_image: /assets/images/sky-404060.jpg
 categories: []
-tags:
-- scifi
-- horror
-- paranormal
-- loss
+tags: 
+  - speculative
+  - kith-kin
+  - melancholy
 ---
 
 

@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/lemon-364274.jpg
   overlay_image: /assets/images/lemon-364274.jpg
 categories: []
-tags:
-- fantasy
-- humour
-- loss
-- identity
+tags: 
+  - speculative
+  - solitude
+  - wit
 ---
 
 

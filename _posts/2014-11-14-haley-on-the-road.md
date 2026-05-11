@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/road-166543.jpg
   overlay_image: /assets/images/road-166543.jpg
 categories: []
-tags:
-- haley
-- horror
-- drama
-- dark-intimate
+tags: 
+  - speculative
+  - kith-kin
+  - tension
+  - haley
 ---
 
 

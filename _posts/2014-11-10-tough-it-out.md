@@ -6,9 +6,10 @@ header:
   teaser: /assets/images/3789200908_9dbf327800_scrape.jpg
   overlay_image: /assets/images/3789200908_9dbf327800_scrape.jpg
 categories: []
-tags:
-- drama
-- identity
+tags: 
+  - grounded
+  - solitude
+  - wit
 published: true
 ---
 

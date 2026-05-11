@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/20140313-090105.jpg
   overlay_image: /assets/images/20140313-090105.jpg
 categories: []
-tags:
-- drama
-- scifi
-- melancholy
-- betrayal
+tags: 
+  - speculative
+  - kith-kin
+  - eerie
 ---
 
 

@@ -6,9 +6,10 @@ header:
   teaser: /assets/images/2961721210_c6f4b5bd6a_throwing-knife.jpg
   overlay_image: /assets/images/2961721210_c6f4b5bd6a_throwing-knife.jpg
 categories: []
-tags:
-- thriller
-- drama
+tags: 
+  - grounded
+  - solitude
+  - tension
 ---
 
 

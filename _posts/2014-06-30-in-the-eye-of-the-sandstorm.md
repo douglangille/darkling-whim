@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/Desert_Storm_by_Araken_Starway.jpg
   overlay_image: /assets/images/Desert_Storm_by_Araken_Starway.jpg
 categories: []
-tags:
-- drama
-- horror
-- trauma
-- loss
+tags: 
+  - dark
+  - kith-kin
+  - melancholy
 ---
 
 

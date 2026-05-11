@@ -6,9 +6,12 @@ header:
   teaser: /assets/images/door-689874_1280.jpg
   overlay_image: /assets/images/door-689874_1280.jpg
 categories: []
-tags:
-- humour
-- identity
+tags: 
+  - speculative
+  - kith-kin
+  - wit
+  - gracie
+  - pansy
 ---
 
 

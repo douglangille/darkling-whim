@@ -6,9 +6,10 @@ header:
   teaser: /assets/images/3057385436_c407aa8e3e_b.jpg
   overlay_image: /assets/images/3057385436_c407aa8e3e_b.jpg
 categories: []
-tags:
-- horror
-- fantasy
+tags: 
+  - speculative
+  - intimacy
+  - eerie
 ---
 
 

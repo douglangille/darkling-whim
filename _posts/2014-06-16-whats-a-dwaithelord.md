@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/5416798747_0095e81ffe_evil-fairy.jpg
   overlay_image: /assets/images/5416798747_0095e81ffe_evil-fairy.jpg
 categories: []
-tags:
-- fantasy
-- horror
-- loss
-- paranormal
+tags: 
+  - speculative
+  - solitude
+  - tension
 ---
 
 

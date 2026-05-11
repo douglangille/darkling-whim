@@ -6,9 +6,10 @@ header:
   teaser: /assets/images/1196478322_fec1df88ce_b.jpg
   overlay_image: /assets/images/1196478322_fec1df88ce_b.jpg
 categories: []
-tags:
-- humour
-- melancholy
+tags: 
+  - speculative
+  - intimacy
+  - wit
 ---
 
 

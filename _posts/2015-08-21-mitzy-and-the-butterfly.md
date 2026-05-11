@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/8b973b71609dfded_640.jpg
   overlay_image: /assets/images/8b973b71609dfded_640.jog
 categories: []
-tags:
-- fantasy
-- horror
-- loss
-- melancholy
+tags: 
+  - speculative
+  - kith-kin
+  - melancholy
 ---
 
 

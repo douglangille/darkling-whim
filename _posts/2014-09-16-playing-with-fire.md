@@ -7,10 +7,10 @@ header:
   teaser: /assets/images/ef32b80a2bfd1c3e81584d04ee44408be273e7d61fb910429df3_640_lighter-flame.jpg
   overlay_image: /assets/images/ef32b80a2bfd1c3e81584d04ee44408be273e7d61fb910429df3_640_lighter-flame.jpg
 categories: []
-tags:
-- thriller
-- drama
-- loss
+tags: 
+  - grounded
+  - solitude
+  - tension
 ---
 
 

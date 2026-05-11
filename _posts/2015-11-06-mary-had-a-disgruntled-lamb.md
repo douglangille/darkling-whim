@@ -6,10 +6,11 @@ header:
   teaser: /assets/images/Disgruntled-Lamb.jpg
   overlay_image: /assets/images/Disgruntled-Lamb.jpg
 categories: []
-tags:
-- poetry
-- humour
-- horror
+tags: 
+  - speculative
+  - kith-kin
+  - wit
+  - poetry
 ---
 
 

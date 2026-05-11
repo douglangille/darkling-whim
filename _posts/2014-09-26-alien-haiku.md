@@ -6,10 +6,11 @@ header:
   teaser: /assets/images/9153767970_5a8cbf4f18_b.jpg
   overlay_image: /assets/images/9153767970_5a8cbf4f18_b.jpg
 categories: []
-tags:
-- poetry
-- scifi
-- betrayal
+tags: 
+  - speculative
+  - solitude
+  - eerie
+  - poetry
 ---
 
 

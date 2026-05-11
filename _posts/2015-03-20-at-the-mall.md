@@ -7,9 +7,10 @@ header:
   teaser: /assets/images/post-66098_1920.jpg
   overlay_image: /assets/images/post-66098_1920.jpg
 categories: []
-tags:
-- drama
-- humour
+tags: 
+  - grounded
+  - intimacy
+  - wit
 ---
 
 

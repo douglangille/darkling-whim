@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/IMG-20121020-00007.jpg
   overlay_image: /assets/images/IMG-20121020-00007.jpg
 categories: []
-tags:
-- drama
-- horror
-- domestic-noir
-- loss
+tags: 
+  - speculative
+  - kith-kin
+  - melancholy
 ---
 
 

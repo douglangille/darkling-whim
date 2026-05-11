@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/5239029540_639e0a2139_b.jpg
   overlay_image: /assets/images/5239029540_639e0a2139_b.jpg
 categories: []
-tags:
-- fantasy
-- drama
-- loss
-- humour
+tags: 
+  - speculative
+  - intimacy
+  - melancholy
 ---
 
 

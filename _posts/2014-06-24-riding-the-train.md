@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/subway_car_by_paupah.jpg
   overlay_image: /assets/images/subway_car_by_paupah.jpg
 categories: []
-tags:
-- drama
-- scifi
-- transformation
-- loss
+tags: 
+  - speculative
+  - intimacy
+  - tension
 ---
 
 

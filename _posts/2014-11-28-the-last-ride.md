@@ -6,10 +6,11 @@ header:
   teaser: /assets/images/5807577702_2b25ec5d7a_bicycle-wheel.jpg
   overlay_image: /assets/images/5807577702_2b25ec5d7a_bicycle-wheel.jpg
 categories: []
-tags:
-- poetry
-- thriller
-- horror
+tags: 
+  - grounded
+  - solitude
+  - tension
+  - poetry
 ---
 
 

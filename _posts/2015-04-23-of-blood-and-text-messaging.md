@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/smartphone-593318.jpg
   overlay_image: /assets/images/smartphone-593318.jpg
 categories: []
-tags:
-- thriller
-- drama
-- horror
-- noir
+tags: 
+  - grounded
+  - kith-kin
+  - tension
 ---
 
 

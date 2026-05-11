@@ -7,11 +7,11 @@ header:
   teaser: /assets/images/c7eae012190627c8_1280_night-birds.jpg
   overlay_image: /assets/images/c7eae012190627c8_1280_night-birds.jpg
 categories: []
-tags:
-- haley
-- horror
-- thriller
-- domestic-noir
+tags: 
+  - speculative
+  - kith-kin
+  - tension
+  - haley
 ---
 
 

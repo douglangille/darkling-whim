@@ -6,10 +6,10 @@ header:
   teaser: /assets/images/Three-Goats.jpg
   overlay_image: /assets/images/Three-Goats.jpg
 categories: []
-tags:
-- fantasy
-- humour
-- melancholy
+tags: 
+  - speculative
+  - kith-kin
+  - wit
 ---
 
 

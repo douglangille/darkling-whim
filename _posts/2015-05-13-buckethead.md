@@ -7,9 +7,10 @@ header:
   teaser: /assets/images/stethoscope-448614_1280.jpg
   overlay_image: /assets/images/stethoscope-448614_1280.jpg
 categories: []
-tags:
-- humour
-- horror
+tags: 
+  - grounded
+  - solitude
+  - wit
 ---
 
 

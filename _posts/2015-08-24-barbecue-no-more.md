@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/14407329792_5240b7ed7a_b.jpg
   overlay_image: /assets/images/14407329792_5240b7ed7a_b.jpg
 categories: []
-tags:
-- fantasy
-- humour
-- dark-intimate
-- betrayal
+tags: 
+  - speculative
+  - solitude
+  - wit
 ---
 
 

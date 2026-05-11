@@ -7,8 +7,10 @@ header:
   teaser: /assets/images/3529592370_568f8f0490_hospital-machine.jpg
   overlay_image: /assets/images/3529592370_568f8f0490_hospital-machine.jpg
 categories: []
-tags:
-- drama
+tags: 
+  - grounded
+  - intimacy
+  - melancholy
 ---
 
 

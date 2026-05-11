@@ -6,8 +6,10 @@ header:
   teaser: /assets/images/bacon-575334_1280.jpg
   overlay_image: /assets/images/bacon-575334_1280.jpg
 categories: []
-tags:
-- humour
+tags: 
+  - speculative
+  - kith-kin
+  - wit
 ---
 
 

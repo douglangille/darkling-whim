@@ -7,9 +7,10 @@ header:
   teaser: /assets/images/4023271489_298888916d_blood-drop.jpg
   overlay_image: /assets/images/4023271489_298888916d_blood-drop.jpg
 categories: []
-tags:
-- drama
-- horror
+tags: 
+  - grounded
+  - solitude
+  - eerie
 ---
 
 

@@ -7,10 +7,10 @@ header:
   teaser: /assets/images/digital-388075_1280.jpg
   overlay_image: /assets/images/digital-388075_1280.jpg
 categories: []
-tags:
-- drama
-- thriller
-- trauma
+tags: 
+  - grounded
+  - solitude
+  - tension
 ---
 
 

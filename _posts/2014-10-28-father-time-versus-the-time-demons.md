@@ -6,11 +6,10 @@ header:
   teaser: /assets/images/20141022_003057000_iOS.jpg
   overlay_image: /assets/images/20141022_003057000_iOS.jpg
 categories: []
-tags:
-- fantasy
-- humour
-- loss
-- identity
+tags: 
+  - speculative
+  - solitude
+  - tension
 ---
 
 

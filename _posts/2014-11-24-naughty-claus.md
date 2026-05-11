@@ -7,9 +7,11 @@ header:
   overlay_filter: 0.4
 excerpt: ''
 categories: []
-tags:
-- poetry
-- humour
+tags: 
+  - grounded
+  - solitude
+  - wit
+  - poetry
 ---
 
 

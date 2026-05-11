@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/Forest_Glade.jpg
   overlay_image: /assets/images/Forest_Glade.jpg
 categories: []
-tags:
-- fantasy
-- horror
-- loss
-- melancholy
+tags: 
+  - speculative
+  - kith-kin
+  - tension
 ---
 
 

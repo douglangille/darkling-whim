@@ -7,11 +7,11 @@ header:
   teaser: /assets/images/447c7e97ca6778a6_1280_jail.jpg
   overlay_image: /assets/images/447c7e97ca6778a6_1280_jail.jpg
 categories: []
-tags:
-- haley
-- horror
-- thriller
-- dark-intimate
+tags: 
+  - speculative
+  - kith-kin
+  - tension
+  - haley
 ---
 
 

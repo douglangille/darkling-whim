@@ -6,10 +6,11 @@ header:
   teaser: /assets/images/earth-244238_1280.jpg
   overlay_image: /assets/images/earth-244238_1280.jpg
 categories: []
-tags:
-- scifi
-- horror
-- loss
+tags: 
+  - speculative
+  - kith-kin
+  - melancholy
+  - poetry
 ---
 
 

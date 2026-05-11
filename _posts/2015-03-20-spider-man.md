@@ -6,10 +6,10 @@ header:
   teaser: /assets/images/cobweb-449911_1280.jpg
   overlay_image: /assets/images/cobweb-449911_1280.jpg
 categories: []
-tags:
-- humour
-- scifi
-- unreliable-narrator
+tags: 
+  - speculative
+  - intimacy
+  - wit
 ---
 
 

@@ -7,10 +7,10 @@ header:
   teaser: /assets/images/2493604415_230048038b_b_werewolf.jpg
   overlay_image: /assets/images/2493604415_230048038b_b_werewolf.jpg
 categories: []
-tags:
-- fantasy
-- horror
-- transformation
+tags: 
+  - speculative
+  - kith-kin
+  - tension
 ---
 
 

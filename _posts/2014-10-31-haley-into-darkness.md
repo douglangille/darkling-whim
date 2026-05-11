@@ -7,11 +7,11 @@ header:
   teaser: /assets/images/5e4b3b460f6e1ab4_640_closet.jpg
   overlay_image: /assets/images/5e4b3b460f6e1ab4_640_closet.jpg
 categories: []
-tags:
-- haley
-- horror
-- drama
-- melancholy
+tags: 
+  - speculative
+  - kith-kin
+  - tension
+  - haley
 ---
 
 

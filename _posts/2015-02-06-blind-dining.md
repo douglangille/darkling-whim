@@ -6,10 +6,10 @@ header:
   teaser: /assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg
   overlay_image: /assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg
 categories: []
-tags:
-- drama
-- thriller
-- humour
+tags: 
+  - grounded
+  - intimacy
+  - tension
 ---
 
 

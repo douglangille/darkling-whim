@@ -6,9 +6,12 @@ header:
   teaser: /assets/images/chewing-gum-115162_1280.jpg
   overlay_image: /assets/images/chewing-gum-115162_1280.jpg
 categories: []
-tags:
-- haley
-- drama
+tags: 
+  - grounded
+  - solitude
+  - wit
+  - haley
+  - eddie
 ---
 
 

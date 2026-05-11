@@ -6,9 +6,10 @@ header:
   teaser: /assets/images/4161390356_05ca3774fc_b.jpg
   overlay_image: /assets/images/4161390356_05ca3774fc_b.jpg
 categories: []
-tags:
-- humour
-- drama
+tags: 
+  - grounded
+  - solitude
+  - wit
 ---
 
 

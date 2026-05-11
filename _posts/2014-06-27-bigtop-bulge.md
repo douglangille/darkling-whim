@@ -6,9 +6,10 @@ header:
   teaser: /assets/images/8019720146_bd87339614_b.jpg
   overlay_image: /assets/images/8019720146_bd87339614_b.jpg
 categories: []
-tags:
-- humour
-- identity
+tags: 
+  - grounded
+  - kith-kin
+  - wit
 ---
 
 

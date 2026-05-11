@@ -7,10 +7,10 @@ header:
   teaser: /assets/images/sky-15198_1280.jpg
   overlay_image: /assets/images/sky-15198_1280.jpg
 categories: []
-tags:
-- drama
-- scifi
-- identity
+tags: 
+  - speculative
+  - solitude
+  - tension
 ---
 
 

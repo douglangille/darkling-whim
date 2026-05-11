@@ -6,9 +6,11 @@ header:
   teaser: /assets/images/2535792133_23d929a8a7_b.jpg
   overlay_image: /assets/images/2535792133_23d929a8a7_b.jpg
 categories: []
-tags:
-- poetry
-- humour
+tags: 
+  - grounded
+  - intimacy
+  - wit
+  - poetry
 ---
 
 

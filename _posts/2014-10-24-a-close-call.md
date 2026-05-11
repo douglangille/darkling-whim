@@ -7,10 +7,10 @@ header:
   teaser: /assets/images/4597461278_a5c993ccc1_b.jpg
   overlay_image: /assets/images/4597461278_a5c993ccc1_b.jpg
 categories: []
-tags:
-- thriller
-- domestic-noir
-- small-town
+tags: 
+  - grounded
+  - kith-kin
+  - tension
 ---
 
 

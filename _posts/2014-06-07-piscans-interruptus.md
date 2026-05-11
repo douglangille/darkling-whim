@@ -7,11 +7,10 @@ header:
   teaser: /assets/images/Fishing-spinning-reel.jpg
   overlay_image: /assets/images/Fishing-spinning-reel.jpg
 categories: []
-tags:
-- scifi
-- thriller
-- betrayal
-- loss
+tags: 
+  - speculative
+  - solitude
+  - tension
 ---
 
 

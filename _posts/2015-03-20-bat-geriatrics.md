@@ -6,9 +6,10 @@ header:
   teaser: /assets/images/batman-532919_1280.jpg
   overlay_image: /assets/images/batman-532919_1280.jpg
 categories: []
-tags:
-- drama
-- humour
+tags: 
+  - speculative
+  - kith-kin
+  - wit
 ---
 
 

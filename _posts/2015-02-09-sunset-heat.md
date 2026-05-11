@@ -6,8 +6,10 @@ header:
   teaser: /assets/images/end-of-the-day.jpg
   overlay_image: /assets/images/end-of-the-day.jpg
 categories: []
-tags:
-- drama
+tags: 
+  - grounded
+  - solitude
+  - melancholy
 ---
 
 

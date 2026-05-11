@@ -6,9 +6,10 @@ header:
   teaser: /assets/images/Pug_portrait.jpg
   overlay_image: /assets/images/Pug_portrait.jpg
 categories: []
-tags:
-- drama
-- loss
+tags: 
+  - grounded
+  - kith-kin
+  - melancholy
 ---
 
 
