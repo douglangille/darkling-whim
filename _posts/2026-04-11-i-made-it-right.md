@@ -4,8 +4,11 @@ tags:
   - grounded
   - solitude
   - tension
+header:
+  teaser: /assets/images/IMG_0122.jpeg
+  overlay_image: /assets/images/IMG_0122.jpeg
+excerpt: The steam wand hisses.
 ---
-
 
 # I Made It Right
 

@@ -4,7 +4,7 @@ date: 2021-01-26 08:00:00 -0400
 header:
   teaser: /assets/images/pexels-photo-38136.jpeg
   overlay_image: /assets/images/pexels-photo-38136.jpeg
-categories: []
+excerpt: It started as a joke, really. Betsy dared me.
 tags: 
   - speculative
   - intimacy

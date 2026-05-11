@@ -5,7 +5,7 @@ image: /assets/images/img_0014.jpg
 header:
   teaser: /assets/images/img_0014.jpg
   overlay_image: /assets/images/img_0014.jpg
-categories: []
+excerpt: Nothing but a trail of broken bone and rotten flesh.
 tags: 
   - dark
   - solitude

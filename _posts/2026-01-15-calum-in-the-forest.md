@@ -5,7 +5,7 @@ image: /assets/images/generated-image.png
 header:
   teaser: /assets/images/generated-image.png
   overlay_image: /assets/images/generated-image.png
-categories: []
+excerpt: Every shot taken draws the forest closer.
 tags: 
   - speculative
   - solitude

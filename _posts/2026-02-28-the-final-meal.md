@@ -4,6 +4,7 @@ date: 2026-02-28 08:00:00 -0400
 header:
   overlay_image: /assets/images/generated-image-3.png
   teaser: /assets/images/generated-image-3.png
+excerpt: The room is cold. A hospital cold that lives in the walls.
 tags: 
   - grounded
   - intimacy

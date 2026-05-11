@@ -5,7 +5,7 @@ image: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
 header:
   teaser: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
   overlay_image: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
-categories: []
+excerpt: Vanilla musk. She never changes.
 tags: 
   - grounded
   - intimacy

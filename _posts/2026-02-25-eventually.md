@@ -4,6 +4,7 @@ date: 2026-02-25 08:00:00 -0400
 header:
   overlay_image: /assets/images/generated-image-2.png
   teaser: /assets/images/generated-image-2.png
+excerpt: ''
 tags: 
   - grounded
   - solitude

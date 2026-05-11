@@ -2,6 +2,9 @@
 title: Station Seven
 date: 2026-03-26 08:00:00 -0400
 excerpt: The air tastes like ammonia and bleach and something underneath both.
+header:
+  teaser: /assets/images/generated-image-4.png
+  overlay_image: /assets/images/generated-image-4.png
 tags: 
   - dark
   - solitude
