@@ -14,7 +14,6 @@ tags:
   - tension
 ---
 
-
 # Danny's Redemption
 
 A sharp breeze stirred up the gutter dirt as Danny crossed the otherwise motionless street. It stung his face, both the sandy debris and the cold air. He pulled his collar up around his face in an attempt at comfort.
