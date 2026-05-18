@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/3225059631_daa9ddfbcf_b_stormy-night.jpg
 ---
 
-
 # Stormy Night
 
 It was a dark and stormy night. Sure, it's cliché but thats how I remember how it all started. How I was forced in to making this decision. How I ended up alone.

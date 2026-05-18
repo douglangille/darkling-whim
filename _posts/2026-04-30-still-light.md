@@ -11,7 +11,6 @@ header:
 feature: /assets/images/ChatGPT Image Apr 30, 2026 at 10_24_55 AM.png
 ---
 
-
 # Still Light
 
 The morning started with Donnie eating toast over the sink the way he always did when he was running late, crumbs on the counter, jam at the corner of his mouth. Sink knife on the edge. I told him I'd found a camera in dad's last box.

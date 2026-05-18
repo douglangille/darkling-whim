@@ -12,7 +12,6 @@ tags:
 feature: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
 ---
 
-
 # The Acknowledgement
 
 The house has sealed itself. Ethan stands on the porch he built, but the doorframe belongs to someone else now, corporate foam in every seam, hazard lights pulsing yellow against the siding. A Weyland-Yutani sticker on the frame: AUTHORIZED PERSONNEL ONLY. The vial, red through the frost, is cold in his hand.

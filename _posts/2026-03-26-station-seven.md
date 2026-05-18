@@ -12,7 +12,6 @@ tags:
 feature: /assets/images/generated-image-4.png
 ---
 
-
 # Station Seven
 
 You will arrive at six forty-five. The fluorescent panels will flicker in sequence, a rhythm you stopped noticing three years ago. Or five. Time moves differently here. The light is broken in a way that makes everything look already dead. The air tastes like ammonia and bleach and something underneath both. Something that's been waiting.

@@ -11,7 +11,6 @@ header:
 feature: /assets/images/IMG_0126.jpeg
 ---
 
-
 # The Canvas
 
 The rock cut through her gloves at the third handhold.
