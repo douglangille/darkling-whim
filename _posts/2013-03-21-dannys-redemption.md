@@ -6,6 +6,7 @@ excerpt: A sharp breeze stirred up the gutter dirt as Danny crossed the otherwis
 header:
   teaser: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
   overlay_image: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
+feature: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
 category:
 - writings
 tags: 
