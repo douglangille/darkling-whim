@@ -1,8 +1,7 @@
 ---
-title: "Figured You'd Understand"
+title: Figured You'd Understand
 date: 2026-05-18 08:00:00 -0400
-excerpt: "The habitat breathes at night. You stop hearing it after the first week. You absorb it. Become it."
-description: "A seabed worker's systematic non-action during a friend's grief reveals the precise architecture of chosen cruelty."
+excerpt: The habitat breathes at night. You stop hearing it after the first week. You absorb it. Become it.
 header:
   teaser: /assets/images/figured-youd-understand/figured-youd-understand.png
   overlay_image: /assets/images/figured-youd-understand/figured-youd-understand.png
@@ -12,6 +11,7 @@ tags:
   - eerie
   - revised
 feature: /assets/images/figured-youd-understand/figured-youd-understand.png
+meta: A seabed worker's systematic non-action during a friend's grief reveals the precise architecture of chosen cruelty.
 ---
 
 # Figured You'd Understand
