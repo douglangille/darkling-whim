@@ -11,6 +11,7 @@ tags:
   - grounded
   - solitude
   - wit
+feature: /assets/images/5923105171_90007ff833_cat-mouse.jpg
 ---
 
 

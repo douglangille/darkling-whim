@@ -9,6 +9,7 @@ tags:
   - grounded
   - solitude
   - melancholy
+feature: /assets/images/ChatGPT Image Feb 7, 2026 at 12_30_15 PM.png
 ---
 
 

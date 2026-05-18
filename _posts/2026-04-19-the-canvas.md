@@ -8,6 +8,7 @@ tags:
 header:
   teaser: /assets/images/IMG_0126.jpeg
   overlay_image: /assets/images/IMG_0126.jpeg
+feature: /assets/images/IMG_0126.jpeg
 ---
 
 

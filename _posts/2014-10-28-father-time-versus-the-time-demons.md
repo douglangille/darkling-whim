@@ -10,6 +10,7 @@ tags:
   - speculative
   - solitude
   - tension
+feature: /assets/images/20141022_003057000_iOS.jpg
 ---
 
 

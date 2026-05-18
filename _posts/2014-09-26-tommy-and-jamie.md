@@ -10,6 +10,7 @@ tags:
   - grounded
   - kith-kin
   - tension
+feature: /assets/images/4229023687_dde8b6962e_b_mittens.jpg
 ---
 
 

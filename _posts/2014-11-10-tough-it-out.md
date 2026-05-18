@@ -11,6 +11,7 @@ tags:
   - solitude
   - wit
 published: true
+feature: /assets/images/3789200908_9dbf327800_scrape.jpg
 ---
 
 

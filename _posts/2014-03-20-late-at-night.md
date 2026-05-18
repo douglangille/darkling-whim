@@ -11,6 +11,7 @@ tags:
   - solitude
   - melancholy
   - poetry
+feature: /assets/images/Hospital_by_sheisviolence.jpg
 ---
 
 

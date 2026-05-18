@@ -9,6 +9,7 @@ tags:
   - dark
   - solitude
   - eerie
+feature: /assets/images/generated-image-4.png
 ---
 
 

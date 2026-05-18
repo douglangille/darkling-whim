@@ -11,6 +11,7 @@ categories: []
 header:
   teaser: /assets/images/eddie-zero.png
   overlay_image: /assets/images/eddie-zero.png
+feature: /assets/images/eddie-zero.png
 ---
 
 

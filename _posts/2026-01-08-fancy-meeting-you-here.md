@@ -10,6 +10,7 @@ tags:
   - grounded
   - intimacy
   - tension
+feature: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
 ---
 
 

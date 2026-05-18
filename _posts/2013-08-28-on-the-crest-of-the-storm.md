@@ -11,6 +11,7 @@ tags:
   - solitude
   - tension
   - poetry
+feature: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
 ---
 
 

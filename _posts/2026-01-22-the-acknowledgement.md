@@ -9,6 +9,7 @@ tags:
   - speculative
   - intimacy
   - melancholy
+feature: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
 ---
 
 

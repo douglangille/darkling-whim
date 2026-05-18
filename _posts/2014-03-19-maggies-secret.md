@@ -10,6 +10,7 @@ tags:
   - grounded
   - intimacy
   - wit
+feature: /assets/images/4577104544_a4f06dc810_b.jpg
 ---
 
 

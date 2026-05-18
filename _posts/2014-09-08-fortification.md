@@ -10,6 +10,7 @@ tags:
   - grounded
   - solitude
   - tension
+feature: /assets/images/3928159274_ce53125700_whiskey-glass.jpg
 ---
 
 

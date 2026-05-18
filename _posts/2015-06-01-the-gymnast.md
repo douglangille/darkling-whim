@@ -11,6 +11,7 @@ tags:
   - speculative
   - solitude
   - wit
+feature: /assets/images/rhythm-78387_1280.jpg
 ---
 
 

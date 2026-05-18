@@ -11,6 +11,7 @@ tags:
   - grounded
   - solitude
   - melancholy
+feature: /assets/images/man-80101_1920.jpg
 ---
 
 

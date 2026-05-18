@@ -11,6 +11,7 @@ tags:
   - grounded
   - solitude
   - melancholy
+feature: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
 ---
 
 

@@ -11,6 +11,7 @@ tags:
   - grounded
   - solitude
   - tension
+feature: /assets/images/digital-388075_1280.jpg
 ---
 
 

@@ -10,6 +10,7 @@ tags:
   - dark
   - solitude
   - wit
+feature: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
 ---
 
 

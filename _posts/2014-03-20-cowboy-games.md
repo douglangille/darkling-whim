@@ -12,6 +12,7 @@ tags:
   - melancholy
   - revised
 revised: 2026-02-20
+feature: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
 ---
 
 

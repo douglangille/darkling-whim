@@ -10,6 +10,7 @@ tags:
   - speculative
   - solitude
   - eerie
+feature: /assets/images/generated-image.png
 ---
 
 

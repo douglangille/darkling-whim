@@ -9,6 +9,7 @@ tags:
   - speculative
   - solitude
   - eerie
+feature: /assets/images/ideogram-v3.0_A_cinematic_overhead_shot_looking_straight_down_at_a_worn_institutional_work_tab-0.jpg
 ---
 
 

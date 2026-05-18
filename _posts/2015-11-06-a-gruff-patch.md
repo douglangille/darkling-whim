@@ -10,6 +10,7 @@ tags:
   - speculative
   - kith-kin
   - wit
+feature: /assets/images/Three-Goats.jpg
 ---
 
 

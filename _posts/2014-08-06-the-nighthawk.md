@@ -11,6 +11,7 @@ tags:
   - solitude
   - eerie
   - poetry
+feature: /assets/images/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
 ---
 
 

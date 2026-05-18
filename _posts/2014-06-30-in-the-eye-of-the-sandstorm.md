@@ -10,6 +10,7 @@ tags:
   - dark
   - kith-kin
   - melancholy
+feature: /assets/images/Desert_Storm_by_Araken_Starway.jpg
 ---
 
 

@@ -11,6 +11,7 @@ tags:
   - speculative
   - solitude
   - tension
+feature: /assets/images/Fishing-spinning-reel.jpg
 ---
 
 

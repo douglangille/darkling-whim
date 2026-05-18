@@ -11,6 +11,7 @@ tags:
   - solitude
   - melancholy
   - haley
+feature: /assets/images/night-sky-685736.jpg
 ---
 
 

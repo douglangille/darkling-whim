@@ -9,6 +9,7 @@ tags:
   - grounded
   - solitude
   - melancholy
+feature: /assets/images/generated-image-2.png
 ---
 
 

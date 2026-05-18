@@ -11,6 +11,7 @@ tags:
   - solitude
   - melancholy
   - haley
+feature: /assets/images/img_0014.jpg
 ---
 
 

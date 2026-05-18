@@ -10,6 +10,7 @@ tags:
   - speculative
   - solitude
   - tension
+feature: /assets/images/ed3cb80d28f01c3e81584d04ee44408be273e7d71fb818499cf5_640_medusa.jpg
 ---
 
 

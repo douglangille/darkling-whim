@@ -10,6 +10,7 @@ tags:
   - dark
   - kith-kin
   - tension
+feature: /assets/images/63224608_b2dd0efea4_b_campfire.jpg
 ---
 
 

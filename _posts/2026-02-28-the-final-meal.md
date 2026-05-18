@@ -9,6 +9,7 @@ tags:
   - grounded
   - intimacy
   - melancholy
+feature: /assets/images/generated-image-3.png
 ---
 
 

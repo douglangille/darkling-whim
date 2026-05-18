@@ -10,6 +10,7 @@ tags:
   - grounded
   - solitude
   - melancholy
+feature: /assets/images/end-of-the-day.jpg
 ---
 
 

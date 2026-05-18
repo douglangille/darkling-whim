@@ -11,6 +11,7 @@ tags:
   - grounded
   - solitude
   - eerie
+feature: /assets/images/starbucks-569062_1280.jpg
 ---
 
 

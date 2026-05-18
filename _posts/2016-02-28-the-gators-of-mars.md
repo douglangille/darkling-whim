@@ -11,6 +11,7 @@ tags:
   - solitude
   - wit
   - revised
+feature: /assets/images/teeth-471546_1280.jpg
 ---
 
 

@@ -10,6 +10,7 @@ tags:
   - dark
   - solitude
   - tension
+feature: /assets/images/e035b40d2bf11c3e81584d04ee44408be273e7d71fb1124995f9_640_cabin.jpg
 ---
 
 

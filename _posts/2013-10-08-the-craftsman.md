@@ -10,6 +10,7 @@ tags:
   - dark
   - solitude
   - tension
+feature: /assets/images/Collecting-Knives.jpg
 ---
 
 

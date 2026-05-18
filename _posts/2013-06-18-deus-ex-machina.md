@@ -10,6 +10,7 @@ tags:
   - speculative
   - kith-kin
   - wit
+feature: /assets/images/1b5b1dfcb4aa9054_1280_detective1.jpg
 ---
 
 

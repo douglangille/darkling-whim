@@ -10,6 +10,7 @@ tags:
   - grounded
   - solitude
   - wit
+feature: /assets/images/hourglass-620397_640.jpg
 ---
 
 

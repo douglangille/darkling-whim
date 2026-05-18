@@ -9,6 +9,7 @@ tags:
 header:
   teaser: /assets/images/thorn-apple.png
   overlay_image: /assets/images/thorn-apple.png
+feature: /assets/images/thorn-apple.png
 ---
 
 

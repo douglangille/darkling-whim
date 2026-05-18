@@ -10,6 +10,7 @@ tags:
   - speculative
   - intimacy
   - wit
+feature: /assets/images/1196478322_fec1df88ce_b.jpg
 ---
 
 

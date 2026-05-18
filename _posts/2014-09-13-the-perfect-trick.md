@@ -10,6 +10,7 @@ tags:
   - grounded
   - kith-kin
   - wit
+feature: /assets/images/12-magic-tricks-rescan1.jpg
 ---
 
 

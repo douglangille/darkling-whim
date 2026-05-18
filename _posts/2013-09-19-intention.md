@@ -10,6 +10,7 @@ tags:
   - grounded
   - solitude
   - wit
+feature: /assets/images/3445269852_bca2f85d3c_b-1.jpg
 ---
 
 

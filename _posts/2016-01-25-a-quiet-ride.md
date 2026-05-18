@@ -11,6 +11,7 @@ tags:
   - grounded
   - solitude
   - tension
+feature: /assets/images/14831550395_83c957fbd8_tire-gravel.jpg
 ---
 
 

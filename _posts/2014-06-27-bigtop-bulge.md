@@ -10,6 +10,7 @@ tags:
   - grounded
   - kith-kin
   - wit
+feature: /assets/images/8019720146_bd87339614_b.jpg
 ---
 
 

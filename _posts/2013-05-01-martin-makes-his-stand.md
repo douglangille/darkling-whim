@@ -11,6 +11,7 @@ tags:
   - grounded
   - solitude
   - wit
+feature: /assets/images/3840887124_0908c40ecf_blueberry-rake.jpg
 ---
 
 

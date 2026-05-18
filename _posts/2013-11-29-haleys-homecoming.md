@@ -11,6 +11,7 @@ tags:
   - solitude
   - tension
   - haley
+feature: /assets/images/7593788900_3eb3e6e0f7_small-town.jpg
 ---
 
 

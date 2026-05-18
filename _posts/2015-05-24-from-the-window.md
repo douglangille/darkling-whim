@@ -11,6 +11,7 @@ tags:
   - kith-kin
   - wit
   - revised
+feature: /assets/images/IMG_0342.jpg
 ---
 
 

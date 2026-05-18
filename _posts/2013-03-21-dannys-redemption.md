@@ -12,6 +12,7 @@ tags:
   - speculative
   - intimacy
   - tension
+feature: /assets/images/6f9ed9b8c740fbab381ffde33d22b056.jpg
 ---
 
 # Danny's Redemption

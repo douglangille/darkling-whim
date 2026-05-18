@@ -11,6 +11,7 @@ tags:
   - wit
   - revised
 revised: 2026-04-03
+feature: /assets/images/twenty_two_degrees___the_icy_swelter_by_dacyanwaffle123-d52czmu.jpg
 ---
 
 

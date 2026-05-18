@@ -11,6 +11,7 @@ tags:
   - solitude
   - wit
   - poetry
+feature: /assets/images/4162377148_3c7621df54_b.jpg
 ---
 
 

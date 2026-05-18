@@ -12,6 +12,7 @@ tags:
   - solitude
   - eerie
   - poetry
+feature: /assets/images/RSS006.jpg
 ---
 
 

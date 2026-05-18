@@ -11,6 +11,7 @@ tags:
   - grounded
   - intimacy
   - melancholy
+feature: /assets/images/3529592370_568f8f0490_hospital-machine.jpg
 ---
 
 

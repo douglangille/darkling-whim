@@ -11,6 +11,7 @@ tags:
   - solitude
   - wit
   - haley
+feature: /assets/images/chewing-gum-115162_1280.jpg
 ---
 
 

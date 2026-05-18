@@ -11,6 +11,7 @@ tags:
   - speculative
   - kith-kin
   - tension
+feature: /assets/images/2493604415_230048038b_b_werewolf.jpg
 ---
 
 

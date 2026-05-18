@@ -11,6 +11,7 @@ tags:
   - intimacy
   - wit
   - poetry
+feature: /assets/images/man-147613_1280.jpg
 ---
 
 

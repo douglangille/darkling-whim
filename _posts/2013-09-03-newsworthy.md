@@ -11,6 +11,7 @@ tags:
   - grounded
   - solitude
   - wit
+feature: /assets/images/3810416462_ac86d2645b_newsroom.jpg
 ---
 
 

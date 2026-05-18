@@ -10,6 +10,7 @@ tags:
   - grounded
   - kith-kin
   - melancholy
+feature: /assets/images/Pug_portrait.jpg
 ---
 
 

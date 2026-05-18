@@ -10,6 +10,7 @@ tags:
   - speculative
   - solitude
   - wit
+feature: /assets/images/7420708952_0c90eb0fea_b.jpg
 ---
 
 

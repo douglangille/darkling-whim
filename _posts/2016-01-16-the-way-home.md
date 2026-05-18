@@ -10,6 +10,7 @@ tags:
   - solitude
   - tension
   - revised
+feature: /assets/images/eb31b40d20f11c3e81584d04ee44408be273e7d71eb9134396f5_640_winter-driving.jpg
 ---
 
 

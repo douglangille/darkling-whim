@@ -10,6 +10,7 @@ tags:
   - speculative
   - kith-kin
   - wit
+feature: /assets/images/2227797968_278063879c_six-shooter.jpg
 ---
 
   

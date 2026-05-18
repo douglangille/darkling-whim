@@ -10,6 +10,7 @@ tags:
   - speculative
   - solitude
   - wit
+feature: /assets/images/3515903269_4ef595b1e7_alien-human.jpg
 ---
 
 

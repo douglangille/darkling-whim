@@ -11,6 +11,7 @@ tags:
   - grounded
   - solitude
   - wit
+feature: /assets/images/stethoscope-448614_1280.jpg
 ---
 
 

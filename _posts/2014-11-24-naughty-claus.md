@@ -12,6 +12,7 @@ tags:
   - solitude
   - wit
   - poetry
+feature: /assets/images/e835b90729fc023ecd0b470de7444e90fe76e6d01db1124293f7c4_640_online-shopping.jpg
 ---
 
 

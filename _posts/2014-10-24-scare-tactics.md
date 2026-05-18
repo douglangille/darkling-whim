@@ -10,6 +10,7 @@ tags:
   - speculative
   - intimacy
   - wit
+feature: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
 ---
 
 

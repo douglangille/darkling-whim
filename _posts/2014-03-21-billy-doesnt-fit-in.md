@@ -10,6 +10,7 @@ tags:
   - speculative
   - solitude
   - wit
+feature: /assets/images/4406503559_12acb8f4f3_alien-kid.jpg
 ---
 
 

@@ -10,6 +10,7 @@ tags:
   - speculative
   - solitude
   - wit
+feature: /assets/images/lemon-364274.jpg
 ---
 
 
