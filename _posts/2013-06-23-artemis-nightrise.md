@@ -13,7 +13,6 @@ header:
 feature: /assets/images/flickr-6620255181-original.jpg
 ---
 
-
 # Artemis Nightrise
 
 Evie had a problem. She was overwhelmed. The coven hadn't assembled like this in more than two-hundred years. She was unsure how many of the Night-seekers were even left. The ship's beacon had gone off on her watch. She verified the scans twice, then three times, to convince herself that their long journey was about to end. Finally, a whole new world. She was so thirsty. One thing at a time.
@@ -79,4 +78,5 @@ His words were electric. His family of hunters buzzed with fire and fight. The a
 "What is this surprise in store for us?" Another pause. "Intelligent prey. Humanoid, like us. Rich and luxurious blood. An entire civilization awaits our conquest. Thirty billion alien souls upon which to feast. It is a banquet, my children. We will drink and feed until we thirst no more. We will swell our ranks. We will become mighty again. We will consume this world. It is our way. Welcome to my table. The hunt begins tonight!"
 
 Originally published in the science fiction anthology [Dark Futures Annual 1](https://www.amazon.ca/Dark-Futures-Annual-Roy-Booth-ebook/dp/B00MKA1G4W). Unpublished sequels are [Nightfall in the Glade](/nightfall-in-the-glade) and [The Dark Pool of Lamia](/the-dark-pool-of-lamia). A completed work is in development.
+
 {: .notice}

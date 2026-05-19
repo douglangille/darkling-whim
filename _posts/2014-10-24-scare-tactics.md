@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
 ---
 
-
 # Scare Tactics
 
 "Why don't you try poking out your eyes?"

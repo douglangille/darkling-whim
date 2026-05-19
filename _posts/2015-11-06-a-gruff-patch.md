@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/Three-Goats.jpg
 ---
 
-
 # A Gruff Patch
 
 Bruno Gruff scratched his flea-bitten crotch and stared out the window. His brothers, Barney and Buford, bickered over the last patch of swamp grass. He sniffed his hoof and winced before heading out the door.

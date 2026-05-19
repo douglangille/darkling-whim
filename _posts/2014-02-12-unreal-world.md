@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/holding_hands_by_xperianceART.jpg
 ---
 
-
 # Unreal World
 
 School wasn't working for me. Three years in and I crashed and burned, my high school ambitions laid to waste. Despite my so-called potential, I wasn't cut out to be a doctor. My heart wasn't in it and I was lazy. In many ways, I still am.

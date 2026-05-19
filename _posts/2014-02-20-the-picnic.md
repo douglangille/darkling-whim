@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/Hole_y_Tree_by_flurrynight.jpg
 ---
 
-
 # The Picnic
 
 *If you go down in the woods today, you're sure of a big surprise.*  

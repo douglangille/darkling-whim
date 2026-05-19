@@ -15,7 +15,6 @@ tags:
 feature: /assets/images/3265179981_eb3397913f_dinner-grace.jpg
 ---
 
-
 # Gramp&#8217;s Grace
 
 I'm not a religious man, but sitting at head of the table where my grandfather would have normally sit, I looked around to my rarely-assembled family, all eagerly awaiting the feast. I said grace, his grace, and all was perfect.

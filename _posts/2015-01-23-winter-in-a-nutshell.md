@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/4161390356_05ca3774fc_b.jpg
 ---
 
-
 # Winter in a Nutshell
 
 You don't have to shovel rain.  

@@ -13,7 +13,6 @@ header:
 feature: /assets/images/9403909030_1557ce54bd_crayon.jpg
 ---
 
-
 # Once Upon a Crayon
 
 ![](/assets/images/9403909030_1557ce54bd_crayon.jpg){: .align-right}
@@ -61,4 +60,3 @@ And they lived happily ever after.
 <small>Photo by <a href="http://www.flickr.com/photos/73318272@N00/9403909030">guymoll</a></small>
 
 ***NOTE: This story is featured in the adult colouring book, <a href="http://maniacalconfessions.com/coming-soon/">Feral Fairy Tales</a>.***
-

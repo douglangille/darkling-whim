@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/6336363394_213bd59a9b_b.jpg
 ---
 
-
 # Into the Void
 
 ***Date: September 27, 1491 SCE  

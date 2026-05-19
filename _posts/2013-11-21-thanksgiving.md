@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
 ---
 
-
 # Thanksgiving
 
 "Good man, where might I find your nearest mooring dock?"

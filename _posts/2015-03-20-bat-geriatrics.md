@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/batman-532919_1280.jpg
 ---
 
-
 # Bat Geriatrics
 
 "Alfred! Get me my cowl."

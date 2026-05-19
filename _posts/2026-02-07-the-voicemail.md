@@ -12,7 +12,6 @@ tags:
 feature: /assets/images/ChatGPT Image Feb 7, 2026 at 12_30_15 PM.png
 ---
 
-
 # The Voicemail
 
 Flo sat in her car, engine off, parked in the clinic lot. The building was dark behind her. Everyone else had left an hour ago.

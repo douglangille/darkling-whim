@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/armagedon-6.jpg
 ---
 
-
 # Last Glimpse
 
 I found the perfect spot, for us to share a final gaze  

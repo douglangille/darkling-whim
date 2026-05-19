@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/Storm_Drain.jpg
 ---
 
-
 # Lost in the Rain
 
 rain in late summer  

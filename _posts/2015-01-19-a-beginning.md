@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/4023271489_298888916d_blood-drop.jpg
 ---
 
-
 # A Beginning&#8230;
 
 Amy wiped the blood from the corner of her mouth and flushed the toilet quickly before her mother asked questions.

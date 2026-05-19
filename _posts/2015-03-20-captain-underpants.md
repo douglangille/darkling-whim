@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/man-147613_1280.jpg
 ---
 
-
 # Captain Underpants
 
 She asked me two times  

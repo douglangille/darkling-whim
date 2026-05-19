@@ -16,6 +16,7 @@ meta: A seabed worker's systematic non-action during a friend's grief reveals th
 # Figured You'd Understand
 
 The habitat breathes at night. Pressure cycles, ventilation making its
+
 adjustments, metal holding a grudge with the Atlantic. You stop hearing it after the first week. You absorb it. Become it.
 
 I'd been waking at 2 a.m. for most of this rotation. Nosebleeds, mostly. The dry recycled air, the pressure differential, something the company doctor would explain if I asked, which I hadn't. Not going to risk my bonus. I'd lie with my head tilted back and wait it out and listen to the habitat settle and after a while I'd sleep again.

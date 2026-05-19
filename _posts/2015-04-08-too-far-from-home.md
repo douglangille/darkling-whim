@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/target-659025.jpg
 ---
 
-
 # Too Far from Home
 
 Melanie closed one eye and focused on the board. After the last pitcher, her vision wasn't much to be trusted. *Come on', Mel. Three darts and we finish this. Need the rest of Jimbo's wad. Girl's gotta eat.* She pulled her hand back to her ear and flicked the dart. *Dammit. Effin' trip-one.*

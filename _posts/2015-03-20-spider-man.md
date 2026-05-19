@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/cobweb-449911_1280.jpg
 ---
 
-
 # Spider Man
 
 "Oh, thank you, Spiderman!" I said as I wrapped my arms around my masked rescuer as we swung from building to building, moving ever closer to the ground.

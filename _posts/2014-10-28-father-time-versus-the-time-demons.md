@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/20141022_003057000_iOS.jpg
 ---
 
-
 # Father Time Versus the Time Demons
 
 "Wake up, you idiot."

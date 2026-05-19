@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/Forest_Glade.jpg
 ---
 
-
 # Nightfall in the Glade
 
 Legato and Mezzo flew as if their wings were aflame, knocking baskets of gathered berries to the forest floor far below. The twins corkscrewed their way up and around the ancient tree to the canopy of the Glade. They landed on the Great Chamber's platform at a sprint. Chancellor Fortissima of the Faie waited for her couriers to catch their breath.
@@ -81,6 +80,6 @@ Evie smiled and dropped her hand. "No matter. My father will be pleased."
 
 "Tell Artemis I'll be awaiting his visit."
 
-
 This story is a continuation of [Artemis' Nightrise](/artemis-nightrise).
+
 {: .notice}

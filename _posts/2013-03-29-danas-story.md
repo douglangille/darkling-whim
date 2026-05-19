@@ -102,6 +102,7 @@ I turned and took a look at myself. My white tank top was awash in a slurry of g
 I hadn't noticed the Jeep pull up and a large man in military fatigues had entered. Two more soldiers remained in the vehicle. I knew Dana had been in a combined arms unit, Army not Navy. This man wore the same midnight blue beret that I'd seen in her pictures. We'd been going through her scrapbook as we lamented her sudden discharge over a bottle of wine. I never did get the full story. Dana wanted to tell us something earlier. Then things went bad.
 
 "How do you known Dana Myers?" the stranger repeated. No introductions, right to business. What the hell was going on here?
+
 "Prim, we have a search team on the way to your camp site now. They'll help your friends if they can." He went to touch my shoulder. I flinched and he withdrew. "There's a BOLO for Dana Myers. We'll find her and figure out what's going on. How long have you known her?"
 
 I hadn't noticed the Jeep pull up and a large man in military fatigues had entered. Two more soldiers remained in the vehicle. I knew Dana had been in a combined arms unit, Army not Navy. This man wore the same midnight blue beret that I'd seen in her pictures. We'd been going through her scrapbook as we lamented her sudden discharge over a bottle of wine. I never did get the full story. Dana wanted to tell us something earlier. Then things went bad.

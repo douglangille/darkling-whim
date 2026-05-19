@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/IMG_0342.jpg
 ---
 
-
 # From the Window
 
 Elvis has left the building.

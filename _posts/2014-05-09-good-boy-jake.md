@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/32221740_530a3d192c_b.jpg
 ---
 
-
 # Good Boy, Jake
 
 Rod in hand, I went to the lake,  

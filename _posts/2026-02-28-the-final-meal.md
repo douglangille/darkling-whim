@@ -12,7 +12,6 @@ tags:
 feature: /assets/images/generated-image-3.png
 ---
 
-
 # The Final Meal
 
 The room is cold. A hospital cold that lives in the walls. But he's burning. Sweat darkening the collar of his borrowed shirt, fever mapping his temples in wet heat. The smell of him fights the smell of her pasta: garlic and butter and something dark that reduction brings, tangling with the medicinal undertone of whatever drips into his arm.

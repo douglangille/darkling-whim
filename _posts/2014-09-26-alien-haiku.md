@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/9153767970_5a8cbf4f18_b.jpg
 ---
 
-
 # Alien Haiku
 
 Driving late at night  

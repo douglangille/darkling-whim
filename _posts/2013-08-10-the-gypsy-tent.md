@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 ---
 
-
 # The Gypsy Tent
 
 I wandered through the county fair,  

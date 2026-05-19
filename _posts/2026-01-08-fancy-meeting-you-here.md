@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
 ---
 
-
 # Fancy Meeting You Here
 
 Elliot sighted carefully, took aim, and flicked the peanut shell across the bar into a glass of stale beer. It landed with a satisfying plop. He smirked to himself, shrugged his shoulders and straightened on his stool, before bringing his own glass to his lips.

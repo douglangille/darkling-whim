@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/9464995143_626fb980cd_b.jpg
 ---
 
-
 # Kitchen Tools
 
 "But what if I hold it like this?" asked Eunice.

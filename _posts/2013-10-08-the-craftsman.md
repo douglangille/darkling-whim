@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/Collecting-Knives.jpg
 ---
 
-
 # The Craftsman
 
 "You see, Detective, I have a little problem with knives. I collect them, large and small. Not swords, mind you, or anything garish like that. Just a simple blade will do, thank you very much."

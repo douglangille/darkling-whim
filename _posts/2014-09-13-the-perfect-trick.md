@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/12-magic-tricks-rescan1.jpg
 ---
 
-
 # The Perfect Trick
 
 All eyes were either on Scott's hands or Amy's outfit. That was part of the hook. He'd fumble through the basic show tricks ably enough despite only picking up the magic book yesterday. Billie said he was a quick study and the proof stood up on stage.

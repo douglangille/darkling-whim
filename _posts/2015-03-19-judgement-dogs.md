@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/door-689874_1280.jpg
 ---
 
-
 # Judgement Dogs
 
 "Pansy, did you see what that meathead did?"

@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/7a730fbeb1bc984eebbc569b0fae90ed.jpg
 ---
 
-
 # Blind Dining
 
 "Eyes up, soldier," she said and I did. The corner of her mouth was turned up in a smirk, eyes sparkling.

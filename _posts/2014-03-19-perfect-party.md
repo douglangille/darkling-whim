@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
 ---
 
-
 # Perfect Party
 
 Doug is dressed in his party best,  

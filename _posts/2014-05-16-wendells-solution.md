@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/249752730_c02409b9ca_o.jpg
 ---
 
-
 # Wendell&#39;s Solution
 
 'How the Hell did he get up there?' thought Tony as he looked up the rampart wall of the prison's exercise yard. Wendell held what could only be a shiv to the narrow throat of their beloved Warden Thomas H. Macey.

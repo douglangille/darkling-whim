@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/hourglass-620397_640.jpg
 ---
 
-
 # Time to Write
 
 I can't find the time to write.

@@ -14,15 +14,20 @@ tags:
 feature: /assets/images/earth-244238_1280.jpg
 ---
 
-
 # Six Minutes
 
 That's how long
+
 it takes us
+
 to realize
+
 the Sun
+
 has
+
 gone
+
 dark.
 
 Six

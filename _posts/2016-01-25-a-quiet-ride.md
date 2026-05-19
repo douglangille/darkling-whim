@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/14831550395_83c957fbd8_tire-gravel.jpg
 ---
 
-
 # A Quiet Ride
 
 "I'd love to, babe, but my phone's just about out of juice!"

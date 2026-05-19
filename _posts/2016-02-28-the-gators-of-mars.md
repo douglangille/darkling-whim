@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/teeth-471546_1280.jpg
 ---
 
-
 # The Gators of Mars
 
 So, who the fiddler's flying fig decided Mars needed alligators?

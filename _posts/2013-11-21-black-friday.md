@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/15709773049_55712386fe_b.jpg
 ---
 
-
 # Black Friday
 
 I tried, I tried, with all my might,  

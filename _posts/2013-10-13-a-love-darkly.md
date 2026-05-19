@@ -168,5 +168,5 @@ Jane broke the moment, ending the impasse. "Darcy, let's go." He nodded and took
 I was uncertain how much strength and love Alice and I shared to pick up the pieces. I knew we were damned, perhaps from the very beginning.
 
 Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231).
-{: .notice}
 
+{: .notice}

@@ -15,7 +15,6 @@ tags:
 feature: /assets/images/RSS006.jpg
 ---
 
-
 # The Bogeyman
 
 Daddy says it's time to sleep,  

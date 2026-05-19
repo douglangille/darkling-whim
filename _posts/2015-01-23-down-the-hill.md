@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/24719250735_3cfb5af0f8_toboggan.jpg
 ---
 
-
 # Down the Hill
 
 "You wax the flyer? It's all shiny."

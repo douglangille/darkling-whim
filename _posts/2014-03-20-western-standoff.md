@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/2227797968_278063879c_six-shooter.jpg
 ---
 
-  
 # Western Standoff
 
 Billy: Ya rascally varmit, git back here!  

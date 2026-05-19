@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/bus-stop-72171.jpg
 ---
 
-
 # Full Circle
 
 "A strange thing happened on the way to the bus stop," I said, taking a plate from the rack and wiping it. Well-worn, these wedding gift dishes stood the test of time.

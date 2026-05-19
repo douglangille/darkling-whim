@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
 ---
 
-
 # Scrambled
 
 "I hate to bother you, but I have something important to ask," said the new waitress, setting down my plate of scrambled eggs.

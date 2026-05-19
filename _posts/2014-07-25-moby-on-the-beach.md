@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/1196478322_fec1df88ce_b.jpg
 ---
 
-
 # Moby on the Beach
 
 I closed my book and tossed it aside. It landed in the sand with a thump. No matter how many times I try, I just can't get past the first fifty pages of 'Moby Dick'. That far in and it could simply be: 'A man walks into a bar'.

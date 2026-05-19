@@ -12,7 +12,6 @@ tags:
 feature: /assets/images/pexels-photo-38136.jpeg
 ---
 
-
 # Who Gardens the Gardeners?
 
 > Hello, said Tree. I’m in you and you’re in me.  

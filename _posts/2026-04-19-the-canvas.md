@@ -74,9 +74,13 @@ The jar sat there a moment.
 Then it tipped.
 
 She watched it fall and waited.
+
 ﻿
+
 ﻿A breath reached her. Alive.
+
 ﻿
+
 ﻿The valley answered.
 
 She took out the last six charges and laid them in a row on the stone beside her, and started again from the north end, working toward the water.

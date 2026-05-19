@@ -14,7 +14,6 @@ header:
 feature: /assets/images/eddie-zero.png
 ---
 
-
 # Eddie Zero
 
 I didn't kill him. He was already dead.
@@ -416,4 +415,5 @@ Barney's last words before he ducked back inside were a simple truth. "Besides, 
 As Haley and I sat huddled in the back of the rising helicopter, we felt the warm wind of Barney's firestorm. We'd be okay.
 
 Originally published in the horror anthology  [Midnight Abyss](https://www.amazon.ca/Midnight-Abyss-Collection-Darklings/dp/1492966231). There are several [tales, vingettes and ideas](/haley) floating about while *Haley's War* is in development.
+
 {: .notice}

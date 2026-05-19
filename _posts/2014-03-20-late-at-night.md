@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/Hospital_by_sheisviolence.jpg
 ---
 
-
 # Late at Night
 
 I opened my eyes and could not see.  

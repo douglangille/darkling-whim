@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/match-268526.jpg
 ---
 
-
 # Haley Burning
 
 I knew I was playing with fire, but since when had that stopped me? I couldn't turn it off even if I wanted to.
