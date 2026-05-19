@@ -13,7 +13,6 @@ tags:
 feature: /assets/images/7091212300ecb41f_1280_telephone.jpg
 ---
 
-
 # Timmy Calls Wish Fulfillement
 
 "Hello. Wish Fulfillment Department, a division of Hopes and Dreams Incorporated. Welcome to our Customer Care Centre. Please listen carefully to the following options so that we may best direct your call."
