@@ -22,8 +22,7 @@ I'd been waking at 2 a.m. for most of this rotation. Nosebleeds, mostly. The dry
 
 I had nowhere else to be. That had always been true of me.
 
-Last shore leave I stayed with Dennis and Maria. Three weeks in their house in Pictou, the yellow one on the hill with the greenhouse Maria kept killing plants in. Dennis said I was family. He meant it. I slept in their spare room and ate their food and sat across from Maria at breakfast every morning while Dennis ran his errands,
-his rounds, his easy life onshore.
+Last shore leave I stayed with Dennis and Maria. Three weeks in their house in Pictou, the yellow one on the hill with the greenhouse Maria kept killing plants in. Dennis said I was family. He meant it. I slept in their spare room and ate their food and sat across from Maria at breakfast every morning while Dennis ran his errands, his rounds, his easy life onshore.
 
 Maria had a way of looking at you like she was deciding something.
 
