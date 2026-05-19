@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/dragon-1014565_1280.jpg
 ---
 
-
 # For the Love of a Dragon
 
 "Should anyone here present know of any reason that this couple should not be joined in holy matrimony, speak now or forever hold your peace."  

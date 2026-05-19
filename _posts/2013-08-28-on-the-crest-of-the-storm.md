@@ -14,7 +14,6 @@ tags:
 feature: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
 ---
 
-
 # On the Crest of the Storm
 
 thunderous dark skies  
