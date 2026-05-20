@@ -10,7 +10,6 @@ tags:
   - kith-kin
   - eerie
 feature: /assets/images/figured-youd-understand/figured-youd-understand.png
-meta: A seabed worker's systematic non-action during a friend's grief reveals the precise architecture of chosen cruelty.
 ---
 
 # Figured You'd Understand
