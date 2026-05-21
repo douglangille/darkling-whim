@@ -3,15 +3,15 @@ title: Bump in the Night
 date: 2014-03-19 08:00:00 -0400
 excerpt: Matted-hair and rotted teeth
 header:
-  teaser: /assets/images/4125927607_0aa78d3a4f_b.jpg
-  overlay_image: /assets/images/4125927607_0aa78d3a4f_b.jpg
+  teaser: /assets/images/bump-in-the-night/4125927607_0aa78d3a4f_b.jpg
+  overlay_image: /assets/images/bump-in-the-night/4125927607_0aa78d3a4f_b.jpg
 categories: []
 tags: 
   - dark
   - solitude
   - eerie
   - poetry
-feature: /assets/images/4125927607_0aa78d3a4f_b.jpg
+feature: /assets/images/bump-in-the-night/4125927607_0aa78d3a4f_b.jpg
 ---
 
 # Bump in the Night

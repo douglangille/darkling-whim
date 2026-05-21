@@ -2,8 +2,8 @@
 title: The Gators of Mars
 date: 2016-02-28 08:00:00 -0400
 header:
-  teaser: /assets/images/teeth-471546_1280.jpg
-  overlay_image: /assets/images/teeth-471546_1280.jpg
+  teaser: /assets/images/the-gators-of-mars/teeth-471546_1280.jpg
+  overlay_image: /assets/images/the-gators-of-mars/teeth-471546_1280.jpg
 excerpt: 'So, who the fiddler''s flying fig decided Mars needed alligators? '
 revised: 2026-03-22
 tags: 
@@ -11,7 +11,7 @@ tags:
   - solitude
   - wit
   - revised
-feature: /assets/images/teeth-471546_1280.jpg
+feature: /assets/images/the-gators-of-mars/teeth-471546_1280.jpg
 ---
 
 # The Gators of Mars

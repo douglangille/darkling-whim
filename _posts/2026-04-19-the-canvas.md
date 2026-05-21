@@ -6,9 +6,9 @@ tags:
   - solitude
   - melancholy
 header:
-  teaser: /assets/images/IMG_0126.jpeg
-  overlay_image: /assets/images/IMG_0126.jpeg
-feature: /assets/images/IMG_0126.jpeg
+  teaser: /assets/images/the-canvas/IMG_0126.jpeg
+  overlay_image: /assets/images/the-canvas/IMG_0126.jpeg
+feature: /assets/images/the-canvas/IMG_0126.jpeg
 feature_y: 50.0%
 ---
 

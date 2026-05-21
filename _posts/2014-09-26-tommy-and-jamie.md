@@ -3,14 +3,14 @@ title: Tommy and Jamie
 date: 2014-09-26 08:00:00 -0400
 excerpt: I hate waiting at the bus stop.
 header:
-  teaser: /assets/images/4229023687_dde8b6962e_b_mittens.jpg
-  overlay_image: /assets/images/4229023687_dde8b6962e_b_mittens.jpg
+  teaser: /assets/images/tommy-and-jamie/4229023687_dde8b6962e_b_mittens.jpg
+  overlay_image: /assets/images/tommy-and-jamie/4229023687_dde8b6962e_b_mittens.jpg
 categories: []
 tags: 
   - grounded
   - kith-kin
   - tension
-feature: /assets/images/4229023687_dde8b6962e_b_mittens.jpg
+feature: /assets/images/tommy-and-jamie/4229023687_dde8b6962e_b_mittens.jpg
 ---
 
 # Tommy and Jamie

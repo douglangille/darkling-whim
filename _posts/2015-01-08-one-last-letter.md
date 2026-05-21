@@ -3,14 +3,14 @@ title: One Last Letter
 date: 2015-01-08 08:00:00 -0400
 excerpt: Ricky checked his mailbox everyday at just before noon, rain or shine.
 header:
-  teaser: /assets/images/nj-321381.jpg
-  overlay_image: /assets/images/nj-321381.jpg
+  teaser: /assets/images/one-last-letter/nj-321381.jpg
+  overlay_image: /assets/images/one-last-letter/nj-321381.jpg
 categories: []
 tags: 
   - grounded
   - intimacy
   - melancholy
-feature: /assets/images/nj-321381.jpg
+feature: /assets/images/one-last-letter/nj-321381.jpg
 ---
 
 # One Last Letter

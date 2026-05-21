@@ -3,14 +3,14 @@ title: Down the Hill
 date: 2015-01-23 08:00:00 -0400
 excerpt: '"You wax the flyer?'
 header:
-  teaser: /assets/images/24719250735_3cfb5af0f8_toboggan.jpg
-  overlay_image: /assets/images/24719250735_3cfb5af0f8_toboggan.jpg
+  teaser: /assets/images/down-the-hill/24719250735_3cfb5af0f8_toboggan.jpg
+  overlay_image: /assets/images/down-the-hill/24719250735_3cfb5af0f8_toboggan.jpg
 categories: []
 tags: 
   - grounded
   - kith-kin
   - wit
-feature: /assets/images/24719250735_3cfb5af0f8_toboggan.jpg
+feature: /assets/images/down-the-hill/24719250735_3cfb5af0f8_toboggan.jpg
 ---
 
 # Down the Hill

@@ -3,14 +3,14 @@ title: Hold the Phone
 date: 2014-02-28 08:00:00 -0400
 excerpt: '"Is this Douglas Langille?'
 header:
-  teaser: /assets/images/4940893730_ce74d18852_b.jpg
-  overlay_image: /assets/images/4940893730_ce74d18852_b.jpg
+  teaser: /assets/images/hold-the-phone/4940893730_ce74d18852_b.jpg
+  overlay_image: /assets/images/hold-the-phone/4940893730_ce74d18852_b.jpg
 categories: []
 tags: 
   - speculative
   - solitude
   - tension
-feature: /assets/images/4940893730_ce74d18852_b.jpg
+feature: /assets/images/hold-the-phone/4940893730_ce74d18852_b.jpg
 ---
 
 # Hold the Phone

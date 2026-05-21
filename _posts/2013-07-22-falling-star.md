@@ -3,14 +3,14 @@ title: Falling Star
 date: 2013-07-22 08:00:00 -0400
 excerpt: Martha woke from her terrible dream with the chills.
 header:
-  teaser: /assets/images/4949129334_4de1a73374_b_falling-star.jpg
-  overlay_image: /assets/images/4949129334_4de1a73374_b_falling-star.jpg
+  teaser: /assets/images/falling-star/4949129334_4de1a73374_b_falling-star.jpg
+  overlay_image: /assets/images/falling-star/4949129334_4de1a73374_b_falling-star.jpg
 categories: []
 tags: 
   - speculative
   - intimacy
   - melancholy
-feature: /assets/images/4949129334_4de1a73374_b_falling-star.jpg
+feature: /assets/images/falling-star/4949129334_4de1a73374_b_falling-star.jpg
 ---
 
 # Falling Star

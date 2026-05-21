@@ -1,16 +1,16 @@
 ---
 title: Fancy Meeting You Here
 date: 2026-01-08 08:00:00 -0400
-image: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
+image: /assets/images/fancy-meeting-you-here/feature.png
 header:
-  teaser: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
-  overlay_image: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
+  teaser: /assets/images/fancy-meeting-you-here/feature.png
+  overlay_image: /assets/images/fancy-meeting-you-here/feature.png
 excerpt: Vanilla musk. She never changes.
 tags: 
   - grounded
   - intimacy
   - tension
-feature: /assets/images/ChatGPT%20Image%20Jan%208,%202026%20at%2011_29_39%20AM.png
+feature: /assets/images/fancy-meeting-you-here/feature.png
 ---
 
 # Fancy Meeting You Here

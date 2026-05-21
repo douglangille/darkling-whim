@@ -3,15 +3,15 @@ title: Lost in the Rain
 date: 2014-09-01 08:00:00 -0400
 excerpt: rain in late summer
 header:
-  teaser: /assets/images/Storm_Drain.jpg
-  overlay_image: /assets/images/Storm_Drain.jpg
+  teaser: /assets/images/lost-in-the-rain/Storm_Drain.jpg
+  overlay_image: /assets/images/lost-in-the-rain/Storm_Drain.jpg
 categories: []
 tags: 
   - speculative
   - solitude
   - eerie
   - poetry
-feature: /assets/images/Storm_Drain.jpg
+feature: /assets/images/lost-in-the-rain/Storm_Drain.jpg
 ---
 
 # Lost in the Rain

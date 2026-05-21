@@ -3,14 +3,14 @@ title: Timmy Calls Wish Fulfillement
 date: 2013-05-08 08:00:00 -0400
 excerpt: '"Hello.'
 header:
-  teaser: /assets/images/7091212300ecb41f_1280_telephone.jpg
-  overlay_image: /assets/images/7091212300ecb41f_1280_telephone.jpg
+  teaser: /assets/images/timmy-calls-wish-fulfillement/7091212300ecb41f_1280_telephone.jpg
+  overlay_image: /assets/images/timmy-calls-wish-fulfillement/7091212300ecb41f_1280_telephone.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - eerie
-feature: /assets/images/7091212300ecb41f_1280_telephone.jpg
+feature: /assets/images/timmy-calls-wish-fulfillement/7091212300ecb41f_1280_telephone.jpg
 ---
 
 # Timmy Calls Wish Fulfillement

@@ -3,14 +3,14 @@ title: The Craftsman
 date: 2013-10-08 08:00:00 -0400
 excerpt: '"You see, Detective, I have a little problem with knives.'
 header:
-  teaser: /assets/images/Collecting-Knives.jpg
-  overlay_image: /assets/images/Collecting-Knives.jpg
+  teaser: /assets/images/the-craftsman/Collecting-Knives.jpg
+  overlay_image: /assets/images/the-craftsman/Collecting-Knives.jpg
 categories: []
 tags: 
   - dark
   - solitude
   - tension
-feature: /assets/images/Collecting-Knives.jpg
+feature: /assets/images/the-craftsman/Collecting-Knives.jpg
 ---
 
 # The Craftsman

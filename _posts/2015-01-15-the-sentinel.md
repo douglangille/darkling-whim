@@ -3,14 +3,14 @@ title: The Sentinel
 date: 2015-01-15 08:00:00 -0400
 excerpt: My name is Gracie and I am the Sentinel.
 header:
-  teaser: /assets/images/20140313-090105.jpg
-  overlay_image: /assets/images/20140313-090105.jpg
+  teaser: /assets/images/the-sentinel/20140313-090105.jpg
+  overlay_image: /assets/images/the-sentinel/20140313-090105.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - eerie
-feature: /assets/images/20140313-090105.jpg
+feature: /assets/images/the-sentinel/20140313-090105.jpg
 ---
 
 # The Sentinel

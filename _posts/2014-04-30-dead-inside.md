@@ -4,14 +4,14 @@ date: 2014-04-30 08:00:00 -0400
 excerpt: Eunice sat on the edge of her daughter's bed and stared out the window, the
   rustling of leaves muted by glass.
 header:
-  teaser: /assets/images/2539093647_fb775f496b_b.jpg
-  overlay_image: /assets/images/2539093647_fb775f496b_b.jpg
+  teaser: /assets/images/dead-inside/2539093647_fb775f496b_b.jpg
+  overlay_image: /assets/images/dead-inside/2539093647_fb775f496b_b.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - eerie
-feature: /assets/images/2539093647_fb775f496b_b.jpg
+feature: /assets/images/dead-inside/2539093647_fb775f496b_b.jpg
 ---
 
 # Dead Inside

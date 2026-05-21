@@ -3,15 +3,15 @@ title: Flying Home
 date: 2013-10-18 08:00:00 -0400
 excerpt: I watched the sun set and the moon rise
 header:
-  teaser: /assets/images/14870589051_81e9103ce2_b.jpg
-  overlay_image: /assets/images/14870589051_81e9103ce2_b.jpg
+  teaser: /assets/images/flying-home/14870589051_81e9103ce2_b.jpg
+  overlay_image: /assets/images/flying-home/14870589051_81e9103ce2_b.jpg
 categories: []
 tags: 
   - grounded
   - intimacy
   - melancholy
   - poetry
-feature: /assets/images/14870589051_81e9103ce2_b.jpg
+feature: /assets/images/flying-home/14870589051_81e9103ce2_b.jpg
 ---
 
 # Flying Home

@@ -1,16 +1,16 @@
 ---
 title: Calum in the Forest
 date: 2026-01-15 08:00:00 -0400
-image: /assets/images/generated-image.png
+image: /assets/images/calum-in-the-forest/feature.png
 header:
-  teaser: /assets/images/generated-image.png
-  overlay_image: /assets/images/generated-image.png
+  teaser: /assets/images/calum-in-the-forest/feature.png
+  overlay_image: /assets/images/calum-in-the-forest/feature.png
 excerpt: Every shot taken draws the forest closer.
 tags: 
   - speculative
   - solitude
   - eerie
-feature: /assets/images/generated-image.png
+feature: /assets/images/calum-in-the-forest/feature.png
 ---
 
 # Calum in the Forest

@@ -7,9 +7,9 @@ tags:
   - kith-kin
   - melancholy
 header:
-  teaser: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png
-  overlay_image: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png
-feature: /assets/images/ChatGPT Image Mar 12, 2026 at 11_45_53 AM.png
+  teaser: /assets/images/the-lighter/feature.png
+  overlay_image: /assets/images/the-lighter/feature.png
+feature: /assets/images/the-lighter/feature.png
 ---
 
 # The Lighter

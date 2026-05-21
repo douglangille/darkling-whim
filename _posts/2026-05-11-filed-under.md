@@ -3,13 +3,13 @@ title: Filed Under
 date: 2026-05-11 08:00:00 -0400
 excerpt: "The lair smelled like solder and bad decisions."
 header:
-  teaser: /assets/images/2026-05-11-filed-under-hero.png
-  overlay_image: /assets/images/2026-05-11-filed-under-hero.png
+  teaser: /assets/images/filed-under/feature.png
+  overlay_image: /assets/images/filed-under/feature.png
 tags:
   - grounded
   - intimacy
   - melancholy
-feature: /assets/images/2026-05-11-filed-under-hero.png
+feature: /assets/images/filed-under/feature.png
 ---
 
 # Filed Under

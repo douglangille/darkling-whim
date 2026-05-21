@@ -4,14 +4,14 @@ date: 2014-02-25 08:00:00 -0400
 excerpt: The Allfather's daughter, shame of Asgard, fled the Great Hall and made her
   way through the wood to the cliff-side.
 header:
-  teaser: /assets/images/precipice_by_machelko.jpg
-  overlay_image: /assets/images/precipice_by_machelko.jpg
+  teaser: /assets/images/wodens-daughter/precipice_by_machelko.jpg
+  overlay_image: /assets/images/wodens-daughter/precipice_by_machelko.jpg
 categories: []
 tags: 
   - speculative
   - intimacy
   - melancholy
-feature: /assets/images/precipice_by_machelko.jpg
+feature: /assets/images/wodens-daughter/precipice_by_machelko.jpg
 ---
 
 # Woden&#39;s Daughter

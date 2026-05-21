@@ -3,14 +3,14 @@ title: Bat Geriatrics
 date: 2015-03-20 08:00:00 -0400
 excerpt: '"Alfred!'
 header:
-  teaser: /assets/images/batman-532919_1280.jpg
-  overlay_image: /assets/images/batman-532919_1280.jpg
+  teaser: /assets/images/bat-geriatrics/batman-532919_1280.jpg
+  overlay_image: /assets/images/bat-geriatrics/batman-532919_1280.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - wit
-feature: /assets/images/batman-532919_1280.jpg
+feature: /assets/images/bat-geriatrics/batman-532919_1280.jpg
 ---
 
 # Bat Geriatrics

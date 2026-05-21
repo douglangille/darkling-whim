@@ -3,14 +3,14 @@ title: Too Far from Home
 date: 2015-04-08 08:00:00 -0400
 excerpt: Melanie closed one eye and focused on the board.
 header:
-  teaser: /assets/images/target-659025.jpg
-  overlay_image: /assets/images/target-659025.jpg
+  teaser: /assets/images/too-far-from-home/target-659025.jpg
+  overlay_image: /assets/images/too-far-from-home/target-659025.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - tension
-feature: /assets/images/target-659025.jpg
+feature: /assets/images/too-far-from-home/target-659025.jpg
 ---
 
 # Too Far from Home

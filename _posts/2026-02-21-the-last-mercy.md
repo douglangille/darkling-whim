@@ -2,15 +2,15 @@
 title: The Last Mercy
 date: 2026-02-21 08:00:00 -0400
 header:
-  teaser: /assets/images/Faded beauty on cracked pavement.png
-  overlay_image: /assets/images/Faded beauty on cracked pavement.png
+  teaser: /assets/images/the-last-mercy/feature.png
+  overlay_image: /assets/images/the-last-mercy/feature.png
 excerpt: Three flowers, a knife, and the burden of knowing what mercy costs.
 tags: 
   - speculative
   - intimacy
   - melancholy
   - haley
-feature: /assets/images/Faded beauty on cracked pavement.png
+feature: /assets/images/the-last-mercy/feature.png
 ---
 
 # The Last Mercy

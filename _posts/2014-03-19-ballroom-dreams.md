@@ -3,14 +3,14 @@ title: Ballroom Dreams
 date: 2014-03-19 08:00:00 -0400
 excerpt: I entered the ballroom and searched for her in a sea of gowns and tuxedo.
 header:
-  teaser: /assets/images/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png
-  overlay_image: /assets/images/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png
+  teaser: /assets/images/ballroom-dreams/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png
+  overlay_image: /assets/images/ballroom-dreams/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png
 categories: []
 tags: 
   - grounded
   - intimacy
   - melancholy
-feature: /assets/images/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png
+feature: /assets/images/ballroom-dreams/ea34b1072df31c3e81584d04ee44408be273e7d61ab6164594f9_640_masquerade.png
 ---
 
 # Ballroom Dreams

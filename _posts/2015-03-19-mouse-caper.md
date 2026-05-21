@@ -5,14 +5,14 @@ excerpt: The way I figure it, Tiny, is that if we take that piece of bacon you p
   from the giant's plate and toss drag it over to the fuzzy floor, the dog will sniff
   it out.
 header:
-  teaser: /assets/images/food-bowl-281978_1280.jpg
-  overlay_image: /assets/images/food-bowl-281978_1280.jpg
+  teaser: /assets/images/mouse-caper/food-bowl-281978_1280.jpg
+  overlay_image: /assets/images/mouse-caper/food-bowl-281978_1280.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - wit
-feature: /assets/images/food-bowl-281978_1280.jpg
+feature: /assets/images/mouse-caper/food-bowl-281978_1280.jpg
 ---
 
 # Mouse Caper

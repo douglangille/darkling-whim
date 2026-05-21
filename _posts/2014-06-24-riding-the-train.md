@@ -3,14 +3,14 @@ title: Riding the Train
 date: 2014-06-24 08:00:00 -0400
 excerpt: Riding the hover train this time of night always made me sleepy.
 header:
-  teaser: /assets/images/subway_car_by_paupah.jpg
-  overlay_image: /assets/images/subway_car_by_paupah.jpg
+  teaser: /assets/images/riding-the-train/subway_car_by_paupah.jpg
+  overlay_image: /assets/images/riding-the-train/subway_car_by_paupah.jpg
 categories: []
 tags: 
   - speculative
   - intimacy
   - tension
-feature: /assets/images/subway_car_by_paupah.jpg
+feature: /assets/images/riding-the-train/subway_car_by_paupah.jpg
 ---
 
 # Riding the Train

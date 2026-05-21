@@ -3,14 +3,14 @@ title: Knife Master
 date: 2014-06-27 08:00:00 -0400
 excerpt: I probably shouldn't have been drinking last night.
 header:
-  teaser: /assets/images/2961721210_c6f4b5bd6a_throwing-knife.jpg
-  overlay_image: /assets/images/2961721210_c6f4b5bd6a_throwing-knife.jpg
+  teaser: /assets/images/knife-master/2961721210_c6f4b5bd6a_throwing-knife.jpg
+  overlay_image: /assets/images/knife-master/2961721210_c6f4b5bd6a_throwing-knife.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - tension
-feature: /assets/images/2961721210_c6f4b5bd6a_throwing-knife.jpg
+feature: /assets/images/knife-master/2961721210_c6f4b5bd6a_throwing-knife.jpg
 ---
 
 # Knife Master

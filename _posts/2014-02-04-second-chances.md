@@ -3,14 +3,14 @@ title: Second Chances
 date: 2014-02-04 08:00:00 -0400
 excerpt: Archie winced and swallowed.
 header:
-  teaser: /assets/images/bar_by_zeitweilig.jpg
-  overlay_image: /assets/images/bar_by_zeitweilig.jpg
+  teaser: /assets/images/second-chances/bar_by_zeitweilig.jpg
+  overlay_image: /assets/images/second-chances/bar_by_zeitweilig.jpg
 categories: []
 tags: 
   - grounded
   - intimacy
   - wit
-feature: /assets/images/bar_by_zeitweilig.jpg
+feature: /assets/images/second-chances/bar_by_zeitweilig.jpg
 ---
 
 # Second Chances

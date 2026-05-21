@@ -8,14 +8,14 @@ tags:
   - intimacy
   - wit
 header:
-  teaser: /assets/images/9403909030_1557ce54bd_crayon.jpg
-  overlay_image: /assets/images/9403909030_1557ce54bd_crayon.jpg
-feature: /assets/images/9403909030_1557ce54bd_crayon.jpg
+  teaser: /assets/images/once-upon-a-crayon/9403909030_1557ce54bd_crayon.jpg
+  overlay_image: /assets/images/once-upon-a-crayon/9403909030_1557ce54bd_crayon.jpg
+feature: /assets/images/once-upon-a-crayon/9403909030_1557ce54bd_crayon.jpg
 ---
 
 # Once Upon a Crayon
 
-![](/assets/images/9403909030_1557ce54bd_crayon.jpg){: .align-right}
+![](/assets/images/once-upon-a-crayon/9403909030_1557ce54bd_crayon.jpg){: .align-right}
 
 Once upon a time, there was a beautiful kingdom. It shone as a bright jewel among all the other kingdoms. Or at least it did--- until a terrible darkness fell upon it.
 

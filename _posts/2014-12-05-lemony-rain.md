@@ -3,14 +3,14 @@ title: Lemony Rain
 date: 2014-12-05 08:00:00 -0400
 excerpt: I constructed my lair from the choicest rock candy, not dollar store seconds.
 header:
-  teaser: /assets/images/lemon-364274.jpg
-  overlay_image: /assets/images/lemon-364274.jpg
+  teaser: /assets/images/lemony-rain/lemon-364274.jpg
+  overlay_image: /assets/images/lemony-rain/lemon-364274.jpg
 categories: []
 tags: 
   - speculative
   - solitude
   - wit
-feature: /assets/images/lemon-364274.jpg
+feature: /assets/images/lemony-rain/lemon-364274.jpg
 ---
 
 # Lemony Rain

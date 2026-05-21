@@ -3,15 +3,15 @@ title: Haley Burning
 date: 2014-08-02 08:00:00 -0400
 excerpt: I knew I was playing with fire, but since when had that stopped me?
 header:
-  teaser: /assets/images/match-268526.jpg
-  overlay_image: /assets/images/match-268526.jpg
+  teaser: /assets/images/haley-burning/match-268526.jpg
+  overlay_image: /assets/images/haley-burning/match-268526.jpg
 categories: []
 tags: 
   - grounded
   - kith-kin
   - tension
   - haley
-feature: /assets/images/match-268526.jpg
+feature: /assets/images/haley-burning/match-268526.jpg
 ---
 
 # Haley Burning

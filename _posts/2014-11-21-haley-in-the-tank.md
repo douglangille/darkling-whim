@@ -4,15 +4,15 @@ date: 2014-11-21 08:00:00 -0400
 excerpt: 'I sat on the steel cot and stared at the three other people in with me:
   the chick and two dudes.'
 header:
-  teaser: /assets/images/447c7e97ca6778a6_1280_jail.jpg
-  overlay_image: /assets/images/447c7e97ca6778a6_1280_jail.jpg
+  teaser: /assets/images/haley-in-the-tank/447c7e97ca6778a6_1280_jail.jpg
+  overlay_image: /assets/images/haley-in-the-tank/447c7e97ca6778a6_1280_jail.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - tension
   - haley
-feature: /assets/images/447c7e97ca6778a6_1280_jail.jpg
+feature: /assets/images/haley-in-the-tank/447c7e97ca6778a6_1280_jail.jpg
 ---
 
 # Haley in the Tank

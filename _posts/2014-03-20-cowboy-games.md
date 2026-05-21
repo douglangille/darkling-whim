@@ -2,8 +2,8 @@
 title: Cowboy Games
 date: 2014-03-20 08:00:00 -0400
 header:
-  teaser: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
-  overlay_image: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
+  teaser: /assets/images/cowboy-games/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
+  overlay_image: /assets/images/cowboy-games/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
 excerpt: The Cedarwood Home for the Elderly stood at the end of a dead-end street
   in a rotting borough of a dying town.
 tags: 
@@ -12,7 +12,7 @@ tags:
   - melancholy
   - revised
 revised: 2026-02-20
-feature: /assets/images/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
+feature: /assets/images/cowboy-games/c6628979e34af213c77d34b7db2fd12a-d4b6j17.jpg
 ---
 
 # Cowboy Games

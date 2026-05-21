@@ -3,15 +3,15 @@ title: On the Crest of the Storm
 date: 2013-08-28 08:00:00 -0400
 excerpt: thunderous dark skies
 header:
-  teaser: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
-  overlay_image: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
+  teaser: /assets/images/on-the-crest-of-the-storm/a1bc99068ab8b46b_1280_lightning.jpg
+  overlay_image: /assets/images/on-the-crest-of-the-storm/a1bc99068ab8b46b_1280_lightning.jpg
 categories: []
 tags: 
   - dark
   - solitude
   - tension
   - poetry
-feature: /assets/images/a1bc99068ab8b46b_1280_lightning.jpg
+feature: /assets/images/on-the-crest-of-the-storm/a1bc99068ab8b46b_1280_lightning.jpg
 ---
 
 # On the Crest of the Storm

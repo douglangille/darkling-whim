@@ -3,14 +3,14 @@ title: Mitzy and the Butterfly
 date: 2015-08-21 08:00:00 -0400
 excerpt: And as quickly begun, it was finished.
 header:
-  teaser: /assets/images/8b973b71609dfded_640.jpg
-  overlay_image: /assets/images/8b973b71609dfded_640.jog
+  teaser: /assets/images/mitzy-and-the-butterfly/8b973b71609dfded_640.jpg
+  overlay_image: /assets/images/mitzy-and-the-butterfly/8b973b71609dfded_640.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - melancholy
-feature: /assets/images/8b973b71609dfded_640.jpg
+feature: /assets/images/mitzy-and-the-butterfly/8b973b71609dfded_640.jpg
 ---
 
 # Mitzy and the Butterfly

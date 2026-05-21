@@ -4,14 +4,14 @@ date: 2013-05-01 08:00:00 -0400
 excerpt: Martin slipped his battered old pickup into neutral and turned the engine
   off.
 header:
-  teaser: /assets/images/3840887124_0908c40ecf_blueberry-rake.jpg
-  overlay_image: /assets/images/3840887124_0908c40ecf_blueberry-rake.jpg
+  teaser: /assets/images/martin-makes-his-stand/3840887124_0908c40ecf_blueberry-rake.jpg
+  overlay_image: /assets/images/martin-makes-his-stand/3840887124_0908c40ecf_blueberry-rake.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - wit
-feature: /assets/images/3840887124_0908c40ecf_blueberry-rake.jpg
+feature: /assets/images/martin-makes-his-stand/3840887124_0908c40ecf_blueberry-rake.jpg
 ---
 
 # Martin Makes His Stand

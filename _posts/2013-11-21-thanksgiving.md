@@ -3,14 +3,14 @@ title: Thanksgiving
 date: 2013-11-21 08:00:00 -0400
 excerpt: '"Good man, where might I find your nearest mooring dock?'
 header:
-  teaser: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
-  overlay_image: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
+  teaser: /assets/images/thanksgiving/fd92d88a97190e7a_1280_thanksgiving.jpg
+  overlay_image: /assets/images/thanksgiving/fd92d88a97190e7a_1280_thanksgiving.jpg
 categories: []
 tags: 
   - dark
   - solitude
   - wit
-feature: /assets/images/fd92d88a97190e7a_1280_thanksgiving.jpg
+feature: /assets/images/thanksgiving/fd92d88a97190e7a_1280_thanksgiving.jpg
 ---
 
 # Thanksgiving

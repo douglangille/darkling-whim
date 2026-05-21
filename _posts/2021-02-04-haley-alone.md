@@ -1,17 +1,17 @@
 ---
 title: Haley Alone
 date: 2021-02-04 08:00:00 -0400
-image: /assets/images/img_0014.jpg
+image: /assets/images/haley-alone/img_0014.jpg
 header:
-  teaser: /assets/images/img_0014.jpg
-  overlay_image: /assets/images/img_0014.jpg
+  teaser: /assets/images/haley-alone/img_0014.jpg
+  overlay_image: /assets/images/haley-alone/img_0014.jpg
 excerpt: Nothing but a trail of broken bone and rotten flesh.
 tags: 
   - dark
   - solitude
   - melancholy
   - haley
-feature: /assets/images/img_0014.jpg
+feature: /assets/images/haley-alone/img_0014.jpg
 ---
 
 # Haley Alone

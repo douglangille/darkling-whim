@@ -3,8 +3,8 @@ title: The Writer
 date: 2015-11-30 08:00:00 -0400
 header:
   overlay_filter: '0.5'
-  overlay_image: /assets/images/8226570181_e9e2fde4fd_writer.jpg
-  teaser: /assets/images/8226570181_e9e2fde4fd_writer.jpg
+  overlay_image: /assets/images/the-writer/8226570181_e9e2fde4fd_writer.jpg
+  teaser: /assets/images/the-writer/8226570181_e9e2fde4fd_writer.jpg
 categories: []
 tags: 
   - grounded
@@ -12,7 +12,7 @@ tags:
   - wit
 excerpt: Doug leans back in his Lazyboy and stretches his arms over his head with
   laced fingers.
-feature: /assets/images/8226570181_e9e2fde4fd_writer.jpg
+feature: /assets/images/the-writer/8226570181_e9e2fde4fd_writer.jpg
 ---
 
 # The Writer

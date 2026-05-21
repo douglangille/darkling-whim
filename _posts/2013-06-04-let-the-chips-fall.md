@@ -2,8 +2,8 @@
 title: Let the Chips Fall
 date: 2013-06-04 08:00:00 -0400
 header:
-  teaser: /assets/images/3648773666_35714d3792_b.jpg
-  overlay_image: /assets/images/3648773666_35714d3792_b.jpg
+  teaser: /assets/images/let-the-chips-fall/3648773666_35714d3792_b.jpg
+  overlay_image: /assets/images/let-the-chips-fall/3648773666_35714d3792_b.jpg
 excerpt: Everyone was getting bored and a little stir-crazy.
 revised: 2026-03-15
 tags: 
@@ -11,7 +11,7 @@ tags:
   - kith-kin
   - tension
   - revised
-feature: /assets/images/3648773666_35714d3792_b.jpg
+feature: /assets/images/let-the-chips-fall/3648773666_35714d3792_b.jpg
 ---
 
 # Let the Chips Fall

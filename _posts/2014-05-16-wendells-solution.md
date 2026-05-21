@@ -3,17 +3,17 @@ title: Wendell&#39;s Solution
 date: 2014-05-16 08:00:00 -0400
 excerpt: '''How the Hell did he get up there?'
 header:
-  teaser: /assets/images/249752730_c02409b9ca_o.jpg
-  overlay_image: /assets/images/249752730_c02409b9ca_o.jpg
+  teaser: /assets/images/wendells-solution/249752730_c02409b9ca_o.jpg
+  overlay_image: /assets/images/wendells-solution/249752730_c02409b9ca_o.jpg
 categories: []
 tags: 
   - grounded
   - kith-kin
   - tension
-feature: /assets/images/249752730_c02409b9ca_o.jpg
+feature: /assets/images/wendells-solution/249752730_c02409b9ca_o.jpg
 ---
 
-# Wendell&#39;s Solution
+# Wendell's Solution
 
 'How the Hell did he get up there?' thought Tony as he looked up the rampart wall of the prison's exercise yard. Wendell held what could only be a shiv to the narrow throat of their beloved Warden Thomas H. Macey.
 

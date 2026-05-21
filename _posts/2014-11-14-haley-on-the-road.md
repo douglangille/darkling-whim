@@ -3,15 +3,15 @@ title: Haley on the Road
 date: 2014-11-14 08:00:00 -0400
 excerpt: We had to pull over on the side of the road when the jeep started to overheat.
 header:
-  teaser: /assets/images/road-166543.jpg
-  overlay_image: /assets/images/road-166543.jpg
+  teaser: /assets/images/haley-on-the-road/road-166543.jpg
+  overlay_image: /assets/images/haley-on-the-road/road-166543.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - tension
   - haley
-feature: /assets/images/road-166543.jpg
+feature: /assets/images/haley-on-the-road/road-166543.jpg
 ---
 
 # Haley on the Road

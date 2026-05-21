@@ -3,14 +3,14 @@ title: Georgie Groundhog
 date: 2014-03-20 08:00:00 -0400
 excerpt: '"Oh dear, oh dear!'
 header:
-  teaser: /assets/images/7420708952_0c90eb0fea_b.jpg
-  overlay_image: /assets/images/7420708952_0c90eb0fea_b.jpg
+  teaser: /assets/images/georgie-groundhog/7420708952_0c90eb0fea_b.jpg
+  overlay_image: /assets/images/georgie-groundhog/7420708952_0c90eb0fea_b.jpg
 categories: []
 tags: 
   - speculative
   - solitude
   - wit
-feature: /assets/images/7420708952_0c90eb0fea_b.jpg
+feature: /assets/images/georgie-groundhog/7420708952_0c90eb0fea_b.jpg
 ---
 
 # Georgie Groundhog

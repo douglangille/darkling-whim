@@ -4,14 +4,14 @@ date: 2014-03-31 08:00:00 -0400
 excerpt: '"I hate to bother you, but I have something important to ask," said the
   new waitress, setting down my plate of scrambled eggs.'
 header:
-  teaser: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
-  overlay_image: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
+  teaser: /assets/images/scrambled/Soft_Scrambled_Eggs_by_linde_lazer.jpg
+  overlay_image: /assets/images/scrambled/Soft_Scrambled_Eggs_by_linde_lazer.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - melancholy
-feature: /assets/images/Soft_Scrambled_Eggs_by_linde_lazer.jpg
+feature: /assets/images/scrambled/Soft_Scrambled_Eggs_by_linde_lazer.jpg
 ---
 
 # Scrambled

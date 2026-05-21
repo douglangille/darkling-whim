@@ -3,15 +3,15 @@ title: Strange Love
 date: 2014-06-27 08:00:00 -0400
 excerpt: There once was a lady, hailing from the circus
 header:
-  teaser: /assets/images/2535792133_23d929a8a7_b.jpg
-  overlay_image: /assets/images/2535792133_23d929a8a7_b.jpg
+  teaser: /assets/images/strange-love/2535792133_23d929a8a7_b.jpg
+  overlay_image: /assets/images/strange-love/2535792133_23d929a8a7_b.jpg
 categories: []
 tags: 
   - grounded
   - intimacy
   - wit
   - poetry
-feature: /assets/images/2535792133_23d929a8a7_b.jpg
+feature: /assets/images/strange-love/2535792133_23d929a8a7_b.jpg
 ---
 
 # Strange Love

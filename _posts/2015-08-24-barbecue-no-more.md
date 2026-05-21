@@ -3,14 +3,14 @@ title: Barbecue No More
 date: 2015-08-24 08:00:00 -0400
 excerpt: Steak was supposed to be on sale.
 header:
-  teaser: /assets/images/14407329792_5240b7ed7a_b.jpg
-  overlay_image: /assets/images/14407329792_5240b7ed7a_b.jpg
+  teaser: /assets/images/barbecue-no-more/14407329792_5240b7ed7a_b.jpg
+  overlay_image: /assets/images/barbecue-no-more/14407329792_5240b7ed7a_b.jpg
 categories: []
 tags: 
   - speculative
   - solitude
   - wit
-feature: /assets/images/14407329792_5240b7ed7a_b.jpg
+feature: /assets/images/barbecue-no-more/14407329792_5240b7ed7a_b.jpg
 ---
 
 # Barbecue No More

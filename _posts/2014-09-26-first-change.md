@@ -4,14 +4,14 @@ date: 2014-09-26 08:00:00 -0400
 excerpt: Raised by the pack, we didn't know about the Change util it happened to my
   friend Brown Ear.
 header:
-  teaser: /assets/images/2493604415_230048038b_b_werewolf.jpg
-  overlay_image: /assets/images/2493604415_230048038b_b_werewolf.jpg
+  teaser: /assets/images/first-change/2493604415_230048038b_b_werewolf.jpg
+  overlay_image: /assets/images/first-change/2493604415_230048038b_b_werewolf.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - tension
-feature: /assets/images/2493604415_230048038b_b_werewolf.jpg
+feature: /assets/images/first-change/2493604415_230048038b_b_werewolf.jpg
 ---
 
 # First Change

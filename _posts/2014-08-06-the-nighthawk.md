@@ -3,15 +3,15 @@ title: The Nighthawk
 date: 2014-08-06 08:00:00 -0400
 excerpt: I stare at my winged reflection
 header:
-  teaser: /assets/images/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
-  overlay_image: /assets/images/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
+  teaser: /assets/images/the-nighthawk/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
+  overlay_image: /assets/images/the-nighthawk/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - eerie
   - poetry
-feature: /assets/images/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
+feature: /assets/images/the-nighthawk/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
 ---
 
 # The Nighthawk

@@ -3,15 +3,15 @@ title: Perfect Party
 date: 2014-03-19 08:00:00 -0400
 excerpt: Doug is dressed in his party best
 header:
-  teaser: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
-  overlay_image: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
+  teaser: /assets/images/perfect-party/4037536134_4d07ce228f_feathered-hat.jpg
+  overlay_image: /assets/images/perfect-party/4037536134_4d07ce228f_feathered-hat.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - wit
   - poetry
-feature: /assets/images/4037536134_4d07ce228f_feathered-hat.jpg
+feature: /assets/images/perfect-party/4037536134_4d07ce228f_feathered-hat.jpg
 ---
 
 # Perfect Party

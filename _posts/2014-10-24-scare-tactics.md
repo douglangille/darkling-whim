@@ -3,14 +3,14 @@ title: Scare Tactics
 date: 2014-10-24 08:00:00 -0400
 excerpt: '"Why don''t you try poking out your eyes?'
 header:
-  teaser: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
-  overlay_image: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
+  teaser: /assets/images/scare-tactics/8117718787_218466fc67_ghost-sheet.jpg
+  overlay_image: /assets/images/scare-tactics/8117718787_218466fc67_ghost-sheet.jpg
 categories: []
 tags: 
   - speculative
   - intimacy
   - wit
-feature: /assets/images/8117718787_218466fc67_ghost-sheet.jpg
+feature: /assets/images/scare-tactics/8117718787_218466fc67_ghost-sheet.jpg
 ---
 
 # Scare Tactics

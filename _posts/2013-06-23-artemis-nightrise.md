@@ -8,9 +8,9 @@ tags:
   - kith-kin
   - tension
 header:
-  teaser: /assets/images/flickr-6620255181-original.jpg
-  overlay_image: /assets/images/flickr-6620255181-original.jpg
-feature: /assets/images/flickr-6620255181-original.jpg
+  teaser: /assets/images/artemis-nightrise/flickr-6620255181-original.jpg
+  overlay_image: /assets/images/artemis-nightrise/flickr-6620255181-original.jpg
+feature: /assets/images/artemis-nightrise/flickr-6620255181-original.jpg
 ---
 
 # Artemis Nightrise

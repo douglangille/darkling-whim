@@ -3,15 +3,15 @@ title: Last Glimpse
 date: 2014-09-19 08:00:00 -0400
 excerpt: I found the perfect spot, for us to share a final gaze
 header:
-  teaser: /assets/images/armagedon-6.jpg
-  overlay_image: /assets/images/armagedon-6.jpg
+  teaser: /assets/images/last-glimpse/armagedon-6.jpg
+  overlay_image: /assets/images/last-glimpse/armagedon-6.jpg
 categories: []
 tags: 
   - speculative
   - intimacy
   - melancholy
   - poetry
-feature: /assets/images/armagedon-6.jpg
+feature: /assets/images/last-glimpse/armagedon-6.jpg
 ---
 
 # Last Glimpse

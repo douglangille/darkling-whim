@@ -4,15 +4,15 @@ date: 2014-10-31 08:00:00 -0400
 excerpt: Jimmy drove too fast for my liking, but under the circumstances, I didn't
   argue even if we didn't use headlights.
 header:
-  teaser: /assets/images/c7eae012190627c8_1280_night-birds.jpg
-  overlay_image: /assets/images/c7eae012190627c8_1280_night-birds.jpg
+  teaser: /assets/images/is-this-the-end-haley/c7eae012190627c8_1280_night-birds.jpg
+  overlay_image: /assets/images/is-this-the-end-haley/c7eae012190627c8_1280_night-birds.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - tension
   - haley
-feature: /assets/images/c7eae012190627c8_1280_night-birds.jpg
+feature: /assets/images/is-this-the-end-haley/c7eae012190627c8_1280_night-birds.jpg
 ---
 
 # Is this the End, Haley?

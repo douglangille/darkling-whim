@@ -3,14 +3,14 @@ title: A Gruff Patch
 date: 2015-11-06 08:00:00 -0400
 excerpt: Bruno Gruff scratched his flea-bitten crotch and stared out the window.
 header:
-  teaser: /assets/images/Three-Goats.jpg
-  overlay_image: /assets/images/Three-Goats.jpg
+  teaser: /assets/images/a-gruff-patch/Three-Goats.jpg
+  overlay_image: /assets/images/a-gruff-patch/Three-Goats.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - wit
-feature: /assets/images/Three-Goats.jpg
+feature: /assets/images/a-gruff-patch/Three-Goats.jpg
 ---
 
 # A Gruff Patch

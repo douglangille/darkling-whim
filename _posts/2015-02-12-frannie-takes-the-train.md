@@ -4,14 +4,14 @@ date: 2015-02-12 08:00:00 -0400
 excerpt: The rattle and rumble of the train on its tracks persisted in their pursuit
   of my sleep.
 header:
-  teaser: /assets/images/handcuffs-219261.jpg
-  overlay_image: /assets/images/handcuffs-219261.jpg
+  teaser: /assets/images/frannie-takes-the-train/handcuffs-219261.jpg
+  overlay_image: /assets/images/frannie-takes-the-train/handcuffs-219261.jpg
 categories: []
 tags: 
   - grounded
   - intimacy
   - tension
-feature: /assets/images/handcuffs-219261.jpg
+feature: /assets/images/frannie-takes-the-train/handcuffs-219261.jpg
 ---
 
 # Frannie Takes the Train

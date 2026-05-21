@@ -2,14 +2,14 @@
 title: The Final Meal
 date: 2026-02-28 08:00:00 -0400
 header:
-  overlay_image: /assets/images/generated-image-3.png
-  teaser: /assets/images/generated-image-3.png
+  overlay_image: /assets/images/the-final-meal/feature.png
+  teaser: /assets/images/the-final-meal/feature.png
 excerpt: The room is cold. A hospital cold that lives in the walls.
 tags: 
   - grounded
   - intimacy
   - melancholy
-feature: /assets/images/generated-image-3.png
+feature: /assets/images/the-final-meal/feature.png
 ---
 
 # The Final Meal

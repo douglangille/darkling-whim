@@ -3,14 +3,14 @@ title: The Perfect Trick
 date: 2014-09-13 08:00:00 -0400
 excerpt: All eyes were either on Scott's hands or Amy's outfit.
 header:
-  teaser: /assets/images/12-magic-tricks-rescan1.jpg
-  overlay_image: /assets/images/12-magic-tricks-rescan1.jpg
+  teaser: /assets/images/the-perfect-trick/12-magic-tricks-rescan1.jpg
+  overlay_image: /assets/images/the-perfect-trick/12-magic-tricks-rescan1.jpg
 categories: []
 tags: 
   - grounded
   - kith-kin
   - wit
-feature: /assets/images/12-magic-tricks-rescan1.jpg
+feature: /assets/images/the-perfect-trick/12-magic-tricks-rescan1.jpg
 ---
 
 # The Perfect Trick

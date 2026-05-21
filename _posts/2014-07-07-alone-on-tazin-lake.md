@@ -4,14 +4,14 @@ date: 2014-07-07 08:00:00 -0400
 excerpt: The Cessna's wings clipped the tops off several jack pine as it thundered
   through the brush on its way down.
 header:
-  teaser: /assets/images/IMG-20121020-00007.jpg
-  overlay_image: /assets/images/IMG-20121020-00007.jpg
+  teaser: /assets/images/alone-on-tazin-lake/IMG-20121020-00007.jpg
+  overlay_image: /assets/images/alone-on-tazin-lake/IMG-20121020-00007.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - melancholy
-feature: /assets/images/IMG-20121020-00007.jpg
+feature: /assets/images/alone-on-tazin-lake/IMG-20121020-00007.jpg
 ---
 
 # Alone on Tazin Lake

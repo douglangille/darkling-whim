@@ -3,14 +3,14 @@ title: Alpha Dreams
 date: 2014-07-17 08:00:00 -0400
 excerpt: Dawn's dim light glows in the porch windows.
 header:
-  teaser: /assets/images/Pug_portrait.jpg
-  overlay_image: /assets/images/Pug_portrait.jpg
+  teaser: /assets/images/alpha-dreams/Pug_portrait.jpg
+  overlay_image: /assets/images/alpha-dreams/Pug_portrait.jpg
 categories: []
 tags: 
   - grounded
   - kith-kin
   - melancholy
-feature: /assets/images/Pug_portrait.jpg
+feature: /assets/images/alpha-dreams/Pug_portrait.jpg
 ---
 
 # Alpha Dreams

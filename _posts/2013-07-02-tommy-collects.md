@@ -3,14 +3,14 @@ title: Tommy Collects
 date: 2013-07-02 08:00:00 -0400
 excerpt: Tommy Andolini was a brute.
 header:
-  teaser: /assets/images/4298179061_d2402b6ded_b.jpg
-  overlay_image: /assets/images/4298179061_d2402b6ded_b.jpg
+  teaser: /assets/images/tommy-collects/4298179061_d2402b6ded_b.jpg
+  overlay_image: /assets/images/tommy-collects/4298179061_d2402b6ded_b.jpg
 categories: []
 tags: 
   - grounded
   - kith-kin
   - wit
-feature: /assets/images/4298179061_d2402b6ded_b.jpg
+feature: /assets/images/tommy-collects/4298179061_d2402b6ded_b.jpg
 ---
 
 # Tommy Collects

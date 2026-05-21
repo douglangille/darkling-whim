@@ -2,14 +2,14 @@
 title: The Acknowledgement
 date: 2026-01-22 08:00:00 -0400
 header:
-  overlay_image: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
-  teaser: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
+  overlay_image: /assets/images/the-acknowledgement/feature.png
+  teaser: /assets/images/the-acknowledgement/feature.png
 excerpt: Between panes of glass, choice slips away.
 tags: 
   - speculative
   - intimacy
   - melancholy
-feature: /assets/images/ChatGPT%20Image%20Jan%2022,%202026%20at%2004_03_12%20PM.png
+feature: /assets/images/the-acknowledgement/feature.png
 ---
 
 # The Acknowledgement

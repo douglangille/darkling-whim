@@ -4,14 +4,14 @@ date: 2015-01-26 08:00:00 -0400
 excerpt: Lamia wrapped the mottled scarf around her light frame, enjoying the silky
   sensation as the soft cool hide hugged her contours.
 header:
-  teaser: /assets/images/water-drop-173751.jpg
-  overlay_image: /assets/images/water-drop-173751.jpg
+  teaser: /assets/images/the-dark-pool-of-lamia/water-drop-173751.jpg
+  overlay_image: /assets/images/the-dark-pool-of-lamia/water-drop-173751.jpg
 categories: []
 tags: 
   - speculative
   - solitude
   - tension
-feature: /assets/images/water-drop-173751.jpg
+feature: /assets/images/the-dark-pool-of-lamia/water-drop-173751.jpg
 ---
 
 # The Dark Pool of Lamia

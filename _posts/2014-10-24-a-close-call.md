@@ -4,14 +4,14 @@ date: 2014-10-24 08:00:00 -0400
 excerpt: It was a dark and stormy night, my wife and daughter were driving to a Fire
   Hall outside Chester for a family gathering.
 header:
-  teaser: /assets/images/4597461278_a5c993ccc1_b.jpg
-  overlay_image: /assets/images/4597461278_a5c993ccc1_b.jpg
+  teaser: /assets/images/a-close-call/4597461278_a5c993ccc1_b.jpg
+  overlay_image: /assets/images/a-close-call/4597461278_a5c993ccc1_b.jpg
 categories: []
 tags: 
   - grounded
   - kith-kin
   - tension
-feature: /assets/images/4597461278_a5c993ccc1_b.jpg
+feature: /assets/images/a-close-call/4597461278_a5c993ccc1_b.jpg
 ---
 
 # A Close Call

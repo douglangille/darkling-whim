@@ -4,14 +4,14 @@ date: 2015-03-20 08:00:00 -0400
 excerpt: So, yeah, it all started when Mikey dared me to put my tongue on the cold
   post outside the mall entrance.
 header:
-  teaser: /assets/images/post-66098_1920.jpg
-  overlay_image: /assets/images/post-66098_1920.jpg
+  teaser: /assets/images/at-the-mall/post-66098_1920.jpg
+  overlay_image: /assets/images/at-the-mall/post-66098_1920.jpg
 categories: []
 tags: 
   - grounded
   - intimacy
   - wit
-feature: /assets/images/post-66098_1920.jpg
+feature: /assets/images/at-the-mall/post-66098_1920.jpg
 ---
 
 # At the Mall

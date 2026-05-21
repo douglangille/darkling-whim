@@ -4,14 +4,14 @@ date: 2015-03-09 08:00:00 -0400
 excerpt: I shovel dirt into the hole and my face breaks into a sweat despite the cool
   night air.
 header:
-  teaser: /assets/images/man-80101_1920.jpg
-  overlay_image: /assets/images/man-80101_1920.jpg
+  teaser: /assets/images/i-shovel-dirt/man-80101_1920.jpg
+  overlay_image: /assets/images/i-shovel-dirt/man-80101_1920.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - melancholy
-feature: /assets/images/man-80101_1920.jpg
+feature: /assets/images/i-shovel-dirt/man-80101_1920.jpg
 ---
 
 # I Shovel Dirt

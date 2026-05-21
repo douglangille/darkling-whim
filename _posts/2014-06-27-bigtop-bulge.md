@@ -3,14 +3,14 @@ title: Bigtop Bulge
 date: 2014-06-27 08:00:00 -0400
 excerpt: So, you see, I'm really quite worried about your health.
 header:
-  teaser: /assets/images/8019720146_bd87339614_b.jpg
-  overlay_image: /assets/images/8019720146_bd87339614_b.jpg
+  teaser: /assets/images/bigtop-bulge/8019720146_bd87339614_b.jpg
+  overlay_image: /assets/images/bigtop-bulge/8019720146_bd87339614_b.jpg
 categories: []
 tags: 
   - grounded
   - kith-kin
   - wit
-feature: /assets/images/8019720146_bd87339614_b.jpg
+feature: /assets/images/bigtop-bulge/8019720146_bd87339614_b.jpg
 ---
 
 # Bigtop Bulge

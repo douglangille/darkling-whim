@@ -3,14 +3,14 @@ title: Intention
 date: 2013-09-19 08:00:00 -0400
 excerpt: Larry sat in the jail cell and tried to make himself invisible.
 header:
-  teaser: /assets/images/3445269852_bca2f85d3c_b-1.jpg
-  overlay_image: /assets/images/3445269852_bca2f85d3c_b-1.jpg
+  teaser: /assets/images/intention/3445269852_bca2f85d3c_b-1.jpg
+  overlay_image: /assets/images/intention/3445269852_bca2f85d3c_b-1.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - wit
-feature: /assets/images/3445269852_bca2f85d3c_b-1.jpg
+feature: /assets/images/intention/3445269852_bca2f85d3c_b-1.jpg
 ---
 
 # Intention

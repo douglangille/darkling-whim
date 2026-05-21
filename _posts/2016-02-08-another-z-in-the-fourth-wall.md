@@ -1,7 +1,7 @@
 ---
 header:
-  overlay_image: /assets/images/crime-64067_640.jpg
-  teaser: /assets/images/crime-64067_640.jpg
+  overlay_image: /assets/images/another-z-in-the-fourth-wall/crime-64067_640.jpg
+  teaser: /assets/images/another-z-in-the-fourth-wall/crime-64067_640.jpg
 title: Another Z in the Fourth Wall
 date: 2016-02-08 08:00:00 -0400
 excerpt: Eddie's fist connected with a satisfying crunch and Haley couldn't keep from
@@ -12,7 +12,7 @@ tags:
   - intimacy
   - wit
   - haley
-feature: /assets/images/crime-64067_640.jpg
+feature: /assets/images/another-z-in-the-fourth-wall/crime-64067_640.jpg
 ---
 
 # Another Z in the Fourth Wall

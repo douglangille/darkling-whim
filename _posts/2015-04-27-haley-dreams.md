@@ -3,15 +3,15 @@ title: Haley Dreams
 date: 2015-04-27 08:00:00 -0400
 excerpt: My dreams always started the same way.
 header:
-  teaser: /assets/images/apocalypse-371947_1280.jpg
-  overlay_image: /assets/images/apocalypse-371947_1280.jpg
+  teaser: /assets/images/haley-dreams/apocalypse-371947_1280.jpg
+  overlay_image: /assets/images/haley-dreams/apocalypse-371947_1280.jpg
 categories: []
 tags: 
   - speculative
   - solitude
   - eerie
   - haley
-feature: /assets/images/apocalypse-371947_1280.jpg
+feature: /assets/images/haley-dreams/apocalypse-371947_1280.jpg
 ---
 
 # Haley Dreams

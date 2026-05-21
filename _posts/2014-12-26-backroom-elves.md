@@ -3,14 +3,14 @@ title: Backroom Elves
 date: 2014-12-26 08:00:00 -0400
 excerpt: '"Blinky, put that wrench down and get over here.'
 header:
-  teaser: /assets/images/5297560931_2107f4287a_christmas-elf.jpg
-  overlay_image: /assets/images/5297560931_2107f4287a_christmas-elf.jpg
+  teaser: /assets/images/backroom-elves/5297560931_2107f4287a_christmas-elf.jpg
+  overlay_image: /assets/images/backroom-elves/5297560931_2107f4287a_christmas-elf.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - wit
-feature: /assets/images/5297560931_2107f4287a_christmas-elf.jpg
+feature: /assets/images/backroom-elves/5297560931_2107f4287a_christmas-elf.jpg
 ---
 
 # Backroom Elves

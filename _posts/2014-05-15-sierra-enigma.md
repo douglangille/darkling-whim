@@ -3,14 +3,14 @@ title: Sierra Enigma
 date: 2014-05-15 08:00:00 -0400
 excerpt: It's never been easy working in the same place where Mom died.
 header:
-  teaser: /assets/images/PartialHeterochromia.jpg
-  overlay_image: /assets/images/PartialHeterochromia.jpg
+  teaser: /assets/images/sierra-enigma/PartialHeterochromia.jpg
+  overlay_image: /assets/images/sierra-enigma/PartialHeterochromia.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - tension
-feature: /assets/images/PartialHeterochromia.jpg
+feature: /assets/images/sierra-enigma/PartialHeterochromia.jpg
 ---
 
 # Sierra Enigma

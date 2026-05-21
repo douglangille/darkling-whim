@@ -3,14 +3,14 @@ title: Sunset Heat
 date: 2015-02-09 08:00:00 -0400
 excerpt: I put the rest of the tools in the trunk and wheeled it over to the tie-downs.
 header:
-  teaser: /assets/images/end-of-the-day.jpg
-  overlay_image: /assets/images/end-of-the-day.jpg
+  teaser: /assets/images/sunset-heat/end-of-the-day.jpg
+  overlay_image: /assets/images/sunset-heat/end-of-the-day.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - melancholy
-feature: /assets/images/end-of-the-day.jpg
+feature: /assets/images/sunset-heat/end-of-the-day.jpg
 ---
 
 # Sunset Heat

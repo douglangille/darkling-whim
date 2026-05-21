@@ -7,9 +7,9 @@ tags:
   - intimacy
   - melancholy
 header:
-  teaser: /assets/images/thorn-apple.png
-  overlay_image: /assets/images/thorn-apple.png
-feature: /assets/images/thorn-apple.png
+  teaser: /assets/images/thorn-apple/thorn-apple.png
+  overlay_image: /assets/images/thorn-apple/thorn-apple.png
+feature: /assets/images/thorn-apple/thorn-apple.png
 ---
 
 # Thorn Apple

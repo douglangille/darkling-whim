@@ -4,14 +4,14 @@ date: 2013-09-03 08:00:00 -0400
 excerpt: David Pemberton leaned into the mirror and fussed over the crow's feet starting
   to creep into his face.
 header:
-  teaser: /assets/images/3810416462_ac86d2645b_newsroom.jpg
-  overlay_image: /assets/images/3810416462_ac86d2645b_newsroom.jpg
+  teaser: /assets/images/newsworthy/3810416462_ac86d2645b_newsroom.jpg
+  overlay_image: /assets/images/newsworthy/3810416462_ac86d2645b_newsroom.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - wit
-feature: /assets/images/3810416462_ac86d2645b_newsroom.jpg
+feature: /assets/images/newsworthy/3810416462_ac86d2645b_newsroom.jpg
 ---
 
 # Newsworthy

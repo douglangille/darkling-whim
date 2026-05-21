@@ -2,8 +2,8 @@
 title: From the Window
 date: 2015-05-24 08:00:00 -0400
 header:
-  overlay_image: /assets/images/IMG_0342.jpg
-  teaser: /assets/images/IMG_0342.jpg
+  overlay_image: /assets/images/from-the-window/IMG_0342.jpg
+  teaser: /assets/images/from-the-window/IMG_0342.jpg
 excerpt: Elvis had left the building.
 revised: 2026-03-14
 tags: 
@@ -11,7 +11,7 @@ tags:
   - kith-kin
   - wit
   - revised
-feature: /assets/images/IMG_0342.jpg
+feature: /assets/images/from-the-window/IMG_0342.jpg
 ---
 
 # From the Window

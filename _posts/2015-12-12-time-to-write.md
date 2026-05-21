@@ -3,14 +3,14 @@ title: Time to Write
 date: 2015-12-12 08:00:00 -0400
 excerpt: I can't find the time to write.
 header:
-  teaser: /assets/images/hourglass-620397_640.jpg
-  overlay_image: /assets/images/hourglass-620397_640.jpg
+  teaser: /assets/images/time-to-write/hourglass-620397_640.jpg
+  overlay_image: /assets/images/time-to-write/hourglass-620397_640.jpg
   categories: perspectives
 tags: 
   - grounded
   - solitude
   - wit
-feature: /assets/images/hourglass-620397_640.jpg
+feature: /assets/images/time-to-write/hourglass-620397_640.jpg
 ---
 
 # Time to Write

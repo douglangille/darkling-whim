@@ -3,14 +3,14 @@ title: Spider Man
 date: 2015-03-20 08:00:00 -0400
 excerpt: '"Oh, thank you, Spiderman!'
 header:
-  teaser: /assets/images/cobweb-449911_1280.jpg
-  overlay_image: /assets/images/cobweb-449911_1280.jpg
+  teaser: /assets/images/spider-man/cobweb-449911_1280.jpg
+  overlay_image: /assets/images/spider-man/cobweb-449911_1280.jpg
 categories: []
 tags: 
   - speculative
   - intimacy
   - wit
-feature: /assets/images/cobweb-449911_1280.jpg
+feature: /assets/images/spider-man/cobweb-449911_1280.jpg
 ---
 
 # Spider Man

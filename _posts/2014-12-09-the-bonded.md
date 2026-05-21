@@ -3,14 +3,14 @@ title: The Bonded
 date: 2014-12-09 08:00:00 -0400
 excerpt: Not every Fayre could be trusted.
 header:
-  teaser: /assets/images/sky-404060.jpg
-  overlay_image: /assets/images/sky-404060.jpg
+  teaser: /assets/images/the-bonded/sky-404060.jpg
+  overlay_image: /assets/images/the-bonded/sky-404060.jpg
 categories: []
 tags: 
   - speculative
   - kith-kin
   - melancholy
-feature: /assets/images/sky-404060.jpg
+feature: /assets/images/the-bonded/sky-404060.jpg
 ---
 
 # The Bonded

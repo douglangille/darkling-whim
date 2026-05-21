@@ -2,8 +2,8 @@
 title: For the Love of a Dragon
 date: 2016-03-06 08:00:00 -0400
 header:
-  teaser: /assets/images/dragon-1014565_1280.jpg
-  overlay_image: /assets/images/dragon-1014565_1280.jpg
+  teaser: /assets/images/for-the-love-of-a-dragon/dragon-1014565_1280.jpg
+  overlay_image: /assets/images/for-the-love-of-a-dragon/dragon-1014565_1280.jpg
 categories: []
 published: true
 excerpt: She's a smoke show.
@@ -11,7 +11,7 @@ tags:
   - speculative
   - intimacy
   - melancholy
-feature: /assets/images/dragon-1014565_1280.jpg
+feature: /assets/images/for-the-love-of-a-dragon/dragon-1014565_1280.jpg
 ---
 
 # For the Love of a Dragon

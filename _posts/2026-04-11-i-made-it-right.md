@@ -5,10 +5,10 @@ tags:
   - solitude
   - tension
 header:
-  teaser: /assets/images/IMG_0122.jpeg
-  overlay_image: /assets/images/IMG_0122.jpeg
+  teaser: /assets/images/i-made-it-right/IMG_0122.jpeg
+  overlay_image: /assets/images/i-made-it-right/IMG_0122.jpeg
 excerpt: The steam wand hisses.
-feature: /assets/images/IMG_0122.jpeg
+feature: /assets/images/i-made-it-right/IMG_0122.jpeg
 ---
 
 # I Made It Right

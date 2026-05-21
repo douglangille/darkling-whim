@@ -9,9 +9,9 @@ tags:
   - haley
 categories: []
 header:
-  teaser: /assets/images/eddie-zero.png
-  overlay_image: /assets/images/eddie-zero.png
-feature: /assets/images/eddie-zero.png
+  teaser: /assets/images/eddie-zero/eddie-zero.png
+  overlay_image: /assets/images/eddie-zero/eddie-zero.png
+feature: /assets/images/eddie-zero/eddie-zero.png
 ---
 
 # Eddie Zero

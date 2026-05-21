@@ -3,14 +3,14 @@ title: A Love, Darkly
 date: 2013-10-13
 excerpt: Alice gave me a furtive glance as she handed me a glass of lemonade.
 header:
-  teaser: /assets/images/a-love-darkly.png
-  overlay_image: /assets/images/a-love-darkly.png
+  teaser: /assets/images/a-love-darkly/a-love-darkly.png
+  overlay_image: /assets/images/a-love-darkly/a-love-darkly.png
 categories: []
 tags: 
   - dark
   - intimacy
   - melancholy
-feature: /assets/images/a-love-darkly.png
+feature: /assets/images/a-love-darkly/a-love-darkly.png
 ---
 
 # A Love, Darkly

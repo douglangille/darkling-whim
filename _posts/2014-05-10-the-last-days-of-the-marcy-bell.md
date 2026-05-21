@@ -4,14 +4,14 @@ date: 2014-05-10 08:00:00 -0400
 excerpt: Officially, the Marcy Bell was a salvage rig, licensed for Canadian and international
   waters but not American.
 header:
-  teaser: /assets/images/3375982065_d2b7a3b27b_o.jpg
-  overlay_image: /assets/images/3375982065_d2b7a3b27b_o.jpg
+  teaser: /assets/images/the-last-days-of-the-marcy-bell/3375982065_d2b7a3b27b_o.jpg
+  overlay_image: /assets/images/the-last-days-of-the-marcy-bell/3375982065_d2b7a3b27b_o.jpg
 categories: []
 tags: 
   - grounded
   - solitude
   - tension
-feature: /assets/images/3375982065_d2b7a3b27b_o.jpg
+feature: /assets/images/the-last-days-of-the-marcy-bell/3375982065_d2b7a3b27b_o.jpg
 ---
 
 # The Last Days of the Marcy Bell

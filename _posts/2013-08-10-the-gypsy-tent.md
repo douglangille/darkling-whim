@@ -3,15 +3,15 @@ title: The Gypsy Tent
 date: 2013-08-10 08:00:00 -0400
 excerpt: I wandered through the county fair
 header:
-  teaser: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
-  overlay_image: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
+  teaser: /assets/images/the-gypsy-tent/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
+  overlay_image: /assets/images/the-gypsy-tent/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 categories: []
 tags: 
   - speculative
   - solitude
   - eerie
   - poetry
-feature: /assets/images/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
+feature: /assets/images/the-gypsy-tent/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 ---
 
 # The Gypsy Tent
