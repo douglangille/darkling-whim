@@ -1,7 +1,7 @@
 ---
 title: Filed Under
 date: 2026-05-11 08:00:00 -0400
-excerpt: "The lair smelled like solder and bad decisions."
+excerpt: The lair smelled like solder and bad decisions.
 header:
   teaser: /assets/images/filed-under/feature.png
   overlay_image: /assets/images/filed-under/feature.png
@@ -10,6 +10,7 @@ tags:
   - intimacy
   - melancholy
 feature: /assets/images/filed-under/feature.png
+feature_y: 50.0%
 ---
 
 # Filed Under
