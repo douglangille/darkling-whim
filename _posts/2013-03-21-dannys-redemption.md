@@ -1,14 +1,10 @@
 ---
 title: "Danny's Redemption"
 date: 2013-03-21 08:00:00 -0400
-excerpt: A sharp breeze stirred up the gutter dirt as Danny crossed the otherwise
-  motionless street.
+excerpt: "A sharp breeze stirred up the gutter dirt as Danny crossed the otherwise motionless street."
 header:
   teaser: /assets/images/dannys-redemption/6f9ed9b8c740fbab381ffde33d22b056.jpg
   overlay_image: /assets/images/dannys-redemption/6f9ed9b8c740fbab381ffde33d22b056.jpg
-feature: /assets/images/dannys-redemption/6f9ed9b8c740fbab381ffde33d22b056.jpg
-category:
-- writings
 tags: 
   - speculative
   - intimacy
