@@ -1,5 +1,5 @@
 ---
-title: Hallow's Morn
+title: "Hallow's Morn"
 date: 2013-10-25 08:00:00 -0400
 excerpt: Jackie pulled the collar of her housecoat tight around her neck and opened
   the door to let her cat inside after his morning romp.

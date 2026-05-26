@@ -1,5 +1,5 @@
 ---
-title: Wendell&#39;s Solution
+title: "Wendell's Solution"
 date: 2014-05-16 08:00:00 -0400
 excerpt: '''How the Hell did he get up there?'
 header:

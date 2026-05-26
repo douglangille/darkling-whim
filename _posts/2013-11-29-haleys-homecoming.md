@@ -1,5 +1,5 @@
 ---
-title: Haley's Homecoming
+title: "Haley's Homecoming"
 date: 2013-11-29 08:00:00 -0400
 excerpt: I hitched my knapsack up over one shoulder and got off the bus.
 header:

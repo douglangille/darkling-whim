@@ -1,5 +1,5 @@
 ---
-title: Figured You'd Understand
+title: "Figured You'd Understand"
 date: 2026-05-18 08:00:00 -0400
 excerpt: The habitat breathes at night. You stop hearing it after the first week. You absorb it. Become it.
 header:

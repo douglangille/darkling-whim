@@ -1,5 +1,5 @@
 ---
-title: It's All About the Cornbread
+title: "It's All About the Cornbread"
 date: 2015-09-22 08:00:00 -0400
 excerpt: Ya see, us here wolves got a bad rap.
 header:

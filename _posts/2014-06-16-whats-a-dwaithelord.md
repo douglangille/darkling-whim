@@ -1,5 +1,5 @@
 ---
-title: What&#39;s a Dwaithelord?
+title: "What's a Dwaithelord?"
 date: 2014-06-16 08:00:00 -0400
 excerpt: Dwaithelord --- an honorific for the tribal leader of a coven of dwarven
   wraith soul stealers.

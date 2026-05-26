@@ -1,5 +1,5 @@
 ---
-title: Davey's Boat
+title: "Davey's Boat"
 date: 2013-10-04 08:00:00 -0400
 excerpt: There was only one bus in town and I missed the last run, its taillights
   taunting me with the faint spray from the wet wheels.

@@ -1,5 +1,5 @@
 ---
-title: Herb's Bad Week
+title: "Herb's Bad Week"
 date: 2013-07-20 08:00:00 -0400
 excerpt: Herb was delusional.
 header:

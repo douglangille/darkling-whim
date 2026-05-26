@@ -1,5 +1,5 @@
 ---
-title: Dana's Story
+title: "Dana's Story"
 date: 2013-03-29 08:00:00 -0400
 excerpt: '"I have something to tell you", said Dana quietly, barely audible.'
 header:

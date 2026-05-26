@@ -1,5 +1,5 @@
 ---
-title: Eddie&#039;s Decision
+title: "Eddie's Decision"
 date: 2014-07-28 08:00:00 -0400
 excerpt: '*No one fucks with Eddie.'
 header:

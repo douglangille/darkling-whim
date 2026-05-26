@@ -1,5 +1,5 @@
 ---
-title: Danny's Redemption
+title: "Danny's Redemption"
 date: 2013-03-21 08:00:00 -0400
 excerpt: A sharp breeze stirred up the gutter dirt as Danny crossed the otherwise
   motionless street.
