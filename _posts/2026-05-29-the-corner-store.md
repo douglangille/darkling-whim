@@ -1,5 +1,5 @@
 ---
-title: The Corner Store
+title: 2026-05-29-the-corner-store
 date: 2026-05-29 08:00:00 -0400
 excerpt: Fouad's hands were flat on the counter.
 header:
@@ -12,6 +12,8 @@ tags:
 feature: /assets/images/the-corner-store/the-corner-store.png
 feature_y: 50.0%
 ---
+
+# 2026-05-29-the-corner-store
 
 The bell above the door rang once.
 
