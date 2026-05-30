@@ -9,8 +9,6 @@ tags:
   - grounded
   - solitude
   - eerie
-  - revised
-  - mikhail
 feature: /assets/images/the-corner-store/the-corner-store.png
 feature_y: 50.0%
 ---
