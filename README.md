@@ -52,8 +52,6 @@ The site uses **custom Jekyll plugins** (jekyll-paginate-v2, jekyll-archives, je
 
 The workflow automatically builds and deploys to GitHub Pages when changes are pushed to the `main` branch. Custom domain `douglangille.ca` is configured through GitHub Pages settings with DNS managed via Cloudflare.
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed setup instructions and troubleshooting.
-
 ## Content Management
 
 ### Publishing Stories & Poems
