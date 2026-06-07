@@ -1,11 +1,174 @@
 ---
 ---
+
 @charset "utf-8";
 
+// Import custom variables first
+@import "custom-variables";
+
+// Import minimal-mistakes dark skin
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
-/* Override hardcoded light colors from main.scss that aren't caught by MM skin variables */
-.results > :first-child { border-bottom-color: #444; }
+// ============================================================================
+// Dark Mode Colour Overrides
+// ============================================================================
+
+body {
+  background-color: $dark-background-color;
+  color: $dark-text-color;
+}
+
+// Override hardcoded light colors from minimal-mistakes that aren't caught by MM skin variables
+.results > :first-child {
+  border-bottom-color: $dark-border-color;
+}
+
 .results p,
-.results .excerpt { color: #bbb; }
+.results .excerpt {
+  color: $dark-text-color;
+}
+
+// Search results text in dark mode
+.search__result .search__result__title {
+  color: $dark-text-color;
+}
+
+// ============================================================================
+// Typography — Dark Mode
+// ============================================================================
+
+p {
+  color: $dark-text-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $dark-text-color;
+}
+
+.page__meta {
+  color: $dark-muted-text-color;
+}
+
+// ============================================================================
+// Links — Dark Mode
+// ============================================================================
+
+a {
+  color: $accent-color;
+}
+
+a:visited {
+  color: $accent-color;
+}
+
+// ============================================================================
+// Navigation & Header — Dark Mode
+// ============================================================================
+
+.masthead {
+  background: transparent;
+  border-bottom-color: $dark-border-color;
+}
+
+.site-nav__toggle {
+  color: $dark-text-color;
+}
+
+// ============================================================================
+// Footer — Dark Mode
+// ============================================================================
+
+.page__footer {
+  border-top-color: $dark-border-color;
+  color: $dark-muted-text-color;
+}
+
+// ============================================================================
+// Code Blocks — Dark Mode
+// ============================================================================
+
+.highlighter-rouge {
+  background-color: #1a1a1d;
+  border-color: $dark-border-color;
+}
+
+code {
+  background-color: #1a1a1d;
+  color: $dark-text-color;
+}
+
+pre {
+  background-color: #1a1a1d;
+  color: $dark-text-color;
+}
+
+// ============================================================================
+// Blockquotes — Dark Mode
+// ============================================================================
+
+blockquote {
+  border-left-color: $accent-color;
+  color: $dark-text-color;
+}
+
+// ============================================================================
+// Buttons — Dark Mode
+// ============================================================================
+
+.btn {
+  background-color: transparent;
+  border-color: $accent-color;
+  color: $accent-color;
+}
+
+.btn:hover {
+  background-color: $accent-color;
+  color: white;
+}
+
+// ============================================================================
+// Forms — Dark Mode
+// ============================================================================
+
+input,
+textarea,
+select {
+  background-color: $dark-surface-color;
+  border-color: $dark-border-color;
+  color: $dark-text-color;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: $accent-color;
+}
+
+// ============================================================================
+// Tables — Dark Mode
+// ============================================================================
+
+table {
+  background-color: $dark-surface-color;
+  border-color: $dark-border-color;
+}
+
+th {
+  background-color: #1a1a1d;
+  color: $dark-text-color;
+}
+
+td {
+  border-color: $dark-border-color;
+  color: $dark-text-color;
+}
+
+// ============================================================================
+// HR / Dividers — Dark Mode
+// ============================================================================
+
+hr {
+  background-color: $dark-border-color;
+  border-color: $dark-border-color;
+}
