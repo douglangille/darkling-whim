@@ -7,7 +7,6 @@
 // Darkling Whim Variables — Set BEFORE skin import to override defaults
 // ============================================================================
 
-// Dark mode colours
 $background-color: #0D0D0F !default;
 $text-color: #EDE8DF !default;
 $muted-text-color: #7A7870 !default;
@@ -20,26 +19,17 @@ $link-color-visited: #8B1A1A !default;
 $link-color-hover: #8B1A1A !default;
 $code-background-color: #141420 !default;
 $code-text-color: #EDE8DF !default;
-$button-color: #8B1A1A !default;
-$button-color-hover: #8B1A1A !default;
-$button-border-color: #8B1A1A !default;
 
-// Now import the dark skin (which will use our variables)
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
 // ============================================================================
-// Additional Dark Mode Overrides (if needed after imports)
+// Dark Mode Overrides
 // ============================================================================
 
 body {
   background-color: #0D0D0F;
   color: #EDE8DF;
-}
-
-.page__footer {
-  border-top-color: #333333;
-  color: #7A7870;
 }
 
 blockquote {
@@ -50,15 +40,8 @@ blockquote {
 // Search Icon
 // ============================================================================
 
-.search__toggle {
-  color: #8B1A1A !important;
-}
-
+.search__toggle,
 .search__toggle i {
-  color: #8B1A1A !important;
-}
-
-.fas.fa-search {
   color: #8B1A1A !important;
 }
 

@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @charset "utf-8";
@@ -8,7 +7,6 @@
 // Darkling Whim Variables — Set BEFORE skin import to override defaults
 // ============================================================================
 
-// Light mode colours
 $background-color: #FFFFFF !default;
 $text-color: #1A1A1A !default;
 $muted-text-color: #666666 !default;
@@ -21,16 +19,11 @@ $link-color-visited: #8B1A1A !default;
 $link-color-hover: #8B1A1A !default;
 $code-background-color: #F5F5F0 !default;
 $code-text-color: #1A1A1A !default;
-$button-color: #8B1A1A !default;
-$button-color-hover: #8B1A1A !default;
-$button-border-color: #8B1A1A !default;
 
-// Typography
 $serif: "Libre Baskerville", Georgia, Times, serif !default;
 $sans-serif: "Archivo", -apple-system, sans-serif !default;
 $global-font-family: $serif;
 
-// Now import the skin (which will use our variables)
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
@@ -48,11 +41,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $sans-serif;
   font-weight: 800;
   text-transform: none;
-}
-
-.metadata {
-  font-family: $sans-serif;
-  font-weight: 400;
 }
 
 .site-title {
@@ -100,8 +88,7 @@ a:hover > .page__hero--overlay {
   display: none;
 }
 
-.archive__item-teaser img,
-.half img {
+.archive__item-teaser img {
   object-fit: cover;
   aspect-ratio: 3/2;
   border-radius: 0;
@@ -193,15 +180,8 @@ code {
 // Search Icon
 // ============================================================================
 
-.search__toggle {
-  color: #8B1A1A !important;
-}
-
+.search__toggle,
 .search__toggle i {
-  color: #8B1A1A !important;
-}
-
-.fas.fa-search {
   color: #8B1A1A !important;
 }
 
