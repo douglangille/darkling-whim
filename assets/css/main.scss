@@ -205,12 +205,6 @@ code {
   color: #8B1A1A !important;
 }
 
-.search__toggle:hover,
-.search__toggle:focus {
-  color: #8B1A1A !important;
-  transform: none !important;
-}
-
 // ============================================================================
 // Button Styling
 // ============================================================================
@@ -220,25 +214,16 @@ button {
   background-color: #8B1A1A;
   color: white;
   border-color: #8B1A1A;
-
-  &:hover {
-    background-color: #8B1A1A;
-    border-color: #8B1A1A;
-  }
 }
 
 // ============================================================================
-// Nav Link Hover State
+// Nav Link Hover State (top nav only)
 // ============================================================================
 
-.greedy-nav a {
-  &:hover {
-    color: #8B1A1A;
-  }
+.greedy-nav a:hover {
+  color: #8B1A1A !important;
 }
 
-.site-nav a {
-  &:hover {
-    color: #8B1A1A;
-  }
+.site-nav a:hover {
+  color: #8B1A1A !important;
 }
