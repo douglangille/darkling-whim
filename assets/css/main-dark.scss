@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .masthead {
-  background: #0D0D0F;
+  background: #0D0D0F !important;
   border-bottom-color: #333333;
 }
 
@@ -123,4 +123,13 @@ hr {
 
 .search__result .search__result__title {
   color: #EDE8DF;
+}
+
+// Search icon colour
+.search__toggle {
+  color: #8B1A1A;
+}
+
+.search-content__close {
+  color: #8B1A1A;
 }
