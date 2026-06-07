@@ -52,6 +52,12 @@ blockquote {
 
 .search__toggle {
   color: #8B1A1A !important;
+  transition: none !important;
+
+  &:hover {
+    transform: none !important;
+    transition: none !important;
+  }
 }
 
 .search__toggle i {
