@@ -4,90 +4,31 @@
 
 @charset "utf-8";
 
+// ============================================================================
+// Darkling Whim Variables — Set BEFORE skin import to override defaults
+// ============================================================================
+
+// Light mode colours
+$background-color: #FFFFFF !default;
+$text-color: #1A1A1A !default;
+$muted-text-color: #666666 !default;
+$border-color: #E5E5E0 !default;
+$masthead-link-color: #8B1A1A !default;
+$masthead-link-color-hover: #8B1A1A !default;
+$link-color: #8B1A1A !default;
+$link-color-visited: #8B1A1A !default;
+$link-color-hover: #8B1A1A !default;
+$code-background-color: #F5F5F0 !default;
+$code-text-color: #1A1A1A !default;
+
+// Typography
 $serif: "Libre Baskerville", Georgia, Times, serif !default;
 $sans-serif: "Archivo", -apple-system, sans-serif !default;
 $global-font-family: $serif;
 
+// Now import the skin (which will use our variables)
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
-
-// ============================================================================
-// Darkling Whim Colour Overrides (Light Mode)
-// ============================================================================
-
-body {
-  background-color: #FFFFFF;
-  color: #1A1A1A;
-}
-
-a {
-  color: #8B1A1A;
-
-  &:visited {
-    color: #8B1A1A;
-  }
-
-  &:hover {
-    color: #8B1A1A;
-  }
-}
-
-// Navigation links — ensure they're crimson
-.greedy-nav a {
-  color: #8B1A1A !important;
-}
-
-.greedy-nav a:visited {
-  color: #8B1A1A !important;
-}
-
-.greedy-nav a:hover {
-  color: #8B1A1A !important;
-}
-
-.site-nav a {
-  color: #8B1A1A !important;
-}
-
-.site-nav a:visited {
-  color: #8B1A1A !important;
-}
-
-.site-nav a:hover {
-  color: #8B1A1A !important;
-}
-
-.page__meta {
-  color: #666666;
-}
-
-.masthead {
-  background: #FFFFFF;
-  border-bottom: 1px solid #E5E5E0;
-}
-
-.masthead__menu {
-  background: #FFFFFF;
-}
-
-.page__footer {
-  border-top: 1px solid #E5E5E0;
-  color: #666666;
-}
-
-code {
-  background-color: #F5F5F0;
-  color: #1A1A1A;
-}
-
-.results > :first-child {
-  border-bottom-color: #E5E5E0;
-}
-
-.results p,
-.results .excerpt {
-  color: #1A1A1A;
-}
 
 // ============================================================================
 // Typography
@@ -231,19 +172,6 @@ img {
   line-height: 1.4;
 }
 
-// Search icon colour
-.search__toggle {
-  color: #8B1A1A !important;
-}
-
-.search__toggle i {
-  color: #8B1A1A !important;
-}
-
-.search-content__close {
-  color: #8B1A1A !important;
-}
-
 // ============================================================================
 // Code Blocks
 // ============================================================================
@@ -255,4 +183,20 @@ code {
   white-space: pre-wrap !important;
   word-break: break-word !important;
   overflow-x: auto;
+}
+
+// ============================================================================
+// Search Icon
+// ============================================================================
+
+.search__toggle {
+  color: #8B1A1A !important;
+}
+
+.search__toggle i {
+  color: #8B1A1A !important;
+}
+
+.fas.fa-search {
+  color: #8B1A1A !important;
 }

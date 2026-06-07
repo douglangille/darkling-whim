@@ -3,77 +3,33 @@
 
 @charset "utf-8";
 
+// ============================================================================
+// Darkling Whim Variables — Set BEFORE skin import to override defaults
+// ============================================================================
+
+// Dark mode colours
+$background-color: #0D0D0F !default;
+$text-color: #EDE8DF !default;
+$muted-text-color: #7A7870 !default;
+$border-color: #333333 !default;
+$masthead-link-color: #8B1A1A !default;
+$masthead-link-color-hover: #8B1A1A !default;
+$link-color: #8B1A1A !default;
+$link-color-visited: #8B1A1A !default;
+$link-color-hover: #8B1A1A !default;
+$code-background-color: #141420 !default;
+$code-text-color: #EDE8DF !default;
+
+// Now import the dark skin (which will use our variables)
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
 // ============================================================================
-// Darkling Whim Colour Overrides (Dark Mode)
+// Additional Dark Mode Overrides (if needed after imports)
 // ============================================================================
 
 body {
   background-color: #0D0D0F;
-  color: #EDE8DF;
-}
-
-a {
-  color: #8B1A1A;
-
-  &:visited {
-    color: #8B1A1A;
-  }
-
-  &:hover {
-    color: #8B1A1A;
-  }
-}
-
-// Navigation links — ensure they're crimson, not white
-.greedy-nav a {
-  color: #8B1A1A !important;
-}
-
-.greedy-nav a:visited {
-  color: #8B1A1A !important;
-}
-
-.greedy-nav a:hover {
-  color: #8B1A1A !important;
-}
-
-.site-nav a {
-  color: #8B1A1A !important;
-}
-
-.site-nav a:visited {
-  color: #8B1A1A !important;
-}
-
-.site-nav a:hover {
-  color: #8B1A1A !important;
-}
-
-p {
-  color: #EDE8DF;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #EDE8DF;
-}
-
-.page__meta {
-  color: #7A7870;
-}
-
-.masthead {
-  background: #0D0D0F !important;
-  border-bottom-color: #333333;
-}
-
-.masthead__menu {
-  background: #0D0D0F !important;
-}
-
-.site-nav__toggle {
   color: #EDE8DF;
 }
 
@@ -82,79 +38,14 @@ h1, h2, h3, h4, h5, h6 {
   color: #7A7870;
 }
 
-code {
-  background-color: #141420;
-  color: #EDE8DF;
-}
-
-.highlighter-rouge {
-  background-color: #1a1a1d;
-  border-color: #333333;
-}
-
 blockquote {
   border-left-color: #8B1A1A;
-  color: #EDE8DF;
 }
 
-.btn {
-  background-color: transparent;
-  border-color: #8B1A1A;
-  color: #8B1A1A;
+// ============================================================================
+// Search Icon
+// ============================================================================
 
-  &:hover {
-    background-color: #8B1A1A;
-    color: white;
-  }
-}
-
-input,
-textarea,
-select {
-  background-color: #141420;
-  border-color: #333333;
-  color: #EDE8DF;
-
-  &:focus {
-    border-color: #8B1A1A;
-  }
-}
-
-table {
-  background-color: #141420;
-  border-color: #333333;
-}
-
-th {
-  background-color: #1a1a1d;
-  color: #EDE8DF;
-}
-
-td {
-  border-color: #333333;
-  color: #EDE8DF;
-}
-
-hr {
-  background-color: #333333;
-  border-color: #333333;
-}
-
-// Search results overrides
-.results > :first-child {
-  border-bottom-color: #333333;
-}
-
-.results p,
-.results .excerpt {
-  color: #EDE8DF;
-}
-
-.search__result .search__result__title {
-  color: #EDE8DF;
-}
-
-// Search icon colour
 .search__toggle {
   color: #8B1A1A !important;
 }
@@ -163,11 +54,6 @@ hr {
   color: #8B1A1A !important;
 }
 
-.search-content__close {
-  color: #8B1A1A !important;
-}
-
-// Also target FontAwesome icon directly
 .fas.fa-search {
   color: #8B1A1A !important;
 }
