@@ -6,7 +6,121 @@
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
-/* Override hardcoded light colors from main.scss that aren't caught by MM skin variables */
-.results > :first-child { border-bottom-color: #444; }
+// ============================================================================
+// Darkling Whim Colour Overrides (Dark Mode)
+// ============================================================================
+
+body {
+  background-color: #0D0D0F;
+  color: #EDE8DF;
+}
+
+a {
+  color: #8B1A1A;
+
+  &:visited {
+    color: #8B1A1A;
+  }
+
+  &:hover {
+    color: #8B1A1A;
+  }
+}
+
+p {
+  color: #EDE8DF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #EDE8DF;
+}
+
+.page__meta {
+  color: #7A7870;
+}
+
+.masthead {
+  background: transparent;
+  border-bottom-color: #333333;
+}
+
+.site-nav__toggle {
+  color: #EDE8DF;
+}
+
+.page__footer {
+  border-top-color: #333333;
+  color: #7A7870;
+}
+
+code {
+  background-color: #141420;
+  color: #EDE8DF;
+}
+
+.highlighter-rouge {
+  background-color: #1a1a1d;
+  border-color: #333333;
+}
+
+blockquote {
+  border-left-color: #8B1A1A;
+  color: #EDE8DF;
+}
+
+.btn {
+  background-color: transparent;
+  border-color: #8B1A1A;
+  color: #8B1A1A;
+
+  &:hover {
+    background-color: #8B1A1A;
+    color: white;
+  }
+}
+
+input,
+textarea,
+select {
+  background-color: #141420;
+  border-color: #333333;
+  color: #EDE8DF;
+
+  &:focus {
+    border-color: #8B1A1A;
+  }
+}
+
+table {
+  background-color: #141420;
+  border-color: #333333;
+}
+
+th {
+  background-color: #1a1a1d;
+  color: #EDE8DF;
+}
+
+td {
+  border-color: #333333;
+  color: #EDE8DF;
+}
+
+hr {
+  background-color: #333333;
+  border-color: #333333;
+}
+
+// Search results overrides
+.results > :first-child {
+  border-bottom-color: #333333;
+}
+
 .results p,
-.results .excerpt { color: #bbb; }
+.results .excerpt {
+  color: #EDE8DF;
+}
+
+.search__result .search__result__title {
+  color: #EDE8DF;
+}
