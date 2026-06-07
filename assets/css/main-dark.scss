@@ -27,6 +27,31 @@ a {
   }
 }
 
+// Navigation links — ensure they're crimson, not white
+.greedy-nav a {
+  color: #8B1A1A !important;
+}
+
+.greedy-nav a:visited {
+  color: #8B1A1A !important;
+}
+
+.greedy-nav a:hover {
+  color: #8B1A1A !important;
+}
+
+.site-nav a {
+  color: #8B1A1A !important;
+}
+
+.site-nav a:visited {
+  color: #8B1A1A !important;
+}
+
+.site-nav a:hover {
+  color: #8B1A1A !important;
+}
+
 p {
   color: #EDE8DF;
 }
@@ -42,6 +67,10 @@ h1, h2, h3, h4, h5, h6 {
 .masthead {
   background: #0D0D0F !important;
   border-bottom-color: #333333;
+}
+
+.masthead__menu {
+  background: #0D0D0F !important;
 }
 
 .site-nav__toggle {
@@ -127,9 +156,18 @@ hr {
 
 // Search icon colour
 .search__toggle {
-  color: #8B1A1A;
+  color: #8B1A1A !important;
+}
+
+.search__toggle i {
+  color: #8B1A1A !important;
 }
 
 .search-content__close {
-  color: #8B1A1A;
+  color: #8B1A1A !important;
+}
+
+// Also target FontAwesome icon directly
+.fas.fa-search {
+  color: #8B1A1A !important;
 }

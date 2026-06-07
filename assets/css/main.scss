@@ -32,6 +32,31 @@ a {
   }
 }
 
+// Navigation links — ensure they're crimson
+.greedy-nav a {
+  color: #8B1A1A !important;
+}
+
+.greedy-nav a:visited {
+  color: #8B1A1A !important;
+}
+
+.greedy-nav a:hover {
+  color: #8B1A1A !important;
+}
+
+.site-nav a {
+  color: #8B1A1A !important;
+}
+
+.site-nav a:visited {
+  color: #8B1A1A !important;
+}
+
+.site-nav a:hover {
+  color: #8B1A1A !important;
+}
+
 .page__meta {
   color: #666666;
 }
@@ -39,6 +64,10 @@ a {
 .masthead {
   background: #FFFFFF;
   border-bottom: 1px solid #E5E5E0;
+}
+
+.masthead__menu {
+  background: #FFFFFF;
 }
 
 .page__footer {
@@ -204,11 +233,15 @@ img {
 
 // Search icon colour
 .search__toggle {
-  color: #8B1A1A;
+  color: #8B1A1A !important;
+}
+
+.search__toggle i {
+  color: #8B1A1A !important;
 }
 
 .search-content__close {
-  color: #8B1A1A;
+  color: #8B1A1A !important;
 }
 
 // ============================================================================
