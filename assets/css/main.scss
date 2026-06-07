@@ -13,6 +13,7 @@ $background-color: #FFFFFF !default;
 $text-color: #1A1A1A !default;
 $muted-text-color: #666666 !default;
 $border-color: #E5E5E0 !default;
+$primary-color: #8B1A1A !default;
 $masthead-link-color: #8B1A1A !default;
 $masthead-link-color-hover: #8B1A1A !default;
 $link-color: #8B1A1A !default;
@@ -20,6 +21,9 @@ $link-color-visited: #8B1A1A !default;
 $link-color-hover: #8B1A1A !default;
 $code-background-color: #F5F5F0 !default;
 $code-text-color: #1A1A1A !default;
+$button-color: #8B1A1A !default;
+$button-color-hover: #8B1A1A !default;
+$button-border-color: #8B1A1A !default;
 
 // Typography
 $serif: "Libre Baskerville", Georgia, Times, serif !default;
@@ -199,4 +203,36 @@ code {
 
 .fas.fa-search {
   color: #8B1A1A !important;
+}
+
+// ============================================================================
+// Button Styling
+// ============================================================================
+
+.btn,
+button {
+  background-color: #8B1A1A;
+  color: white;
+  border-color: #8B1A1A;
+
+  &:hover {
+    background-color: #8B1A1A;
+    border-color: #8B1A1A;
+  }
+}
+
+// ============================================================================
+// Nav Link Hover State
+// ============================================================================
+
+.greedy-nav a {
+  &:hover {
+    color: #8B1A1A;
+  }
+}
+
+.site-nav a {
+  &:hover {
+    color: #8B1A1A;
+  }
 }

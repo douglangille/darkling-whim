@@ -12,6 +12,7 @@ $background-color: #0D0D0F !default;
 $text-color: #EDE8DF !default;
 $muted-text-color: #7A7870 !default;
 $border-color: #333333 !default;
+$primary-color: #8B1A1A !default;
 $masthead-link-color: #8B1A1A !default;
 $masthead-link-color-hover: #8B1A1A !default;
 $link-color: #8B1A1A !default;
@@ -19,6 +20,9 @@ $link-color-visited: #8B1A1A !default;
 $link-color-hover: #8B1A1A !default;
 $code-background-color: #141420 !default;
 $code-text-color: #EDE8DF !default;
+$button-color: #8B1A1A !default;
+$button-color-hover: #8B1A1A !default;
+$button-border-color: #8B1A1A !default;
 
 // Now import the dark skin (which will use our variables)
 @import "minimal-mistakes/skins/dark";
@@ -56,4 +60,36 @@ blockquote {
 
 .fas.fa-search {
   color: #8B1A1A !important;
+}
+
+// ============================================================================
+// Button Styling
+// ============================================================================
+
+.btn,
+button {
+  background-color: #8B1A1A;
+  color: white;
+  border-color: #8B1A1A;
+
+  &:hover {
+    background-color: #8B1A1A;
+    border-color: #8B1A1A;
+  }
+}
+
+// ============================================================================
+// Nav Link Hover State
+// ============================================================================
+
+.greedy-nav a {
+  &:hover {
+    color: #8B1A1A;
+  }
+}
+
+.site-nav a {
+  &:hover {
+    color: #8B1A1A;
+  }
 }
