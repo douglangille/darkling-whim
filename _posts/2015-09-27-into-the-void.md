@@ -6,11 +6,12 @@ header:
   teaser: /assets/images/into-the-void/6336363394_213bd59a9b_b.jpg
   overlay_image: /assets/images/into-the-void/6336363394_213bd59a9b_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - tension
 feature: /assets/images/into-the-void/6336363394_213bd59a9b_b.jpg
+feature_y: 50.0%
 ---
 
 # Into the Void
