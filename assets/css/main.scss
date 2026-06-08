@@ -182,6 +182,11 @@ code {
 
 .search__toggle,
 .search__toggle i {
+  color: #1A1A1A !important;
+}
+
+.search__toggle:hover,
+.search__toggle:hover i {
   color: #8B1A1A !important;
 }
 
@@ -227,6 +232,22 @@ button {
 
 .list__item {
   background-color: transparent !important;
+}
+
+// ============================================================================
+// Taxonomy/Sidebar Link Hover State
+// ============================================================================
+
+// Category, tag, and taxonomy links in sidebar — charcoal default, crimson on hover
+.taxonomy__index a,
+.sidebar a {
+  color: #1A1A1A !important;
+  text-decoration: none;
+}
+
+.taxonomy__index a:hover,
+.sidebar a:hover {
+  color: #8B1A1A !important;
 }
 
 // ============================================================================
