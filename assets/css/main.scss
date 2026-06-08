@@ -197,6 +197,39 @@ button {
 }
 
 // ============================================================================
+// Archive Item Styling — Spec Compliance
+// ============================================================================
+
+// Archive item titles — text colour by default, crimson on hover only
+.archive__item h2,
+.archive__item-title {
+  color: #1A1A1A !important;
+}
+
+.archive__item h2 a,
+.archive__item-title a {
+  color: #1A1A1A !important;
+  text-decoration: none;
+}
+
+.archive__item h2 a:hover,
+.archive__item-title a:hover {
+  color: #8B1A1A !important;
+}
+
+// Remove card backgrounds — images and text float on page background
+.archive__item {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+.list__item {
+  background-color: transparent !important;
+}
+
+// ============================================================================
 // Nav Link Hover State (top nav only)
 // ============================================================================
 
