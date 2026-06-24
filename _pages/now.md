@@ -7,7 +7,7 @@ redirect_from:
   - /home/
 ---
 
-*What I'm actively working on as of January 2026.*
+*What I'm actively working on as of June 2026.*
 
 ## Current Writing
 
@@ -16,10 +16,10 @@ redirect_from:
 - Mix of new drafts and revised older works getting fresh attention
 - Using this as consistent creative practice and skill-building
 
-**The Haley-verse Expansion**
-- Continuing the interconnected story universe
-- Developing new stories featuring Haley Madigan and related characters
-- Exploring cosmic horror and dark fantasy themes across multiple narratives
+**Novels in Progress**
+- Noir/ghost story set in Halifax.
+- Vampires VS Faeries in SPAAACE!
+- Zombie-fightin' character study.
 
 ## Active Reading
 
@@ -34,7 +34,5 @@ Deep into three very different archives for craft study:
 Documenting AI integration experiments for creative workflows at [Digital Doug](https://digital.douglangille.ca). Exploring tools and techniques while maintaining the human spark in the creative process.
 
 ---
-
-*Updated: January 2026*
 
 For bio, writing philosophy, and contact info, see [About](/about/).
