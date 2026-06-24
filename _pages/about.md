@@ -10,8 +10,6 @@ Doug Langille writes dark speculative fiction with teeth.
 
 Stories at the intersection of cosmic horror, dark fantasy, and psychological unease. Flash fiction serves as the creative workout—short, sharp pieces exploring character under pressure, worlds slightly off-kilter, and the strange made stranger.
 
-Published works span multiple genres and formats, including an interconnected story universe (the "Haley-verse") exploring cosmic zombie horror, power dynamics, and survival at the edges.
-
 ## The Approach
 
 Stories are built through collaboration between human vision and AI assistance. I design the structure, generate the creative direction, and own every word through extensive voice revision. AI handles mechanical drafting based on my story bibles and frameworks, then I tear through it, making it mine.
