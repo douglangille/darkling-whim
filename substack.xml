@@ -6,7 +6,9 @@ permalink: /substack.xml
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>{{ site.title | xml_escape }}</title>
-<description>{{ site.description | xml_escape }}</description>
+{% assign parts = body_html | split: '</p>' %}
+    {% assign canonical_html = '<blockquote><em>Originally published at <a href="' | append: post_url | append: '">Darkling Whim</a>.</em></blockquote>' %}
+<description><![CDATA[{% if feature_url %}<img src="{{ feature_url }}" alt="{{ post.title }}" style="max-width:100%; margin-bottom:1em;">{% endif %}{{ parts[0] }}</p>{{ parts[1] }}</p>{{ canonical_html }}{% for part in parts %}{% if forloop.index0 >= 2 %}{{ part }}{% unless forloop.last %}</p>{% endunless %}{% endif %}{% endfor %}]]></description>
 <link>{{ "/" | absolute_url }}</link>
 <atom:link href="{{ "/substack.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
 <language>{{ site.lang | default: "en-US" }}</language>
