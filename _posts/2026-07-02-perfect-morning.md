@@ -20,7 +20,7 @@ They always go first.
 
 The air hits him, rain-washed, iron-green, the smell of wet soil and something vegetable underneath. The yard is saturated, every surface beaded. His boots find the flagstone path and the stone is slick under the tread. He watches where he puts his feet.
 
-The chickens are already working the run. Three of them, then four, moving in that purposeful, tilted way: heads forward, weight shifting, absolute commitment to the next six inches of ground. The ladies. He opens the coop latch, cold metal, a little grit from the rain, and checks the boxes. Four eggs. He cups them, one then two then three then four, warm against his palm, and carries them inside, the dogs circling his heels.
+The chickens are already working the run. Three of them, then four, moving in that purposeful, tilted way: heads forward, weight shifting, absolute commitment to the next six inches of ground. *Hello ladies.* He opens the coop latch, cold metal, a little grit from the rain, and checks the boxes. Four eggs. He cups them, one then two then three then four, warm against his palm, and carries them inside, the dogs circling his heels.
 
 He sets them in the bowl on the counter. Goes back out.
 
