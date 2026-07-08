@@ -7,10 +7,7 @@ header:
   teaser: /assets/images/a-close-call/4597461278_a5c993ccc1_b.jpg
   overlay_image: /assets/images/a-close-call/4597461278_a5c993ccc1_b.jpg
 categories: []
-tags: 
-  - grounded
-  - kith-kin
-  - tension
+tags: [grounded, kith-kin, tension]
 feature: /assets/images/a-close-call/4597461278_a5c993ccc1_b.jpg
 ---
 

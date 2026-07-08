@@ -6,10 +6,7 @@ header:
   teaser: /assets/images/father-time-versus-the-time-demons/20141022_003057000_iOS.jpg
   overlay_image: /assets/images/father-time-versus-the-time-demons/20141022_003057000_iOS.jpg
 categories: []
-tags: 
-  - speculative
-  - solitude
-  - tension
+tags: [speculative, solitude, tension]
 feature: /assets/images/father-time-versus-the-time-demons/20141022_003057000_iOS.jpg
 ---
 

@@ -6,10 +6,7 @@ header:
   teaser: /assets/images/scare-tactics/8117718787_218466fc67_ghost-sheet.jpg
   overlay_image: /assets/images/scare-tactics/8117718787_218466fc67_ghost-sheet.jpg
 categories: []
-tags: 
-  - speculative
-  - intimacy
-  - wit
+tags: [speculative, intimacy, wit]
 feature: /assets/images/scare-tactics/8117718787_218466fc67_ghost-sheet.jpg
 ---
 
