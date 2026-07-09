@@ -7,10 +7,7 @@ header:
   teaser: /assets/images/martin-makes-his-stand/3840887124_0908c40ecf_blueberry-rake.jpg
   overlay_image: /assets/images/martin-makes-his-stand/3840887124_0908c40ecf_blueberry-rake.jpg
 categories: []
-tags: 
-  - grounded
-  - solitude
-  - wit
+tags: [grounded, solitude, wit]
 feature: /assets/images/martin-makes-his-stand/3840887124_0908c40ecf_blueberry-rake.jpg
 ---
 
