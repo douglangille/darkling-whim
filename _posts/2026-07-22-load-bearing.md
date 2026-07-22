@@ -1,5 +1,5 @@
 ---
-title: 2026-07-22-load-bearing
+title: Load-bearing
 date: 2026-07-22
 excerpt: I choose them both.
 header:
@@ -9,7 +9,7 @@ feature: /assets/images/load-bearing/feature.png
 tags: [speculative, intimacy, melancholy, stacey]
 ---
 
-# 2026-07-22-load-bearing
+# Load-bearing
 
 Ninety seconds, if I don't rush it. I don't rush it.
 
