@@ -6,10 +6,7 @@ header:
   teaser: /assets/images/thoughtful-magic/1deb57f5e4789aa4_1280_mask.jpg
   overlay_image: /assets/images/thoughtful-magic/1deb57f5e4789aa4_1280_mask.jpg
 categories: []
-tags:
-  - speculative
-  - intimacy
-  - wit
+tags: [speculative, intimacy, wit]
 feature: /assets/images/thoughtful-magic/1deb57f5e4789aa4_1280_mask.jpg
 ---
 
