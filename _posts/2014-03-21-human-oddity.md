@@ -6,10 +6,7 @@ header:
   teaser: /assets/images/human-oddity/3515903269_4ef595b1e7_alien-human.jpg
   overlay_image: /assets/images/human-oddity/3515903269_4ef595b1e7_alien-human.jpg
 categories: []
-tags: 
-  - speculative
-  - solitude
-  - wit
+tags: [speculative, solitude, wit]
 feature: /assets/images/human-oddity/3515903269_4ef595b1e7_alien-human.jpg
 ---
 

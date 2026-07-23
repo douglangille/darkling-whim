@@ -6,10 +6,7 @@ header:
   teaser: /assets/images/judgement-dogs/door-689874_1280.jpg
   overlay_image: /assets/images/judgement-dogs/door-689874_1280.jpg
 categories: []
-tags: 
-  - speculative
-  - kith-kin
-  - wit
+tags: [speculative, kith-kin, wit]
 feature: /assets/images/judgement-dogs/door-689874_1280.jpg
 ---
 

@@ -7,10 +7,7 @@ header:
   teaser: /assets/images/daveys-boat/7c12253e0cafcd77_640_rain-street.jpg
   overlay_image: /assets/images/daveys-boat/7c12253e0cafcd77_640_rain-street.jpg
 categories: []
-tags: 
-  - dark
-  - solitude
-  - tension
+tags: [dark, solitude, tension]
 feature: /assets/images/daveys-boat/7c12253e0cafcd77_640_rain-street.jpg
 ---
 
