@@ -6,10 +6,7 @@ header:
   overlay_image: /assets/images/the-writer/8226570181_e9e2fde4fd_writer.jpg
   teaser: /assets/images/the-writer/8226570181_e9e2fde4fd_writer.jpg
 categories: []
-tags: 
-  - grounded
-  - kith-kin
-  - wit
+tags: [grounded, kith-kin, wit]
 excerpt: Doug leans back in his Lazyboy and stretches his arms over his head with
   laced fingers.
 feature: /assets/images/the-writer/8226570181_e9e2fde4fd_writer.jpg

@@ -6,11 +6,7 @@ header:
   teaser: /assets/images/haley-on-a-plane/10632832054_b9b2130677_b.jpg
   overlay_image: /assets/images/haley-on-a-plane/10632832054_b9b2130677_b.jpg
 categories: []
-tags: 
-  - speculative
-  - kith-kin
-  - tension
-  - haley
+tags: [speculative, kith-kin, tension, haley]
 feature: /assets/images/haley-on-a-plane/10632832054_b9b2130677_b.jpg
 ---
 

@@ -6,11 +6,7 @@ header:
   teaser: /assets/images/strange-love/2535792133_23d929a8a7_b.jpg
   overlay_image: /assets/images/strange-love/2535792133_23d929a8a7_b.jpg
 categories: []
-tags: 
-  - grounded
-  - intimacy
-  - wit
-  - poetry
+tags: [grounded, intimacy, wit, poetry]
 feature: /assets/images/strange-love/2535792133_23d929a8a7_b.jpg
 ---
 
