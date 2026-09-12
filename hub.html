@@ -19,15 +19,32 @@ title: Doug Langille
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script data-goatcounter="https://darklingwhim.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 <style>
   :root {
-    --bg: #1B1F2B;
-    --paper: #ECE4D3;
-    --ink: #F4EFE3;
-    --muted: #9B9788;
-    --tech: #6E9C96;
-    --fiction: #A4636F;
-    --signature: #B08D57;
+    /* Light (default) — same "ink and paper" logic as the rest of the site:
+       bg/text below are literally the dark mode's text/bg colors swapped. */
+    --bg: #F4EFE3;
+    --paper: #1B1F2B;
+    --ink: #12141C;
+    --muted: #6B6558;
+    --tech: #2F6862;
+    --fiction: #8A4A55;
+    --signature: #7C6035;
+    --divider-rgb: 27, 31, 43;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1B1F2B;
+      --paper: #ECE4D3;
+      --ink: #F4EFE3;
+      --muted: #9B9788;
+      --tech: #6E9C96;
+      --fiction: #A4636F;
+      --signature: #B08D57;
+      --divider-rgb: 236, 228, 211;
+    }
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
@@ -40,7 +57,7 @@ title: Doug Langille
     justify-content: center;
     padding: 3rem 1.5rem;
   }
-  .wrap { max-width: 540px; width: 100%; }
+  .wrap { max-width: 510px; width: 100%; }
 
   .header {
     display: flex;
@@ -82,14 +99,14 @@ title: Doug Langille
   .links { margin-bottom: 2rem; }
   .link-row {
     display: flex;
-    align-items: baseline;
-    gap: 0.9rem;
+    align-items: center;
+    gap: 1.1rem;
     padding: 0.85rem 0;
     text-decoration: none;
-    border-bottom: 1px solid rgba(236, 228, 211, 0.1);
+    border-bottom: 1px solid rgba(var(--divider-rgb), 0.12);
   }
   .link-row:last-child { border-bottom: none; }
-  .link-row svg { flex-shrink: 0; width: 18px; height: 18px; margin-top: 0.15rem; }
+  .link-row svg { flex-shrink: 0; width: 32px; height: 32px; }
   .link-row .digital-icon { stroke: var(--tech); }
   .link-row .fiction-icon { stroke: var(--fiction); }
   .link-title {
@@ -123,7 +140,7 @@ title: Doug Langille
     text-decoration: none;
     padding: 0 0.5rem;
   }
-  .contact a:first-child { padding-left: 0; border-left: none; }
+  .contact a:first-child { padding-left: 0; }
   .contact a:hover { color: var(--ink); }
   .copyright { color: var(--muted); }
   
@@ -144,17 +161,17 @@ title: Doug Langille
     </div>
 
     <div class="intro">
-      <p>Leading digital innovation at Nova Scotia Community College since 1999.</p>
+      <p>Leading digital innovation at NSCC since&nbsp;1999.</p>
       <p>Solving real problems by day. Inventing worse ones by night.</p>
     </div>
     
-    <svg class="seam" viewBox="0 0 560 30" preserveAspectRatio="none">
+    <svg class="seam" viewBox="0 0 560 30" preserveAspectRatio="none" aria-hidden="true">
       <path d="M0,15 L28,15 L28,5 L52,5 L52,23 L76,23 L76,11 L100,11 L100,17 L114,17 L124,7 L138,22 L149,12 L163,25 L176,6 L191,19 L206,9 L228,26 L241,4 L259,20 L268,11 L284,23 L299,15 L322,4 L336,21 L358,10 L367,24 L389,13 L406,3 L419,19 L438,9 L461,22 L470,6 L489,17 L522,25 L560,14" />
     </svg>
     
     <div class="links">
       <a class="link-row" href="https://digital.douglangille.ca">
-        <svg class="digital-icon" viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <svg class="digital-icon" viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <rect x="8" y="8" width="8" height="8"></rect>
           <path d="M12 2v4M12 18v4M2 12h4M18 12h4M5 5l3 3M16 16l3 3M19 5l-3 3M8 16l-3 3"></path>
         </svg>
@@ -164,8 +181,9 @@ title: Doug Langille
         </div>
       </a>
       <a class="link-row" href="https://douglangille.ca">
-        <svg class="fiction-icon" viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M4 20c2-6 1-10 4-14 2 4-1 8 2 12 2-4 0-7 3-10 1 5-1 8 2 12"></path>
+        <svg class="fiction-icon" viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M12 6c-2-2-5-2-8-1v13c3-1 6-1 8 1 2-2 5-2 8-1V5c-3-1-6-1-8 1z"></path>
+          <path d="M12 6v13"></path>
         </svg>
         <div>
           <span class="link-title">Darkling Whim</span>

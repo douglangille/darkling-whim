@@ -13,11 +13,11 @@ Internal reference page — not linked in nav. Exists to exercise every color to
 
 ## Typography
 
-# Heading 1 — Archivo 800
-## Heading 2 — Archivo 800
-### Heading 3 — Archivo 800
+# Heading 1 — Special Elite
+## Heading 2 — Special Elite
+### Heading 3 — Special Elite
 
-Body copy is Libre Baskerville, 1.125rem, 1.7 line-height. This paragraph exists to check that the serif body font, text color, and line spacing all read correctly against the background in both modes. It should feel literary and readable, not the flat gray of a system sans stack.
+Body copy is Cutive, 1rem, 1.75 line-height, with letter/word-spacing opened up to counter Cutive's naturally tight default set. This paragraph exists to check that the body font, text color, line spacing, and letter/word-spacing all read correctly against the background in both modes — it should feel like open, readable prose, not a jammed-together block or the flat gray of a system sans stack.
 
 Here's a [default link](#), a [visited-style link](#) for comparison, and inline `code, styled as monospace`.
 
