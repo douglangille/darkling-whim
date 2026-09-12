@@ -7,7 +7,7 @@ redirect_from:
   - /home/
 ---
 
-*What I'm actively working on as of June 2026.*
+*What I'm actively working on as of September 2026.*
 
 ## Current Writing
 
@@ -20,6 +20,8 @@ redirect_from:
 - Noir/ghost story set in Halifax.
 - Vampires VS Faeries in SPAAACE!
 - Zombie-fightin' character study.
+
+**Also growing right now**: a longer-form world slowly taking shape out of one of the flash universes — smaller pieces for now, but it's seeing more active movement than the novels above at the moment.
 
 ## Active Reading
 

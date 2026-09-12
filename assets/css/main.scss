@@ -4,47 +4,249 @@
 @charset "utf-8";
 
 // ============================================================================
-// Darkling Whim Variables — Set BEFORE skin import to override defaults
+// Color tokens: one compiled stylesheet, real CSS custom properties,
+// OS-driven light/dark via prefers-color-scheme. No second stylesheet,
+// no build-time skin switch.
+//
+// WHY THIS FILE IS SHAPED THE WAY IT IS:
+// Minimal Mistakes' own partials call Sass color functions (mix(), a YIQ
+// contrast function) directly on $primary-color, $border-color, etc. at
+// COMPILE TIME. Those functions need literal color values — they cannot
+// operate on var(--token) references, so pointing the theme's own Sass
+// variables at custom properties breaks the theme's build for every
+// selector that derives a shade this way.
+//
+// So the fix has two halves:
+//   1. Plain-assignment variables (background/text/border/links/masthead)
+//      ARE pointed at var(--token) below — the partials that consume them
+//      only ever do plain `color: $variable;` with no derivation, so this
+//      works and is the real single-source-of-truth fix for most of the
+//      site.
+//   2. Selectors the theme derives via mix()/YIQ at compile time are left
+//      on the theme's literal (light-mode) output, then explicitly
+//      overridden below with hand-computed light+dark values as their own
+//      named custom properties. Documented inline with the source formula
+//      so a future edit to a base token can recompute them correctly
+//      instead of silently drifting.
 // ============================================================================
 
-$background-color: #FFFFFF !default;
-$text-color: #1A1A1A !default;
-$muted-text-color: #666666 !default;
-$border-color: #E5E5E0 !default;
-$primary-color: #8B1A1A !default;
-$masthead-link-color: #1A1A1A !default;
-$masthead-link-color-hover: #8B1A1A !default;
-$link-color: #8B1A1A !default;
-$link-color-visited: #8B1A1A !default;
-$link-color-hover: #8B1A1A !default;
-$code-background-color: #F5F5F0 !default;
-$code-text-color: #1A1A1A !default;
+:root {
+  // --- directly-substitutable tokens (safe as var() everywhere) ---
+  --background-color: #FFFFFF;
+  --text-color: #1A1A1A;
+  --muted-text-color: #666666;
+  --border-color: #E5E5E0;
+  --primary-color: #8B1A1A; // reserved for FILLS (button backgrounds) — never used as foreground text, see --accent-text-color
+  --masthead-link-color: #1A1A1A;
+  --code-background-color: #F5F5F0;
+  --code-text-color: #1A1A1A; // orphaned — the theme never actually consumes this variable, kept for continuity
 
-$serif: "Libre Baskerville", Georgia, Times, serif !default;
-$sans-serif: "Archivo", -apple-system, sans-serif !default;
+  // --- crimson as foreground text/icon color: same as --primary-color in light mode
+  //     (9.29:1 on white), but a brightened variant in dark mode (see below) since
+  //     base crimson measures only 2.09:1 against the dark background — fails WCAG AA.
+  --accent-text-color: #8B1A1A;
+  --masthead-link-color-hover: var(--accent-text-color);
+  --link-color: var(--accent-text-color);
+  --link-color-hover: var(--accent-text-color);
+  --link-color-visited: var(--accent-text-color);
+
+  // --- hand-derived tokens (compile-time mix() in the theme, recomputed
+  //     manually here using the theme's real formulas) ---
+  --border-color-strong: #ACACA8; // mix(#000, border-color, 25%) — theme's stock formula, correct for a light bg
+  --notice-bg: #E4E6E7; // mix(background-color, #7a8288 (theme's $gray), 80%)
+  --notice-code-bg: #F2F2F3; // mix(background-color, $gray, 90%)
+  // notice link/link-hover/blockquote-border are mix(#000, $gray, %) — independent of
+  // background-color, so identical in both modes; not redeclared under the dark block below.
+  --notice-link: #6E757A; // mix(#000, $gray, 10%)
+  --notice-link-hover: #3D4144; // mix(#000, $gray, 50%)
+  --notice-blockquote-border: #6E757A; // mix(#000, $gray, 10%)
+
+  // Footer/form background: theme default is a fixed $lighter-gray regardless of mode
+  // (mix(#fff, $gray, 90%) — never responded to dark mode at all, even before this file
+  // existed). Rebuilt here using the same mix(background-color, $gray, %) shape already
+  // used for --notice-code-bg above, so it's a real per-mode value instead of a frozen one.
+  --footer-background-color: #F2F2F3;
+  --form-background-color: #F2F2F3;
+
+  // Form focus ring — rgba() can't take a var(--token) hex, so these are computed
+  // per-mode from --text-color/--accent-text-color and stored as their own tokens.
+  --focus-shadow-text: rgba(26, 26, 26, 0.06);
+  --focus-shadow-accent: rgba(139, 26, 26, 0.7);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #0D0D0F;
+    --text-color: #EDE8DF;
+    --muted-text-color: #7A7870;
+    --border-color: #333333;
+    --masthead-link-color: #EDE8DF;
+    --code-background-color: #141420;
+    --code-text-color: #EDE8DF;
+
+    // Brightened crimson (4.91:1 against #0D0D0F) used everywhere crimson appears as
+    // foreground text or an icon fill. --primary-color itself stays base crimson —
+    // it's a background under white text (9.29:1) or a border, not text on the page
+    // background, so it isn't affected by the contrast problem.
+    --accent-text-color: #D85454;
+
+    // Dark-mode border/strong-border LIGHTEN toward white here, not darken toward
+    // black like the theme's stock mix(#000, color, %) formula. Darkening an
+    // already-dark border shrinks its contrast against the near-black page
+    // background instead of growing it (confirmed by computing real contrast:
+    // stock darken formula measures 1.28:1 against #0D0D0F; lightening instead
+    // measures 3.38:1, clearing the 3:1 non-text UI contrast floor).
+    --border-color-strong: #666666; // mix(#fff, border-color, 25%)
+    --notice-bg: #232427;
+    --notice-code-bg: #18191B;
+
+    --footer-background-color: #18191B;
+    --form-background-color: #18191B;
+
+    --focus-shadow-text: rgba(237, 232, 223, 0.06);
+    --focus-shadow-accent: rgba(216, 84, 84, 0.7);
+  }
+}
+
+// Point the theme's plain-assignment variables at literal light-mode hex.
+// (The mix()-dependent selectors are patched separately below — these
+// assignments don't break them since Sass just uses whatever value
+// $primary-color etc. have at THIS compile, which is still the literal
+// light-mode hex the theme needs for its internal math; the var()
+// substitution only matters for the plain `color: $var` cases.)
+$background-color: #FFFFFF;
+$text-color: #1A1A1A;
+$muted-text-color: #666666;
+$border-color: #E5E5E0;
+$primary-color: #8B1A1A;
+$masthead-link-color: #1A1A1A;
+$masthead-link-color-hover: #8B1A1A;
+$link-color: #8B1A1A;
+$link-color-visited: #8B1A1A;
+$link-color-hover: #8B1A1A;
+$code-background-color: #F5F5F0;
+$code-text-color: #1A1A1A;
+
+// $serif carries body copy (reading-length prose); $sans-serif carries everything
+// short/structural (wordmark, nav, tagline, post meta, headings) — names kept as the
+// theme's own variable names, values repointed to the manuscript/typewriter system.
+$serif: "Cutive", Georgia, Times, serif !default;
+$sans-serif: "Special Elite", monospace !default;
 $global-font-family: $serif;
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
+
+// ============================================================================
+// Post-import color overrides: swap the theme's compiled literal colors for
+// var(--token) so every mode-sensitive selector actually responds to
+// prefers-color-scheme. A selector needs to be listed here rather than just
+// working via the $variable: var() reassignment above when either (a) the
+// theme computes it with mix()/YIQ at compile time, or (b) it's a plain
+// `color: $variable` that still compiled to a light-mode literal because
+// $variable itself had to stay a literal hex for (a)'s sake elsewhere.
+// Organized by the theme partial each rule comes from.
+// ============================================================================
+
+// _base.scss
+body { background-color: var(--background-color); color: var(--text-color); }
+blockquote { border-inline-start-color: var(--accent-text-color); }
+a { color: var(--link-color); &:visited { color: var(--link-color-visited); } &:hover { color: var(--link-color-hover); } }
+
+// _masthead.scss / _navigation.scss
+.masthead, .greedy-nav { background-color: var(--background-color); }
+.masthead { border-bottom-color: var(--border-color); }
+.greedy-nav a { color: var(--masthead-link-color); &:hover { color: var(--masthead-link-color-hover); } }
+.pagination li a { color: var(--muted-text-color); border-color: var(--border-color-strong);
+  &:hover { color: var(--link-color-hover); }
+  &.current { color: #FFFFFF; background: var(--primary-color); }
+  &.disabled { color: var(--muted-text-color); opacity: 0.5; } }
+.pagination--pager { color: var(--muted-text-color); border-color: var(--border-color-strong);
+  &.disabled { color: var(--muted-text-color); opacity: 0.5; } }
+
+// _utilities.scss (hamburger icon)
+.navicon { background: var(--accent-text-color);
+  &::before, &::after { background: var(--accent-text-color); } }
+
+// _footer.scss — theme default ($lighter-gray) never responded to dark mode at all;
+// this is a real fix, not a like-for-like port (see DESIGN.md's Color section).
+.page__footer { background-color: var(--footer-background-color); color: var(--muted-text-color);
+  .fas, .fab, .far, .fal { color: var(--muted-text-color); } }
+
+// _forms.scss — same theme-default gap as the footer above.
+label { color: var(--text-color); }
+form { background-color: var(--form-background-color); legend { color: var(--text-color); } }
+input, textarea, select {
+  color: var(--text-color);
+  background-color: var(--background-color);
+  border-color: var(--border-color);
+  &:focus {
+    border-color: var(--accent-text-color);
+    box-shadow: inset 0 1px 3px var(--focus-shadow-text), 0 0 5px var(--focus-shadow-accent);
+  }
+}
+
+// _sidebar.scss (author profile / bio box)
+.author__avatar img { border-color: var(--border-color); }
+.author__urls { border-color: var(--border-color); background: var(--background-color);
+  &::before { border-color: var(--border-color) transparent; }
+  &:after { border-color: var(--background-color) transparent; } }
+
+// _notices.scss (bare `.notice` / `.markdown-alert` — used in _pages/writings.md and
+// several pre-2026 posts; `.notice--primary` is not used anywhere in current content)
+.notice, .markdown-alert {
+  background-color: var(--notice-bg);
+  color: var(--text-color);
+  code { background-color: var(--notice-code-bg); }
+  a { color: var(--notice-link); &:hover { color: var(--notice-link-hover); } }
+}
+blockquote.notice, blockquote.markdown-alert,
+.notice blockquote, .markdown-alert blockquote {
+  border-inline-start-color: var(--notice-blockquote-border);
+}
+
+// _page.scss / _syntax.scss (inline code)
+// .highlight (the <pre> code-block wrapper) is intentionally NOT overridden — see
+// darkling-whim/DESIGN.md's Color section for why (fixed Rouge palette, independent
+// of site tokens by design).
+.page__content :not(pre) > code, :not(pre) > code { background-color: var(--code-background-color); }
+
+// _tables.scss
+thead { background-color: var(--border-color); }
+table th, table td { border-bottom-color: var(--border-color-strong); }
 
 // ============================================================================
 // Typography
 // ============================================================================
 
-p {
+p, li {
   font-family: $serif;
-  font-size: 1.125rem;
-  line-height: 1.7;
+  // Cutive's letterforms run heavier/larger per-glyph than a typical serif at the
+  // same size — sized down from the old 1.125rem so it doesn't read as oversized.
+  font-size: 1rem;
+  line-height: 1.75;
+  // Cutive is a naturally tight, condensed typewriter face (its letters and word
+  // gaps sit closer than a book-reading serif) — without this, a full paragraph
+  // reads as a dense, jammed-together block rather than open prose.
+  letter-spacing: 0.015em;
+  word-spacing: 0.1em;
+}
+
+.page__content p {
+  // ~1.2x line-height — short of the 1.5x AAA guideline (1.4.8), landed here
+  // because a full 1.5x read as too airy for this site's dialogue-heavy prose,
+  // stretching out the back-and-forth rhythm between short lines of dialogue.
+  margin-bottom: 2.1rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $sans-serif;
-  font-weight: 800;
+  font-weight: 400; // Special Elite ships one weight only — no 800 to reach for
   text-transform: none;
 }
 
 .site-title {
-  font-family: "Griffy", cursive;
+  font-family: $sans-serif;
   font-size: 1.5em;
   font-weight: normal !important;
 }
@@ -52,14 +254,15 @@ h1, h2, h3, h4, h5, h6 {
 .site-subtitle {
   font-family: $sans-serif;
   font-size: 0.85rem;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.02em;
   font-weight: 400;
+  text-transform: none;
 }
 
 .page__meta {
   font-family: $sans-serif;
   font-weight: 400;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 // ============================================================================
@@ -90,7 +293,7 @@ a:hover > .page__hero--overlay {
 
 .archive__item-teaser img {
   object-fit: cover;
-  aspect-ratio: 3/2;
+  aspect-ratio: 16/9;
   border-radius: 0;
 }
 
@@ -138,7 +341,7 @@ img {
 
 .results img {
   width: 100% !important;
-  aspect-ratio: 3 / 2 !important;
+  aspect-ratio: 16 / 9 !important;
   object-fit: cover;
   margin-bottom: 0.75rem !important;
   border-radius: 0;
@@ -186,12 +389,12 @@ code {
 
 .search__toggle,
 .search__toggle i {
-  color: #1A1A1A !important;
+  color: var(--masthead-link-color) !important;
 }
 
 .search__toggle:hover,
 .search__toggle:hover i {
-  color: #8B1A1A !important;
+  color: var(--accent-text-color) !important;
 }
 
 // ============================================================================
@@ -200,9 +403,9 @@ code {
 
 .btn,
 button {
-  background-color: #8B1A1A;
-  color: white;
-  border-color: #8B1A1A;
+  background-color: var(--primary-color);
+  color: #FFFFFF;
+  border-color: var(--primary-color);
 }
 
 // ============================================================================
@@ -212,18 +415,18 @@ button {
 // Archive item titles — text colour by default, crimson on hover only
 .archive__item h2,
 .archive__item-title {
-  color: #1A1A1A !important;
+  color: var(--text-color) !important;
 }
 
 .archive__item h2 a,
 .archive__item-title a {
-  color: #1A1A1A !important;
+  color: var(--text-color) !important;
   text-decoration: none;
 }
 
 .archive__item h2 a:hover,
 .archive__item-title a:hover {
-  color: #8B1A1A !important;
+  color: var(--accent-text-color) !important;
 }
 
 // Remove card backgrounds — images and text float on page background
@@ -242,16 +445,15 @@ button {
 // Taxonomy/Sidebar Link Hover State
 // ============================================================================
 
-// Category, tag, and taxonomy links in sidebar — charcoal default, crimson on hover
 .taxonomy__index a,
 .sidebar a {
-  color: #1A1A1A !important;
+  color: var(--text-color) !important;
   text-decoration: none;
 }
 
 .taxonomy__index a:hover,
 .sidebar a:hover {
-  color: #8B1A1A !important;
+  color: var(--accent-text-color) !important;
 }
 
 // ============================================================================
@@ -259,9 +461,9 @@ button {
 // ============================================================================
 
 .greedy-nav a:hover {
-  color: #8B1A1A !important;
+  color: var(--accent-text-color) !important;
 }
 
 .site-nav a:hover {
-  color: #8B1A1A !important;
+  color: var(--accent-text-color) !important;
 }
