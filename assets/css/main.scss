@@ -219,11 +219,19 @@ table th, table td { border-bottom-color: var(--border-color-strong); }
 // Typography
 // ============================================================================
 
-p, li {
+// Scoped to .page__content (not a bare `p, li`) so this doesn't clobber the
+// theme's own relative font-size math on unrelated lists — `.taxonomy__index`
+// (the /writings tag browser) sizes its <li>s at 0.75em of the root, and a
+// blanket `li { font-size: 1rem }` overrode that back up to full size,
+// making the tag browser render far bigger than intended.
+.page__content p,
+.page__content li {
   font-family: $serif;
   // Cutive's letterforms run heavier/larger per-glyph than a typical serif at the
-  // same size — sized down from the old 1.125rem so it doesn't read as oversized.
-  font-size: 1rem;
+  // same size — sized down further still (was 1.125rem, then 1rem) because even
+  // 1rem read visibly larger than Digital Doug's 1.125rem Libre Baskerville at
+  // the same root size — Cutive just carries more visual weight per declared size.
+  font-size: 0.85rem;
   line-height: 1.75;
   // Cutive is a naturally tight, condensed typewriter face (its letters and word
   // gaps sit closer than a book-reading serif) — without this, a full paragraph
@@ -408,6 +416,75 @@ button {
   border-color: var(--primary-color);
 }
 
+// The blanket rule above flattens every .btn variant (--success, --primary,
+// --inverse, --light-outline) to the same crimson at rest, but their :hover
+// states are still the theme's own per-variant formula (mix(#000, $color,
+// 20%) against each variant's ORIGINAL color — green for --success, white
+// for --inverse, etc.) — so hover drifted to a different color per variant.
+// One crimson hover everywhere, matching the one-accent-color rule.
+.btn:hover,
+button:hover {
+  background-color: #6F1515 !important; // mix(#000, --primary-color, 20%) — theme's own darken formula, applied to crimson instead of each variant's native color
+  color: #FFFFFF !important;
+  border-color: #6F1515 !important;
+}
+
+// Special Elite/Cutive's ascent-descent metrics don't match the normal-font
+// assumptions baked into the theme's symmetric-padding button/pill/pager
+// boxes. Flex-centering (confirmed via getBoundingClientRect: exactly equal
+// gaps above/below the LINE BOX) fixes centering at the box-model level, but
+// the visible ink still sits high within that line box — these faces reserve
+// descender space that labels like "Follow"/"Tags"/"Read Now" never use,
+// which pulls the glyphs themselves above the box's true vertical center.
+// The remaining fix is a manual padding asymmetry: a couple more pixels above
+// the text than below, tuned by eye against these specific faces — flexbox
+// can center the box, but can't correct for a font's own metrics.
+.btn,
+button,
+.pagination--pager,
+.page__taxonomy-item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn,
+button {
+  padding-top: calc(0.5em + 2px);
+  padding-bottom: calc(0.5em - 2px);
+}
+
+.pagination--pager {
+  padding-top: calc(1em + 2px);
+  padding-bottom: calc(1em - 2px);
+}
+
+.page__taxonomy-item {
+  padding-top: 7px;
+  padding-bottom: 3px;
+}
+
+// ============================================================================
+// Page Title Color — Spec Compliance (crimson is interactive-only, never
+// page-title decoration, per DESIGN.md's Color section)
+// ============================================================================
+
+// single.html wraps the H1 in a self-referencing <a> (so the title survives
+// as a link target); once a page has been visited, the site's generic
+// `a:visited { color: var(--link-color-visited) }` (line ~154 above) ties in
+// specificity with the theme's own `.page__title a { color: $text-color }`
+// and — being declared later — wins, painting the title crimson. archive.html
+// titles (e.g. /writings/) aren't wrapped in a link at all, so they never hit
+// this and render in the intended ink/ivory — which is what every title
+// should look like. Force both link states back to the inherited page color.
+.page__title a {
+  color: inherit;
+
+  &:visited {
+    color: inherit;
+  }
+}
+
 // ============================================================================
 // Archive Item Styling — Spec Compliance
 // ============================================================================
@@ -466,4 +543,18 @@ button {
 
 .site-nav a:hover {
   color: var(--accent-text-color) !important;
+}
+
+// ============================================================================
+// Nav Link Size (top nav only, not .site-title)
+// ============================================================================
+
+// Special Elite is a wide, heavy monospace-style face — at the theme's default
+// nav font-size (1em of root) it renders noticeably larger than Digital Doug's
+// plain sans nav, even though the declared size is identical. Sized down to
+// compensate, same reasoning as the body-copy fix above. `.site-title` keeps
+// its own explicit 1.5em — this only touches the actual menu links.
+.greedy-nav a:not(.site-title),
+.site-nav a {
+  font-size: 0.8rem;
 }
