@@ -1,6 +1,6 @@
 ---
 title: The Tenant
-date: 2026-09-15 08:00:00 -0400
+date: 2026-09-15 
 header:
   teaser: /assets/images/the-tenant/feature.png
   overlay_image: /assets/images/the-tenant/feature.png
