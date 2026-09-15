@@ -53,7 +53,7 @@ The clock changes.
 
 I ball my right hand into a fist and dig my nails into the palm, just to see if I can still feel pain.
 
-Then I place both hands.
+Then I place both hands flat on the bench top. 
 
 "No."
 
@@ -149,7 +149,7 @@ Permission.
 
 *There you are.*
 
-I laughed once. I can't help it. It breaks into a cough, hard and painful, and it tears something behind my eye. 
+I laugh once. I can't help it. It breaks into a cough, hard and painful, and it tears something behind my eye. 
 
 *What is funny?*
 
