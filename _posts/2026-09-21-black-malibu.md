@@ -66,4 +66,4 @@ The Malibu navigated the turns through the road through Alma on the way to Green
 
 Donna laughed. "Did you see Rick's face? I bet they call the fire department."
 
-Roxette's "Joyride" came on the radio, and Hughie was glad he'd put that in a couple of months ago. He turned up the volume because that song was perfect.
+Roxette's "Joyride" came on the radio, and Hughie was glad he'd put the Pioneer in a couple of months ago. He turned up the volume because that song was perfect.
