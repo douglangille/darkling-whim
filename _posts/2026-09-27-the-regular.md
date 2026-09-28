@@ -20,9 +20,9 @@ She plucked a mug off the back shelf. It was the gray one with the chip opposite
 
 A cold draught blew in along the floor and bit her ankles as the door opened with a sigh. Out of the dark came the alien, shaking ice off its shoulders. Pieces of ice, small and large, hit the tiles of the floor like broken glass. It was cold and they didn't melt.
 
-The alien found the stool at the end of the counter, their stool, and sat down. The cushion of the stool sighed with the weight. As if it was relieved to be finally put in use. The hydraulics of the stool squeaked from disuse, and the alien did not pay any notice.
+The alien found the stool at the end of the counter, its stool, and sat down. The cushion of the stool sighed with the weight. As if it was relieved to be finally put in use. The hydraulics squeaked from disuse, and the alien did not pay any notice.
 
-The waitress reached for the glass coffee pot on the hot plate, and she lifted it three inches, and as if she was reconsidering her life choices, she set it back down without so much as a tilt and pour.
+The waitress reached for the glass coffee pot on the hot plate, and she lifted it three inches, as if she was reconsidering her life choices, and set it back down without so much as a tilt and pour.
 
 "Tell me that's real coffee."
 
@@ -74,7 +74,7 @@ She grinned at the alien's use of an oath as if pretending to be human took prac
 
 "You should order something. You never order. You sit in that stool like furniture and occasionally drink brown disappointment."
 
-"I'm a regular. Regulars don't order. Regulars are *expected*. That's the whole theology of the regular, ask anybody. This stool sits empty all because it's mine. Now that's regular, more regular than ordering. That's... what's the word?"
+"I'm a regular. Regulars don't order. Regulars are *expected*. That's the whole theology of the regular, ask anybody. This stool sits empty all night because it's mine. Now that's regular, more regular than ordering. That's... what's the word?"
 
 The alien let the punchline dangle. She let it sit there for a beat.
 
@@ -102,7 +102,7 @@ The alien's mask of a grin finally fell away.
 
 "Crew skimmed Company ore. Whole damned crew. I'm on cleanup. They get a malfunction, I get a retirement. Europa. Ice wine. And you."
 
-Her hand stayed flat on top of the counter. She didn't look away and met the challenge with the hint of a defiant smirk.
+Her hand stayed put on top of the counter. She didn't look away and met the challenge with the hint of a defiant smirk.
 
 "A whole crew? Say that again. Slower."
 
@@ -112,7 +112,7 @@ The alien laughed its awkward laugh and leaned across the counter. They were clo
 
 "I like someone who finishes what they start. All the way. No half measures. No mess left behind for me to mop up."
 
-The alien placed the mug squarely back on the counter and twirled it around by the handle. The chip faced the waitress. Then the alien stood and put scrip on the counter. It had real weight, heavier than it should have been. Sloppy cut. Amateur.
+The alien placed the mug squarely back down and twirled it around by the handle. The chip faced the waitress. Then the alien stood and put scrip on the counter. It had real weight, heavier than it should have been. Sloppy cut. Amateur.
 
 "Keep the change. Buy yourself something warm."
 
@@ -122,7 +122,7 @@ The alien placed the mug squarely back on the counter and twirled it around by t
 
 "Same stool. Don't be late. I hate reheating things."
 
-The alien made for the door, turned around to flash another show of teeth at her, before disappearing into the dark again. Another blast of cold air exhaled through the door as it opened and closed, and then it was quiet again, except for that godforsaken cooler humming and rattling its death throes. The ice on the tile glistened as it softened at the edges. The mop would soon be pressed into service once again.
+The alien made for the door, turned around to flash another show of teeth at her, before disappearing into the dark again. Another blast of cold air inhaled through the door as it opened and closed, and then it was quiet again, except for that godforsaken cooler humming and rattling its death throes. The ice on the tile glistened as it softened at the edges. The mop would soon be pressed into service once again.
 
 But not yet. She untied her apron, folded it carefully, and placed it on the counter. Then the waitress picked up the unused mug, turned it around and placed it back in its home on the shelf with the chip facing out.
 
