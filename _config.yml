@@ -155,6 +155,10 @@ related_layout            : grid
 # -----------------------------------------------------------------------------
 defaults:
   - scope:
+      path                : "assets"
+    values:
+      sitemap             : false
+  - scope:
       path                : ""
     values:
       layout              : "single"
