@@ -45,8 +45,7 @@
   --head-weight: 700;
   --head-tracking: -.01em;
 }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { @include tokens-dark; } }
-:root[data-theme="dark"] { @include tokens-dark; }
+@media (prefers-color-scheme: dark) { :root { @include tokens-dark; } }
 
 @font-face { font-family: "Special Elite"; src: url("/assets/fonts/SpecialElite.woff2") format("woff2"); font-weight: 400; font-display: swap; }
 
