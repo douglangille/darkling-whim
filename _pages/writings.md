@@ -7,6 +7,7 @@ permalink: /writings/
   <header class="page-head">
     <h1>Stories &amp; Poems</h1>
     <p id="count" role="status">{{ site.posts.size }} pieces, newest first.</p>
+    <p class="note">Some old favourites got a little love and polish: <a href="{{ '/recently-revised/' | relative_url }}">recently revised</a>.</p>
     <input class="search-box" id="search" type="search" placeholder="Search titles, first lines and tags" autocomplete="off" aria-label="Search stories and poems">
     <div class="filters" role="group" aria-label="Filter by tag">
       {% for g in site.tag_groups %}
@@ -17,7 +18,6 @@ permalink: /writings/
       </div>
       {% endfor %}
     </div>
-    <p class="notice">I gave some old stories a little love and polish. <a href="{{ '/recently-revised/' | relative_url }}">Find them here</a>. They are my personal favourites.</p>
   </header>
   {% assign by_year = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
   <div id="list">

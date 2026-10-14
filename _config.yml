@@ -14,7 +14,7 @@ words_per_minute          : 200
 goatcounter               : "darklingwhim"
 colophon                  : "Set in Libron, Special Elite and JetBrains Mono."
 theme_colors              : { light: "#faf4ed", dark: "#191724" }
-preload_fonts             : ["Libron-Regular", "SpecialElite"]
+preload_fonts             : ["Libron-Regular", "Libron-Bold", "SpecialElite"]
 band_title                : "A new story most weeks"
 band_text                 : "Except when I don't. Just the story, no algorithm."
 newsletter_url            : "https://darklingwhim.substack.com/"
