@@ -7,9 +7,9 @@ permalink: /writings/
   <header class="page-head">
     <h1>Stories &amp; Poems</h1>
     <p id="count" role="status">{{ site.posts.size }} pieces, newest first.</p>
-    <p class="note">Some old favourites got a little love and polish: <a href="{{ '/recently-revised/' | relative_url }}">recently revised</a>.</p>
     <input class="search-box" id="search" type="search" placeholder="Search titles, first lines and tags" autocomplete="off" aria-label="Search stories and poems">
     <div class="filters" role="group" aria-label="Filter by tag">
+      <div class="filter"><ul class="chips"><li><a class="chip chip--page" href="{{ '/recently-revised/' | relative_url }}">recently revised <small>{{ site.tags['revised'].size }}</small></a></li></ul></div>
       {% for g in site.tag_groups %}
       <div class="filter" data-group="{{ g.label }}">
         <ul class="chips">
