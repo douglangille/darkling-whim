@@ -1,5 +1,8 @@
 ---
-layout: single
+section: profile
+portrait: true
+order: 2
+nav_title: "About"
 permalink: /about/
 title: "About"
 ---

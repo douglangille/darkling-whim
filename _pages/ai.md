@@ -1,5 +1,8 @@
 ---
-layout: single
+section: profile
+portrait: true
+order: 3
+nav_title: "AI"
 permalink: /ai/
 title: "How I Use AI"
 ---

@@ -1,41 +1,70 @@
 ---
+layout: default
 title: "Stories & Poems"
-layout: archive
-author_profile: true
-classes: wide
 permalink: /writings/
-entries_layout: grid
-search: false
-pagination:
-    enabled: true
 ---
-
-{% assign alltags = site.tags | sort %}
-{% assign excluded_tags = "haley,revised" | split: "," %}
-<ul class="taxonomy__index">
-  {% for tag in alltags %}
-    {% unless excluded_tags contains tag[0] %}
-      {% if tag[1].size >= 1 %}
-       <li>
-        <a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify }}/">
-        <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
-        </a>
-      </li>
-      {% endif %}
-    {% endunless %}
+<div class="wrap">
+  <header class="page-head">
+    <h1>Stories &amp; Poems</h1>
+    <p id="count" role="status">{{ site.posts.size }} pieces, newest first.</p>
+    <input class="search-box" id="search" type="search" placeholder="Search titles, first lines and tags" autocomplete="off" aria-label="Search stories and poems">
+    <div class="filters" role="group" aria-label="Filter by tag">
+      {% for g in site.tag_groups %}
+      <div class="filter" data-group="{{ g.label }}">
+        <ul class="chips">
+          {% for t in g.tags %}{% assign n = site.tags[t].size %}{% if n > 0 %}<li><a class="chip" href="{{ t | slugify | prepend: '/tag/' | append: '/' | relative_url }}" data-tag="{{ t }}">{{ t }} <small>{{ n }}</small></a></li>{% endif %}{% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+    <p class="notice">I gave some old stories a little love and polish. <a href="{{ '/recently-revised/' | relative_url }}">Find them here</a>. They are my personal favourites.</p>
+  </header>
+  {% assign by_year = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
+  <div id="list">
+  {% for y in by_year %}
+  <section class="year-group">
+    <h2 class="year">{{ y.name }}</h2>
+    <ul class="rows">
+      {% for post in y.items %}
+      <li data-tags="{{ post.tags | join: ' ' | downcase }}" data-hay="{{ post.title | strip_html | downcase | escape }} {{ post.excerpt | strip_html | strip | normalize_whitespace | downcase | escape }}">{% include card.html post=post row=true %}</li>
+      {% endfor %}
+    </ul>
+  </section>
   {% endfor %}
-</ul>
-
-<p class="notice">I gave some old stories a little love and polish. <a href="/recently-revised/">Find them here</a>. They are my personal favourites.</p>
-
-<!--
-<p class="notice">Prefer to read a series from the beginning? <a href="/haleys-war/">Haley's War</a> is an unfinished chaotic fever dream, but it's a helluva ride.</p>
--->
-
-<div class="entries-{{ page.entries_layout }}">
-{% for post in paginator.posts %}
-  {% include archive-single.html type=page.entries_layout %}
-{% endfor %}
+  </div>
+  <p id="none" hidden>Nothing matches. Try fewer words, or clear a filter.</p>
 </div>
-
-{% include paginator.html %}
+<script>
+(function () {
+  var q = document.getElementById("search"), count = document.getElementById("count"), none = document.getElementById("none");
+  var items = [].slice.call(document.querySelectorAll("#list li[data-tags]")), groups = [].slice.call(document.querySelectorAll(".year-group"));
+  var chips = [].slice.call(document.querySelectorAll(".chip[data-tag]")), total = items.length;
+  var active = {}; // group -> [tags]
+  function groupOf(chip) { return chip.closest(".filter").dataset.group; }
+  function apply() {
+    var terms = q.value.toLowerCase().split(/\s+/).filter(Boolean), shown = 0;
+    items.forEach(function (li) {
+      var tags = li.dataset.tags.split(" ");
+      var ok = terms.every(function (t) { return (li.dataset.hay + " " + li.dataset.tags).indexOf(t) > -1; }) &&
+        Object.keys(active).every(function (g) { return !active[g].length || active[g].some(function (t) { return tags.indexOf(t) > -1; }); });
+      li.hidden = !ok; if (ok) shown++;
+    });
+    groups.forEach(function (g) { g.hidden = !g.querySelector("li:not([hidden])"); });
+    none.hidden = shown > 0;
+    var filtered = terms.length || Object.keys(active).some(function (g) { return active[g].length; });
+    count.textContent = filtered ? shown + " of " + total + " pieces" : total + " pieces, newest first.";
+  }
+  chips.forEach(function (c) {
+    c.addEventListener("click", function (e) {
+      e.preventDefault();
+      var g = groupOf(c), t = c.dataset.tag; active[g] = active[g] || [];
+      var i = active[g].indexOf(t); if (i > -1) active[g].splice(i, 1); else active[g].push(t);
+      c.setAttribute("aria-current", i > -1 ? "false" : "true"); if (i > -1) c.removeAttribute("aria-current");
+      apply();
+    });
+  });
+  q.addEventListener("input", apply);
+  var m = location.search.match(/[?&]q=([^&]*)/); if (m) { q.value = decodeURIComponent(m[1].replace(/\+/g, " ")); apply(); }
+  if (location.hash === "#search") q.focus();
+})();
+</script>

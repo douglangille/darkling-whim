@@ -1,16 +1,13 @@
 ---
-layout: archive
+layout: default
 title: "Haley's War"
 permalink: /haleys-war/
-entries_layout: grid
-classes: wide
-author_profile: true
-search: false
 ---
-
-{% assign posts = site.tags['haley'] | sort: 'date'  %}
-<div class="entries-{{ page.entries_layout }}">
-{% for post in posts %}
-    {% include archive-single.html type=page.entries_layout %}
-{% endfor %}
+{% assign haley = site.tags['haley'] | sort: 'date' %}
+<div class="wrap">
+  <header class="page-head">
+    <h1>Haley's War</h1>
+    <p>An unfinished chaotic fever dream, in order. <a href="{{ '/writings/' | relative_url }}">All stories and poems</a></p>
+  </header>
+  <ul class="rows">{% for post in haley %}<li>{% include card.html post=post row=true %}</li>{% endfor %}</ul>
 </div>

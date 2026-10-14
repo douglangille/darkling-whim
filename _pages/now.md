@@ -1,5 +1,8 @@
 ---
-layout: single
+section: profile
+portrait: true
+order: 1
+nav_title: "Now"
 permalink: /now/
 title: "Now"
 redirect_from:

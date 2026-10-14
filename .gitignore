@@ -43,3 +43,6 @@ Desktop.ini
 __pycache__/
 *.pyc
 *.pyo
+
+# Generated responsive derivatives (scripts/derive-images.py)
+assets/images/**/*-[0-9]*w.webp

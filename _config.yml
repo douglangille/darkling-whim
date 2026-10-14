@@ -1,6 +1,4 @@
-# -----------------------------------------------------------------------------
-# Site Identity & Metadata
-# -----------------------------------------------------------------------------
+# Site identity. Theme: hand-written, no gem; shared with digital-doug (see DESIGN.md).
 title                     : "Darkling Whim"
 subtitle                  : "Untethered tales, beautifully scarred"
 name                      : "Doug Langille"
@@ -11,62 +9,36 @@ repository                : "douglangille/darkling-whim"
 email                     : "me@douglangille.ca"
 locale                    : "en-CA"
 timezone                  : "America/Halifax"
-
-# -----------------------------------------------------------------------------
-# Theme & Visuals
-# -----------------------------------------------------------------------------
-theme                     : "minimal-mistakes-jekyll"
-minimal_mistakes_skin     : "default"
-logo                      :
-teaser                    : "/assets/images/white500x300.jpg"
 og_image                  : "/assets/images/og-darkling-whim.png"
-title_separator           : "-"
 words_per_minute          : 200
-breadcrumbs               : false
-search                    : true
-search_full_content       : false
-search_provider           : lunr
+goatcounter               : "darklingwhim"
+colophon                  : "Set in Libron, Special Elite and JetBrains Mono."
+theme_colors              : { light: "#faf4ed", dark: "#191724" }
+preload_fonts             : ["Libron-Regular", "SpecialElite"]
+band_title                : "A new story most weeks"
+band_text                 : "Except when I don't. Just the story, no algorithm."
+newsletter_url            : "https://darklingwhim.substack.com/"
 
-# -----------------------------------------------------------------------------
-# Author & Social
-# -----------------------------------------------------------------------------
 author:
-  name                    : "Doug Langille"
-  avatar                  : "/assets/images/bio-photo.png"
-  bio                     : "hack writer & shameless technophile"
+  name: "Doug Langille"
+  avatar: "/assets/images/bio-photo.png"
+  bio: "hack writer & shameless technophile"
   links:
-    - label               : "Nova Scotia"
-      icon                : "fa-regular fa-compass"
-      url                 : "https://en.wikipedia.org/wiki/Nova_Scotia"
-    - label               : "Digital Doug"
-      icon                : "fa-regular fa-newspaper"
-      url                 : "https://digital.douglangille.ca"
-    - label               : "Amazon"
-      icon                : "fa-brands fa-amazon"
-      url                 : "https://www.amazon.com/author/douglangille"
-    - label               : "Email"
-      icon                : "fa-regular fa-envelope"
-      url                 : "mailto:me@douglangille.ca"
+    - { label: "Nova Scotia", url: "https://en.wikipedia.org/wiki/Nova_Scotia" }
+    - { label: "Digital Doug", url: "https://digital.douglangille.ca" }
+    - { label: "Amazon", url: "https://www.amazon.com/author/douglangille" }
+    - { label: "Email", url: "mailto:me@douglangille.ca" }
 
 footer:
   since                   : "2013"
   links:
-    - label               : "Darkling Whim"
-      icon                : "fa-solid fa-feather"
-      url                 : "https://douglangille.ca"
-    - label               : "Digital Doug"
-      icon                : "fa-regular fa-newspaper"
-      url                 : "https://digital.douglangille.ca"
-    - label               : "Amazon"
-      icon                : "fa-brands fa-amazon"
-      url                 : "https://www.amazon.com/author/douglangille"
-    - label               : "LinkedIn"
-      icon                : "fa-brands fa-square-linkedin"
-      url                 : "https://www.linkedin.com/in/douglangille/"
+    - { label: "About", url: "/about/" }
+    - { label: "AI", url: "/ai/" }
+    - { label: "Digital Doug", url: "https://digital.douglangille.ca" }
+    - { label: "Amazon", url: "https://www.amazon.com/author/douglangille" }
+    - { label: "LinkedIn", url: "https://www.linkedin.com/in/douglangille/" }
+    - { label: "RSS", url: "/feed.xml" }
 
-# -----------------------------------------------------------------------------
-# Build & Formatting
-# -----------------------------------------------------------------------------
 markdown                  : kramdown
 highlighter               : rouge
 permalink                 : /:title/
@@ -104,76 +76,39 @@ exclude:
 # -----------------------------------------------------------------------------
 # Plugins & Pagination
 # -----------------------------------------------------------------------------
+
+sass:
+  style                   : compressed
+
 plugins:
-  - jekyll-paginate-v2
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-gist
-  - jekyll-include-cache
 
-category_archive:
-  type                    : jekyll-archives
-  path                    : /category/
-tag_archive:
-  type                    : jekyll-archives
-  path                    : /tag/
-pagination:
-  enabled                 : true
-  collection              : 'posts'
-  per_page                : 12
-  permalink               : '/page/:num/'
-  sort_field              : 'date'
-  sort_reverse            : true
-  trail:
-      before              : 2
-      after               : 2
+jekyll-archives:
+  enabled                 : [tags]
+  layouts:
+    tag                   : tag
+  permalinks:
+    tag                   : /tag/:name/
 
-autopages:
-  enabled                 : true
-  categories:
-    enabled               : false
-  collections:
-    enabled               : false
-  tags:
-    enabled               : true
-    layouts               :
-      - 'archive-taxonomy.html'
-    permalink             : '/tag/:tag/'
+# Tags are filter groups on /writings/ (world, theme, mood, form). haley and revised are
+# curation tags with their own pages, not filters.
+tag_groups:
+  - label: World
+    tags: [grounded, speculative]
+  - label: Theme
+    tags: [solitude, kith-kin, intimacy]
+  - label: Mood
+    tags: [wit, melancholy, tension, eerie, dark]
+  - label: Form
+    tags: [poetry]
 
-# -----------------------------------------------------------------------------
-# Related Posts (Theme Logic)
-# -----------------------------------------------------------------------------
-related_by                : tags or categories
-related_limit             : 4
-related_categories        : 1
-related_tags              : 1
-related_template          : archive-single.html
-related_layout            : grid
-
-# -----------------------------------------------------------------------------
-# Defaults (Front Matter)
-# -----------------------------------------------------------------------------
 defaults:
-  - scope:
-      path                : "assets"
-    values:
-      sitemap             : false
-  - scope:
-      path                : ""
-    values:
-      layout              : "single"
-      author_profile      : true
-      read_time           : true
-      share               : false
-      comments            : false
-      classes             : wide
-  - scope:
-      path                : "_posts"
-      type                : "posts"
-    values:
-      comments            : true
-      layout              : "single"
-      author_profile      : true
-      read_time           : true
-      share               : false
-      related             : true
+  - scope: { path: "assets" }
+    values: { sitemap: false }
+  - scope: { path: "" }
+    values: { layout: "page" }
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }

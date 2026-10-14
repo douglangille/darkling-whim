@@ -1,0 +1,63 @@
+// Darkling Whim skin: Rosé Pine Main (dark) / Dawn (light), rose (dark) and deepened love (light) accent.
+// Tokens only. Components live in base.scss. Contrast checked, see DESIGN.md.
+
+@mixin tokens-light {
+  color-scheme: light;
+  --bg: #faf4ed;          // dawn base
+  --surface: #fffaf3;
+  --overlay: #f2e9e1;
+  --line: #dfdad9;
+  --text: #575279;
+  --muted: #625e7c;
+  --accent: #9a4a63;      // dawn love, deepened (stock #b4637a is 3.8:1, too low for text)
+  --accent-hover: #7b3a4f;
+  --accent-fill: #9a4a63;
+  --accent-ink: #faf4ed;
+  --visited: #6c5a8c;
+  --mark: rgba(180, 99, 122, .25);
+  --syn-kw: #6c5a8c; --syn-str: #8a5a00; --syn-fn: #9a4a63; --syn-num: #286983; --syn-cm: #625e7c; --syn-name: #1d5169;
+}
+
+@mixin tokens-dark {
+  color-scheme: dark;
+  --bg: #191724;          // main base
+  --surface: #1f1d2e;
+  --overlay: #26233a;
+  --line: #403d52;
+  --text: #e0def4;
+  --muted: #9d99b6;
+  --accent: #ebbcba;      // rose
+  --accent-hover: #f6d6d4;
+  --accent-fill: #ebbcba;
+  --accent-ink: #191724;
+  --visited: #c4a7e7;
+  --mark: rgba(235, 111, 146, .3);   // love
+  --syn-kw: #c4a7e7; --syn-str: #f6c177; --syn-fn: #eb6f92; --syn-num: #9ccfd8; --syn-cm: #908caa; --syn-name: #ebbcba;
+}
+
+:root {
+  @include tokens-light;
+  --font-body: "Libron", "Iowan Old Style", Georgia, serif;
+  --font-head: "Special Elite", "American Typewriter", "Courier New", monospace;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --font-ui: var(--font-mono);
+  --font-mark: var(--font-head);
+  --head-weight: 400;
+  --head-tracking: 0;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { @include tokens-dark; } }
+:root[data-theme="dark"] { @include tokens-dark; }
+
+@font-face { font-family: "Special Elite"; src: url("/assets/fonts/SpecialElite.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+
+// The wordmark: Special Elite, kept as the typewriter voice. Never smaller than titles read well.
+.wordmark { font-family: var(--font-mark); font-size: clamp(1.4rem, 1rem + 1.6vw, 2rem); color: var(--text); }
+.brand:hover .wordmark { color: var(--accent); }
+
+// Story art is mostly cream-ground ink wash. Every hero and feature is shown at 3:2 (cropped in CSS
+// until the portrait ones are replaced), with a hairline so the paper edge reads as a frame on dark.
+.post__hero img, .feature__img img { aspect-ratio: 3 / 2; object-fit: cover; object-position: 50% 30%; box-shadow: 0 0 0 1px var(--line); }
+.feature__title, .post__title { line-height: 1.12; }
+.prose { font-size: var(--step-0); }
+.prose :is(h2, h3, h4) { font-weight: 400; }
+.prose strong { font-weight: 700; }

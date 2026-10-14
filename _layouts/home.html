@@ -1,0 +1,32 @@
+---
+layout: default
+---
+{% assign latest = site.posts | first %}
+{% include excerpt.html post=latest %}
+<div class="wrap home">
+  <article class="feature">
+    <a class="feature__img" href="{{ latest.url | relative_url }}" tabindex="-1" aria-hidden="true">{% if thumb %}{% include img.html src=thumb alt="" eager=true sizes="(min-width: 48rem) 58vw, 100vw" %}{% endif %}</a>
+    <div class="feature__text">
+      <p class="feature__label">Latest</p>
+      <h1 class="feature__title"><a href="{{ latest.url | relative_url }}">{{ latest.title | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a></h1>
+      {% if lead != "" %}<p class="feature__ex">{{ lead }}</p>{% endif %}
+      <p class="meta"><time datetime="{{ latest.date | date_to_xmlschema }}">{{ latest.date | date: "%B %-d, %Y" }}</time>{% assign mins = latest.content | number_of_words | plus: 199 | divided_by: site.words_per_minute %}<span>{{ mins }} min read</span></p>
+      <a class="btn" href="{{ latest.url | relative_url }}">Read now</a>
+    </div>
+  </article>
+
+  <div class="section-head"><h2 class="section-title">More recent</h2><a class="more-link" href="{{ '/writings/' | relative_url }}">All {{ site.posts.size }} pieces &rarr;</a></div>
+  <ul class="cards cards--home">
+    {% for post in site.posts offset: 1 limit: 8 %}<li>{% include card.html post=post %}</li>{% endfor %}
+  </ul>
+  <section class="band" aria-labelledby="sub">
+    <div>
+      <h2 id="sub">{{ site.band_title }}</h2>
+      <p>{{ site.band_text }}</p>
+    </div>
+    <div class="actions">
+      <a class="btn" href="{{ '/feed.xml' | relative_url }}">Subscribe via RSS</a>
+      <a class="btn btn--ghost" href="{% if site.newsletter_url != '' %}{{ site.newsletter_url }}{% else %}https://feedrabbit.com/?url={{ site.url }}/feed.xml{% endif %}" rel="noopener">Subscribe via email</a>
+    </div>
+  </section>
+</div>
