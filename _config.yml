@@ -111,3 +111,8 @@ defaults:
     values: { layout: "page" }
   - scope: { path: "", type: "posts" }
     values: { layout: "post" }
+
+# Curation tags that have their own pages instead of a filter chip.
+tag_redirects:
+  revised: /recently-revised/
+  haley: /haleys-war/
