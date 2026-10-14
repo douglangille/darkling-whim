@@ -33,7 +33,6 @@ footer:
   since                   : "2013"
   links:
     - { label: "About", url: "/about/" }
-    - { label: "AI", url: "/ai/" }
     - { label: "Digital Doug", url: "https://digital.douglangille.ca" }
     - { label: "Amazon", url: "https://www.amazon.com/author/douglangille" }
     - { label: "LinkedIn", url: "https://www.linkedin.com/in/douglangille/" }
