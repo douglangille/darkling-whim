@@ -18,7 +18,11 @@ permalink: /writings/
         </ul>
       </div>
       {% endfor %}
+      {% for u in site.universes %}{% if site.tags[u.tag].size > 0 %}
+      <div class="filter"><ul class="chips"><li><a class="chip chip--universe" href="{{ page.url | append: '#' | append: u.tag | relative_url }}" data-tag="{{ u.tag }}"{% if u.page %} data-page="{{ u.page | relative_url }}" data-page-label="{{ u.label | escape }}"{% endif %}>{{ u.label }} <small>{{ site.tags[u.tag].size }}</small></a></li></ul></div>
+      {% endif %}{% endfor %}
     </div>
+    <p class="note" id="universe-note" hidden></p>
   </header>
   {% assign by_year = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
   <div id="list">
@@ -55,6 +59,14 @@ permalink: /writings/
   function select(tag) {
     current = (tag === current) ? null : tag;
     if (history.replaceState && location.hash !== "#search") history.replaceState(null, "", current ? "#" + current : location.pathname + location.search);
+    var note = document.getElementById("universe-note"), sel = chips.filter(function (c) { return c.dataset.tag === current; })[0];
+    if (note) {
+      note.textContent = "";
+      if (sel && sel.dataset.page) {
+        var a = document.createElement("a"); a.href = sel.dataset.page; a.textContent = sel.dataset.pageLabel + " in order";
+        note.append("Read ", a, ", oldest first."); note.hidden = false;
+      } else { note.hidden = true; }
+    }
     chips.forEach(function (c) { if (c.dataset.tag === current || (!current && c.hasAttribute("data-all"))) c.setAttribute("aria-current", "true"); else c.removeAttribute("aria-current"); });
     apply();
   }
