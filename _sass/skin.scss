@@ -50,8 +50,8 @@
 @font-face { font-family: "Special Elite"; src: url("/assets/fonts/SpecialElite.woff2") format("woff2"); font-weight: 400; font-display: swap; }
 
 // The wordmark is the only Special Elite on the site, so nothing else competes with it. Titles are Libron Bold.
-.wordmark { font-family: var(--font-mark); font-size: clamp(1.4rem, 1rem + 1.6vw, 2rem); color: var(--text); }
-.brand:hover .wordmark { color: var(--accent); }
+.wordmark { font-family: var(--font-mark); font-size: clamp(1.3rem, 1rem + 1.6vw, 2rem); color: var(--text); }
+.wordmark:hover { color: var(--accent); }
 
 // Story art is mostly cream-ground ink wash. Every hero and feature is shown at 3:2 (cropped in CSS
 // until the portrait ones are replaced), with a hairline so the paper edge reads as a frame on dark.
