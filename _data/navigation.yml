@@ -1,6 +1,6 @@
 main:
   - title: "Stories & Poems"
     url: /writings/
-  - title: "Now"
-    url: /now/
+  - title: "About"
+    url: /about/
     section: profile
