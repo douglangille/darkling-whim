@@ -111,10 +111,6 @@ defaults:
   - scope: { path: "", type: "posts" }
     values: { layout: "post" }
 
-# Curation tags that have their own page instead of a filter chip.
-tag_redirects:
-  revised: /recently-revised/
-
 # Story-universe tags: shown as highlighted chips at the end of the tag browser. `page`, if set, is
 # a page that reads the universe in order; it is offered when the chip is selected.
 universes:

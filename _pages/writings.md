@@ -10,7 +10,7 @@ permalink: /writings/
     <input class="search-box" id="search" type="search" placeholder="Search titles, first lines and tags" autocomplete="off" aria-label="Search stories and poems">
     <div class="filters" role="group" aria-label="Filter by tag">
       <div class="filter"><ul class="chips"><li><a class="chip" data-all aria-current="true" href="{{ page.url | relative_url }}">all <small>{{ site.posts.size }}</small></a></li></ul></div>
-      <div class="filter"><ul class="chips"><li><a class="chip chip--page" href="{{ '/recently-revised/' | relative_url }}">recently revised <small>{{ site.tags['revised'].size }}</small></a></li></ul></div>
+      <div class="filter"><ul class="chips"><li><a class="chip chip--page" href="{{ page.url | append: '#revised' | relative_url }}" data-tag="revised">recently revised <small>{{ site.tags['revised'].size }}</small></a></li></ul></div>
       {% for g in site.tag_groups %}
       <div class="filter" data-group="{{ g.label }}">
         <ul class="chips">

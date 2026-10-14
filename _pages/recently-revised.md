@@ -1,13 +1,11 @@
 ---
-layout: default
-title: "Recently Revised"
+layout: null
+title: Recently Revised
 permalink: /recently-revised/
+sitemap: false
 ---
-{% assign revised = site.tags['revised'] | sort: 'revised' | reverse %}
-<div class="wrap">
-  <header class="page-head">
-    <h1>Recently Revised</h1>
-    <p>Old stories that got a little love and polish. <a href="{{ '/writings/' | relative_url }}">All stories and poems</a></p>
-  </header>
-  <ul class="rows">{% for post in revised %}<li>{% include card.html post=post row=true %}</li>{% endfor %}</ul>
-</div>
+<!doctype html><meta charset="utf-8"><title>Recently Revised</title>
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url={{ '/writings/#revised' | relative_url }}">
+<link rel="canonical" href="{{ '/writings/' | absolute_url }}">
+<p><a href="{{ '/writings/#revised' | relative_url }}">Recently revised stories live in the Stories &amp; Poems tag browser.</a></p>
