@@ -17,7 +17,7 @@ sitemap: false
   :root { --dd: #286983; --dw: #9a4a63; }
   @media (prefers-color-scheme: dark) { :root { --dd: #9ccfd8; --dw: #ebbcba; } }
   .hub { width: min(100% - 3rem, 36rem); margin: auto; padding: 3rem 0; }
-  .hub__head { display: flex; align-items: center; gap: 1.1rem; margin-bottom: 1.5rem; }
+  .hub__head { display: flex; flex-direction: column; align-items: center; gap: .8rem; margin-bottom: 1.25rem; text-align: center; }
   .hub__head img { width: 4.25rem; height: 4.25rem; border-radius: 50%; object-fit: cover; flex-shrink: 0; box-shadow: 0 0 0 1px var(--line); }
   .hub h1 { margin: 0; font-family: var(--font-head); font-weight: var(--head-weight); font-size: var(--step-2); line-height: 1.1; letter-spacing: var(--head-tracking); }
   .hub__role { margin: .2rem 0 0; font-style: italic; color: var(--muted); font-size: var(--step--1); line-height: 1.35; }
