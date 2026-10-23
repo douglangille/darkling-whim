@@ -1,19 +1,18 @@
 ---
-title: Woden&#39;s Daughter
+title: Woden's Daughter
 date: 2014-02-25 08:00:00 -0400
-excerpt: The Allfather's daughter, shame of Asgard, fled the Great Hall and made her
-  way through the wood to the cliff-side.
+excerpt: The Allfather's daughter, shame of Asgard, fled the Great Hall and made her way through the wood to the cliff-side.
 header:
   teaser: /assets/images/wodens-daughter/precipice_by_machelko.jpg
   overlay_image: /assets/images/wodens-daughter/precipice_by_machelko.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - intimacy
   - melancholy
 feature: /assets/images/wodens-daughter/precipice_by_machelko.jpg
 ---
-# Woden&#39;s Daughter
+# Woden's Daughter
 
 The Allfather's daughter, shame of Asgard, fled the Great Hall and made her way through the wood to the cliff-side. There, she gathered her furs about her shoulders and waited.  Brynhildr wiped her tears away and closed her eyes to the wind off the sea. He would come, she thought. Loki always did.
 
