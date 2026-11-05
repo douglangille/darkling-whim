@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/kitchen-tools/9464995143_626fb980cd_b.jpg
   overlay_image: /assets/images/kitchen-tools/9464995143_626fb980cd_b.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - kith-kin
   - wit

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/the-gypsy-tent/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
   overlay_image: /assets/images/the-gypsy-tent/light_in_a_gypsy_tent_by_fissionvision-d4ew8s9.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - eerie

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/blind-dining/7a730fbeb1bc984eebbc569b0fae90ed.jpg
   overlay_image: /assets/images/blind-dining/7a730fbeb1bc984eebbc569b0fae90ed.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - tension

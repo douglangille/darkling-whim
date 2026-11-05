@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/the-last-ride/5807577702_2b25ec5d7a_bicycle-wheel.jpg
   overlay_image: /assets/images/the-last-ride/5807577702_2b25ec5d7a_bicycle-wheel.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - tension

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/captain-underpants/man-147613_1280.jpg
   overlay_image: /assets/images/captain-underpants/man-147613_1280.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - wit

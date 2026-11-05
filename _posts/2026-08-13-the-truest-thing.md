@@ -5,7 +5,10 @@ header:
   teaser: /assets/images/the-truest-thing/feature.png
   overlay_image: /assets/images/the-truest-thing/feature.png
 excerpt: The bride and groom won't be needing it.
-tags: [grounded, intimacy, melancholy]
+tags:
+  - grounded
+  - intimacy
+  - melancholy
 feature: /assets/images/the-truest-thing/feature.png
 ---
 # The Truest Thing

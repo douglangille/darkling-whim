@@ -1,12 +1,12 @@
 ---
 title: Tough It Out
 date: 2014-11-10 08:00:00 -0400
-excerpt: '!'
+excerpt: "!"
 header:
   teaser: /assets/images/tough-it-out/3789200908_9dbf327800_scrape.jpg
   overlay_image: /assets/images/tough-it-out/3789200908_9dbf327800_scrape.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - wit

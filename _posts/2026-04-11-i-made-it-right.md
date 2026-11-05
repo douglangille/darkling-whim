@@ -1,6 +1,6 @@
 ---
 title: I Made It Right
-tags: 
+tags:
   - grounded
   - solitude
   - tension

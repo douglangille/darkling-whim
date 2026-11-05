@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/haley-burning/match-268526.jpg
   overlay_image: /assets/images/haley-burning/match-268526.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - kith-kin
   - tension

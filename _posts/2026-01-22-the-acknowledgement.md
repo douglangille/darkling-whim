@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/the-acknowledgement/feature.png
   teaser: /assets/images/the-acknowledgement/feature.png
 excerpt: Between panes of glass, choice slips away.
-tags: 
+tags:
   - speculative
   - intimacy
   - melancholy

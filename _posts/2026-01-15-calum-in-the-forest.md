@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/calum-in-the-forest/feature.png
   overlay_image: /assets/images/calum-in-the-forest/feature.png
 excerpt: Every shot taken draws the forest closer.
-tags: 
+tags:
   - speculative
   - solitude
   - eerie

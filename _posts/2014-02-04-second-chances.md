@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/second-chances/bar_by_zeitweilig.jpg
   overlay_image: /assets/images/second-chances/bar_by_zeitweilig.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - wit

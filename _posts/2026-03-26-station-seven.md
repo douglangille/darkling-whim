@@ -5,7 +5,7 @@ excerpt: The air tastes like ammonia and bleach and something underneath both.
 header:
   teaser: /assets/images/station-seven/feature.png
   overlay_image: /assets/images/station-seven/feature.png
-tags: 
+tags:
   - dark
   - solitude
   - eerie

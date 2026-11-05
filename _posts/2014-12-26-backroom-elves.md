@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/backroom-elves/5297560931_2107f4287a_christmas-elf.jpg
   overlay_image: /assets/images/backroom-elves/5297560931_2107f4287a_christmas-elf.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - wit

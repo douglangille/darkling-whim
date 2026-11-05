@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/agutas-trek/2303495178_2be7a54eda_arctic-tundra.jpg
   overlay_image: /assets/images/agutas-trek/2303495178_2be7a54eda_arctic-tundra.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - melancholy

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/the-perfect-trick/12-magic-tricks-rescan1.jpg
   overlay_image: /assets/images/the-perfect-trick/12-magic-tricks-rescan1.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - kith-kin
   - wit

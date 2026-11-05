@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/mary-had-a-disgruntled-lamb/Disgruntled-Lamb.jpg
   overlay_image: /assets/images/mary-had-a-disgruntled-lamb/Disgruntled-Lamb.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - wit

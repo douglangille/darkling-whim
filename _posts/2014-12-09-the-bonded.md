@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/the-bonded/sky-404060.jpg
   overlay_image: /assets/images/the-bonded/sky-404060.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - melancholy

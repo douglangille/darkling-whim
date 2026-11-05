@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/high-seas-laundry/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png
   overlay_image: /assets/images/high-seas-laundry/ed35b80a2df71c3e81584d04ee44408be273e7d61ab617499df6_640_pirate.png
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - wit

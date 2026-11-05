@@ -1,13 +1,12 @@
 ---
 title: Full Circle
 date: 2014-12-02 08:00:00 -0400
-excerpt: '"A strange thing happened on the way to the bus stop," I said, taking a
-  plate from the rack and wiping it.'
+excerpt: '"A strange thing happened on the way to the bus stop," I said, taking a plate from the rack and wiping it.'
 header:
   teaser: /assets/images/full-circle/bus-stop-72171.jpg
   overlay_image: /assets/images/full-circle/bus-stop-72171.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - melancholy

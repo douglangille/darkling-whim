@@ -4,8 +4,8 @@ date: 2026-02-25 08:00:00 -0400
 header:
   overlay_image: /assets/images/eventually/feature.png
   teaser: /assets/images/eventually/feature.png
-excerpt: ''
-tags: 
+excerpt: ""
+tags:
   - grounded
   - solitude
   - melancholy

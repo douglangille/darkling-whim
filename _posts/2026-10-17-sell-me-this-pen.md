@@ -5,7 +5,10 @@ image: /assets/images/sell-me-this-pen/feature.png
 feature: /assets/images/sell-me-this-pen/feature.png
 image_alt: A fountain pen and a small coin on a leather desk blotter, striped by sunlight through venetian blinds, with a harbour beyond the office window.
 excerpt: Anybody can sell a car, Delaney. Sell me this.
-tags: [speculative, solitude, eerie]
+tags:
+  - speculative
+  - solitude
+  - eerie
 ---
 # Sell Me This Pen
 

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/mitzy-and-the-butterfly/8b973b71609dfded_640.jpg
   overlay_image: /assets/images/mitzy-and-the-butterfly/8b973b71609dfded_640.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - melancholy

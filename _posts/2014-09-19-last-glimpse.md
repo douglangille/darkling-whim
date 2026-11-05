@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/last-glimpse/armagedon-6.jpg
   overlay_image: /assets/images/last-glimpse/armagedon-6.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - intimacy
   - melancholy

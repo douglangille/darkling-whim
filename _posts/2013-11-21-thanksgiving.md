@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/thanksgiving/fd92d88a97190e7a_1280_thanksgiving.jpg
   overlay_image: /assets/images/thanksgiving/fd92d88a97190e7a_1280_thanksgiving.jpg
 categories: []
-tags: 
+tags:
   - dark
   - solitude
   - wit

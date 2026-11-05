@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/haley-dreams/apocalypse-371947_1280.jpg
   overlay_image: /assets/images/haley-dreams/apocalypse-371947_1280.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - eerie

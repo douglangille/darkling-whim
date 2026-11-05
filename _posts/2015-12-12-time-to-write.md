@@ -6,7 +6,10 @@ header:
   teaser: /assets/images/time-to-write/hourglass-620397_640.jpg
   overlay_image: /assets/images/time-to-write/hourglass-620397_640.jpg
   categories: perspectives
-tags: [grounded, solitude, wit]
+tags:
+  - grounded
+  - solitude
+  - wit
 feature: /assets/images/time-to-write/hourglass-620397_640.jpg
 ---
 # Time to Write

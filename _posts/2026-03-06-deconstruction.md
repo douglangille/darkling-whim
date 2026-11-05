@@ -4,8 +4,8 @@ date: 2026-03-06 08:00:00 -0400
 header:
   overlay_image: /assets/images/deconstruction/feature.jpg
   teaser: /assets/images/deconstruction/feature.jpg
-excerpt: The box says forty-two pieces. I've counted three times  
-tags: 
+excerpt: The box says forty-two pieces. I've counted three times
+tags:
   - speculative
   - solitude
   - eerie

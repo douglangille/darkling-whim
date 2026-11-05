@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/bat-geriatrics/batman-532919_1280.jpg
   overlay_image: /assets/images/bat-geriatrics/batman-532919_1280.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - wit

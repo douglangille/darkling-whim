@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/perfect-party/4037536134_4d07ce228f_feathered-hat.jpg
   overlay_image: /assets/images/perfect-party/4037536134_4d07ce228f_feathered-hat.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - wit

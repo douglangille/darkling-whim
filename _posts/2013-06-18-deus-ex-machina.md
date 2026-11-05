@@ -1,12 +1,12 @@
 ---
 title: Deus Ex Machina
 date: 2013-06-18 08:00:00 -0400
-excerpt: '"Where''s my son?'
+excerpt: "\"Where's my son?"
 header:
   teaser: /assets/images/deus-ex-machina/1b5b1dfcb4aa9054_1280_detective1.jpg
   overlay_image: /assets/images/deus-ex-machina/1b5b1dfcb4aa9054_1280_detective1.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - wit

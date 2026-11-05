@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/black-friday/15709773049_55712386fe_b.jpg
   overlay_image: /assets/images/black-friday/15709773049_55712386fe_b.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - wit

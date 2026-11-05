@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/eddie-zovinovich/chewing-gum-115162_1280.jpg
   overlay_image: /assets/images/eddie-zovinovich/chewing-gum-115162_1280.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - wit

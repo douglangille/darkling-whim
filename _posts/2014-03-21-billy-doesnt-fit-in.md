@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/billy-doesnt-fit-in/4406503559_12acb8f4f3_alien-kid.jpg
   overlay_image: /assets/images/billy-doesnt-fit-in/4406503559_12acb8f4f3_alien-kid.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - wit

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/the-nighthawk/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
   overlay_image: /assets/images/the-nighthawk/e83cb9072ffc1c3e81584d04ee44408be273e7d61db2124991f2_640_moon-lake.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - eerie

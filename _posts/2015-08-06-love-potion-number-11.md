@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/love-potion-number-11/5239029540_639e0a2139_b.jpg
   overlay_image: /assets/images/love-potion-number-11/5239029540_639e0a2139_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - intimacy
   - melancholy

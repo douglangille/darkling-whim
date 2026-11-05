@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/twenty-three-years-in/458439328_3f09c74cfa_bed-night.jpg
   overlay_image: /assets/images/twenty-three-years-in/458439328_3f09c74cfa_bed-night.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - melancholy

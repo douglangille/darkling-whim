@@ -1,7 +1,7 @@
 ---
 title: The Sacramentum
 date: 2026-06-19
-excerpt: "She opened her mouth."
+excerpt: She opened her mouth.
 header:
   teaser: /assets/images/the-sacramentum/feature.png
   overlay_image: /assets/images/the-sacramentum/feature.png

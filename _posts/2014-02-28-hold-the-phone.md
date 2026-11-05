@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/hold-the-phone/4940893730_ce74d18852_b.jpg
   overlay_image: /assets/images/hold-the-phone/4940893730_ce74d18852_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - tension

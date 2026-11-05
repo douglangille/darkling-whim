@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/timmy-calls-wish-fulfillement/7091212300ecb41f_1280_telephone.jpg
   overlay_image: /assets/images/timmy-calls-wish-fulfillement/7091212300ecb41f_1280_telephone.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - eerie

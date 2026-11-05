@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/bad-bedtime-bacon/bacon-575334_1280.jpg
   overlay_image: /assets/images/bad-bedtime-bacon/bacon-575334_1280.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - wit

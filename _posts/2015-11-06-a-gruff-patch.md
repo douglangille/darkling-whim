@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/a-gruff-patch/Three-Goats.jpg
   overlay_image: /assets/images/a-gruff-patch/Three-Goats.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - wit

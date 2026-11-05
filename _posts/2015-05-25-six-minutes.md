@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/six-minutes/earth-244238_1280.jpg
   overlay_image: /assets/images/six-minutes/earth-244238_1280.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - melancholy

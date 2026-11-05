@@ -6,7 +6,10 @@ header:
   teaser: /assets/images/sierra-enigma/PartialHeterochromia.jpg
   overlay_image: /assets/images/sierra-enigma/PartialHeterochromia.jpg
 categories: []
-tags: [grounded, solitude, tension]
+tags:
+  - grounded
+  - solitude
+  - tension
 feature: /assets/images/sierra-enigma/PartialHeterochromia.jpg
 ---
 # Sierra Enigma

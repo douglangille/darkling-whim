@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/alien-haiku/9153767970_5a8cbf4f18_b.jpg
   overlay_image: /assets/images/alien-haiku/9153767970_5a8cbf4f18_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - eerie

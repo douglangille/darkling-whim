@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/haley-on-the-road/road-166543.jpg
   overlay_image: /assets/images/haley-on-the-road/road-166543.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - tension

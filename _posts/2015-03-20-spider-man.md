@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/spider-man/cobweb-449911_1280.jpg
   overlay_image: /assets/images/spider-man/cobweb-449911_1280.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - intimacy
   - wit

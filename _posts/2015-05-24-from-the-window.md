@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/from-the-window/IMG_0342.jpg
 excerpt: Elvis had left the building.
 revised: 2026-03-14
-tags: 
+tags:
   - grounded
   - kith-kin
   - wit

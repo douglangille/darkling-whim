@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/moby-on-the-beach/1196478322_fec1df88ce_b.jpg
   overlay_image: /assets/images/moby-on-the-beach/1196478322_fec1df88ce_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - intimacy
   - wit

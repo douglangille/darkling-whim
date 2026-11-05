@@ -1,7 +1,7 @@
 ---
-title: "Perfect Morning"
+title: Perfect Morning
 date: 2026-07-02
-excerpt: The back door sticks on humid mornings. 
+excerpt: The back door sticks on humid mornings.
 header:
   teaser: /assets/images/perfect-morning/feature.png
   overlay_image: /assets/images/perfect-morning/feature.png

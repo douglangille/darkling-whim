@@ -1,12 +1,12 @@
 ---
-title: "Eddie's Decision"
+title: Eddie's Decision
 date: 2014-07-28 08:00:00 -0400
-excerpt: '*No one fucks with Eddie.'
+excerpt: "*No one fucks with Eddie."
 header:
   teaser: /assets/images/eddies-decision/2659024416_ee3d2e1a87_b.jpg
   overlay_image: /assets/images/eddies-decision/2659024416_ee3d2e1a87_b.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - tension

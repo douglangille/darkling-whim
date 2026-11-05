@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/fortification/3928159274_ce53125700_whiskey-glass.jpg
   overlay_image: /assets/images/fortification/3928159274_ce53125700_whiskey-glass.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - tension

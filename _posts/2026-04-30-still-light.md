@@ -1,7 +1,7 @@
 ---
 title: Still Light
 excerpt: The morning started with Donnie eating toast over the sink the way he always did
-tags: 
+tags:
   - grounded
   - intimacy
   - melancholy

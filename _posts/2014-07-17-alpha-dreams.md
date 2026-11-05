@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/alpha-dreams/Pug_portrait.jpg
   overlay_image: /assets/images/alpha-dreams/Pug_portrait.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - kith-kin
   - melancholy

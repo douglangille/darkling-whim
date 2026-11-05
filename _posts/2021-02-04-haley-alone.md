@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/haley-alone/img_0014.jpg
   overlay_image: /assets/images/haley-alone/img_0014.jpg
 excerpt: Nothing but a trail of broken bone and rotten flesh.
-tags: 
+tags:
   - dark
   - solitude
   - melancholy

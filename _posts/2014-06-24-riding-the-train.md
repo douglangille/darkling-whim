@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/riding-the-train/subway_car_by_paupah.jpg
   overlay_image: /assets/images/riding-the-train/subway_car_by_paupah.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - intimacy
   - tension

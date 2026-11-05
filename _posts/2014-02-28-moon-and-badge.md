@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/moon-and-badge/7136114679_82420e7ff5_b.jpg
   overlay_image: /assets/images/moon-and-badge/7136114679_82420e7ff5_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - eerie

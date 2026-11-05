@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/flying-home/14870589051_81e9103ce2_b.jpg
   overlay_image: /assets/images/flying-home/14870589051_81e9103ce2_b.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - melancholy

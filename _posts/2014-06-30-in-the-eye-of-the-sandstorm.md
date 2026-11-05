@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/in-the-eye-of-the-sandstorm/Desert_Storm_by_Araken_Starway.jpg
   overlay_image: /assets/images/in-the-eye-of-the-sandstorm/Desert_Storm_by_Araken_Starway.jpg
 categories: []
-tags: 
+tags:
   - dark
   - kith-kin
   - melancholy

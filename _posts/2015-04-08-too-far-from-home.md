@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/too-far-from-home/target-659025.jpg
   overlay_image: /assets/images/too-far-from-home/target-659025.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - tension

@@ -5,7 +5,10 @@ header:
   teaser: /assets/images/someone-to-watch-over-me/feature.png
   overlay_image: /assets/images/someone-to-watch-over-me/feature.png
 excerpt: I check the Fire Finder. Bearings don't lie.
-tags: [grounded, solitude, tension]
+tags:
+  - grounded
+  - solitude
+  - tension
 feature: /assets/images/someone-to-watch-over-me/feature.png
 ---
 # Someone to Watch Over Me

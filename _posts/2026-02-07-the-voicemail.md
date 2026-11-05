@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/the-voicemail/feature.png
   teaser: /assets/images/the-voicemail/feature.png
 excerpt: Forever now. Somehow that made it matter less.
-tags: 
+tags:
   - grounded
   - solitude
   - melancholy

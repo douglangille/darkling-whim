@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/the-craftsman/Collecting-Knives.jpg
   overlay_image: /assets/images/the-craftsman/Collecting-Knives.jpg
 categories: []
-tags: 
+tags:
   - dark
   - solitude
   - tension

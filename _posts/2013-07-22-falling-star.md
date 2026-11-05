@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/falling-star/4949129334_4de1a73374_b_falling-star.jpg
   overlay_image: /assets/images/falling-star/4949129334_4de1a73374_b_falling-star.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - intimacy
   - melancholy

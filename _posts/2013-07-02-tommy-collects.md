@@ -5,7 +5,7 @@ excerpt: Tommy Andolini was a brute.
 header:
   teaser: /assets/images/tommy-collects/4298179061_d2402b6ded_b.jpg
   overlay_image: /assets/images/tommy-collects/4298179061_d2402b6ded_b.jpg
-tags: 
+tags:
   - grounded
   - kith-kin
   - wit

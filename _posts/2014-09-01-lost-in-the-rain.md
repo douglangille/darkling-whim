@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/lost-in-the-rain/Storm_Drain.jpg
   overlay_image: /assets/images/lost-in-the-rain/Storm_Drain.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - eerie

@@ -5,7 +5,10 @@ header:
   teaser: /assets/images/black-malibu/feature.png
   overlay_image: /assets/images/black-malibu/feature.png
 excerpt: It sat there in that row of cars like a hole in the light.
-tags: [grounded, kith-kin, tension]
+tags:
+  - grounded
+  - kith-kin
+  - tension
 feature: /assets/images/black-malibu/feature.png
 ---
 # Black Malibu

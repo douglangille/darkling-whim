@@ -5,7 +5,11 @@ header:
   teaser: /assets/images/late-night-snack/feature.png
   overlay_image: /assets/images/late-night-snack/feature.png
 excerpt: There's always a jar you shake too hard with people like you.
-tags: [grounded, intimacy, tension, wit]
+tags:
+  - grounded
+  - intimacy
+  - tension
+  - wit
 feature: /assets/images/late-night-snack/feature.png
 ---
 # Late Night Snack

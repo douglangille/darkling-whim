@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/barbecue-no-more/14407329792_5240b7ed7a_b.jpg
   overlay_image: /assets/images/barbecue-no-more/14407329792_5240b7ed7a_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - wit

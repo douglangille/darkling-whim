@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/knife-master/2961721210_c6f4b5bd6a_throwing-knife.jpg
   overlay_image: /assets/images/knife-master/2961721210_c6f4b5bd6a_throwing-knife.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - tension

@@ -1,13 +1,12 @@
 ---
 title: Buckethead
 date: 2015-05-13 08:00:00 -0400
-excerpt: Hop on the exam table, Mister Smith, and let's take a look at the carnage,
-  shall we?
+excerpt: Hop on the exam table, Mister Smith, and let's take a look at the carnage, shall we?
 header:
   teaser: /assets/images/buckethead/stethoscope-448614_1280.jpg
   overlay_image: /assets/images/buckethead/stethoscope-448614_1280.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - wit

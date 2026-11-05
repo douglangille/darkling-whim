@@ -6,8 +6,8 @@ header:
   teaser: /assets/images/stormy-night/3225059631_daa9ddfbcf_b_stormy-night.jpg
   overlay_image: /assets/images/stormy-night/3225059631_daa9ddfbcf_b_stormy-night.jpg
 category:
-- writings
-tags: 
+  - writings
+tags:
   - grounded
   - intimacy
   - eerie

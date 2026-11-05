@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/who-gardens-the-gardeners/pexels-photo-38136.jpeg
   overlay_image: /assets/images/who-gardens-the-gardeners/pexels-photo-38136.jpeg
 excerpt: It started as a joke, really. Betsy dared me.
-tags: 
+tags:
   - speculative
   - intimacy
   - eerie

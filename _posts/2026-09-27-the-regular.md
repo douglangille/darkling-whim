@@ -5,7 +5,10 @@ header:
   teaser: /assets/images/the-regular/feature.png
   overlay_image: /assets/images/the-regular/feature.png
 excerpt: Regulars don't order. Regulars are expected.
-tags: [speculative, intimacy, wit]
+tags:
+  - speculative
+  - intimacy
+  - wit
 feature: /assets/images/the-regular/feature.png
 ---
 # The Regular

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/winter-in-a-nutshell/4161390356_05ca3774fc_b.jpg
   overlay_image: /assets/images/winter-in-a-nutshell/4161390356_05ca3774fc_b.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - wit

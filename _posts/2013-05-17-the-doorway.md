@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/the-doorway/19413383176_76321090c1_b_doorway.jpg
   overlay_image: /assets/images/the-doorway/19413383176_76321090c1_b_doorway.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - melancholy

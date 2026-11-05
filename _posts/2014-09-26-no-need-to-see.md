@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/no-need-to-see/5416221717_35b9fcf7be_b.jpg
   teaser: /assets/images/no-need-to-see/5416221717_35b9fcf7be_b.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - wit

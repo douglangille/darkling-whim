@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/emerald-fire/4877453831_9016c0ac98_b.jpg
   overlay_image: /assets/images/emerald-fire/4877453831_9016c0ac98_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - eerie

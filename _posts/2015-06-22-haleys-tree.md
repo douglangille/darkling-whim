@@ -1,12 +1,12 @@
 ---
-title: "Haley's Tree"
+title: Haley's Tree
 date: 2015-06-22 08:00:00 -0400
 excerpt: A dense bluff of silver maples grew behind our house.
 header:
   teaser: /assets/images/haleys-tree/night-sky-685736.jpg
   overlay_image: /assets/images/haleys-tree/night-sky-685736.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - melancholy

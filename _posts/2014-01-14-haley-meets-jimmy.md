@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/haley-meets-jimmy/cd2aae9125f56d89_640_bar-beer.jpg
   overlay_image: /assets/images/haley-meets-jimmy/cd2aae9125f56d89_640_bar-beer.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - tension

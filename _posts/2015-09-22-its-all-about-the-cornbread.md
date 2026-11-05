@@ -1,13 +1,13 @@
 ---
-title: "It's All About the Cornbread"
+title: It's All About the Cornbread
 date: 2015-09-22 08:00:00 -0400
 excerpt: Ya see, us here wolves got a bad rap.
 header:
   teaser: /assets/images/its-all-about-the-cornbread/2205670531_8e595a7a0a_b.jpg
   overlay_image: /assets/images/its-all-about-the-cornbread/2205670531_8e595a7a0a_b.jpg
-  caption: '[Photo credit: tristanf](http://www.flickr.com/photos/89056504@N00/2205670531)'
+  caption: "[Photo credit: tristanf](http://www.flickr.com/photos/89056504@N00/2205670531)"
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - wit

@@ -1,11 +1,14 @@
 ---
 title: The Tenant
-date: 2026-09-15 
+date: 2026-09-15
 header:
   teaser: /assets/images/the-tenant/feature.png
   overlay_image: /assets/images/the-tenant/feature.png
-excerpt: "Don't be childish, little bright thing. I can make this so much worse."
-tags: [speculative, intimacy, eerie]
+excerpt: Don't be childish, little bright thing. I can make this so much worse.
+tags:
+  - speculative
+  - intimacy
+  - eerie
 feature: /assets/images/the-tenant/feature.png
 ---
 # The Tenant

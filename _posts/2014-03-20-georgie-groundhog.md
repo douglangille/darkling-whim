@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/georgie-groundhog/7420708952_0c90eb0fea_b.jpg
   overlay_image: /assets/images/georgie-groundhog/7420708952_0c90eb0fea_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - wit

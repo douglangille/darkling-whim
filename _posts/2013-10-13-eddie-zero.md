@@ -2,7 +2,7 @@
 title: Eddie Zero
 date: 2013-10-13
 excerpt: I didn't kill him.
-tags: 
+tags:
   - dark
   - kith-kin
   - tension

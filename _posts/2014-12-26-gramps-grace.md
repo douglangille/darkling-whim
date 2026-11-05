@@ -1,14 +1,12 @@
 ---
-title: "Gramp's Grace"
+title: Gramp's Grace
 date: 2014-12-26 08:00:00 -0400
-excerpt: I'm not a religious man, but sitting at head of the table where my grandfather
-  would have normally sit, I looked around to my rarely-assembled family, all eagerly
-  awaiting the feast.
+excerpt: I'm not a religious man, but sitting at head of the table where my grandfather would have normally sit, I looked around to my rarely-assembled family, all eagerly awaiting the feast.
 header:
   teaser: /assets/images/gramps-grace/3265179981_eb3397913f_dinner-grace.jpg
   overlay_image: /assets/images/gramps-grace/3265179981_eb3397913f_dinner-grace.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - kith-kin
   - melancholy

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/sunset-heat/end-of-the-day.jpg
   overlay_image: /assets/images/sunset-heat/end-of-the-day.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - melancholy

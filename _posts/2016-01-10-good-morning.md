@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/good-morning/breakfast-439058_640.jpg
   overlay_image: /assets/images/good-morning/breakfast-439058_640.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - wit

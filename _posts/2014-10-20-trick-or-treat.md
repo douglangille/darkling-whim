@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/trick-or-treat/ec3cb80a2af51c3e81584d04ee44408be273e7d119b3174792f8_640_baking.jpg
   teaser: /assets/images/trick-or-treat/ec3cb80a2af51c3e81584d04ee44408be273e7d119b3174792f8_640_baking.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - wit

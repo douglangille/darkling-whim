@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/confession/8683286803_197ea2417f_sea-siren.jpg
   overlay_image: /assets/images/confession/8683286803_197ea2417f_sea-siren.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - intimacy
   - melancholy

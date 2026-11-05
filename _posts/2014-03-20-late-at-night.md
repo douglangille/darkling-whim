@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/late-at-night/Hospital_by_sheisviolence.jpg
   overlay_image: /assets/images/late-at-night/Hospital_by_sheisviolence.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - melancholy

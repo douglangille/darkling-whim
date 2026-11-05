@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/bigtop-bulge/8019720146_bd87339614_b.jpg
   overlay_image: /assets/images/bigtop-bulge/8019720146_bd87339614_b.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - kith-kin
   - wit

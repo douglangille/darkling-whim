@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/the-last-mercy/feature.png
   overlay_image: /assets/images/the-last-mercy/feature.png
 excerpt: Three flowers, a knife, and the burden of knowing what mercy costs.
-tags: 
+tags:
   - speculative
   - intimacy
   - melancholy

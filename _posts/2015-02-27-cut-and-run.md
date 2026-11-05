@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/cut-and-run/sun-19814.jpg
   overlay_image: /assets/images/cut-and-run/sun-19814.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - kith-kin
   - tension

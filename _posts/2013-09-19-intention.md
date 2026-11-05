@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/intention/3445269852_bca2f85d3c_b-1.jpg
   overlay_image: /assets/images/intention/3445269852_bca2f85d3c_b-1.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - wit

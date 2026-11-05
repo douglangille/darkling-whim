@@ -1,12 +1,12 @@
 ---
-title: "Dana's Story"
+title: Dana's Story
 date: 2013-03-29 08:00:00 -0400
 excerpt: '"I have something to tell you", said Dana quietly, barely audible.'
 header:
   teaser: /assets/images/danas-story/63224608_b2dd0efea4_b_campfire.jpg
   overlay_image: /assets/images/danas-story/63224608_b2dd0efea4_b_campfire.jpg
 categories: []
-tags: 
+tags:
   - dark
   - kith-kin
   - tension

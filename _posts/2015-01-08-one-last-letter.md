@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/one-last-letter/nj-321381.jpg
   overlay_image: /assets/images/one-last-letter/nj-321381.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - melancholy

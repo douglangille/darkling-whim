@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/good-boy-jake/32221740_530a3d192c_b.jpg
   overlay_image: /assets/images/good-boy-jake/32221740_530a3d192c_b.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - wit

@@ -1,13 +1,12 @@
 ---
 title: Haley Into Darkness
 date: 2014-10-31 08:00:00 -0400
-excerpt: We huddled in the dark closet for what seemed like forever, our hearts pounding
-  in our chests.
+excerpt: We huddled in the dark closet for what seemed like forever, our hearts pounding in our chests.
 header:
   teaser: /assets/images/haley-into-darkness/5e4b3b460f6e1ab4_640_closet.jpg
   overlay_image: /assets/images/haley-into-darkness/5e4b3b460f6e1ab4_640_closet.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - tension

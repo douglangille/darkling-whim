@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/on-the-crest-of-the-storm/a1bc99068ab8b46b_1280_lightning.jpg
   overlay_image: /assets/images/on-the-crest-of-the-storm/a1bc99068ab8b46b_1280_lightning.jpg
 categories: []
-tags: 
+tags:
   - dark
   - solitude
   - tension

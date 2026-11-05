@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/the-sentinel/20140313-090105.jpg
   overlay_image: /assets/images/the-sentinel/20140313-090105.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - kith-kin
   - eerie

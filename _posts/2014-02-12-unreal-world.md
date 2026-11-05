@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/unreal-world/holding_hands_by_xperianceART.jpg
   overlay_image: /assets/images/unreal-world/holding_hands_by_xperianceART.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - melancholy

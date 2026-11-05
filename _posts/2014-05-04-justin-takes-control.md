@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/justin-takes-control/redlight_district_by_neuro_riviera-d2zmr1z.jpg
   overlay_image: /assets/images/justin-takes-control/redlight_district_by_neuro_riviera-d2zmr1z.jpg
 categories: []
-tags: 
+tags:
   - grounded
   - intimacy
   - wit

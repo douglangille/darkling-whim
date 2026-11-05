@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/the-apprentice/8362770480_565fda5a56_b.jpg
   overlay_image: /assets/images/the-apprentice/8362770480_565fda5a56_b.jpg
 categories: []
-tags: 
+tags:
   - dark
   - solitude
   - eerie

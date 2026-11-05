@@ -5,7 +5,11 @@ header:
   teaser: /assets/images/doesnt-matter/feature.png
   overlay_image: /assets/images/doesnt-matter/feature.png
 excerpt: The good kind of quick, if there's a good kind.
-tags: [dark, kith-kin, melancholy, haley]
+tags:
+  - dark
+  - kith-kin
+  - melancholy
+  - haley
 feature: /assets/images/doesnt-matter/feature.png
 ---
 # Doesn't Matter

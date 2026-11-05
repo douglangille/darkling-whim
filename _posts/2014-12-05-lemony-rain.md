@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/lemony-rain/lemon-364274.jpg
   overlay_image: /assets/images/lemony-rain/lemon-364274.jpg
 categories: []
-tags: 
+tags:
   - speculative
   - solitude
   - wit

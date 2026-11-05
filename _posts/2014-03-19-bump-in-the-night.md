@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/bump-in-the-night/4125927607_0aa78d3a4f_b.jpg
   overlay_image: /assets/images/bump-in-the-night/4125927607_0aa78d3a4f_b.jpg
 categories: []
-tags: 
+tags:
   - dark
   - solitude
   - eerie

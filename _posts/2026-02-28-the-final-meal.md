@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/the-final-meal/feature.png
   teaser: /assets/images/the-final-meal/feature.png
 excerpt: The room is cold. A hospital cold that lives in the walls.
-tags: 
+tags:
   - grounded
   - intimacy
   - melancholy

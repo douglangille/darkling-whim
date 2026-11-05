@@ -3,7 +3,7 @@ title: The Good and the Bad
 date: 2015-11-14 08:00:00 -0400
 excerpt: I relish the fine minutia of perfection.
 categories: []
-tags: 
+tags:
   - grounded
   - solitude
   - eerie

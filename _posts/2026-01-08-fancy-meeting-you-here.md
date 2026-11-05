@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/fancy-meeting-you-here/feature.png
   overlay_image: /assets/images/fancy-meeting-you-here/feature.png
 excerpt: Vanilla musk. She never changes.
-tags: 
+tags:
   - grounded
   - intimacy
   - tension
