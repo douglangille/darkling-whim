@@ -19,7 +19,7 @@ Sched. per N. Bellamy:
 9:30 H. Deep  
 2:00 O. Starr  
 4:15 V. Null  
-5:30 \_\_\_\_\_\_\_\_
+5:30 _________
 
 Score: Front / Patter / Close / Would I Buy. Five each. Twenty's a miracle. I've given one.
 

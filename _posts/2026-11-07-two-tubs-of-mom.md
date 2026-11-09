@@ -15,7 +15,7 @@ tags:
 
 "Medium double double."
 
-Jamie was leaning out the driver's window to the ribs because she'd stopped too far from the speaker, her left hand in a deathgrip on the wheel and her right gesturing wildly.
+Jamie was leaning out the driver's window to the ribs because she'd stopped too far from the speaker, her left-hand in a death grip on the wheel and her right gesturing wildly.
 
 "And a, David? What the frig did you want?"
 
@@ -125,7 +125,7 @@ He kept busily nursing the latte. She barely dented hers.
 
 "Well, great. I'll tell the funeral home it's in you."
 
-"Don't be a smartass."
+"Don't be a smart ass."
 
 "I'm the oldest. It's my job."
 
@@ -157,7 +157,7 @@ Marie, five-foot-nothing, one hand on the kitchen counter and the other holding 
 
 *The dead are gone.* The dead were fine. Mom was fine and probably not rooting for the Mira River or a bench under a maple.
 
-And if you put it to her? She'd have said fine, Jamie, have it your way. She always did. From the Halloween Jamie was nine and wanted a different costume an hour before trick-or-treat, right through to the co-signing on Jamie's first condo. Jamie got the front seat on the drive to the Valley every summer, Jamie got the window bed, Jamie got the last of the good shortbread cookies. Mom would've handed her this too, with a tired look and a drink in hand. David never once held it against her.
+And if you put it to her? She'd have said fine, Jamie, have it your way. She always did. From the Halloween Jamie was nine and wanted a different costume an hour before trick-or-treat, right through to the cosigning on Jamie's first condo. Jamie got the front seat on the drive to the Valley every summer, Jamie got the window bed, Jamie got the last of the good shortbread cookies. Mom would've handed her this too, with a tired look and a drink in hand. David never once held it against her.
 
 Well, okay. He held it against her a little.
 
@@ -172,6 +172,7 @@ David laughed. Once, out his nose. Jamie didn't wake up.
 "Jesus," he said, very quietly.
 
 "Shit," he said, to nobody.
+
 
 The rain eased and he grabbed the two containers and got out of the car quietly. Then he set them on the hood and stared at them, willing his mother to speak.
 

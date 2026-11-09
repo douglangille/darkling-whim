@@ -39,7 +39,7 @@ Nine point five seconds left on the lock. I feed the last digit through. The doo
 
 "Your scanner reads what's here." Amy moves past me for the ledger, already reaching. "Not who's about to be."
 
-The circuit spikes before the grille finishes opening. Point six seconds. Odorless, colorless, calibrated to organic nervous systems. My hand is still in the panel when I read it. I am not organic.
+The circuit spikes before the grille finishes opening. Point six seconds. Odourless, colourless, calibrated to organic nervous systems. My hand is still in the panel when I read it. I am not organic.
 
 "Amy." My voice doesn't change. There is no version of me built to let it.
 
@@ -59,7 +59,7 @@ I choose them both.
 
 One arm under Amy, one under Tim, the ledger wedged against my hip because leaving it would mean none of this bought anything. The load transfers wrong at first, then right. I do not go down.
 
-Tim's eyes are open when I lift him. Barely tracking, pupils blown, but open, and pointed at my face, not my arms. Whatever he finds there isn't mine to choose. I am watching the color leave Amy's jaw, the slack starting at the corner of her mouth, and for however long that lasts I am not cataloguing it, not filing it anywhere. I am machine, moving fast, and something in me that isn't machine at all would like both of them to keep existing.
+Tim's eyes are open when I lift him. Barely tracking, pupils blown, but open, and pointed at my face, not my arms. Whatever he finds there isn't mine to choose. I am watching the colour leave Amy's jaw, the slack starting at the corner of her mouth, and for however long that lasts I am not cataloguing it, not filing it anywhere. I am machine, moving fast, and something in me that isn't machine at all would like both of them to keep existing.
 
 "You're afraid--" he starts.
 
