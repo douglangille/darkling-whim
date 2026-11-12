@@ -16,7 +16,7 @@ feature: /assets/images/a-hole-in-the-plan/e035b40d2bf11c3e81584d04ee44408be273e
 
 The blade of the shovel rang loudly as it hit rock again. Dale winced. Sound carried far in the night. There was too much noise for one evening already. He stopped and took a break. Digging was hard work. Mallory's ears perked up at some unseen movement in the bluff. The collie uttered a quiet woof of excitement.
 
-"Shush, girl. We'll go inside in a bit." Dale bent over and scrubbed her behind the ears as he held his balance with the shovel. Christ, it was quiet. The dog sat back on her haunchs and resumed guard duty.
+"Shush, girl. We'll go inside in a bit." Dale bent over and scrubbed her behind the ears as he held his balance with the shovel. Christ, it was quiet. The dog sat back on her haunches and resumed guard duty.
 
 It took him another hour to get a suitable hole dug. A small pile of rocks sat apart from the dirt. Dale cursed every one of them but was thankful for their utility.
 
@@ -30,7 +30,7 @@ The lucky stones made a nice layer of discouragement to the local wildlife looki
 
 A light rain began to fall. This made Dale very happy indeed, and he spared a thin smile. Mallory whined a bit and nudged her master's hand. "Okay, okay. Time for bed, Mallie. Let's go."
 
-Sleep came easy in his favorite chair with a tumbler of dark rich rum warming his belly. Jessica hated the ratty old chair. Dale was certain she'd not appreciate his choice of celebration, a Cuban honeymoon souvenir saved for a special occasion. He could think of no time more fitting. Bitch.
+Sleep came easy in his favourite chair with a tumbler of dark rich rum warming his belly. Jessica hated the ratty old chair. Dale was certain she'd not appreciate his choice of celebration, a Cuban honeymoon souvenir saved for a special occasion. He could think of no time more fitting. Bitch.
 
 Dale was startled by Mallory's frantic barking. "Jesus, Mallie!" he said as he looked at the clock. "It's midnight." The dog's tail was wagging so excitedly that her whole arse-end swayed. She had her front paws on the window sill and barked her greeting to the outside.
 

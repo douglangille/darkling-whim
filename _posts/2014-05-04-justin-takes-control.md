@@ -30,7 +30,7 @@ Ava turned around, reached up and patted the cheek of her trusty henchman.
 
 Tiny snickered and the two went inside.
 
-A few blocks away, Justin let the dawn breeze cool him as he sped down the boulevard in his open-topped Roadster. All told, it measured as a fruitful evening in service of The Public Good. Sector long suspected the lovely Ms. Ava of peddling more than bodies and blow. Three of their best agents found themselves on the wrong side of the harbor. In a mere handful of hours, Justin achieved more than Sector had in two years.
+A few blocks away, Justin let the dawn breeze cool him as he sped down the boulevard in his open-topped Roadster. All told, it measured as a fruitful evening in service of The Public Good. Sector long suspected the lovely Ms. Ava of peddling more than bodies and blow. Three of their best agents found themselves on the wrong side of the harbour. In a mere handful of hours, Justin achieved more than Sector had in two years.
 
 He'd been cooling his heels at the tables in Nice when he got the call from Control herself. Probationary reinstatement. Short-stacked and bored, he readily accepted the assignment. After all, he was a 'Man of Action'.
 
@@ -42,7 +42,7 @@ Morning traffic forced him to slow to a crawl. The air turned warm as the sun ro
 
 The first thought flashing through his addled mind was of remorse for the damage of two fine automobiles. The second was that he recognized the Jag immediately.
 
-A few hours later, Justin sat alone in a familiar office awaiting judgement. The Narcan did its job easing his symptoms, but the jittering remained. This was more message than lethal intent.
+A few hours later, Justin sat alone in a familiar office awaiting judgment. The Narcan did its job easing his symptoms, but the jittering remained. This was more message than lethal intent.
 
 "Good day, Mister Cayse," came a stern voice. The woman behind it closed her heavy door audibly yet restrained.
 
@@ -106,7 +106,7 @@ Justin straightened and regarded his handler. "Seems to me, Control, that you ha
 
 With a little fortification on board, she regained her composure. "No conflict, just extra motivation. Two birds with one stone, and all that." Control resumed her position against the desk, legs crossed at the ankle. With her hands behind her again, she presented a formidable contradiction in assertive sexuality. "What do you want, Justin? I'm not sleeping with you."
 
-He shook his head. Another time perhaps. There will be another time. "I gave up that pursuit long ago. Consider this a favor, Control. All I ask is for fresh wheels and a little latitude."
+He shook his head. Another time perhaps. There will be another time. "I gave up that pursuit long ago. Consider this a favour, Control. All I ask is for fresh wheels and a little latitude."
 
 She raised an eyebrow and allowed herself a thin smile. "Latitude?"
 

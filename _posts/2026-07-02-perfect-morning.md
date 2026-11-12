@@ -69,7 +69,7 @@ The seal opens.
 
 The sound comes first.
 
-Not silence. The opposite. A dense, layered noise: clicks and wet rhythms and something low that isn't quite sound, that he registers in his back teeth more than his ears. The air is wrong: rot and the taste of a filling in a dying tooth, but cold, nothing alive underneath it.
+A dense, layered noise: clicks and wet rhythms and something low that isn't quite sound, that he registers in his back teeth more than his ears. The air is wrong: rot and the taste of a filling in a dying tooth, but cold, nothing alive underneath it.
 
 He steps out.
 
