@@ -11,13 +11,13 @@ Doug Langille writes dark speculative fiction with teeth.
 
 ## The Work
 
-Stories at the intersection of cosmic horror, dark fantasy, and psychological unease. Flash fiction serves as the creative workout—short, sharp pieces exploring character under pressure, worlds slightly off-kilter, and the strange made stranger.
+Stories at the intersection of cosmic horror, dark fantasy, and psychological unease. Flash fiction serves as the creative workout. Short, sharp pieces exploring character under pressure, worlds slightly off-kilter, and the strange made stranger.
 
 ## The Approach
 
-Stories are built through collaboration between human vision and AI assistance. I design the structure, generate the creative direction, and own every word through extensive voice revision. AI handles mechanical drafting based on my story bibles and frameworks, then I tear through it, making it mine.
+Stories are built through collaboration between human vision and AI assistance. I design the structure, generate the creative direction, and dictate the prose. AI works with me on either end of that, with the ideation and the planning and organizing first, and the copy and line editing after. The messy, lumpy human prose stays mine.
 
-Every sentence published here reflects my authorial decisions, distinctive voice, and creative control. The process serves the work, not romantic notions of solitary genius or some bullshit purity test.
+The creative decisions are mine, and so is the prose as I write it now. The process serves the work, not romantic notions of solitary genius or some bullshit purity test.
 
 AI keeps me moving through the mechanical phases where I'd otherwise stall out and lose my goddamned mind. It maintains structure and momentum so I can focus creative energy where it matters: voice, emotional truth, craft decisions. A finished story that connects with readers beats seventeen thousand half-cooked ideas and shitty abandoned drafts.
 

@@ -15,8 +15,11 @@ This Jekyll site uses the [Minimal Mistakes](https://mmistakes.github.io/minimal
 ## Site Structure
 
 - **Stories & Poems** (`_posts/`): Fiction and poetry organized by publication date
-- **About** (`_pages/about.md`): Author bio and writing philosophy
-- **Now** (`_pages/now.md`): Current creative projects and reading list
+- **About** (`_pages/profile/about.md`): Author bio and writing philosophy
+- **Now** (`_pages/profile/now.md`): Current creative projects and reading list
+- **AI** (`_pages/profile/ai.md`): How AI is used in the writing process
+
+The About, Now and AI pages are maintained in the forge vault (`writing/darkling-whim/pages/`) and overwritten by its deploy, which replaces `_pages/profile/` each time. Edit them there, not here.
 - **Assets** (`assets/`): Images, CSS customizations, and other media
 
 ## The Haley-verse
@@ -76,9 +79,7 @@ Your story content here.
 
 ### Managing Pages
 
-Edit files in `_pages/` to update static content:
-- `about.md` - Author bio and writing philosophy (rarely changes)
-- `now.md` - Current projects and reading list (update regularly)
+Edit other files in `_pages/` to update static content. The About, Now and AI pages are in `_pages/profile/` and come from the forge vault (see above), so edit them there.
 
 ## Configuration
 
