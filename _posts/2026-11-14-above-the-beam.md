@@ -133,7 +133,7 @@ The voice from above says, "Look, I can't listen to that, okay? I just can't. I 
 
 "Yeah, something like that. My name's Chelsea."
 
-Owen stands up, stretches his arms above his head, and cricks his back and tosses the rope onto the workbench. Time for that later, he thinks, and then out loud to the voice above, "Good to meet you, Chelsea. When do you last eat?"
+Owen stands up, stretches his arms above his head, and cricks his back and tosses the rope onto the workbench. Time for that later, he thinks, and then out loud to the voice above, "Good to meet you, Chelsea. When did you last eat?"
 
 She doesn't answer. Owen tucks the stool in underneath the workbench and heads to the man-door.
 
