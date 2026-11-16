@@ -32,7 +32,7 @@ I'm not under any particular deadline for any of this. I'm just happy to be writ
 
 Two archives for craft study right now:
 
-- **Jack Whyte's *Dream of Eagles* series** – Rereading the complete cycle from the very start, for scope and multi-book character development. I'm partway through *The Skystone* and enjoying the reread
+- **Jack Whyte's *Dream of Eagles* series** – Rereading the complete cycle from the very start, for scope and multi-book character development. I'm partway through *The Skystone* and enjoying the reread ([my 2013 reader's guide](https://digital.douglangille.ca/essential-jack-whyte/))
 - **Robert Service's collected poetry** – Studying rhythm and narrative power in verse (from my grandfather's copy). I'm always looking at it
 
 ## Tech Side Projects
