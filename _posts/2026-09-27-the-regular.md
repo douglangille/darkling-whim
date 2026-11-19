@@ -10,6 +10,7 @@ tags:
   - intimacy
   - wit
 feature: /assets/images/the-regular/feature.png
+image_alt: "A coffee mug and a few coins sit on a worn diner counter at night, with the front door's CLOSED sign glowing red in the rain and a faint red light in the dark at the back."
 ---
 # The Regular
 
